@@ -1,0 +1,572 @@
+[
+  {
+    "number": "1",
+    "name": "Collector's Cage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/3/a33703bb-51c0-4d57-9d06-1148507ddc4f.jpg?1739804143",
+    "link": "https://gatherer.wizards.com/BIG/en-us/1/collector's-cage"
+  },
+  {
+    "number": "2",
+    "name": "Grand Abolisher",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/e/ee793ed2-7d59-4640-8868-ad486600df2c.jpg?1739804149",
+    "link": "https://gatherer.wizards.com/BIG/en-us/2/grand-abolisher"
+  },
+  {
+    "number": "3",
+    "name": "Oltec Matterweaver",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/4/f4f2a818-9fd1-41db-967e-7d2c9b4e4c2f.jpg?1739804152",
+    "link": "https://gatherer.wizards.com/BIG/en-us/3/oltec-matterweaver"
+  },
+  {
+    "number": "4",
+    "name": "Rest in Peace",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/1/d108c2b1-236e-4b8d-8445-d9749ccc4fea.jpg?1739804156",
+    "link": "https://gatherer.wizards.com/BIG/en-us/4/rest-in-peace"
+  },
+  {
+    "number": "5",
+    "name": "Esoteric Duplicator",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/d/3dbb2755-97d9-492e-8697-5548160678c8.jpg?1739804161",
+    "link": "https://gatherer.wizards.com/BIG/en-us/5/esoteric-duplicator"
+  },
+  {
+    "number": "6",
+    "name": "Simulacrum Synthesizer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/a/aaa05ad1-5cda-4edd-b6bf-562ae3e5011a.jpg?1739804163",
+    "link": "https://gatherer.wizards.com/BIG/en-us/6/simulacrum-synthesizer"
+  },
+  {
+    "number": "7",
+    "name": "Worldwalker Helm",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/7/b74ad496-05bc-4c5a-9027-b14df9c387ab.jpg?1739804167",
+    "link": "https://gatherer.wizards.com/BIG/en-us/7/worldwalker-helm"
+  },
+  {
+    "number": "8",
+    "name": "Greed's Gambit",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/b/5b60a1a6-b2ca-4dc2-a6d9-eff97092079a.jpg?1739804170",
+    "link": "https://gatherer.wizards.com/BIG/en-us/8/greed's-gambit"
+  },
+  {
+    "number": "9",
+    "name": "Harvester of Misery",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/3/a3012af9-621d-4fae-b00d-079a89ae35fe.jpg?1739804174",
+    "link": "https://gatherer.wizards.com/BIG/en-us/9/harvester-of-misery"
+  },
+  {
+    "number": "10",
+    "name": "Hostile Investigator",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/5/158c000e-7960-4518-b034-a529622b7bf1.jpg?1739804181",
+    "link": "https://gatherer.wizards.com/BIG/en-us/10/hostile-investigator"
+  },
+  {
+    "number": "11",
+    "name": "Generous Plunderer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/c/4c6cf93a-d073-48ac-88db-c46bf3e10beb.jpg?1739804185",
+    "link": "https://gatherer.wizards.com/BIG/en-us/11/generous-plunderer"
+  },
+  {
+    "number": "12",
+    "name": "Legion Extruder",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/a/5a077de0-1893-40d0-a499-ee2e6e2258f1.jpg?1739804188",
+    "link": "https://gatherer.wizards.com/BIG/en-us/12/legion-extruder"
+  },
+  {
+    "number": "13",
+    "name": "Memory Vessel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/e/2e37a5cd-887d-4b41-97f7-ae0bba85436b.jpg?1739804192",
+    "link": "https://gatherer.wizards.com/BIG/en-us/13/memory-vessel"
+  },
+  {
+    "number": "14",
+    "name": "Molten Duplication",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/d/fdbe1ac1-461f-4746-a8d8-6c8dea2c97c6.jpg?1739804204",
+    "link": "https://gatherer.wizards.com/BIG/en-us/14/molten-duplication"
+  },
+  {
+    "number": "15",
+    "name": "Territory Forge",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/1/71059bc8-f63a-4d9c-9d08-2e995e74cc59.jpg?1739804200",
+    "link": "https://gatherer.wizards.com/BIG/en-us/15/territory-forge"
+  },
+  {
+    "number": "16",
+    "name": "Ancient Cornucopia",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/9/f977975d-0439-4731-b129-270cc4cdbb23.jpg?1739804204",
+    "link": "https://gatherer.wizards.com/BIG/en-us/16/ancient-cornucopia"
+  },
+  {
+    "number": "17",
+    "name": "Bristlebud Farmer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/4/d498c4de-5e80-4baa-9fcb-70f164880c84.jpg?1739804206",
+    "link": "https://gatherer.wizards.com/BIG/en-us/17/bristlebud-farmer"
+  },
+  {
+    "number": "18",
+    "name": "Omenpath Journey",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/4/c49c9b72-61c0-4e3a-a3a6-994b149398a9.jpg?1739804210",
+    "link": "https://gatherer.wizards.com/BIG/en-us/18/omenpath-journey"
+  },
+  {
+    "number": "19",
+    "name": "Sandstorm Salvager",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/3/13b0f27c-a359-4702-833a-82fec161eeec.jpg?1739804214",
+    "link": "https://gatherer.wizards.com/BIG/en-us/19/sandstorm-salvager"
+  },
+  {
+    "number": "20",
+    "name": "Vaultborn Tyrant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/2/62b3f560-262b-4bc3-9aef-535fd7082c28.jpg?1739804217",
+    "link": "https://gatherer.wizards.com/BIG/en-us/20/vaultborn-tyrant"
+  },
+  {
+    "number": "21",
+    "name": "Loot, the Key to Everything",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/b/fb169fa2-c92e-45f7-89a2-0ca0e3910a1c.jpg?1739804220",
+    "link": "https://gatherer.wizards.com/BIG/en-us/21/loot-the-key-to-everything"
+  },
+  {
+    "number": "22",
+    "name": "Pest Control",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/4/a4a01b92-dafb-4ea6-8eff-29f881f6be24.jpg?1739804223",
+    "link": "https://gatherer.wizards.com/BIG/en-us/22/pest-control"
+  },
+  {
+    "number": "23",
+    "name": "Lost Jitte",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/9/c936504c-4e90-408f-ba98-0fb8c0378471.jpg?1739804226",
+    "link": "https://gatherer.wizards.com/BIG/en-us/23/lost-jitte"
+  },
+  {
+    "number": "24",
+    "name": "Lotus Ring",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/2/02267717-66e0-41f7-8009-75586a4aa4be.jpg?1739804230",
+    "link": "https://gatherer.wizards.com/BIG/en-us/24/lotus-ring"
+  },
+  {
+    "number": "25",
+    "name": "Nexus of Becoming",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/0/b0f61742-522c-4b36-97db-41d0c412a072.jpg?1739804233",
+    "link": "https://gatherer.wizards.com/BIG/en-us/25/nexus-of-becoming"
+  },
+  {
+    "number": "26",
+    "name": "Sword of Wealth and Power",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/d/ed9e5041-3c05-4a8a-9f00-081b01685d0c.jpg?1739804236",
+    "link": "https://gatherer.wizards.com/BIG/en-us/26/sword-of-wealth-and-power"
+  },
+  {
+    "number": "27",
+    "name": "Torpor Orb",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/b/dbf02a38-d10d-463e-ab99-e7fd848a1bd3.jpg?1739804239",
+    "link": "https://gatherer.wizards.com/BIG/en-us/27/torpor-orb"
+  },
+  {
+    "number": "28",
+    "name": "Transmutation Font",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/6/e6cfe673-d688-499a-882b-4fe5418739e3.jpg?1739804242",
+    "link": "https://gatherer.wizards.com/BIG/en-us/28/transmutation-font"
+  },
+  {
+    "number": "29",
+    "name": "Fomori Vault",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/5/a5433b98-4657-4bbe-9e72-d3c94c6aa8ef.jpg?1739804247",
+    "link": "https://gatherer.wizards.com/BIG/en-us/29/fomori-vault"
+  },
+  {
+    "number": "30",
+    "name": "Tarnation Vista",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/6/962552a1-ec34-49e2-a23d-85dfb405d5e0.jpg?1739804252",
+    "link": "https://gatherer.wizards.com/BIG/en-us/30/tarnation-vista"
+  },
+  {
+    "number": "31",
+    "name": "Collector's Cage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/3/8391dbb8-3c8d-42c3-892b-b85e40bb28e0.jpg?1712353006",
+    "link": "https://gatherer.wizards.com/BIG/en-us/31/collector's-cage"
+  },
+  {
+    "number": "32",
+    "name": "Grand Abolisher",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/3/03304c72-fe8e-42af-96ae-1e64ba0105b3.jpg?1712353017",
+    "link": "https://gatherer.wizards.com/BIG/en-us/32/grand-abolisher"
+  },
+  {
+    "number": "33",
+    "name": "Oltec Matterweaver",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/e/9e068335-92f9-4ebd-bb00-f4ff741e3d7d.jpg?1712353027",
+    "link": "https://gatherer.wizards.com/BIG/en-us/33/oltec-matterweaver"
+  },
+  {
+    "number": "34",
+    "name": "Rest in Peace",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/b/ab6ef698-caad-47cd-ba35-41be64a58c99.jpg?1712353039",
+    "link": "https://gatherer.wizards.com/BIG/en-us/34/rest-in-peace"
+  },
+  {
+    "number": "35",
+    "name": "Esoteric Duplicator",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/4/94b4b7ac-d45a-4ce9-97b4-35789df8a162.jpg?1712353049",
+    "link": "https://gatherer.wizards.com/BIG/en-us/35/esoteric-duplicator"
+  },
+  {
+    "number": "36",
+    "name": "Simulacrum Synthesizer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/8/28a11489-11c5-4018-aab8-c9d036638414.jpg?1712353060",
+    "link": "https://gatherer.wizards.com/BIG/en-us/36/simulacrum-synthesizer"
+  },
+  {
+    "number": "37",
+    "name": "Worldwalker Helm",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/a/8abd5601-c8b4-4ac8-aab0-be5c7b3aaf56.jpg?1712353070",
+    "link": "https://gatherer.wizards.com/BIG/en-us/37/worldwalker-helm"
+  },
+  {
+    "number": "38",
+    "name": "Greed's Gambit",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/2/12cb3add-c39c-4124-a028-87333aab0929.jpg?1712353080",
+    "link": "https://gatherer.wizards.com/BIG/en-us/38/greed's-gambit"
+  },
+  {
+    "number": "39",
+    "name": "Harvester of Misery",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/1/d1e81c9e-02f4-4c18-9326-127e08c9b47f.jpg?1712353091",
+    "link": "https://gatherer.wizards.com/BIG/en-us/39/harvester-of-misery"
+  },
+  {
+    "number": "40",
+    "name": "Hostile Investigator",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/6/b6cd1d1b-dbde-4a2c-94ed-58395867799c.jpg?1712353102",
+    "link": "https://gatherer.wizards.com/BIG/en-us/40/hostile-investigator"
+  },
+  {
+    "number": "41",
+    "name": "Generous Plunderer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/5/351eea06-f5be-4044-b3b3-cc6bf805abb1.jpg?1712353113",
+    "link": "https://gatherer.wizards.com/BIG/en-us/41/generous-plunderer"
+  },
+  {
+    "number": "42",
+    "name": "Legion Extruder",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/1/f1d67fd7-30c8-4cd7-ab1a-97225b9c9437.jpg?1712353124",
+    "link": "https://gatherer.wizards.com/BIG/en-us/42/legion-extruder"
+  },
+  {
+    "number": "43",
+    "name": "Memory Vessel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/b/db47f1bc-7f50-493f-bb3f-c1285cbaf244.jpg?1712353134",
+    "link": "https://gatherer.wizards.com/BIG/en-us/43/memory-vessel"
+  },
+  {
+    "number": "44",
+    "name": "Molten Duplication",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/d/ad4ba0c9-ec77-4406-a62a-82a550791e61.jpg?1712353144",
+    "link": "https://gatherer.wizards.com/BIG/en-us/44/molten-duplication"
+  },
+  {
+    "number": "45",
+    "name": "Territory Forge",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/6/16cd6bde-29ec-4de2-b369-bb3e1d2714d9.jpg?1712353150",
+    "link": "https://gatherer.wizards.com/BIG/en-us/45/territory-forge"
+  },
+  {
+    "number": "46",
+    "name": "Ancient Cornucopia",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/f/2f23dffc-c76b-4f01-98c2-67dae3b3114b.jpg?1712353152",
+    "link": "https://gatherer.wizards.com/BIG/en-us/46/ancient-cornucopia"
+  },
+  {
+    "number": "47",
+    "name": "Bristlebud Farmer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/1/713be7b8-e73f-4ed1-8a14-cc1c144e844e.jpg?1712353160",
+    "link": "https://gatherer.wizards.com/BIG/en-us/47/bristlebud-farmer"
+  },
+  {
+    "number": "48",
+    "name": "Omenpath Journey",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/8/385e6c23-0eab-4bc9-8b30-524879051ce9.jpg?1712353161",
+    "link": "https://gatherer.wizards.com/BIG/en-us/48/omenpath-journey"
+  },
+  {
+    "number": "49",
+    "name": "Sandstorm Salvager",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/2/82613173-2892-47d7-8a09-2102f2f0965f.jpg?1739555701",
+    "link": "https://gatherer.wizards.com/BIG/en-us/49/sandstorm-salvager"
+  },
+  {
+    "number": "50",
+    "name": "Vaultborn Tyrant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/1/c1f0544c-0124-497c-a8f1-5d5fb959ca39.jpg?1712353169",
+    "link": "https://gatherer.wizards.com/BIG/en-us/50/vaultborn-tyrant"
+  },
+  {
+    "number": "51",
+    "name": "Loot, the Key to Everything",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/3/a3db1928-86f2-4606-ad2d-4b7dfd7e5d6b.jpg?1712353177",
+    "link": "https://gatherer.wizards.com/BIG/en-us/51/loot-the-key-to-everything"
+  },
+  {
+    "number": "52",
+    "name": "Pest Control",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/d/8d67c7fb-043f-4984-a700-5e8aa44c90aa.jpg?1712353177",
+    "link": "https://gatherer.wizards.com/BIG/en-us/52/pest-control"
+  },
+  {
+    "number": "53",
+    "name": "Lost Jitte",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dc679a0e-bf7b-40b5-b904-9c2d3508fa83.jpg?1712353185",
+    "link": "https://gatherer.wizards.com/BIG/en-us/53/lost-jitte"
+  },
+  {
+    "number": "54",
+    "name": "Lotus Ring",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/0/d0fb925a-5845-4d73-8122-6e7a36a9bd0d.jpg?1712353185",
+    "link": "https://gatherer.wizards.com/BIG/en-us/54/lotus-ring"
+  },
+  {
+    "number": "55",
+    "name": "Nexus of Becoming",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/3/f329b59c-1c1d-4a0a-89b4-c3fc4a8074bc.jpg?1712353193",
+    "link": "https://gatherer.wizards.com/BIG/en-us/55/nexus-of-becoming"
+  },
+  {
+    "number": "56",
+    "name": "Sword of Wealth and Power",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/a/aaf08dd1-3d35-4842-807d-37f94b9ba578.jpg?1712353194",
+    "link": "https://gatherer.wizards.com/BIG/en-us/56/sword-of-wealth-and-power"
+  },
+  {
+    "number": "57",
+    "name": "Torpor Orb",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/4/84dc2948-f185-4c3f-b80e-2bc8f47825c9.jpg?1712353202",
+    "link": "https://gatherer.wizards.com/BIG/en-us/57/torpor-orb"
+  },
+  {
+    "number": "58",
+    "name": "Transmutation Font",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/2/7227906c-043b-4742-8141-694f7811dc06.jpg?1712353203",
+    "link": "https://gatherer.wizards.com/BIG/en-us/58/transmutation-font"
+  },
+  {
+    "number": "59",
+    "name": "Fomori Vault",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/d/ad282dc0-6310-47ab-99cd-90f34168bd27.jpg?1712353211",
+    "link": "https://gatherer.wizards.com/BIG/en-us/59/fomori-vault"
+  },
+  {
+    "number": "60",
+    "name": "Tarnation Vista",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/d/ad49fd74-db70-49c0-8ad9-1185e2b0787d.jpg?1712353213",
+    "link": "https://gatherer.wizards.com/BIG/en-us/60/tarnation-vista"
+  },
+  {
+    "number": "61",
+    "name": "Vaultborn Tyrant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/b/0ba9e2cc-e0a3-4c5a-9ca0-f683ff8b5c94.jpg?1733911302",
+    "link": "https://gatherer.wizards.com/BIG/en-us/61/vaultborn-tyrant"
+  },
+  {
+    "number": "62",
+    "name": "Loot, the Key to Everything",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/d/0d18fa57-fab9-48f6-b80a-d03fb89d2683.jpg?1733911311",
+    "link": "https://gatherer.wizards.com/BIG/en-us/62/loot-the-key-to-everything"
+  },
+  {
+    "number": "63",
+    "name": "Lotus Ring",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/a/aa77cff4-0f0a-430a-b0c8-aab82299c570.jpg?1733911324",
+    "link": "https://gatherer.wizards.com/BIG/en-us/63/lotus-ring"
+  },
+  {
+    "number": "64",
+    "name": "Sword of Wealth and Power",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/9/59193e1f-7231-4967-82eb-1cb0b5494dc7.jpg?1733911337",
+    "link": "https://gatherer.wizards.com/BIG/en-us/64/sword-of-wealth-and-power"
+  },
+  {
+    "number": "65",
+    "name": "Tarnation Vista",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/d/ad50cee8-0f7f-4058-8fe1-5d7156c2429b.jpg?1733911355",
+    "link": "https://gatherer.wizards.com/BIG/en-us/65/tarnation-vista"
+  },
+  {
+    "number": "66",
+    "name": "Collector's Cage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/f/1f40f6a3-5f38-498e-99fe-e60e93d7a05c.jpg?1712353242",
+    "link": "https://gatherer.wizards.com/BIG/en-us/66/collector's-cage"
+  },
+  {
+    "number": "67",
+    "name": "Grand Abolisher",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/1439551c-6764-4c35-a5ba-c7adb727cf7a.jpg?1712353251",
+    "link": "https://gatherer.wizards.com/BIG/en-us/67/grand-abolisher"
+  },
+  {
+    "number": "68",
+    "name": "Oltec Matterweaver",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/6/1617d39d-4989-4ac4-8cd0-ac1b4e7312df.jpg?1712353256",
+    "link": "https://gatherer.wizards.com/BIG/en-us/68/oltec-matterweaver"
+  },
+  {
+    "number": "69",
+    "name": "Rest in Peace",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/a/3a52b1bc-cf29-49bd-a877-03a21fe8a6c5.jpg?1712353261",
+    "link": "https://gatherer.wizards.com/BIG/en-us/69/rest-in-peace"
+  },
+  {
+    "number": "70",
+    "name": "Esoteric Duplicator",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/b/5ba1736b-9e11-4169-9525-1540a64a3188.jpg?1712353268",
+    "link": "https://gatherer.wizards.com/BIG/en-us/70/esoteric-duplicator"
+  },
+  {
+    "number": "71",
+    "name": "Simulacrum Synthesizer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/0/f0e003f9-2fad-48b4-8e5b-4cda8612ecd2.jpg?1712353272",
+    "link": "https://gatherer.wizards.com/BIG/en-us/71/simulacrum-synthesizer"
+  },
+  {
+    "number": "72",
+    "name": "Worldwalker Helm",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/9/29db3d9f-d95e-4854-8ea6-7970877221d6.jpg?1712353278",
+    "link": "https://gatherer.wizards.com/BIG/en-us/72/worldwalker-helm"
+  },
+  {
+    "number": "73",
+    "name": "Greed's Gambit",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/7/47c57172-6de4-421f-93d8-be1c601c1d0b.jpg?1712353282",
+    "link": "https://gatherer.wizards.com/BIG/en-us/73/greed's-gambit"
+  },
+  {
+    "number": "74",
+    "name": "Harvester of Misery",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/2/e2adbac7-e479-4c73-8978-f7fde9f6e14d.jpg?1712353290",
+    "link": "https://gatherer.wizards.com/BIG/en-us/74/harvester-of-misery"
+  },
+  {
+    "number": "75",
+    "name": "Hostile Investigator",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/a/0a3c9365-af51-4874-be5b-57d0514825fe.jpg?1712353292",
+    "link": "https://gatherer.wizards.com/BIG/en-us/75/hostile-investigator"
+  },
+  {
+    "number": "76",
+    "name": "Generous Plunderer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/9/393bf5fc-0ad2-4116-83b4-346d61ac2911.jpg?1712353299",
+    "link": "https://gatherer.wizards.com/BIG/en-us/76/generous-plunderer"
+  },
+  {
+    "number": "77",
+    "name": "Legion Extruder",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0ffddccb-4195-4c8b-b2b3-5c545c656fee.jpg?1712353301",
+    "link": "https://gatherer.wizards.com/BIG/en-us/77/legion-extruder"
+  },
+  {
+    "number": "78",
+    "name": "Memory Vessel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/e/3e9f1d0c-6f99-4b34-a367-052dd612ecda.jpg?1712353309",
+    "link": "https://gatherer.wizards.com/BIG/en-us/78/memory-vessel"
+  },
+  {
+    "number": "79",
+    "name": "Molten Duplication",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/1/61fbf320-63e1-461e-9696-561a2d6f554a.jpg?1712353310",
+    "link": "https://gatherer.wizards.com/BIG/en-us/79/molten-duplication"
+  },
+  {
+    "number": "80",
+    "name": "Territory Forge",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/9/5999e2ac-7111-470a-b597-4c751ffecbfd.jpg?1712353317",
+    "link": "https://gatherer.wizards.com/BIG/en-us/80/territory-forge"
+  },
+  {
+    "number": "81",
+    "name": "Ancient Cornucopia",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/1/b1b9c600-72e2-4648-9276-99b21cec00dd.jpg?1712353319",
+    "link": "https://gatherer.wizards.com/BIG/en-us/81/ancient-cornucopia"
+  },
+  {
+    "number": "82",
+    "name": "Bristlebud Farmer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/f/4fa29302-65bb-4852-94dd-9c5f5477f94f.jpg?1712353326",
+    "link": "https://gatherer.wizards.com/BIG/en-us/82/bristlebud-farmer"
+  },
+  {
+    "number": "83",
+    "name": "Omenpath Journey",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/3/a33e6422-801a-48ec-8fb7-ff59e1fed25c.jpg?1712353327",
+    "link": "https://gatherer.wizards.com/BIG/en-us/83/omenpath-journey"
+  },
+  {
+    "number": "84",
+    "name": "Sandstorm Salvager",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/4/84c96b72-b0e1-4ea3-9984-5a67718d070d.jpg?1712353335",
+    "link": "https://gatherer.wizards.com/BIG/en-us/84/sandstorm-salvager"
+  },
+  {
+    "number": "85",
+    "name": "Vaultborn Tyrant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/7/07ca436a-e992-40a9-978a-501a82e443ed.jpg?1712353336",
+    "link": "https://gatherer.wizards.com/BIG/en-us/85/vaultborn-tyrant"
+  },
+  {
+    "number": "86",
+    "name": "Loot, the Key to Everything",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/d/2db35dae-6701-45a1-97c4-3e3049b45555.jpg?1712353344",
+    "link": "https://gatherer.wizards.com/BIG/en-us/86/loot-the-key-to-everything"
+  },
+  {
+    "number": "87",
+    "name": "Pest Control",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/1/b1d62921-f76d-436a-ae8b-c3a52715b47d.jpg?1712353345",
+    "link": "https://gatherer.wizards.com/BIG/en-us/87/pest-control"
+  },
+  {
+    "number": "88",
+    "name": "Lost Jitte",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/4/a4a723b3-e93b-499e-a5cf-f79a3634d4da.jpg?1712353353",
+    "link": "https://gatherer.wizards.com/BIG/en-us/88/lost-jitte"
+  },
+  {
+    "number": "89",
+    "name": "Lotus Ring",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/3/23d0c7a2-9614-4e72-a18f-7187de102dc3.jpg?1712353354",
+    "link": "https://gatherer.wizards.com/BIG/en-us/89/lotus-ring"
+  },
+  {
+    "number": "90",
+    "name": "Nexus of Becoming",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/b/dbb8d780-ed74-4084-ac3b-245af39d00da.jpg?1712353362",
+    "link": "https://gatherer.wizards.com/BIG/en-us/90/nexus-of-becoming"
+  },
+  {
+    "number": "91",
+    "name": "Sword of Wealth and Power",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/5/e5fdcd21-55a3-4cad-8b73-3d6f85a69ce1.jpg?1712353363",
+    "link": "https://gatherer.wizards.com/BIG/en-us/91/sword-of-wealth-and-power"
+  },
+  {
+    "number": "92",
+    "name": "Torpor Orb",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/0/d034bf77-38dc-4b43-9a00-831d89af437a.jpg?1712353371",
+    "link": "https://gatherer.wizards.com/BIG/en-us/92/torpor-orb"
+  },
+  {
+    "number": "93",
+    "name": "Transmutation Font",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/7/47a2058a-24a7-4b10-a1d5-0b69e94c8688.jpg?1712353372",
+    "link": "https://gatherer.wizards.com/BIG/en-us/93/transmutation-font"
+  },
+  {
+    "number": "94",
+    "name": "Fomori Vault",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/6/56419022-bed8-425c-99a9-fc288446efd1.jpg?1712353380",
+    "link": "https://gatherer.wizards.com/BIG/en-us/94/fomori-vault"
+  },
+  {
+    "number": "95",
+    "name": "Tarnation Vista",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/b/8b85d6ea-e312-48b9-9c22-398454d9a45c.jpg?1712353380",
+    "link": "https://gatherer.wizards.com/BIG/en-us/95/tarnation-vista"
+  }
+]
