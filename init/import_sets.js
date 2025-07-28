@@ -24,8 +24,9 @@ async function importAllSets() {
             code: set.code,
             name: set.name,
             icon_svg_uri: set.icon_svg_uri,
-            uri: `https://api.scryfall.com/cards/search?order=set&q=e%3A${set.code}&unique=prints`,
-            released_at: set.released_at
+            uri: `https://api.scryfall.com/cards/search?order=set&q=e%3A${set.code}+lang%3Afr&unique=prints`,
+            released_at: set.released_at,
+            cards_count: set.card_count
         }));
 
     fs.writeFileSync(filePath, JSON.stringify(filteredSets, null, 2));

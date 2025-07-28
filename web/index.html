@@ -5,10 +5,18 @@
   <meta charset="UTF-8" />
   <title>MTG Sets</title>
   <link rel="stylesheet" href="style.css" />
+  <script>
+    window.addEventListener('load', () => {
+      if (localStorage.getItem('darkMode') === 'enabled') {
+        document.documentElement.classList.add('dark');
+        document.body.classList.add('dark');
+      }
+    });
+  </script>
 </head>
 
 <body>
-  <button class="toggle-theme">Dark Mode</button>
+  <button class="icon-moon mouse-button-theme">☾</button>
 
   <h1>Available MTG Sets</h1>
   <div id="sets"></div>
@@ -37,10 +45,18 @@
         container.appendChild(div);
       });
 
-    const toggleBtn = document.querySelector('.toggle-theme');
+    const toggleBtn = document.querySelector('.icon-moon');
     toggleBtn.addEventListener('click', () => {
+      document.documentElement.classList.toggle('dark');
       document.body.classList.toggle('dark');
-      toggleBtn.textContent = document.body.classList.contains('dark') ? 'Light Mode' : 'Dark Mode';
+
+      if (document.documentElement.classList.contains('dark')) {
+        localStorage.setItem('darkMode', 'enabled');
+        
+      } else {
+        localStorage.removeItem('darkMode');
+        
+      }
     });
   </script>
 </body>

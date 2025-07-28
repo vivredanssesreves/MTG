@@ -8,12 +8,20 @@
 </head>
 
 <body id="body">
-    
+
 
     <header>
-        <button id="back-btn">⬅ Back to Sets</button>
-        <button id="dark-toggle" class="toggle-theme">Dark Mode</button>
+        <button id="back-btn" class="icon-moon back mouse-button-theme">⬅</button>
+        <button id="dark-toggle" class="mouse-button-theme icon-moon">☾</button>
+
         <h1 id="set-title">Loading...</h1>
+
+        <script>
+            if (localStorage.getItem('darkMode') === 'enabled') {
+                document.documentElement.classList.add('dark');
+                document.body.classList.add('dark');
+            }
+        </script>
 
     </header>
 
@@ -53,8 +61,9 @@
 
         if (setData) {
             set = JSON.parse(setData);
+            // name and code
             document.getElementById('set-title').textContent = `${set.name} (${set.code.toUpperCase()})`;
-            // Tu peux aussi afficher l'icône, la date, etc. ici si tu veux
+
         } else {
             const params = new URLSearchParams(window.location.search);
             const setCode = params.get('code');
@@ -68,9 +77,15 @@
 
         async function loadSetCards(code) {
             try {
-                const res = await fetch(`../bdd/${code}.json`);
-                if (!res.ok) throw new Error('Cards JSON not found');
-                const cards = await res.json();
+
+                const resCards = await fetch(`../bdd/${code}.json`);
+                const resMyCards = await fetch(`../MYBDD/myCards.json`);
+               
+                if (!resCards.ok || !resMyCards.ok) throw new Error('Erreur de chargement');
+
+                const cards = await resCards.json();
+                const myCards = await resMyCards.json();
+                const setData = myCards.sets.find(s => s.code === code) || { cards: [] };
 
                 document.getElementById('set-title').innerHTML = `<img src="${set.icon_svg_uri}" alt="${set.name}" style="height:24px; vertical-align:middle; margin-right:8px;"> ${set.name}`;
 
@@ -80,25 +95,25 @@
 
                 cards.forEach(card => {
                     const cardDiv = document.createElement('div');
+                    const owned = setData.cards.find(c => c.number === card.number) || { no_foil: false, foil: false };
+
                     cardDiv.className = 'card';
 
                     cardDiv.innerHTML = `
-            <img src="${card.imageUrl}" alt="${card.name}" />
-            <div class="card-info">
-                <div class="card-meta">
-                  <div class="card-images">
-                    <img src="${set.icon_svg_uri}" data-type="no_foil" data-set="${code}" data-num=${card.number} class="small-clickable" /> 
-                    <img src="${set.icon_svg_uri}" data-type="foil" data-set="${code}" data-num=${card.number} class="small-clickable" />
-                  </div>
-                  <div class="card-number"># ${card.number} 
-                    <a href="${card.link}" class="icon-link">
-                        <div class="icon-wrapper">
-                            <img src="https://www.freeiconspng.com/uploads/search-icon-png-5.png" class="icon-img" />
-                        </div>
-                    </a>
-                  </div>
-                </div>
-            </div>`;
+                        <img src="${card.imageUrl}" title="${card.name_fr}" />
+                        <div class="card-info">
+                            <div class="card-meta">
+                            <div class="card-images">
+                                <img src="${set.icon_svg_uri}" data-type="no_foil" data-set="${code}" data-num=${card.number} class="small-clickable ${owned.no_foil ? 'active' : ''}" />
+                                <img src="${set.icon_svg_uri}" data-type="foil" data-set="${code}" data-num=${card.number} class="small-clickable foil ${owned.foil ? 'active' : ''}" />
+                            </div>
+                            <div class="icon-card-right "># ${card.number} 
+                                <a href="${card.link}" >
+                                       <img src="https://www.freeiconspng.com/uploads/search-icon-png-5.png" class="icon-search"/>                                    
+                                </a>
+                            </div>
+                            </div>
+                        </div>`;
 
                     container.appendChild(cardDiv);
                 });
@@ -111,7 +126,7 @@
         loadSetCards(setCode);
 
     </script>
-    
+
     <script defer type="module" src="/backEnd/gestion_collect_perso.js"></script>
 </body>
 

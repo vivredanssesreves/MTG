@@ -33,13 +33,15 @@ async function importOneSet(setSelected) {
 
             cards.forEach(card => {
                 const number = card.collector_number || "";
-                const name = card.name || "";
+                const name_en = card.name || "";
+                const name_fr = card.printed_name||"";
                 const imageUrl = card.image_uris ? card.image_uris.normal : "";
-                const link = generateGathererLink(setSelected.code, number, name);
+                const link = generateGathererLink(setSelected.code, number, name_en);
 
                 allCards.push({
                     number,
-                    name,
+                    name_en,
+                    name_fr,
                     imageUrl,
                     link
                 });

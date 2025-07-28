@@ -33,7 +33,7 @@ h1 {
     box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
     padding: 1rem;
     text-align: center;
-    
+
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s;
     display: flex;
@@ -76,23 +76,12 @@ body.dark .set a {
     color: #4ea1ff;
 }
 
-.toggle-theme {
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
-    background: #0077cc;
-    border: none;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    transition: background 0.3s;
-    z-index: 1000;
-}
 
-.toggle-theme:hover {
-    background: #005fa3;
+
+body.dark .toggle-theme:hover {
+    background: #ffffff;
+    /* exemple pour le mode sombre */
+    color: rgb(0, 0, 0);
 }
 
 /* IMAGE SET */
@@ -171,19 +160,17 @@ body.dark .card img {
 .card-info {
     position: absolute;
     bottom: 0;
-    left: 0;
     width: 100%;
-    /* écart en bas ET en haut + écart à gauche*/
-    padding: 0.4rem 0.4rem;
+    /* top right buttom left*/
+    padding: 0rem 0.2rem 0rem 0.2rem;
     background: rgba(255, 255, 255, 0.76);
-    /* semi-transparent noir */
     color: #000000;
     box-sizing: border-box;
 }
 
 /* Dark mode ajustement (si besoin) */
 body.dark .card-info {
-    background: rgba(0, 0, 0, 0.433);
+    background: rgba(116, 116, 116, 0.566);
     color: #ffffff;
 }
 
@@ -214,22 +201,21 @@ body.dark .card-info {
 
 .small-clickable {
     overflow: visible;
-    width: 22px;
-    /* largeur fixe */
-    height: 22px;
-    /* hauteur fixe */
     object-fit: contain;
-    /* conserve le ratio sans couper */
-    overflow: visible;
-    /* évite que ça soit coupé */
-    display: block;
-    border-radius: 6px;
-    margin-right: 4px;
-    margin-left: 4px;
+    display: inline-flex;
+    border-radius: 25%;
+    justify-content: center;
+    align-items: center;
     cursor: pointer;
-    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    /* */
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.933);
     transition: transform 0.2s ease;
     opacity: 0.6;
+    padding: 20%;
+    background-color: #ffffffde;
+    position: relative;
+
 }
 
 .small-clickable.active {
@@ -237,8 +223,7 @@ body.dark .card-info {
 }
 
 body.dark .small-clickable {
-    background-color: #ffffffbf;
-    filter: grayscale(100%);
+    /*filter: grayscale(100%);*/
 }
 
 /* Ligne d'infos avec icons + numéro alignés */
@@ -249,18 +234,36 @@ body.dark .small-clickable {
     margin-bottom: 0.4rem;
 }
 
-.icon-wrapper {
-    overflow: visible;
-    width: 20px;
-    height: 20px;
+.icon-card-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.4rem;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 0;
+    /* top right buttom left*/
+    padding: 0.2rem 0.2rem 0rem 0.1rem;
+}
+
+.icon-search {
+    width: 1.5rem;
+    height: 1.5rem;
     background-color: #f37321;
     border-radius: 50%;
-    display: flex;
+    display: inline-flex;
+    overflow: visible;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
-
+    object-fit: contain;
+    /* top right buttom left*/
+    padding: 0.1rem 0.15rem 0.1rem 0.15rem;
 }
+
+.icon-search:hover {
+    box-shadow: 0 12px 24px rgba(235, 11, 11, 0.3);
+}
+
 
 .icon-img {
     overflow: visible;
@@ -271,8 +274,114 @@ body.dark .small-clickable {
     margin-top: 2px;
 }
 
+.icon-moon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    /* ~40px, dépend de root font-size */
+    height: 2.5rem;
+    background-color: #000000;
+    /* fond  */
+    color: white;
+    /* couleur lune */
+    border-radius: 50%;
+    font-size: 2.2rem;
+    cursor: pointer;
+    user-select: none;
+    padding-top: 0.2rem;
+    /* ajuste verticalement */
+    padding-left: 0.2rem;
+    /* ajuste horizontalement */
+    position: fixed;
+    right: 10%;
+    border: none;
+
+}
+
+body.dark .icon-moon {
+    background-color: #ffdc2f;
+    color: rgb(0, 0, 0);
+}
+
+.back {
+    padding-top: 0.1rem;
+    /* ajuste verticalement */
+    padding-left: 0.3rem;
+    /* ajuste horizontalement */
+    position: fixed;
+    left: 10%;
+
+}
+
+body.dark .back {
+    background-color: #ffdc2f;
+    color: rgb(0, 0, 0);
+}
+
+.mouse-button-theme:hover {
+    background-color: #ffdc2f;
+    color: rgb(0, 0, 0);
+}
+
+body.dark .mouse-button-theme:hover {
+    background: #ffffff;
+    /* exemple pour le mode sombre */
+    color: rgb(0, 0, 0);
+}
+
+.foil {
+    position: relative;
+    background: linear-gradient(270deg,
+            #ff3cac, #784ba0, #2b86c5, #f7971e, #f953c6, #f7971e, #2b86c5, #784ba0, #ff3cac);
+    background-size: 1800% 1800%;
+    color: white;
+    font-weight: 700;
+    border-radius: 40%;
+    animation: rainbowFoil 8s ease infinite;
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.933);
+    display: inline-flex;
+    padding: 20%;
+}
+
+body.dark .foil {
+    background: linear-gradient(45deg#f3ec78, #af4261, #ff00ff, #00ffff, #ffff00);
+    box-shadow: 0 0 8px 2px rgba(255, 255, 255, 0.8);
+    border-radius: 4px;
+    display: inline-block;
+}
+
+@keyframes rainbowFoil {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.foil:hover {
+    box-shadow: 0 0 15px 4px rgba(255, 223, 0, 0.9);
+}
 
 /*
 .small-clickable:hover {
     transform: scale(1.1);
-}*/
+}
+    
+.toggle-theme {
+    cursor: pointer;
+    
+    transition: background 0.3s;
+    z-index: 1000;
+}
+.toggle-theme:hover {
+    background-color: #ffdc2f;
+    color: rgb(0, 0, 0);
+}
+*/

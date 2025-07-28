@@ -11,13 +11,16 @@ const PORT = 3000;
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const webPath = path.join(__dirname, '..', 'web');
 const bddPath = path.join(__dirname, '..', 'bdd');
-const serverPath = path.join(__dirname, '..', 'backEnd');
+const backEndPath = path.join(__dirname, '..', 'backEnd');
+const myBddPath = path.join(__dirname, '..', 'MYBDD');
 
 app.use(express.static(webPath));       // Frontend (HTML/JS/CSS)
 app.use(express.json());  // <-- obligatoire pour parser JSON dans POST
 
 app.use('/bdd', express.static(bddPath)); // Serveur des JSON
-app.use('/backEnd', express.static(serverPath)); // Serveur des JSON
+app.use('/backEnd', express.static(backEndPath)); // Serveur des JSON
+app.use('/MYBDD', express.static(myBddPath));
+
 
 app.post('/editMyBDD', (request, response) => {
   
