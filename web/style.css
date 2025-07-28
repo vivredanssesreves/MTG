@@ -1,0 +1,278 @@
+/* BODY */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    padding: 2rem;
+    margin: 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark {
+    background-color: #121212;
+    color: #eee;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#sets {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1.5rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.set {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+    padding: 1rem;
+    text-align: center;
+    
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* centre verticalement */
+    align-items: center;
+    /* centre horizontalement */
+}
+
+body.dark .set {
+    background: #252424ae;
+    box-shadow: 0 2px 8px rgba(255 255 255 / 0.1);
+}
+
+.set:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgb(0 0 0 / 0.15);
+}
+
+body.dark .set:hover {
+    box-shadow: 0 8px 20px rgba(255 255 255 / 0.2);
+}
+
+.set a {
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: 600;
+    display: block;
+    margin-top: 0.3rem;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.set a:hover {
+    text-decoration: underline;
+}
+
+body.dark .set a {
+    color: #4ea1ff;
+}
+
+.toggle-theme {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    background: #0077cc;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.3s;
+    z-index: 1000;
+}
+
+.toggle-theme:hover {
+    background: #005fa3;
+}
+
+/* IMAGE SET */
+.set img {
+    max-width: 60px;
+    margin-bottom: 0.5rem;
+    background: #fff;
+    padding: 6px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+    transition: background 0.3s;
+}
+
+body.dark .set img {
+    background: #ffffff98;
+    box-shadow: 0 0 8px rgba(255 255 255, 0.5);
+}
+
+/* IMAGE CARD */
+#cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 0.15);
+    overflow: hidden;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    /* nécessaire pour positionner .card-info par-dessus */
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(255, 255, 255, 0.3);
+}
+
+body.dark .card {
+    background: #1e1e1e;
+    box-shadow: 0 4px 15px rgba(255 255 255 / 0.1);
+}
+
+
+body.dark .card:hover {
+    box-shadow: 0 12px 24px rgba(255 255 255 / 0.3);
+}
+
+.card img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border-bottom: 1px solid #6161613b;
+    transition: filter 0.3s ease;
+}
+
+.card:hover img {
+    filter: brightness(1.05);
+    transform: scale(1.05);
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+body.dark .card img {
+    border-color: #333;
+}
+
+.card-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    /* écart en bas ET en haut + écart à gauche*/
+    padding: 0.4rem 0.4rem;
+    background: rgba(255, 255, 255, 0.76);
+    /* semi-transparent noir */
+    color: #000000;
+    box-sizing: border-box;
+}
+
+/* Dark mode ajustement (si besoin) */
+body.dark .card-info {
+    background: rgba(0, 0, 0, 0.433);
+    color: #ffffff;
+}
+
+.card-number {
+    font-weight: bold;
+    font-size: 0.85rem;
+    opacity: 0.9;
+    display: inline-flex;
+    gap: 6px;
+}
+
+.card-images {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    /* aligne verticalement au centre */
+    padding-left: 0;
+    /* espace à gauche */
+    justify-content: flex-start;
+    width: 20px;
+    /* largeur fixe */
+    height: 20px;
+    /* hauteur fixe */
+    object-fit: contain;
+    /* conserve le ratio sans couper */
+    overflow: visible;
+}
+
+.small-clickable {
+    overflow: visible;
+    width: 22px;
+    /* largeur fixe */
+    height: 22px;
+    /* hauteur fixe */
+    object-fit: contain;
+    /* conserve le ratio sans couper */
+    overflow: visible;
+    /* évite que ça soit coupé */
+    display: block;
+    border-radius: 6px;
+    margin-right: 4px;
+    margin-left: 4px;
+    cursor: pointer;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
+    opacity: 0.6;
+}
+
+.small-clickable.active {
+    opacity: 1;
+}
+
+body.dark .small-clickable {
+    background-color: #ffffffbf;
+    filter: grayscale(100%);
+}
+
+/* Ligne d'infos avec icons + numéro alignés */
+.card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.4rem;
+}
+
+.icon-wrapper {
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    background-color: #f37321;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+}
+
+.icon-img {
+    overflow: visible;
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    display: block;
+    margin-top: 2px;
+}
+
+
+/*
+.small-clickable:hover {
+    transform: scale(1.1);
+}*/
