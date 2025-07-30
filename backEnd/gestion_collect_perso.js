@@ -1,3 +1,4 @@
+import { progress } from '../frontEnd/set-loadCards.js';
 document.addEventListener('click', async (e) => {
 
   if (e.target.classList.contains('small-clickable')) {
@@ -19,6 +20,8 @@ document.addEventListener('click', async (e) => {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(info)
     });
+
+    progress(window.currentCards);
   }
 });
 

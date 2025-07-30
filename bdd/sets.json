@@ -2,1373 +2,1765 @@
   {
     "code": "tla",
     "name": "Avatar: The Last Airbender",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/tla.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atla&unique=prints",
-    "released_at": "2025-11-21"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tla.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:tla&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:tla+lang:fr&unique=prints&order=set",
+    "released_at": "2025-11-21",
+    "cards_count": 2
   },
   {
     "code": "mar",
     "name": "Marvel Universe",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amar&unique=prints",
-    "released_at": "2025-09-26"
-  },
-  {
-    "code": "spm",
-    "name": "Marvel's Spider-Man",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/spm.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aspm&unique=prints",
-    "released_at": "2025-09-26"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mar&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mar+lang:fr&unique=prints&order=set",
+    "released_at": "2025-09-26",
+    "cards_count": 0
   },
   {
     "code": "spe",
     "name": "Marvel's Spider-Man Eternal",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/spe.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aspe&unique=prints",
-    "released_at": "2025-09-26"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/spe.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:spe&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:spe+lang:fr&unique=prints&order=set",
+    "released_at": "2025-09-26",
+    "cards_count": 26
+  },
+  {
+    "code": "spm",
+    "name": "Marvel's Spider-Man",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/spm.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:spm&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:spm+lang:fr&unique=prints&order=set",
+    "released_at": "2025-09-26",
+    "cards_count": 94
   },
   {
     "code": "eoc",
     "name": "Edge of Eternities Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/eoc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeoc&unique=prints",
-    "released_at": "2025-08-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eoc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:eoc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:eoc+lang:fr&unique=prints&order=set",
+    "released_at": "2025-08-01",
+    "cards_count": 191
   },
   {
     "code": "eoe",
     "name": "Edge of Eternities",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/eoe.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeoe&unique=prints",
-    "released_at": "2025-08-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eoe.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:eoe&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:eoe+lang:fr&unique=prints&order=set",
+    "released_at": "2025-08-01",
+    "cards_count": 399
   },
   {
     "code": "fic",
     "name": "Final Fantasy Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/fic.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afic&unique=prints",
-    "released_at": "2025-06-13"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fic.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:fic&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:fic+lang:fr&unique=prints&order=set",
+    "released_at": "2025-06-13",
+    "cards_count": 444
   },
   {
     "code": "fin",
     "name": "Final Fantasy",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afin&unique=prints",
-    "released_at": "2025-06-13"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:fin&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:fin+lang:fr&unique=prints&order=set",
+    "released_at": "2025-06-13",
+    "cards_count": 586
   },
   {
     "code": "tdc",
     "name": "Tarkir: Dragonstorm Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdc&unique=prints",
-    "released_at": "2025-04-11"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:tdc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:tdc+lang:fr&unique=prints&order=set",
+    "released_at": "2025-04-11",
+    "cards_count": 413
   },
   {
     "code": "tdm",
     "name": "Tarkir: Dragonstorm",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
-    "released_at": "2025-04-11"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:tdm&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:tdm+lang:fr&unique=prints&order=set",
+    "released_at": "2025-04-11",
+    "cards_count": 426
   },
   {
     "code": "drc",
     "name": "Aetherdrift Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/drc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrc&unique=prints",
-    "released_at": "2025-02-14"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/drc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:drc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:drc+lang:fr&unique=prints&order=set",
+    "released_at": "2025-02-14",
+    "cards_count": 184
   },
   {
     "code": "dft",
     "name": "Aetherdrift",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adft&unique=prints",
-    "released_at": "2025-02-14"
-  },
-  {
-    "code": "fdc",
-    "name": "Foundations Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdc&unique=prints",
-    "released_at": "2024-11-15"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dft&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dft+lang:fr&unique=prints&order=set",
+    "released_at": "2025-02-14",
+    "cards_count": 553
   },
   {
     "code": "fdn",
     "name": "Foundations",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
-    "released_at": "2024-11-15"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:fdn&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:fdn+lang:fr&unique=prints&order=set",
+    "released_at": "2024-11-15",
+    "cards_count": 730
   },
   {
     "code": "j25",
     "name": "Foundations Jumpstart",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/j25.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj25&unique=prints",
-    "released_at": "2024-11-15"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j25.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:j25&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:j25+lang:fr&unique=prints&order=set",
+    "released_at": "2024-11-15",
+    "cards_count": 779
   },
   {
-    "code": "dsk",
-    "name": "Duskmourn: House of Horror",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsk&unique=prints",
-    "released_at": "2024-09-27"
+    "code": "fdc",
+    "name": "Foundations Commander",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:fdc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:fdc+lang:fr&unique=prints&order=set",
+    "released_at": "2024-11-15",
+    "cards_count": 3
   },
   {
     "code": "dsc",
     "name": "Duskmourn: House of Horror Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adsc&unique=prints",
-    "released_at": "2024-09-27"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dsc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dsc+lang:fr&unique=prints&order=set",
+    "released_at": "2024-09-27",
+    "cards_count": 373
   },
   {
-    "code": "blc",
-    "name": "Bloomburrow Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/blc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablc&unique=prints",
-    "released_at": "2024-08-02"
+    "code": "dsk",
+    "name": "Duskmourn: House of Horror",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dsk&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dsk+lang:fr&unique=prints&order=set",
+    "released_at": "2024-09-27",
+    "cards_count": 418
   },
   {
     "code": "blb",
     "name": "Bloomburrow",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
-    "released_at": "2024-08-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:blb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:blb+lang:fr&unique=prints&order=set",
+    "released_at": "2024-08-02",
+    "cards_count": 398
+  },
+  {
+    "code": "blc",
+    "name": "Bloomburrow Commander",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:blc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:blc+lang:fr&unique=prints&order=set",
+    "released_at": "2024-08-02",
+    "cards_count": 356
   },
   {
     "code": "acr",
     "name": "Assassin's Creed",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aacr&unique=prints",
-    "released_at": "2024-07-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:acr&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:acr+lang:fr&unique=prints&order=set",
+    "released_at": "2024-07-05",
+    "cards_count": 309
   },
   {
     "code": "mh3",
     "name": "Modern Horizons 3",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
-    "released_at": "2024-06-14"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mh3&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mh3+lang:fr&unique=prints&order=set",
+    "released_at": "2024-06-14",
+    "cards_count": 528
   },
   {
     "code": "m3c",
     "name": "Modern Horizons 3 Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m3c.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am3c&unique=prints",
-    "released_at": "2024-06-14"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m3c.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m3c&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m3c+lang:fr&unique=prints&order=set",
+    "released_at": "2024-06-14",
+    "cards_count": 398
   },
   {
     "code": "h2r",
     "name": "Modern Horizons 2 Timeshifts",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ah2r&unique=prints",
-    "released_at": "2024-06-07"
-  },
-  {
-    "code": "big",
-    "name": "The Big Score",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/big.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abig&unique=prints",
-    "released_at": "2024-04-19"
-  },
-  {
-    "code": "otj",
-    "name": "Outlaws of Thunder Junction",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotj&unique=prints",
-    "released_at": "2024-04-19"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:h2r&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:h2r+lang:fr&unique=prints&order=set",
+    "released_at": "2024-06-07",
+    "cards_count": 16
   },
   {
     "code": "otc",
     "name": "Outlaws of Thunder Junction Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/otc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
-    "released_at": "2024-04-19"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:otc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:otc+lang:fr&unique=prints&order=set",
+    "released_at": "2024-04-19",
+    "cards_count": 342
+  },
+  {
+    "code": "big",
+    "name": "The Big Score",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/big.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:big&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:big+lang:fr&unique=prints&order=set",
+    "released_at": "2024-04-19",
+    "cards_count": 95
+  },
+  {
+    "code": "otj",
+    "name": "Outlaws of Thunder Junction",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:otj&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:otj+lang:fr&unique=prints&order=set",
+    "released_at": "2024-04-19",
+    "cards_count": 374
   },
   {
     "code": "pip",
     "name": "Fallout",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/pip.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apip&unique=prints",
-    "released_at": "2024-03-08"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pip.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:pip&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:pip+lang:fr&unique=prints&order=set",
+    "released_at": "2024-03-08",
+    "cards_count": 1068
   },
   {
     "code": "clu",
     "name": "Ravnica: Clue Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/clu.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclu&unique=prints",
-    "released_at": "2024-02-23"
-  },
-  {
-    "code": "mkm",
-    "name": "Murders at Karlov Manor",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkm&unique=prints",
-    "released_at": "2024-02-09"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clu.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:clu&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:clu+lang:fr&unique=prints&order=set",
+    "released_at": "2024-02-23",
+    "cards_count": 284
   },
   {
     "code": "mkc",
     "name": "Murders at Karlov Manor Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amkc&unique=prints",
-    "released_at": "2024-02-09"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mkc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mkc+lang:fr&unique=prints&order=set",
+    "released_at": "2024-02-09",
+    "cards_count": 358
   },
   {
-    "code": "lcc",
-    "name": "The Lost Caverns of Ixalan Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/lcc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alcc&unique=prints",
-    "released_at": "2023-11-17"
+    "code": "mkm",
+    "name": "Murders at Karlov Manor",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mkm&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mkm+lang:fr&unique=prints&order=set",
+    "released_at": "2024-02-09",
+    "cards_count": 450
   },
   {
     "code": "lci",
     "name": "The Lost Caverns of Ixalan",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
-    "released_at": "2023-11-17"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:lci&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:lci+lang:fr&unique=prints&order=set",
+    "released_at": "2023-11-17",
+    "cards_count": 416
+  },
+  {
+    "code": "lcc",
+    "name": "The Lost Caverns of Ixalan Commander",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lcc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:lcc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:lcc+lang:fr&unique=prints&order=set",
+    "released_at": "2023-11-17",
+    "cards_count": 370
   },
   {
     "code": "who",
     "name": "Doctor Who",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/who.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awho&unique=prints",
-    "released_at": "2023-10-13"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/who.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:who&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:who+lang:fr&unique=prints&order=set",
+    "released_at": "2023-10-13",
+    "cards_count": 1178
   },
   {
     "code": "woc",
     "name": "Wilds of Eldraine Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/woc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoc&unique=prints",
-    "released_at": "2023-09-08"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:woc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:woc+lang:fr&unique=prints&order=set",
+    "released_at": "2023-09-08",
+    "cards_count": 173
   },
   {
     "code": "woe",
     "name": "Wilds of Eldraine",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoe&unique=prints",
-    "released_at": "2023-09-08"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:woe&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:woe+lang:fr&unique=prints&order=set",
+    "released_at": "2023-09-08",
+    "cards_count": 381
   },
   {
     "code": "ltc",
     "name": "Tales of Middle-earth Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altc&unique=prints",
-    "released_at": "2023-06-23"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ltc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ltc+lang:fr&unique=prints&order=set",
+    "released_at": "2023-06-23",
+    "cards_count": 591
   },
   {
     "code": "ltr",
     "name": "The Lord of the Rings: Tales of Middle-earth",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltr.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
-    "released_at": "2023-06-23"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltr.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ltr&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ltr+lang:fr&unique=prints&order=set",
+    "released_at": "2023-06-23",
+    "cards_count": 856
   },
   {
     "code": "mat",
     "name": "March of the Machine: The Aftermath",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mat.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amat&unique=prints",
-    "released_at": "2023-05-12"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mat.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mat&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mat+lang:fr&unique=prints&order=set",
+    "released_at": "2023-05-12",
+    "cards_count": 230
   },
   {
     "code": "moc",
     "name": "March of the Machine Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/moc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amoc&unique=prints",
-    "released_at": "2023-04-21"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/moc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:moc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:moc+lang:fr&unique=prints&order=set",
+    "released_at": "2023-04-21",
+    "cards_count": 450
   },
   {
     "code": "mom",
     "name": "March of the Machine",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
-    "released_at": "2023-04-21"
-  },
-  {
-    "code": "onc",
-    "name": "Phyrexia: All Will Be One Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/onc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aonc&unique=prints",
-    "released_at": "2023-02-10"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mom&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mom+lang:fr&unique=prints&order=set",
+    "released_at": "2023-04-21",
+    "cards_count": 387
   },
   {
     "code": "one",
     "name": "Phyrexia: All Will Be One",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
-    "released_at": "2023-02-10"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:one&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:one+lang:fr&unique=prints&order=set",
+    "released_at": "2023-02-10",
+    "cards_count": 479
+  },
+  {
+    "code": "onc",
+    "name": "Phyrexia: All Will Be One Commander",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/onc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:onc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:onc+lang:fr&unique=prints&order=set",
+    "released_at": "2023-02-10",
+    "cards_count": 174
   },
   {
     "code": "scd",
     "name": "Starter Commander Decks",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/scd.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascd&unique=prints",
-    "released_at": "2022-12-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/scd.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:scd&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:scd+lang:fr&unique=prints&order=set",
+    "released_at": "2022-12-02",
+    "cards_count": 352
   },
   {
     "code": "j22",
     "name": "Jumpstart 2022",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/j22.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj22&unique=prints",
-    "released_at": "2022-12-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j22.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:j22&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:j22+lang:fr&unique=prints&order=set",
+    "released_at": "2022-12-02",
+    "cards_count": 835
   },
   {
     "code": "brc",
     "name": "The Brothers' War Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/brc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abrc&unique=prints",
-    "released_at": "2022-11-18"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/brc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:brc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:brc+lang:fr&unique=prints&order=set",
+    "released_at": "2022-11-18",
+    "cards_count": 209
   },
   {
     "code": "bro",
     "name": "The Brothers' War",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abro&unique=prints",
-    "released_at": "2022-11-18"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:bro&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:bro+lang:fr&unique=prints&order=set",
+    "released_at": "2022-11-18",
+    "cards_count": 399
   },
   {
     "code": "40k",
     "name": "Warhammer 40,000 Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/40k.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
-    "released_at": "2022-10-07"
-  },
-  {
-    "code": "dmc",
-    "name": "Dominaria United Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admc&unique=prints",
-    "released_at": "2022-09-09"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/40k.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:40k&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:40k+lang:fr&unique=prints&order=set",
+    "released_at": "2022-10-07",
+    "cards_count": 617
   },
   {
     "code": "dmu",
     "name": "Dominaria United",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
-    "released_at": "2022-09-09"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dmu&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dmu+lang:fr&unique=prints&order=set",
+    "released_at": "2022-09-09",
+    "cards_count": 453
+  },
+  {
+    "code": "dmc",
+    "name": "Dominaria United Commander",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dmc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dmc+lang:fr&unique=prints&order=set",
+    "released_at": "2022-09-09",
+    "cards_count": 240
   },
   {
     "code": "clb",
     "name": "Commander Legends: Battle for Baldur's Gate",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
-    "released_at": "2022-06-10"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:clb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:clb+lang:fr&unique=prints&order=set",
+    "released_at": "2022-06-10",
+    "cards_count": 936
   },
   {
     "code": "snc",
     "name": "Streets of New Capenna",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
-    "released_at": "2022-04-29"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:snc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:snc+lang:fr&unique=prints&order=set",
+    "released_at": "2022-04-29",
+    "cards_count": 513
   },
   {
     "code": "ncc",
     "name": "New Capenna Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ancc&unique=prints",
-    "released_at": "2022-04-29"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ncc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ncc+lang:fr&unique=prints&order=set",
+    "released_at": "2022-04-29",
+    "cards_count": 447
   },
   {
     "code": "neo",
     "name": "Kamigawa: Neon Dynasty",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aneo&unique=prints",
-    "released_at": "2022-02-18"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:neo&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:neo+lang:fr&unique=prints&order=set",
+    "released_at": "2022-02-18",
+    "cards_count": 531
   },
   {
     "code": "nec",
     "name": "Neon Dynasty Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/nec.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anec&unique=prints",
-    "released_at": "2022-02-18"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nec.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:nec&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:nec+lang:fr&unique=prints&order=set",
+    "released_at": "2022-02-18",
+    "cards_count": 179
   },
   {
     "code": "dbl",
     "name": "Innistrad: Double Feature",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adbl&unique=prints",
-    "released_at": "2022-01-28"
-  },
-  {
-    "code": "voc",
-    "name": "Crimson Vow Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/voc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avoc&unique=prints",
-    "released_at": "2021-11-19"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dbl&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dbl+lang:fr&unique=prints&order=set",
+    "released_at": "2022-01-28",
+    "cards_count": 535
   },
   {
     "code": "vow",
     "name": "Innistrad: Crimson Vow",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
-    "released_at": "2021-11-19"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:vow&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:vow+lang:fr&unique=prints&order=set",
+    "released_at": "2021-11-19",
+    "cards_count": 423
+  },
+  {
+    "code": "voc",
+    "name": "Crimson Vow Commander",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/voc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:voc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:voc+lang:fr&unique=prints&order=set",
+    "released_at": "2021-11-19",
+    "cards_count": 188
   },
   {
     "code": "mic",
     "name": "Midnight Hunt Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mic.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amic&unique=prints",
-    "released_at": "2021-09-24"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mic.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mic&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mic+lang:fr&unique=prints&order=set",
+    "released_at": "2021-09-24",
+    "cards_count": 187
   },
   {
     "code": "mid",
     "name": "Innistrad: Midnight Hunt",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
-    "released_at": "2021-09-24"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mid&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mid+lang:fr&unique=prints&order=set",
+    "released_at": "2021-09-24",
+    "cards_count": 400
   },
   {
     "code": "j21",
     "name": "Jumpstart: Historic Horizons",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/j21.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj21&unique=prints",
-    "released_at": "2021-08-26"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j21.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:j21&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:j21+lang:fr&unique=prints&order=set",
+    "released_at": "2021-08-26",
+    "cards_count": 389
   },
   {
     "code": "afc",
     "name": "Forgotten Realms Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafc&unique=prints",
-    "released_at": "2021-07-23"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:afc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:afc+lang:fr&unique=prints&order=set",
+    "released_at": "2021-07-23",
+    "cards_count": 331
   },
   {
     "code": "afr",
     "name": "Adventures in the Forgotten Realms",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafr&unique=prints",
-    "released_at": "2021-07-23"
-  },
-  {
-    "code": "mh2",
-    "name": "Modern Horizons 2",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh2&unique=prints",
-    "released_at": "2021-06-18"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:afr&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:afr+lang:fr&unique=prints&order=set",
+    "released_at": "2021-07-23",
+    "cards_count": 424
   },
   {
     "code": "h1r",
     "name": "Modern Horizons 1 Timeshifts",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ah1r&unique=prints",
-    "released_at": "2021-06-18"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:h1r&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:h1r+lang:fr&unique=prints&order=set",
+    "released_at": "2021-06-18",
+    "cards_count": 40
+  },
+  {
+    "code": "mh2",
+    "name": "Modern Horizons 2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mh2&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mh2+lang:fr&unique=prints&order=set",
+    "released_at": "2021-06-18",
+    "cards_count": 494
   },
   {
     "code": "stx",
     "name": "Strixhaven: School of Mages",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Astx&unique=prints",
-    "released_at": "2021-04-23"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:stx&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:stx+lang:fr&unique=prints&order=set",
+    "released_at": "2021-04-23",
+    "cards_count": 393
   },
   {
     "code": "c21",
     "name": "Commander 2021",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c21.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac21&unique=prints",
-    "released_at": "2021-04-23"
-  },
-  {
-    "code": "khm",
-    "name": "Kaldheim",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
-    "released_at": "2021-02-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c21.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c21&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c21+lang:fr&unique=prints&order=set",
+    "released_at": "2021-04-23",
+    "cards_count": 409
   },
   {
     "code": "khc",
     "name": "Kaldheim Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/khc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhc&unique=prints",
-    "released_at": "2021-02-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:khc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:khc+lang:fr&unique=prints&order=set",
+    "released_at": "2021-02-05",
+    "cards_count": 119
+  },
+  {
+    "code": "khm",
+    "name": "Kaldheim",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:khm&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:khm+lang:fr&unique=prints&order=set",
+    "released_at": "2021-02-05",
+    "cards_count": 426
   },
   {
     "code": "cmr",
     "name": "Commander Legends",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmr.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmr&unique=prints",
-    "released_at": "2020-11-20"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmr.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:cmr&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:cmr+lang:fr&unique=prints&order=set",
+    "released_at": "2020-11-20",
+    "cards_count": 718
   },
   {
     "code": "znc",
     "name": "Zendikar Rising Commander",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/znc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznc&unique=prints",
-    "released_at": "2020-09-25"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:znc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:znc+lang:fr&unique=prints&order=set",
+    "released_at": "2020-09-25",
+    "cards_count": 142
   },
   {
     "code": "znr",
     "name": "Zendikar Rising",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
-    "released_at": "2020-09-25"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:znr&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:znr+lang:fr&unique=prints&order=set",
+    "released_at": "2020-09-25",
+    "cards_count": 408
   },
   {
     "code": "jmp",
     "name": "Jumpstart",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/jmp.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
-    "released_at": "2020-07-17"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jmp.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:jmp&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:jmp+lang:fr&unique=prints&order=set",
+    "released_at": "2020-07-17",
+    "cards_count": 497
   },
   {
     "code": "m21",
     "name": "Core Set 2021",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m21.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am21&unique=prints",
-    "released_at": "2020-07-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m21.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m21&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m21+lang:fr&unique=prints&order=set",
+    "released_at": "2020-07-03",
+    "cards_count": 397
   },
   {
     "code": "iko",
     "name": "Ikoria: Lair of Behemoths",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/iko.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aiko&unique=prints",
-    "released_at": "2020-04-24"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/iko.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:iko&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:iko+lang:fr&unique=prints&order=set",
+    "released_at": "2020-04-24",
+    "cards_count": 390
   },
   {
     "code": "c20",
     "name": "Commander 2020",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c20.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac20&unique=prints",
-    "released_at": "2020-04-17"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c20.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c20&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c20+lang:fr&unique=prints&order=set",
+    "released_at": "2020-04-17",
+    "cards_count": 322
   },
   {
     "code": "thb",
     "name": "Theros Beyond Death",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Athb&unique=prints",
-    "released_at": "2020-01-24"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:thb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:thb+lang:fr&unique=prints&order=set",
+    "released_at": "2020-01-24",
+    "cards_count": 358
   },
   {
     "code": "eld",
     "name": "Throne of Eldraine",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/eld.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeld&unique=prints",
-    "released_at": "2019-10-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eld.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:eld&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:eld+lang:fr&unique=prints&order=set",
+    "released_at": "2019-10-04",
+    "cards_count": 399
   },
   {
     "code": "c19",
     "name": "Commander 2019",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c19.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac19&unique=prints",
-    "released_at": "2019-08-23"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c19.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c19&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c19+lang:fr&unique=prints&order=set",
+    "released_at": "2019-08-23",
+    "cards_count": 302
   },
   {
     "code": "m20",
     "name": "Core Set 2020",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m20.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am20&unique=prints",
-    "released_at": "2019-07-12"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m20.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m20&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m20+lang:fr&unique=prints&order=set",
+    "released_at": "2019-07-12",
+    "cards_count": 345
   },
   {
     "code": "mh1",
     "name": "Modern Horizons",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
-    "released_at": "2019-06-14"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mh1&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mh1+lang:fr&unique=prints&order=set",
+    "released_at": "2019-06-14",
+    "cards_count": 255
   },
   {
     "code": "war",
     "name": "War of the Spark",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awar&unique=prints",
-    "released_at": "2019-05-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:war&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:war+lang:fr&unique=prints&order=set",
+    "released_at": "2019-05-03",
+    "cards_count": 312
   },
   {
     "code": "rna",
     "name": "Ravnica Allegiance",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arna&unique=prints",
-    "released_at": "2019-01-25"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:rna&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:rna+lang:fr&unique=prints&order=set",
+    "released_at": "2019-01-25",
+    "cards_count": 273
   },
   {
     "code": "grn",
     "name": "Guilds of Ravnica",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agrn&unique=prints",
-    "released_at": "2018-10-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:grn&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:grn+lang:fr&unique=prints&order=set",
+    "released_at": "2018-10-05",
+    "cards_count": 273
   },
   {
     "code": "c18",
     "name": "Commander 2018",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c18.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac18&unique=prints",
-    "released_at": "2018-08-10"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c18.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c18&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c18+lang:fr&unique=prints&order=set",
+    "released_at": "2018-08-10",
+    "cards_count": 307
   },
   {
     "code": "m19",
     "name": "Core Set 2019",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
-    "released_at": "2018-07-13"
-  },
-  {
-    "code": "bbd",
-    "name": "Battlebond",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/bbd.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abbd&unique=prints",
-    "released_at": "2018-06-08"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m19&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m19+lang:fr&unique=prints&order=set",
+    "released_at": "2018-07-13",
+    "cards_count": 314
   },
   {
     "code": "cm2",
     "name": "Commander Anthology Volume II",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/cm2.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acm2&unique=prints",
-    "released_at": "2018-06-08"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cm2.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:cm2&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:cm2+lang:fr&unique=prints&order=set",
+    "released_at": "2018-06-08",
+    "cards_count": 312
+  },
+  {
+    "code": "bbd",
+    "name": "Battlebond",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bbd.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:bbd&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:bbd+lang:fr&unique=prints&order=set",
+    "released_at": "2018-06-08",
+    "cards_count": 256
   },
   {
     "code": "dom",
     "name": "Dominaria",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dom.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adom&unique=prints",
-    "released_at": "2018-04-27"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dom.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dom&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dom+lang:fr&unique=prints&order=set",
+    "released_at": "2018-04-27",
+    "cards_count": 280
   },
   {
     "code": "rix",
     "name": "Rivals of Ixalan",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arix&unique=prints",
-    "released_at": "2018-01-19"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:rix&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:rix+lang:fr&unique=prints&order=set",
+    "released_at": "2018-01-19",
+    "cards_count": 205
   },
   {
     "code": "xln",
     "name": "Ixalan",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints",
-    "released_at": "2017-09-29"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:xln&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:xln+lang:fr&unique=prints&order=set",
+    "released_at": "2017-09-29",
+    "cards_count": 289
   },
   {
     "code": "c17",
     "name": "Commander 2017",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c17.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac17&unique=prints",
-    "released_at": "2017-08-25"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c17.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c17&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c17+lang:fr&unique=prints&order=set",
+    "released_at": "2017-08-25",
+    "cards_count": 309
   },
   {
     "code": "hou",
     "name": "Hour of Devastation",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/hou.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahou&unique=prints",
-    "released_at": "2017-07-14"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hou.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:hou&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:hou+lang:fr&unique=prints&order=set",
+    "released_at": "2017-07-14",
+    "cards_count": 209
   },
   {
     "code": "cma",
     "name": "Commander Anthology",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/cma.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acma&unique=prints",
-    "released_at": "2017-06-09"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cma.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:cma&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:cma+lang:fr&unique=prints&order=set",
+    "released_at": "2017-06-09",
+    "cards_count": 320
   },
   {
     "code": "akh",
     "name": "Amonkhet",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/akh.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints",
-    "released_at": "2017-04-28"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/akh.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:akh&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:akh+lang:fr&unique=prints&order=set",
+    "released_at": "2017-04-28",
+    "cards_count": 287
   },
   {
     "code": "aer",
     "name": "Aether Revolt",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/aer.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aaer&unique=prints",
-    "released_at": "2017-01-20"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/aer.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:aer&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:aer+lang:fr&unique=prints&order=set",
+    "released_at": "2017-01-20",
+    "cards_count": 197
   },
   {
     "code": "c16",
     "name": "Commander 2016",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c16.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac16&unique=prints",
-    "released_at": "2016-11-11"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c16.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c16&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c16+lang:fr&unique=prints&order=set",
+    "released_at": "2016-11-11",
+    "cards_count": 351
   },
   {
     "code": "kld",
     "name": "Kaladesh",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/kld.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akld&unique=prints",
-    "released_at": "2016-09-30"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/kld.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:kld&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:kld+lang:fr&unique=prints&order=set",
+    "released_at": "2016-09-30",
+    "cards_count": 278
   },
   {
     "code": "cn2",
     "name": "Conspiracy: Take the Crown",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/cn2.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acn2&unique=prints",
-    "released_at": "2016-08-26"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cn2.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:cn2&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:cn2+lang:fr&unique=prints&order=set",
+    "released_at": "2016-08-26",
+    "cards_count": 222
   },
   {
     "code": "emn",
     "name": "Eldritch Moon",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/emn.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aemn&unique=prints",
-    "released_at": "2016-07-22"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/emn.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:emn&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:emn+lang:fr&unique=prints&order=set",
+    "released_at": "2016-07-22",
+    "cards_count": 208
   },
   {
     "code": "soi",
     "name": "Shadows over Innistrad",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/soi.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asoi&unique=prints",
-    "released_at": "2016-04-08"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/soi.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:soi&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:soi+lang:fr&unique=prints&order=set",
+    "released_at": "2016-04-08",
+    "cards_count": 302
   },
   {
     "code": "ogw",
     "name": "Oath of the Gatewatch",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ogw.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aogw&unique=prints",
-    "released_at": "2016-01-22"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ogw.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ogw&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ogw+lang:fr&unique=prints&order=set",
+    "released_at": "2016-01-22",
+    "cards_count": 187
   },
   {
     "code": "c15",
     "name": "Commander 2015",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c15.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac15&unique=prints",
-    "released_at": "2015-11-13"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c15.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c15&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c15+lang:fr&unique=prints&order=set",
+    "released_at": "2015-11-13",
+    "cards_count": 342
   },
   {
     "code": "bfz",
     "name": "Battle for Zendikar",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/bfz.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abfz&unique=prints",
-    "released_at": "2015-10-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bfz.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:bfz&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:bfz+lang:fr&unique=prints&order=set",
+    "released_at": "2015-10-02",
+    "cards_count": 299
   },
   {
     "code": "ori",
     "name": "Magic Origins",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ori.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints",
-    "released_at": "2015-07-17"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ori.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ori&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ori+lang:fr&unique=prints&order=set",
+    "released_at": "2015-07-17",
+    "cards_count": 288
   },
   {
     "code": "dtk",
     "name": "Dragons of Tarkir",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dtk.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints",
-    "released_at": "2015-03-27"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dtk.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dtk&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dtk+lang:fr&unique=prints&order=set",
+    "released_at": "2015-03-27",
+    "cards_count": 264
   },
   {
     "code": "frf",
     "name": "Fate Reforged",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/frf.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afrf&unique=prints",
-    "released_at": "2015-01-23"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/frf.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:frf&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:frf+lang:fr&unique=prints&order=set",
+    "released_at": "2015-01-23",
+    "cards_count": 191
   },
   {
     "code": "c14",
     "name": "Commander 2014",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c14.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac14&unique=prints",
-    "released_at": "2014-11-07"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c14.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c14&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c14+lang:fr&unique=prints&order=set",
+    "released_at": "2014-11-07",
+    "cards_count": 337
   },
   {
     "code": "ktk",
     "name": "Khans of Tarkir",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ktk.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aktk&unique=prints",
-    "released_at": "2014-09-26"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ktk.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ktk&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ktk+lang:fr&unique=prints&order=set",
+    "released_at": "2014-09-26",
+    "cards_count": 293
   },
   {
     "code": "m15",
     "name": "Magic 2015",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m15.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am15&unique=prints",
-    "released_at": "2014-07-18"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m15.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m15&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m15+lang:fr&unique=prints&order=set",
+    "released_at": "2014-07-18",
+    "cards_count": 284
   },
   {
     "code": "cns",
     "name": "Conspiracy",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/cns.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acns&unique=prints",
-    "released_at": "2014-06-06"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cns.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:cns&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:cns+lang:fr&unique=prints&order=set",
+    "released_at": "2014-06-06",
+    "cards_count": 210
   },
   {
     "code": "jou",
     "name": "Journey into Nyx",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/jou.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajou&unique=prints",
-    "released_at": "2014-05-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jou.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:jou&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:jou+lang:fr&unique=prints&order=set",
+    "released_at": "2014-05-02",
+    "cards_count": 165
   },
   {
     "code": "bng",
     "name": "Born of the Gods",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/bng.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abng&unique=prints",
-    "released_at": "2014-02-07"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bng.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:bng&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:bng+lang:fr&unique=prints&order=set",
+    "released_at": "2014-02-07",
+    "cards_count": 165
   },
   {
     "code": "c13",
     "name": "Commander 2013",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/c13.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ac13&unique=prints",
-    "released_at": "2013-11-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c13.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:c13&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:c13+lang:fr&unique=prints&order=set",
+    "released_at": "2013-11-01",
+    "cards_count": 356
   },
   {
     "code": "ths",
     "name": "Theros",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ths.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aths&unique=prints",
-    "released_at": "2013-09-27"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ths.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ths&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ths+lang:fr&unique=prints&order=set",
+    "released_at": "2013-09-27",
+    "cards_count": 249
   },
   {
     "code": "m14",
     "name": "Magic 2014",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m14.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am14&unique=prints",
-    "released_at": "2013-07-19"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m14.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m14&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m14+lang:fr&unique=prints&order=set",
+    "released_at": "2013-07-19",
+    "cards_count": 249
   },
   {
     "code": "dgm",
     "name": "Dragon's Maze",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dgm.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adgm&unique=prints",
-    "released_at": "2013-05-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dgm.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dgm&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dgm+lang:fr&unique=prints&order=set",
+    "released_at": "2013-05-03",
+    "cards_count": 156
   },
   {
     "code": "gtc",
     "name": "Gatecrash",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/gtc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agtc&unique=prints",
-    "released_at": "2013-02-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gtc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:gtc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:gtc+lang:fr&unique=prints&order=set",
+    "released_at": "2013-02-01",
+    "cards_count": 249
   },
   {
     "code": "rtr",
     "name": "Return to Ravnica",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/rtr.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints",
-    "released_at": "2012-10-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rtr.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:rtr&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:rtr+lang:fr&unique=prints&order=set",
+    "released_at": "2012-10-05",
+    "cards_count": 274
   },
   {
     "code": "m13",
     "name": "Magic 2013",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m13.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am13&unique=prints",
-    "released_at": "2012-07-13"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m13.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m13&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m13+lang:fr&unique=prints&order=set",
+    "released_at": "2012-07-13",
+    "cards_count": 249
   },
   {
     "code": "avr",
     "name": "Avacyn Restored",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/avr.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints",
-    "released_at": "2012-05-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/avr.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:avr&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:avr+lang:fr&unique=prints&order=set",
+    "released_at": "2012-05-04",
+    "cards_count": 244
   },
   {
     "code": "dka",
     "name": "Dark Ascension",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dka.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adka&unique=prints",
-    "released_at": "2012-02-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dka.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dka&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dka+lang:fr&unique=prints&order=set",
+    "released_at": "2012-02-03",
+    "cards_count": 158
   },
   {
     "code": "isd",
     "name": "Innistrad",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/isd.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aisd&unique=prints",
-    "released_at": "2011-09-30"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/isd.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:isd&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:isd+lang:fr&unique=prints&order=set",
+    "released_at": "2011-09-30",
+    "cards_count": 264
   },
   {
     "code": "m12",
     "name": "Magic 2012",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m12.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints",
-    "released_at": "2011-07-15"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m12.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m12&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m12+lang:fr&unique=prints&order=set",
+    "released_at": "2011-07-15",
+    "cards_count": 249
   },
   {
     "code": "cmd",
     "name": "Commander 2011",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmd.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints",
-    "released_at": "2011-06-17"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmd.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:cmd&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:cmd+lang:fr&unique=prints&order=set",
+    "released_at": "2011-06-17",
+    "cards_count": 318
   },
   {
     "code": "nph",
     "name": "New Phyrexia",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/nph.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints",
-    "released_at": "2011-05-13"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nph.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:nph&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:nph+lang:fr&unique=prints&order=set",
+    "released_at": "2011-05-13",
+    "cards_count": 175
   },
   {
     "code": "mbs",
     "name": "Mirrodin Besieged",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mbs.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ambs&unique=prints",
-    "released_at": "2011-02-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mbs.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mbs&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mbs+lang:fr&unique=prints&order=set",
+    "released_at": "2011-02-04",
+    "cards_count": 155
   },
   {
     "code": "som",
     "name": "Scars of Mirrodin",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/som.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints",
-    "released_at": "2010-10-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/som.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:som&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:som+lang:fr&unique=prints&order=set",
+    "released_at": "2010-10-01",
+    "cards_count": 249
   },
   {
     "code": "m11",
     "name": "Magic 2011",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m11.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am11&unique=prints",
-    "released_at": "2010-07-16"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m11.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m11&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m11+lang:fr&unique=prints&order=set",
+    "released_at": "2010-07-16",
+    "cards_count": 249
   },
   {
     "code": "roe",
     "name": "Rise of the Eldrazi",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/roe.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints",
-    "released_at": "2010-04-23"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/roe.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:roe&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:roe+lang:fr&unique=prints&order=set",
+    "released_at": "2010-04-23",
+    "cards_count": 248
   },
   {
     "code": "wwk",
     "name": "Worldwake",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/wwk.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints",
-    "released_at": "2010-02-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/wwk.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:wwk&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:wwk+lang:fr&unique=prints&order=set",
+    "released_at": "2010-02-05",
+    "cards_count": 145
   },
   {
     "code": "zen",
     "name": "Zendikar",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/zen.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints",
-    "released_at": "2009-10-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/zen.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:zen&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:zen+lang:fr&unique=prints&order=set",
+    "released_at": "2009-10-02",
+    "cards_count": 269
   },
   {
     "code": "m10",
     "name": "Magic 2010",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/m10.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am10&unique=prints",
-    "released_at": "2009-07-17"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m10.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:m10&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:m10+lang:fr&unique=prints&order=set",
+    "released_at": "2009-07-17",
+    "cards_count": 249
   },
   {
     "code": "arb",
     "name": "Alara Reborn",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/arb.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aarb&unique=prints",
-    "released_at": "2009-04-30"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arb.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:arb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:arb+lang:fr&unique=prints&order=set",
+    "released_at": "2009-04-30",
+    "cards_count": 145
   },
   {
     "code": "con",
     "name": "Conflux",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/con.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acon&unique=prints",
-    "released_at": "2009-02-06"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/con.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:con&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:con+lang:fr&unique=prints&order=set",
+    "released_at": "2009-02-06",
+    "cards_count": 145
   },
   {
     "code": "ala",
     "name": "Shards of Alara",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ala.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aala&unique=prints",
-    "released_at": "2008-10-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ala.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ala&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ala+lang:fr&unique=prints&order=set",
+    "released_at": "2008-10-03",
+    "cards_count": 250
   },
   {
     "code": "eve",
     "name": "Eventide",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/eve.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aeve&unique=prints",
-    "released_at": "2008-07-25"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eve.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:eve&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:eve+lang:fr&unique=prints&order=set",
+    "released_at": "2008-07-25",
+    "cards_count": 180
   },
   {
     "code": "shm",
     "name": "Shadowmoor",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/shm.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
-    "released_at": "2008-05-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/shm.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:shm&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:shm+lang:fr&unique=prints&order=set",
+    "released_at": "2008-05-02",
+    "cards_count": 302
   },
   {
     "code": "mor",
     "name": "Morningtide",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mor.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints",
-    "released_at": "2008-02-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mor.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mor&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mor+lang:fr&unique=prints&order=set",
+    "released_at": "2008-02-01",
+    "cards_count": 150
   },
   {
     "code": "lrw",
     "name": "Lorwyn",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/lrw.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
-    "released_at": "2007-10-12"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lrw.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:lrw&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:lrw+lang:fr&unique=prints&order=set",
+    "released_at": "2007-10-12",
+    "cards_count": 301
   },
   {
     "code": "10e",
     "name": "Tenth Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/10e.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints",
-    "released_at": "2007-07-13"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/10e.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:10e&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:10e+lang:fr&unique=prints&order=set",
+    "released_at": "2007-07-13",
+    "cards_count": 510
   },
   {
     "code": "fut",
     "name": "Future Sight",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/fut.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afut&unique=prints",
-    "released_at": "2007-05-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fut.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:fut&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:fut+lang:fr&unique=prints&order=set",
+    "released_at": "2007-05-04",
+    "cards_count": 180
   },
   {
     "code": "plc",
     "name": "Planar Chaos",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/plc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aplc&unique=prints",
-    "released_at": "2007-02-02"
-  },
-  {
-    "code": "tsb",
-    "name": "Time Spiral Timeshifted",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsp.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsb&unique=prints",
-    "released_at": "2006-10-06"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/plc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:plc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:plc+lang:fr&unique=prints&order=set",
+    "released_at": "2007-02-02",
+    "cards_count": 165
   },
   {
     "code": "tsp",
     "name": "Time Spiral",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsp.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints",
-    "released_at": "2006-10-06"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsp.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:tsp&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:tsp+lang:fr&unique=prints&order=set",
+    "released_at": "2006-10-06",
+    "cards_count": 301
+  },
+  {
+    "code": "tsb",
+    "name": "Time Spiral Timeshifted",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsp.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:tsb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:tsb+lang:fr&unique=prints&order=set",
+    "released_at": "2006-10-06",
+    "cards_count": 121
   },
   {
     "code": "csp",
     "name": "Coldsnap",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/csp.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acsp&unique=prints",
-    "released_at": "2006-07-21"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/csp.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:csp&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:csp+lang:fr&unique=prints&order=set",
+    "released_at": "2006-07-21",
+    "cards_count": 155
   },
   {
     "code": "dis",
     "name": "Dissension",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dis.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints",
-    "released_at": "2006-05-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dis.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dis&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dis+lang:fr&unique=prints&order=set",
+    "released_at": "2006-05-05",
+    "cards_count": 180
   },
   {
     "code": "gpt",
     "name": "Guildpact",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/gpt.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints",
-    "released_at": "2006-02-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gpt.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:gpt&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:gpt+lang:fr&unique=prints&order=set",
+    "released_at": "2006-02-03",
+    "cards_count": 167
   },
   {
     "code": "rav",
     "name": "Ravnica: City of Guilds",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/rav.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints",
-    "released_at": "2005-10-07"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rav.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:rav&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:rav+lang:fr&unique=prints&order=set",
+    "released_at": "2005-10-07",
+    "cards_count": 306
   },
   {
     "code": "9ed",
     "name": "Ninth Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/9ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints",
-    "released_at": "2005-07-29"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/9ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:9ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:9ed+lang:fr&unique=prints&order=set",
+    "released_at": "2005-07-29",
+    "cards_count": 710
   },
   {
     "code": "sok",
     "name": "Saviors of Kamigawa",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/sok.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asok&unique=prints",
-    "released_at": "2005-06-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sok.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:sok&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:sok+lang:fr&unique=prints&order=set",
+    "released_at": "2005-06-03",
+    "cards_count": 165
   },
   {
     "code": "bok",
     "name": "Betrayers of Kamigawa",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/bok.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Abok&unique=prints",
-    "released_at": "2005-02-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bok.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:bok&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:bok+lang:fr&unique=prints&order=set",
+    "released_at": "2005-02-04",
+    "cards_count": 165
   },
   {
     "code": "chk",
     "name": "Champions of Kamigawa",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/chk.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Achk&unique=prints",
-    "released_at": "2004-10-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/chk.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:chk&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:chk+lang:fr&unique=prints&order=set",
+    "released_at": "2004-10-01",
+    "cards_count": 307
   },
   {
     "code": "5dn",
     "name": "Fifth Dawn",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/5dn.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A5dn&unique=prints",
-    "released_at": "2004-06-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/5dn.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:5dn&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:5dn+lang:fr&unique=prints&order=set",
+    "released_at": "2004-06-04",
+    "cards_count": 165
   },
   {
     "code": "dst",
     "name": "Darksteel",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/dst.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adst&unique=prints",
-    "released_at": "2004-02-06"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dst.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:dst&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:dst+lang:fr&unique=prints&order=set",
+    "released_at": "2004-02-06",
+    "cards_count": 165
   },
   {
     "code": "mrd",
     "name": "Mirrodin",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mrd.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amrd&unique=prints",
-    "released_at": "2003-10-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mrd.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mrd&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mrd+lang:fr&unique=prints&order=set",
+    "released_at": "2003-10-02",
+    "cards_count": 306
   },
   {
     "code": "8ed",
     "name": "Eighth Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/8ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A8ed&unique=prints",
-    "released_at": "2003-07-28"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/8ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:8ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:8ed+lang:fr&unique=prints&order=set",
+    "released_at": "2003-07-28",
+    "cards_count": 711
   },
   {
     "code": "scg",
     "name": "Scourge",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/scg.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascg&unique=prints",
-    "released_at": "2003-05-26"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/scg.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:scg&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:scg+lang:fr&unique=prints&order=set",
+    "released_at": "2003-05-26",
+    "cards_count": 143
   },
   {
     "code": "lgn",
     "name": "Legions",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/lgn.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Algn&unique=prints",
-    "released_at": "2003-02-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lgn.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:lgn&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:lgn+lang:fr&unique=prints&order=set",
+    "released_at": "2003-02-03",
+    "cards_count": 145
   },
   {
     "code": "ons",
     "name": "Onslaught",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ons.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aons&unique=prints",
-    "released_at": "2002-10-07"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ons.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ons&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ons+lang:fr&unique=prints&order=set",
+    "released_at": "2002-10-07",
+    "cards_count": 351
   },
   {
     "code": "jud",
     "name": "Judgment",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/jud.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajud&unique=prints",
-    "released_at": "2002-05-27"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jud.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:jud&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:jud+lang:fr&unique=prints&order=set",
+    "released_at": "2002-05-27",
+    "cards_count": 143
   },
   {
     "code": "tor",
     "name": "Torment",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/tor.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ator&unique=prints",
-    "released_at": "2002-02-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tor.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:tor&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:tor+lang:fr&unique=prints&order=set",
+    "released_at": "2002-02-04",
+    "cards_count": 143
   },
   {
     "code": "ody",
     "name": "Odyssey",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ody.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints",
-    "released_at": "2001-10-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ody.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ody&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ody+lang:fr&unique=prints&order=set",
+    "released_at": "2001-10-01",
+    "cards_count": 353
   },
   {
     "code": "apc",
     "name": "Apocalypse",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/apc.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aapc&unique=prints",
-    "released_at": "2001-06-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/apc.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:apc&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:apc+lang:fr&unique=prints&order=set",
+    "released_at": "2001-06-04",
+    "cards_count": 143
   },
   {
     "code": "7ed",
     "name": "Seventh Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/7ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints",
-    "released_at": "2001-04-11"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/7ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:7ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:7ed+lang:fr&unique=prints&order=set",
+    "released_at": "2001-04-11",
+    "cards_count": 708
   },
   {
     "code": "pls",
     "name": "Planeshift",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/pls.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apls&unique=prints",
-    "released_at": "2001-02-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pls.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:pls&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:pls+lang:fr&unique=prints&order=set",
+    "released_at": "2001-02-05",
+    "cards_count": 146
   },
   {
     "code": "inv",
     "name": "Invasion",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/inv.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ainv&unique=prints",
-    "released_at": "2000-10-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/inv.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:inv&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:inv+lang:fr&unique=prints&order=set",
+    "released_at": "2000-10-02",
+    "cards_count": 354
   },
   {
     "code": "pcy",
     "name": "Prophecy",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/pcy.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apcy&unique=prints",
-    "released_at": "2000-06-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pcy.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:pcy&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:pcy+lang:fr&unique=prints&order=set",
+    "released_at": "2000-06-05",
+    "cards_count": 144
   },
   {
     "code": "nem",
     "name": "Nemesis",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/nem.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anem&unique=prints",
-    "released_at": "2000-02-14"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nem.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:nem&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:nem+lang:fr&unique=prints&order=set",
+    "released_at": "2000-02-14",
+    "cards_count": 143
   },
   {
     "code": "mmq",
     "name": "Mercadian Masques",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mmq.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ammq&unique=prints",
-    "released_at": "1999-10-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mmq.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mmq&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mmq+lang:fr&unique=prints&order=set",
+    "released_at": "1999-10-04",
+    "cards_count": 350
   },
   {
     "code": "uds",
     "name": "Urza's Destiny",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/uds.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Auds&unique=prints",
-    "released_at": "1999-06-07"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/uds.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:uds&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:uds+lang:fr&unique=prints&order=set",
+    "released_at": "1999-06-07",
+    "cards_count": 143
   },
   {
     "code": "6ed",
     "name": "Classic Sixth Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/6ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A6ed&unique=prints",
-    "released_at": "1999-04-21"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/6ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:6ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:6ed+lang:fr&unique=prints&order=set",
+    "released_at": "1999-04-21",
+    "cards_count": 351
   },
   {
     "code": "ulg",
     "name": "Urza's Legacy",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ulg.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aulg&unique=prints",
-    "released_at": "1999-02-15"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ulg.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ulg&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ulg+lang:fr&unique=prints&order=set",
+    "released_at": "1999-02-15",
+    "cards_count": 143
   },
   {
     "code": "usg",
     "name": "Urza's Saga",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/usg.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints",
-    "released_at": "1998-10-12"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/usg.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:usg&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:usg+lang:fr&unique=prints&order=set",
+    "released_at": "1998-10-12",
+    "cards_count": 357
   },
   {
     "code": "exo",
     "name": "Exodus",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/exo.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aexo&unique=prints",
-    "released_at": "1998-06-15"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/exo.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:exo&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:exo+lang:fr&unique=prints&order=set",
+    "released_at": "1998-06-15",
+    "cards_count": 143
   },
   {
     "code": "sth",
     "name": "Stronghold",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/sth.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asth&unique=prints",
-    "released_at": "1998-03-02"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sth.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:sth&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:sth+lang:fr&unique=prints&order=set",
+    "released_at": "1998-03-02",
+    "cards_count": 143
   },
   {
     "code": "tmp",
     "name": "Tempest",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/tmp.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmp&unique=prints",
-    "released_at": "1997-10-14"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tmp.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:tmp&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:tmp+lang:fr&unique=prints&order=set",
+    "released_at": "1997-10-14",
+    "cards_count": 350
   },
   {
     "code": "wth",
     "name": "Weatherlight",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/wth.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awth&unique=prints",
-    "released_at": "1997-06-09"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/wth.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:wth&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:wth+lang:fr&unique=prints&order=set",
+    "released_at": "1997-06-09",
+    "cards_count": 167
   },
   {
     "code": "5ed",
     "name": "Fifth Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/5ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A5ed&unique=prints",
-    "released_at": "1997-03-24"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/5ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:5ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:5ed+lang:fr&unique=prints&order=set",
+    "released_at": "1997-03-24",
+    "cards_count": 460
   },
   {
     "code": "vis",
     "name": "Visions",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/vis.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avis&unique=prints",
-    "released_at": "1997-02-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vis.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:vis&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:vis+lang:fr&unique=prints&order=set",
+    "released_at": "1997-02-03",
+    "cards_count": 167
   },
   {
     "code": "mir",
     "name": "Mirage",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/mir.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amir&unique=prints",
-    "released_at": "1996-10-08"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mir.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:mir&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:mir+lang:fr&unique=prints&order=set",
+    "released_at": "1996-10-08",
+    "cards_count": 353
   },
   {
     "code": "all",
     "name": "Alliances",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/all.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aall&unique=prints",
-    "released_at": "1996-06-10"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/all.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:all&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:all+lang:fr&unique=prints&order=set",
+    "released_at": "1996-06-10",
+    "cards_count": 199
   },
   {
     "code": "hml",
     "name": "Homelands",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/hml.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahml&unique=prints",
-    "released_at": "1995-10-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hml.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:hml&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:hml+lang:fr&unique=prints&order=set",
+    "released_at": "1995-10-01",
+    "cards_count": 140
   },
   {
     "code": "ice",
     "name": "Ice Age",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/ice.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints",
-    "released_at": "1995-06-03"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ice.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:ice&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:ice+lang:fr&unique=prints&order=set",
+    "released_at": "1995-06-03",
+    "cards_count": 383
   },
   {
     "code": "4bb",
     "name": "Fourth Edition Foreign Black Border",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/4ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A4bb&unique=prints",
-    "released_at": "1995-04-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/4ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:4bb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:4bb+lang:fr&unique=prints&order=set",
+    "released_at": "1995-04-01",
+    "cards_count": 378
   },
   {
     "code": "4ed",
     "name": "Fourth Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/4ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A4ed&unique=prints",
-    "released_at": "1995-04-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/4ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:4ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:4ed+lang:fr&unique=prints&order=set",
+    "released_at": "1995-04-01",
+    "cards_count": 379
   },
   {
     "code": "fem",
     "name": "Fallen Empires",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/fem.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afem&unique=prints",
-    "released_at": "1994-11-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fem.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:fem&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:fem+lang:fr&unique=prints&order=set",
+    "released_at": "1994-11-01",
+    "cards_count": 187
   },
   {
     "code": "drk",
     "name": "The Dark",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/drk.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adrk&unique=prints",
-    "released_at": "1994-08-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/drk.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:drk&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:drk+lang:fr&unique=prints&order=set",
+    "released_at": "1994-08-01",
+    "cards_count": 122
   },
   {
     "code": "sum",
     "name": "Summer Magic / Edgar",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/psum.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints",
-    "released_at": "1994-06-21"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/psum.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:sum&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:sum+lang:fr&unique=prints&order=set",
+    "released_at": "1994-06-21",
+    "cards_count": 306
   },
   {
     "code": "leg",
     "name": "Legends",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/leg.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints",
-    "released_at": "1994-06-01"
-  },
-  {
-    "code": "3ed",
-    "name": "Revised Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/3ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A3ed&unique=prints",
-    "released_at": "1994-04-11"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/leg.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:leg&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:leg+lang:fr&unique=prints&order=set",
+    "released_at": "1994-06-01",
+    "cards_count": 310
   },
   {
     "code": "fbb",
     "name": "Foreign Black Border",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/3ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints",
-    "released_at": "1994-04-11"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/3ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:fbb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:fbb+lang:fr&unique=prints&order=set",
+    "released_at": "1994-04-11",
+    "cards_count": 307
+  },
+  {
+    "code": "3ed",
+    "name": "Revised Edition",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/3ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:3ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:3ed+lang:fr&unique=prints&order=set",
+    "released_at": "1994-04-11",
+    "cards_count": 306
   },
   {
     "code": "atq",
     "name": "Antiquities",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/atq.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aatq&unique=prints",
-    "released_at": "1994-03-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/atq.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:atq&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:atq+lang:fr&unique=prints&order=set",
+    "released_at": "1994-03-04",
+    "cards_count": 102
   },
   {
     "code": "arn",
     "name": "Arabian Nights",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/arn.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aarn&unique=prints",
-    "released_at": "1993-12-17"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arn.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:arn&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:arn+lang:fr&unique=prints&order=set",
+    "released_at": "1993-12-17",
+    "cards_count": 92
   },
   {
     "code": "2ed",
     "name": "Unlimited Edition",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/2ed.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2ed&unique=prints",
-    "released_at": "1993-12-01"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/2ed.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:2ed&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:2ed+lang:fr&unique=prints&order=set",
+    "released_at": "1993-12-01",
+    "cards_count": 302
   },
   {
     "code": "leb",
     "name": "Limited Edition Beta",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/leb.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aleb&unique=prints",
-    "released_at": "1993-10-04"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/leb.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:leb&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:leb+lang:fr&unique=prints&order=set",
+    "released_at": "1993-10-04",
+    "cards_count": 302
   },
   {
     "code": "lea",
     "name": "Limited Edition Alpha",
-    "icon_svg_uri": "https://svgs.scryfall.io/sets/lea.svg?1753070400",
-    "uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alea&unique=prints",
-    "released_at": "1993-08-05"
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lea.svg?1753675200",
+    "uri": "https://api.scryfall.com/cards/search?q=set:lea&unique=prints&order=set",
+    "uri_fr": "https://api.scryfall.com/cards/search?q=set:lea+lang:fr&unique=prints&order=set",
+    "released_at": "1993-08-05",
+    "cards_count": 295
   }
 ]

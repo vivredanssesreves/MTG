@@ -1,0 +1,1003 @@
+[
+  {
+    "number": "1",
+    "name_en": "Allay",
+    "name_fr": "Apaisement",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/7/07bcb6bc-506c-4827-b008-5728aada6ea7.jpg?1539689668",
+    "link": "https://gatherer.wizards.com/EXO/en-us/1/allay"
+  },
+  {
+    "number": "2",
+    "name_en": "Angelic Blessing",
+    "name_fr": "Bénédiction angélique",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/3/53b0f20e-f3ee-4ad1-944c-66430307c0e0.jpg?1539689690",
+    "link": "https://gatherer.wizards.com/EXO/en-us/2/angelic-blessing"
+  },
+  {
+    "number": "3",
+    "name_en": "Cataclysm",
+    "name_fr": "Cataclysme",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/8/d8197702-698c-4415-aedb-9929eabb08a3.jpg?1539689706",
+    "link": "https://gatherer.wizards.com/EXO/en-us/3/cataclysm"
+  },
+  {
+    "number": "4",
+    "name_en": "Charging Paladin",
+    "name_fr": "Paladin fougueux",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/e/6e77599a-e9ae-4694-a8f6-3bdbd1a2b29e.jpg?1539689723",
+    "link": "https://gatherer.wizards.com/EXO/en-us/4/charging-paladin"
+  },
+  {
+    "number": "5",
+    "name_en": "Convalescence",
+    "name_fr": "Convalescence",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/d/5d9e45c3-b05c-4353-8c30-d99b34c2e4d8.jpg?1539689751",
+    "link": "https://gatherer.wizards.com/EXO/en-us/5/convalescence"
+  },
+  {
+    "number": "6",
+    "name_en": "Exalted Dragon",
+    "name_fr": "Dragon exalté",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/0/30bd9aca-db74-4123-85ed-4e7dcfe24143.jpg?1539689771",
+    "link": "https://gatherer.wizards.com/EXO/en-us/6/exalted-dragon"
+  },
+  {
+    "number": "7",
+    "name_en": "High Ground",
+    "name_fr": "Terrain élevé",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/9/29eca742-9af4-44bd-bffd-f323eedd0893.jpg?1539689790",
+    "link": "https://gatherer.wizards.com/EXO/en-us/7/high-ground"
+  },
+  {
+    "number": "8",
+    "name_en": "Keeper of the Light",
+    "name_fr": "Gardienne de la lumière",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/a/aa852b79-8b4f-429f-b265-2286f627f380.jpg?1539689809",
+    "link": "https://gatherer.wizards.com/EXO/en-us/8/keeper-of-the-light"
+  },
+  {
+    "number": "9",
+    "name_en": "Kor Chant",
+    "name_fr": "Cantique Kor",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/1/617b5e4a-3145-4d3d-aabc-6571d6bffc66.jpg?1539689827",
+    "link": "https://gatherer.wizards.com/EXO/en-us/9/kor-chant"
+  },
+  {
+    "number": "10",
+    "name_en": "Limited Resources",
+    "name_fr": "Ressources limitées",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/2/52580777-de0a-4da9-9095-dbde07f277b1.jpg?1539689845",
+    "link": "https://gatherer.wizards.com/EXO/en-us/10/limited-resources"
+  },
+  {
+    "number": "11",
+    "name_en": "Oath of Lieges",
+    "name_fr": "Serment des hommes liges",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/8/18ba25d0-9508-4804-995b-58721f27c385.jpg?1539689878",
+    "link": "https://gatherer.wizards.com/EXO/en-us/11/oath-of-lieges"
+  },
+  {
+    "number": "12",
+    "name_en": "Paladin en-Vec",
+    "name_fr": "Paladin en-Vec",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/1/c16948b8-8ab0-4098-9cb7-02d2dcae975a.jpg?1539689898",
+    "link": "https://gatherer.wizards.com/EXO/en-us/12/paladin-en-vec"
+  },
+  {
+    "number": "13",
+    "name_en": "Peace of Mind",
+    "name_fr": "Paix de l'esprit",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/6/1654bb10-9d20-49a8-870c-d3c2f27c3469.jpg?1539689917",
+    "link": "https://gatherer.wizards.com/EXO/en-us/13/peace-of-mind"
+  },
+  {
+    "number": "14",
+    "name_en": "Pegasus Stampede",
+    "name_fr": "Ruée de pégases",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/a/0ab1839e-54c4-4c59-a8b1-35339461bcf0.jpg?1539689937",
+    "link": "https://gatherer.wizards.com/EXO/en-us/14/pegasus-stampede"
+  },
+  {
+    "number": "15",
+    "name_en": "Penance",
+    "name_fr": "Pénitence",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/3/83f2ec47-1681-45a6-b0eb-8b646dd7cc7c.jpg?1539689951",
+    "link": "https://gatherer.wizards.com/EXO/en-us/15/penance"
+  },
+  {
+    "number": "16",
+    "name_en": "Reaping the Rewards",
+    "name_fr": "Vivre sur le pays",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/b/ab67691a-26e7-4f70-a5bb-8bebee24081f.jpg?1539689973",
+    "link": "https://gatherer.wizards.com/EXO/en-us/16/reaping-the-rewards"
+  },
+  {
+    "number": "17",
+    "name_en": "Reconnaissance",
+    "name_fr": "Reconnaissance",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/5/5523cf7f-5502-4251-8d1a-13858f69ad84.jpg?1539689990",
+    "link": "https://gatherer.wizards.com/EXO/en-us/17/reconnaissance"
+  },
+  {
+    "number": "18",
+    "name_en": "Shackles",
+    "name_fr": "Entraves",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/7/c7da1871-c19a-4ffe-8a65-58496cb3e2f8.jpg?1539690005",
+    "link": "https://gatherer.wizards.com/EXO/en-us/18/shackles"
+  },
+  {
+    "number": "19",
+    "name_en": "Shield Mate",
+    "name_fr": "Compagnon de bouclier",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/5/c5f4a27f-b164-4a3e-9f17-1bd0bcbf77e7.jpg?1539690015",
+    "link": "https://gatherer.wizards.com/EXO/en-us/19/shield-mate"
+  },
+  {
+    "number": "20",
+    "name_en": "Soltari Visionary",
+    "name_fr": "Soltari visionnaire",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/1/d127406e-ac47-40c4-8d86-d85b0b2014e2.jpg?1539690024",
+    "link": "https://gatherer.wizards.com/EXO/en-us/20/soltari-visionary"
+  },
+  {
+    "number": "21",
+    "name_en": "Soul Warden",
+    "name_fr": "Garde des âmes",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/0/b02ccf80-b363-4f1e-92c4-2ac742bfb04d.jpg?1539690035",
+    "link": "https://gatherer.wizards.com/EXO/en-us/21/soul-warden"
+  },
+  {
+    "number": "22",
+    "name_en": "Standing Troops",
+    "name_fr": "Troupes régulières",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0febe9c4-d127-489c-b5eb-7c31e2f2a163.jpg?1539690045",
+    "link": "https://gatherer.wizards.com/EXO/en-us/22/standing-troops"
+  },
+  {
+    "number": "23",
+    "name_en": "Treasure Hunter",
+    "name_fr": "Chasseur de trésor",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/f/cf324a57-4afd-475e-8b7f-f1a75c38d1bf.jpg?1539690061",
+    "link": "https://gatherer.wizards.com/EXO/en-us/23/treasure-hunter"
+  },
+  {
+    "number": "24",
+    "name_en": "Wall of Nets",
+    "name_fr": "Mur de filets",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/2/d2251724-c8ec-43d8-9a82-4f16bfc4b47a.jpg?1539690084",
+    "link": "https://gatherer.wizards.com/EXO/en-us/24/wall-of-nets"
+  },
+  {
+    "number": "25",
+    "name_en": "Welkin Hawk",
+    "name_fr": "Faucon des cieux",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/b/1b695925-5ffc-4500-8ddb-40289eb8a078.jpg?1539690099",
+    "link": "https://gatherer.wizards.com/EXO/en-us/25/welkin-hawk"
+  },
+  {
+    "number": "26",
+    "name_en": "Zealots en-Dal",
+    "name_fr": "Zélateurs en-Dal",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/f/5fb850af-7024-4c87-b272-76688c1248df.jpg?1539690110",
+    "link": "https://gatherer.wizards.com/EXO/en-us/26/zealots-en-dal"
+  },
+  {
+    "number": "27",
+    "name_en": "Aether Tide",
+    "name_fr": "Marée d'Aether",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/5/a5ce047a-a8af-48a7-9029-1a0c15270094.jpg?1539690123",
+    "link": "https://gatherer.wizards.com/EXO/en-us/27/aether-tide"
+  },
+  {
+    "number": "28",
+    "name_en": "Cunning",
+    "name_fr": "Ruse",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/4/840f3d3b-bc3d-4548-a8d7-469436c2b30d.jpg?1539690139",
+    "link": "https://gatherer.wizards.com/EXO/en-us/28/cunning"
+  },
+  {
+    "number": "29",
+    "name_en": "Curiosity",
+    "name_fr": "Curiosité",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/a/5ae94e8b-ca24-4820-9cad-d0ef941fed51.jpg?1539690156",
+    "link": "https://gatherer.wizards.com/EXO/en-us/29/curiosity"
+  },
+  {
+    "number": "30",
+    "name_en": "Dominating Licid",
+    "name_fr": "Litique dominateur",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/1/8134fbc3-f671-425e-a6ff-41e1458d4823.jpg?1539690168",
+    "link": "https://gatherer.wizards.com/EXO/en-us/30/dominating-licid"
+  },
+  {
+    "number": "31",
+    "name_en": "Ephemeron",
+    "name_fr": "Ephéméroptère",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/e/fe8b51a2-f566-47e4-ad51-0fd9bd87ff61.jpg?1539690181",
+    "link": "https://gatherer.wizards.com/EXO/en-us/31/ephemeron"
+  },
+  {
+    "number": "32",
+    "name_en": "Equilibrium",
+    "name_fr": "Equilibre",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/a/6a9b5d07-5fc8-4ae8-ab64-a01381c6deb8.jpg?1539690203",
+    "link": "https://gatherer.wizards.com/EXO/en-us/32/equilibrium"
+  },
+  {
+    "number": "33",
+    "name_en": "Ertai, Wizard Adept",
+    "name_fr": "Ertaï, expert sorcier",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/1/51734557-d458-47e0-b3aa-9b39a1451278.jpg?1539690218",
+    "link": "https://gatherer.wizards.com/EXO/en-us/33/ertai-wizard-adept"
+  },
+  {
+    "number": "34",
+    "name_en": "Fade Away",
+    "name_fr": "Disparition progressive",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/c/6c358856-46ca-453c-ba76-e192a9d560b0.jpg?1539690230",
+    "link": "https://gatherer.wizards.com/EXO/en-us/34/fade-away"
+  },
+  {
+    "number": "35",
+    "name_en": "Forbid",
+    "name_fr": "Interdit",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/c/fcc01f8a-aca9-40c0-b3c6-caf2b1c3c289.jpg?1539690245",
+    "link": "https://gatherer.wizards.com/EXO/en-us/35/forbid"
+  },
+  {
+    "number": "36",
+    "name_en": "Keeper of the Mind",
+    "name_fr": "Gardienne de l'esprit",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/7/c777d6b3-9078-459c-99ed-3bdc606b4a87.jpg?1539690260",
+    "link": "https://gatherer.wizards.com/EXO/en-us/36/keeper-of-the-mind"
+  },
+  {
+    "number": "37",
+    "name_en": "Killer Whale",
+    "name_fr": "Baleine tueuse",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/8/f8e82e6c-be11-461d-b438-5fc7785ccbec.jpg?1539690280",
+    "link": "https://gatherer.wizards.com/EXO/en-us/37/killer-whale"
+  },
+  {
+    "number": "38",
+    "name_en": "Mana Breach",
+    "name_fr": "Brêche de mana",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/1/a1ae48ae-ad81-4051-8e3a-98f9eb25d987.jpg?1539690301",
+    "link": "https://gatherer.wizards.com/EXO/en-us/38/mana-breach"
+  },
+  {
+    "number": "39",
+    "name_en": "Merfolk Looter",
+    "name_fr": "Détrousseur ondin",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/a/3a20d665-269b-4bbc-a544-03206447c693.jpg?1539690326",
+    "link": "https://gatherer.wizards.com/EXO/en-us/39/merfolk-looter"
+  },
+  {
+    "number": "40",
+    "name_en": "Mind Over Matter",
+    "name_fr": "L'esprit dépasse la matière",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/2/12bf72ab-3879-40f6-8d64-b0a3987e96c7.jpg?1539690340",
+    "link": "https://gatherer.wizards.com/EXO/en-us/40/mind-over-matter"
+  },
+  {
+    "number": "41",
+    "name_en": "Mirozel",
+    "name_fr": "Mirozel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/8/d80dc307-b3c0-40ae-b16e-6ec0a96d630c.jpg?1539690354",
+    "link": "https://gatherer.wizards.com/EXO/en-us/41/mirozel"
+  },
+  {
+    "number": "42",
+    "name_en": "Oath of Scholars",
+    "name_fr": "Serment des érudits",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/c/bc939341-d198-409e-89ac-4dd762fbb7fd.jpg?1539690366",
+    "link": "https://gatherer.wizards.com/EXO/en-us/42/oath-of-scholars"
+  },
+  {
+    "number": "43",
+    "name_en": "Robe of Mirrors",
+    "name_fr": "Robe de miroirs",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/9/7935dd59-3530-4ae5-91c0-06ac71fb6840.jpg?1539690383",
+    "link": "https://gatherer.wizards.com/EXO/en-us/43/robe-of-mirrors"
+  },
+  {
+    "number": "44",
+    "name_en": "Rootwater Mystic",
+    "name_fr": "Mystique de Souchemer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/4/24d55e7c-c989-4fd0-bdfa-644f5f07908b.jpg?1539690397",
+    "link": "https://gatherer.wizards.com/EXO/en-us/44/rootwater-mystic"
+  },
+  {
+    "number": "45",
+    "name_en": "School of Piranha",
+    "name_fr": "Banc de piranhas",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/1/61e8830d-c119-42a3-8a54-f91565782215.jpg?1539690416",
+    "link": "https://gatherer.wizards.com/EXO/en-us/45/school-of-piranha"
+  },
+  {
+    "number": "46",
+    "name_en": "Scrivener",
+    "name_fr": "Scribouillard",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/e/0eec04fe-af1c-498b-a146-8ebce04e339d.jpg?1539690439",
+    "link": "https://gatherer.wizards.com/EXO/en-us/46/scrivener"
+  },
+  {
+    "number": "47",
+    "name_en": "Thalakos Drifters",
+    "name_fr": "Vagabonds thalakos",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/9/e9323b29-2ce4-4b3b-891f-0a1bcd34b82b.jpg?1539690467",
+    "link": "https://gatherer.wizards.com/EXO/en-us/47/thalakos-drifters"
+  },
+  {
+    "number": "48",
+    "name_en": "Thalakos Scout",
+    "name_fr": "Eclaireur thalakos",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/0/805d52de-d3bc-4180-85ef-0fa3f2f3ad9a.jpg?1539690488",
+    "link": "https://gatherer.wizards.com/EXO/en-us/48/thalakos-scout"
+  },
+  {
+    "number": "49",
+    "name_en": "Theft of Dreams",
+    "name_fr": "Détournement des rêves",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/7/37630d9e-fdef-43ac-aa37-7636a81f1965.jpg?1539690511",
+    "link": "https://gatherer.wizards.com/EXO/en-us/49/theft-of-dreams"
+  },
+  {
+    "number": "50",
+    "name_en": "Treasure Trove",
+    "name_fr": "Caverne au trésor",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/a/9a23ba3d-0b3a-4fa7-a7e7-3bb6d8d4656f.jpg?1539690526",
+    "link": "https://gatherer.wizards.com/EXO/en-us/50/treasure-trove"
+  },
+  {
+    "number": "51",
+    "name_en": "Wayward Soul",
+    "name_fr": "Ame rétive",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/1/0143572c-b60f-4551-b60e-d480b9b81231.jpg?1539690544",
+    "link": "https://gatherer.wizards.com/EXO/en-us/51/wayward-soul"
+  },
+  {
+    "number": "52",
+    "name_en": "Whiptongue Frog",
+    "name_fr": "Grenouille à langue de fouet",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/6/9692d526-d1d8-4d50-9d93-39137e824591.jpg?1539690560",
+    "link": "https://gatherer.wizards.com/EXO/en-us/52/whiptongue-frog"
+  },
+  {
+    "number": "53",
+    "name_en": "Carnophage",
+    "name_fr": "Créophage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/e/2edd9cd2-9916-4fce-ab14-d35e1f8de12a.jpg?1539690573",
+    "link": "https://gatherer.wizards.com/EXO/en-us/53/carnophage"
+  },
+  {
+    "number": "54",
+    "name_en": "Cat Burglar",
+    "name_fr": "Monte-en-l'air",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/e/1eacf876-a017-43f7-b4a2-077ad9e4432e.jpg?1539690584",
+    "link": "https://gatherer.wizards.com/EXO/en-us/54/cat-burglar"
+  },
+  {
+    "number": "55",
+    "name_en": "Culling the Weak",
+    "name_fr": "Sacrifice des faibles",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/5/c5dd2518-7dc6-4719-a177-ecb74a5db2c6.jpg?1539690594",
+    "link": "https://gatherer.wizards.com/EXO/en-us/55/culling-the-weak"
+  },
+  {
+    "number": "56",
+    "name_en": "Cursed Flesh",
+    "name_fr": "Chair maudite",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/b/fb894dfc-332c-4ba9-a224-f65942c57fb2.jpg?1539690608",
+    "link": "https://gatherer.wizards.com/EXO/en-us/56/cursed-flesh"
+  },
+  {
+    "number": "57",
+    "name_en": "Dauthi Cutthroat",
+    "name_fr": "Coupe-jarret dauthi",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/1/a1a21058-a048-4941-9e18-92d368e01764.jpg?1539690623",
+    "link": "https://gatherer.wizards.com/EXO/en-us/57/dauthi-cutthroat"
+  },
+  {
+    "number": "58",
+    "name_en": "Dauthi Jackal",
+    "name_fr": "Chacal dauthi",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/1/11942599-0d0b-4d45-b7da-466531f2b879.jpg?1539690634",
+    "link": "https://gatherer.wizards.com/EXO/en-us/58/dauthi-jackal"
+  },
+  {
+    "number": "59",
+    "name_en": "Dauthi Warlord",
+    "name_fr": "Seigneur de guerre dauthi",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e86697b4-d97c-4dfe-b706-ababaa93fe0e.jpg?1539690649",
+    "link": "https://gatherer.wizards.com/EXO/en-us/59/dauthi-warlord"
+  },
+  {
+    "number": "60",
+    "name_en": "Death's Duet",
+    "name_fr": "Duo macabre",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/c/ac3f381b-db35-4d4c-8faf-095e69776e94.jpg?1539690668",
+    "link": "https://gatherer.wizards.com/EXO/en-us/60/deaths-duet"
+  },
+  {
+    "number": "61",
+    "name_en": "Entropic Specter",
+    "name_fr": "Spectre entropique",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/9/099643e2-b7ef-43e7-8083-6c8e054478e2.jpg?1539690679",
+    "link": "https://gatherer.wizards.com/EXO/en-us/61/entropic-specter"
+  },
+  {
+    "number": "62",
+    "name_en": "Fugue",
+    "name_fr": "Fugue mentale",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/0/a024469c-1c3a-4a44-a0e7-1f18ac635d72.jpg?1539690695",
+    "link": "https://gatherer.wizards.com/EXO/en-us/62/fugue"
+  },
+  {
+    "number": "63",
+    "name_en": "Grollub",
+    "name_fr": "Grollub",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/2/e2ce3fa6-8201-4fad-87a6-6c13839e7381.jpg?1539690710",
+    "link": "https://gatherer.wizards.com/EXO/en-us/63/grollub"
+  },
+  {
+    "number": "64",
+    "name_en": "Hatred",
+    "name_fr": "Haine",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/0/a077444b-76c9-4134-b7af-e1c6fffea466.jpg?1539690720",
+    "link": "https://gatherer.wizards.com/EXO/en-us/64/hatred"
+  },
+  {
+    "number": "65",
+    "name_en": "Keeper of the Dead",
+    "name_fr": "Gardienne des morts",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/5/85436dc6-a067-4894-b592-45d4a66d208b.jpg?1539690733",
+    "link": "https://gatherer.wizards.com/EXO/en-us/65/keeper-of-the-dead"
+  },
+  {
+    "number": "66",
+    "name_en": "Mind Maggots",
+    "name_fr": "Vermine psychophage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/7/e7f145fc-2362-4451-a8ba-bfb3902cb272.jpg?1539690745",
+    "link": "https://gatherer.wizards.com/EXO/en-us/66/mind-maggots"
+  },
+  {
+    "number": "67",
+    "name_en": "Nausea",
+    "name_fr": "Nausée",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/c/7c8cbfeb-c703-42d5-9497-6fb39eacce7c.jpg?1539690758",
+    "link": "https://gatherer.wizards.com/EXO/en-us/67/nausea"
+  },
+  {
+    "number": "68",
+    "name_en": "Necrologia",
+    "name_fr": "Nécrosophie",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/9/6967e789-6edd-492e-a09a-0e8b69b0baaa.jpg?1539690771",
+    "link": "https://gatherer.wizards.com/EXO/en-us/68/necrologia"
+  },
+  {
+    "number": "69",
+    "name_en": "Oath of Ghouls",
+    "name_fr": "Serment des goules",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/5/152aba5c-36ac-4a6c-a718-f3cc6b9c8ade.jpg?1539690793",
+    "link": "https://gatherer.wizards.com/EXO/en-us/69/oath-of-ghouls"
+  },
+  {
+    "number": "70",
+    "name_en": "Pit Spawn",
+    "name_fr": "Engeance de l'Abîme",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/b/4bcd773f-51ff-4de6-9982-8aec958d742a.jpg?1539690815",
+    "link": "https://gatherer.wizards.com/EXO/en-us/70/pit-spawn"
+  },
+  {
+    "number": "71",
+    "name_en": "Plaguebearer",
+    "name_fr": "Porteur de peste",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/d/fd682a86-6042-4cf4-977a-4472a31748d0.jpg?1539690837",
+    "link": "https://gatherer.wizards.com/EXO/en-us/71/plaguebearer"
+  },
+  {
+    "number": "72",
+    "name_en": "Recurring Nightmare",
+    "name_fr": "Cauchemar récurrent",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/5/a5adcf3e-539b-4833-afdf-28fee333fbb2.jpg?1539690855",
+    "link": "https://gatherer.wizards.com/EXO/en-us/72/recurring-nightmare"
+  },
+  {
+    "number": "73",
+    "name_en": "Scare Tactics",
+    "name_fr": "Tactique d'intimidation",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/e/fee6c6f0-e003-4507-bc7b-e71a9d5ad1ef.jpg?1539690879",
+    "link": "https://gatherer.wizards.com/EXO/en-us/73/scare-tactics"
+  },
+  {
+    "number": "74",
+    "name_en": "Slaughter",
+    "name_fr": "Tuerie",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/0/7083bf0f-2daf-4e09-ad48-325430f2007d.jpg?1539690897",
+    "link": "https://gatherer.wizards.com/EXO/en-us/74/slaughter"
+  },
+  {
+    "number": "75",
+    "name_en": "Spike Cannibal",
+    "name_fr": "Epix cannibale",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/8/f83d4446-6a3a-4525-a7bc-c265095459a4.jpg?1539690918",
+    "link": "https://gatherer.wizards.com/EXO/en-us/75/spike-cannibal"
+  },
+  {
+    "number": "76",
+    "name_en": "Thrull Surgeon",
+    "name_fr": "Chirurgien srâne",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/3/63e8c802-448e-49f4-921b-91e9e6c6b6bb.jpg?1539690949",
+    "link": "https://gatherer.wizards.com/EXO/en-us/76/thrull-surgeon"
+  },
+  {
+    "number": "77",
+    "name_en": "Vampire Hounds",
+    "name_fr": "Chiens de chasse vampires",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/9/8950e248-66f0-4c5f-9e8e-a5eac3b852b9.jpg?1539690967",
+    "link": "https://gatherer.wizards.com/EXO/en-us/77/vampire-hounds"
+  },
+  {
+    "number": "78",
+    "name_en": "Volrath's Dungeon",
+    "name_fr": "Oubliettes de Wöhlrajh",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/0/705ad51e-0afd-45d2-9792-7fdb2d112779.jpg?1539691003",
+    "link": "https://gatherer.wizards.com/EXO/en-us/78/volraths-dungeon"
+  },
+  {
+    "number": "79",
+    "name_en": "Anarchist",
+    "name_fr": "Anarchiste",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/c/9c02a2bd-0a3e-48ed-81fa-ca27e76eee59.jpg?1539691047",
+    "link": "https://gatherer.wizards.com/EXO/en-us/79/anarchist"
+  },
+  {
+    "number": "80",
+    "name_en": "Cinder Crawler",
+    "name_fr": "Reptile des cendres",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/e/1eb8dba0-f191-4131-8d0b-870225c1d5c2.jpg?1539691084",
+    "link": "https://gatherer.wizards.com/EXO/en-us/80/cinder-crawler"
+  },
+  {
+    "number": "81",
+    "name_en": "Dizzying Gaze",
+    "name_fr": "Vertige fascinateur",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/e/aea8bbf6-c4e2-473c-a1e5-2be1f7eb170f.jpg?1539691112",
+    "link": "https://gatherer.wizards.com/EXO/en-us/81/dizzying-gaze"
+  },
+  {
+    "number": "82",
+    "name_en": "Fighting Chance",
+    "name_fr": "Chances de victoire",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/1/d1e5426f-e060-4111-a909-6a15d6550003.jpg?1539691140",
+    "link": "https://gatherer.wizards.com/EXO/en-us/82/fighting-chance"
+  },
+  {
+    "number": "83",
+    "name_en": "Flowstone Flood",
+    "name_fr": "Flot de fluipierre",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/2/62336b79-aab0-4194-b275-3134d284501f.jpg?1539691161",
+    "link": "https://gatherer.wizards.com/EXO/en-us/83/flowstone-flood"
+  },
+  {
+    "number": "84",
+    "name_en": "Furnace Brood",
+    "name_fr": "Fils du Fourneau",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/8/981e55ee-581c-4468-8978-bfecd9644794.jpg?1539691179",
+    "link": "https://gatherer.wizards.com/EXO/en-us/84/furnace-brood"
+  },
+  {
+    "number": "85",
+    "name_en": "Keeper of the Flame",
+    "name_fr": "Gardienne de la flamme",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/3/c3fd8b2a-3d5d-480b-8740-1c9e7e2b2212.jpg?1539691197",
+    "link": "https://gatherer.wizards.com/EXO/en-us/85/keeper-of-the-flame"
+  },
+  {
+    "number": "86",
+    "name_en": "Mage il-Vec",
+    "name_fr": "Mage il-Vec",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/9/99c3d79e-5041-4069-b909-f2647dd63b68.jpg?1539691217",
+    "link": "https://gatherer.wizards.com/EXO/en-us/86/mage-il-vec"
+  },
+  {
+    "number": "87",
+    "name_en": "Maniacal Rage",
+    "name_fr": "Rage démente",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/c/7c941d0b-511b-47ca-a880-1bd41e007154.jpg?1539691232",
+    "link": "https://gatherer.wizards.com/EXO/en-us/87/maniacal-rage"
+  },
+  {
+    "number": "88",
+    "name_en": "Mogg Assassin",
+    "name_fr": "Assassin Mogg",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/3/83de92c8-9a06-4010-b64e-d147eee6e044.jpg?1539691247",
+    "link": "https://gatherer.wizards.com/EXO/en-us/88/mogg-assassin"
+  },
+  {
+    "number": "89",
+    "name_en": "Monstrous Hound",
+    "name_fr": "Chien monstrueux",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/3/d391393c-a278-4894-8e10-bb18dfa34e19.jpg?1539691260",
+    "link": "https://gatherer.wizards.com/EXO/en-us/89/monstrous-hound"
+  },
+  {
+    "number": "90",
+    "name_en": "Oath of Mages",
+    "name_fr": "Serment des mages",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/0/00825941-2020-4560-af2f-e4c22404da9c.jpg?1539691275",
+    "link": "https://gatherer.wizards.com/EXO/en-us/90/oath-of-mages"
+  },
+  {
+    "number": "91",
+    "name_en": "Ogre Shaman",
+    "name_fr": "Shamane ogre",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/8/78d5b708-f05d-459a-b29a-cb06cb8c4f2a.jpg?1539691289",
+    "link": "https://gatherer.wizards.com/EXO/en-us/91/ogre-shaman"
+  },
+  {
+    "number": "92",
+    "name_en": "Onslaught",
+    "name_fr": "Assaut",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/4/d42f080c-7dfd-4fa2-b5db-c0e8fca9135b.jpg?1539691303",
+    "link": "https://gatherer.wizards.com/EXO/en-us/92/onslaught"
+  },
+  {
+    "number": "93",
+    "name_en": "Pandemonium",
+    "name_fr": "Pandémonium",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/b/6bc81114-0df2-483c-9c5c-bc9e13764fa1.jpg?1539691325",
+    "link": "https://gatherer.wizards.com/EXO/en-us/93/pandemonium"
+  },
+  {
+    "number": "94",
+    "name_en": "Paroxysm",
+    "name_fr": "Paroxysme",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/9/99135939-3a96-45b2-8e28-53de31136a64.jpg?1539691367",
+    "link": "https://gatherer.wizards.com/EXO/en-us/94/paroxysm"
+  },
+  {
+    "number": "95",
+    "name_en": "Price of Progress",
+    "name_fr": "Prix du progrès",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/082f41d5-2a0c-4c5c-8acd-fe6385bb6d9b.jpg?1539691402",
+    "link": "https://gatherer.wizards.com/EXO/en-us/95/price-of-progress"
+  },
+  {
+    "number": "96",
+    "name_en": "Raging Goblin",
+    "name_fr": "Gobelin enragé",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/b/fbebf322-632c-4607-a31a-035e8af898f2.jpg?1539691429",
+    "link": "https://gatherer.wizards.com/EXO/en-us/96/raging-goblin"
+  },
+  {
+    "number": "97",
+    "name_en": "Ravenous Baboons",
+    "name_fr": "Babouins voraces",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/a/ea4ad266-807a-4878-af94-3dce2f799337.jpg?1539691447",
+    "link": "https://gatherer.wizards.com/EXO/en-us/97/ravenous-baboons"
+  },
+  {
+    "number": "98",
+    "name_en": "Reckless Ogre",
+    "name_fr": "Ogre téméraire",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/a/aad58397-d593-43d5-a2ef-0435f11d2cee.jpg?1539691464",
+    "link": "https://gatherer.wizards.com/EXO/en-us/98/reckless-ogre"
+  },
+  {
+    "number": "99",
+    "name_en": "Sabertooth Wyvern",
+    "name_fr": "Vouivre à dents de sabre",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/6/e68dae6b-ae06-43dc-8df5-d3262095c230.jpg?1539691486",
+    "link": "https://gatherer.wizards.com/EXO/en-us/99/sabertooth-wyvern"
+  },
+  {
+    "number": "100",
+    "name_en": "Scalding Salamander",
+    "name_fr": "Salamandre brûlante",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/3/53d2d0d2-7efa-4ea6-b77a-7bd15b61ef92.jpg?1539691501",
+    "link": "https://gatherer.wizards.com/EXO/en-us/100/scalding-salamander"
+  },
+  {
+    "number": "101",
+    "name_en": "Seismic Assault",
+    "name_fr": "Assaut sismique",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/5/253656d9-9f47-4891-b48f-2362c8d2085a.jpg?1539691520",
+    "link": "https://gatherer.wizards.com/EXO/en-us/101/seismic-assault"
+  },
+  {
+    "number": "102",
+    "name_en": "Shattering Pulse",
+    "name_fr": "Pulsation fracassante",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/1/e187c1c3-f07f-4d1c-98fa-ac20a3ecd30c.jpg?1539691539",
+    "link": "https://gatherer.wizards.com/EXO/en-us/102/shattering-pulse"
+  },
+  {
+    "number": "103",
+    "name_en": "Sonic Burst",
+    "name_fr": "Eclatement sonique",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/4/e4ab685c-b4ee-465d-86ad-0edcfb8bcb2d.jpg?1539691558",
+    "link": "https://gatherer.wizards.com/EXO/en-us/103/sonic-burst"
+  },
+  {
+    "number": "104",
+    "name_en": "Spellshock",
+    "name_fr": "Retour de sortilège",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/f/bf4bd747-5a4f-4417-bc0b-2494aacdecf5.jpg?1539691575",
+    "link": "https://gatherer.wizards.com/EXO/en-us/104/spellshock"
+  },
+  {
+    "number": "105",
+    "name_en": "Avenging Druid",
+    "name_fr": "Druide vengeur",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/d/ad577788-86ec-465e-af0f-16498fcdf7ac.jpg?1539691595",
+    "link": "https://gatherer.wizards.com/EXO/en-us/105/avenging-druid"
+  },
+  {
+    "number": "106",
+    "name_en": "Bequeathal",
+    "name_fr": "Hoirie",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/c/6cbd52de-0a4b-405b-8b30-b1d30d50739c.jpg?1539691609",
+    "link": "https://gatherer.wizards.com/EXO/en-us/106/bequeathal"
+  },
+  {
+    "number": "107",
+    "name_en": "Cartographer",
+    "name_fr": "Cartographe",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/d/6dda989c-668f-4ba0-9e46-32d0f8b18df6.jpg?1539691625",
+    "link": "https://gatherer.wizards.com/EXO/en-us/107/cartographer"
+  },
+  {
+    "number": "108",
+    "name_en": "Crashing Boars",
+    "name_fr": "Déferlante de sangliers",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/a/0a8c7925-cbc0-4e7b-aaf1-64b0f2fab0c8.jpg?1539691639",
+    "link": "https://gatherer.wizards.com/EXO/en-us/108/crashing-boars"
+  },
+  {
+    "number": "109",
+    "name_en": "Elven Palisade",
+    "name_fr": "Palissade elfique",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/6/067461de-fe45-47e5-9307-da4d874cb5f9.jpg?1539691652",
+    "link": "https://gatherer.wizards.com/EXO/en-us/109/elven-palisade"
+  },
+  {
+    "number": "110",
+    "name_en": "Elvish Berserker",
+    "name_fr": "Berserker elfe",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/0/307ed7c5-396e-4f9d-8d37-5fa3e6607e08.jpg?1539691665",
+    "link": "https://gatherer.wizards.com/EXO/en-us/110/elvish-berserker"
+  },
+  {
+    "number": "111",
+    "name_en": "Jackalope Herd",
+    "name_fr": "Troupeau de léporilopes",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/9/f98cb76e-8024-4c8a-a75a-3d7b56491d32.jpg?1539691680",
+    "link": "https://gatherer.wizards.com/EXO/en-us/111/jackalope-herd"
+  },
+  {
+    "number": "112",
+    "name_en": "Keeper of the Beasts",
+    "name_fr": "Gardienne des bêtes",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/2/f2e1c399-296f-4ba8-aca0-579846d2e3de.jpg?1539691695",
+    "link": "https://gatherer.wizards.com/EXO/en-us/112/keeper-of-the-beasts"
+  },
+  {
+    "number": "113",
+    "name_en": "Manabond",
+    "name_fr": "Lien de mana",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/c/0cf80b0a-13f8-4bfd-a343-cb1ba882d6cf.jpg?1539691709",
+    "link": "https://gatherer.wizards.com/EXO/en-us/113/manabond"
+  },
+  {
+    "number": "114",
+    "name_en": "Mirri, Cat Warrior",
+    "name_fr": "Mirri, guerrière chat",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/f/ffff1c55-ffcc-46ab-8187-55d0de1cc912.jpg?1539691724",
+    "link": "https://gatherer.wizards.com/EXO/en-us/114/mirri-cat-warrior"
+  },
+  {
+    "number": "115",
+    "name_en": "Oath of Druids",
+    "name_fr": "Serment des druides",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/7/478c241f-c60e-442e-bc08-207bcc5a2ccd.jpg?1539691738",
+    "link": "https://gatherer.wizards.com/EXO/en-us/115/oath-of-druids"
+  },
+  {
+    "number": "116",
+    "name_en": "Plated Rootwalla",
+    "name_fr": "Agame à plaques",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/2/9211602c-955f-4bde-b8c5-105738fbf252.jpg?1539691752",
+    "link": "https://gatherer.wizards.com/EXO/en-us/116/plated-rootwalla"
+  },
+  {
+    "number": "117",
+    "name_en": "Predatory Hunger",
+    "name_fr": "Faim prédatrice",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/c/ccfb9243-55bf-4c72-8897-295bec49fd66.jpg?1539691770",
+    "link": "https://gatherer.wizards.com/EXO/en-us/117/predatory-hunger"
+  },
+  {
+    "number": "118",
+    "name_en": "Pygmy Troll",
+    "name_fr": "Troll pygmée",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/a/0a954045-d516-4104-a2f0-efa3630f2183.jpg?1539691787",
+    "link": "https://gatherer.wizards.com/EXO/en-us/118/pygmy-troll"
+  },
+  {
+    "number": "119",
+    "name_en": "Rabid Wolverines",
+    "name_fr": "Gloutons enragés",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/8/a809fc3b-31a7-4b02-8c7b-3aec6a6bc304.jpg?1539691804",
+    "link": "https://gatherer.wizards.com/EXO/en-us/119/rabid-wolverines"
+  },
+  {
+    "number": "120",
+    "name_en": "Reclaim",
+    "name_fr": "Récupération",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/1/a1475650-dc81-4fe9-8a80-631191b856da.jpg?1539691834",
+    "link": "https://gatherer.wizards.com/EXO/en-us/120/reclaim"
+  },
+  {
+    "number": "121",
+    "name_en": "Resuscitate",
+    "name_fr": "Ressusciter",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/4/e48d6ea7-5be3-49ce-8fad-22f1576afd28.jpg?1539691871",
+    "link": "https://gatherer.wizards.com/EXO/en-us/121/resuscitate"
+  },
+  {
+    "number": "122",
+    "name_en": "Rootwater Alligator",
+    "name_fr": "Alligator de Souchemer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/6/b63ff24d-ae19-4304-95ad-b4bb9ba2a4e8.jpg?1539691914",
+    "link": "https://gatherer.wizards.com/EXO/en-us/122/rootwater-alligator"
+  },
+  {
+    "number": "123",
+    "name_en": "Skyshroud Elite",
+    "name_fr": "Elite de Linciel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/6/a6bebaf3-ff6b-46e3-8c09-99a801ae244b.jpg?1539691946",
+    "link": "https://gatherer.wizards.com/EXO/en-us/123/skyshroud-elite"
+  },
+  {
+    "number": "124",
+    "name_en": "Skyshroud War Beast",
+    "name_fr": "Bête de guerre de Linciel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/d/3d845b7d-824e-4427-aa5b-73128b5412d5.jpg?1539691977",
+    "link": "https://gatherer.wizards.com/EXO/en-us/124/skyshroud-war-beast"
+  },
+  {
+    "number": "125",
+    "name_en": "Song of Serenity",
+    "name_fr": "Chanson sereine",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/b/5b298283-dbf2-40a4-9180-615751207ee4.jpg?1539692000",
+    "link": "https://gatherer.wizards.com/EXO/en-us/125/song-of-serenity"
+  },
+  {
+    "number": "126",
+    "name_en": "Spike Hatcher",
+    "name_fr": "Epix couveur",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/4/d4b1783b-6c03-4018-bdc9-73473188a507.jpg?1539692019",
+    "link": "https://gatherer.wizards.com/EXO/en-us/126/spike-hatcher"
+  },
+  {
+    "number": "127",
+    "name_en": "Spike Rogue",
+    "name_fr": "Epix solitaire",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/c/ec44cf05-38ca-4b3d-836a-54e8a8f3e449.jpg?1539692039",
+    "link": "https://gatherer.wizards.com/EXO/en-us/127/spike-rogue"
+  },
+  {
+    "number": "128",
+    "name_en": "Spike Weaver",
+    "name_fr": "Epix tisseur",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/b/7bdb8f96-822a-4a91-96ab-b1fb1bf183f0.jpg?1539692063",
+    "link": "https://gatherer.wizards.com/EXO/en-us/128/spike-weaver"
+  },
+  {
+    "number": "129",
+    "name_en": "Survival of the Fittest",
+    "name_fr": "Survie du plus apte",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/e/ce633d70-26b3-4553-92d7-8abb140b62d9.jpg?1539692089",
+    "link": "https://gatherer.wizards.com/EXO/en-us/129/survival-of-the-fittest"
+  },
+  {
+    "number": "130",
+    "name_en": "Wood Elves",
+    "name_fr": "Elfe des bois",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/3/a30aeffc-3f5a-4527-a623-a70c1deb1705.jpg?1539692111",
+    "link": "https://gatherer.wizards.com/EXO/en-us/130/wood-elves"
+  },
+  {
+    "number": "131",
+    "name_en": "Coat of Arms",
+    "name_fr": "Blason",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/6/b6804dc2-cc0c-4662-b13b-f6b44f1fa4e5.jpg?1539692152",
+    "link": "https://gatherer.wizards.com/EXO/en-us/131/coat-of-arms"
+  },
+  {
+    "number": "132",
+    "name_en": "Erratic Portal",
+    "name_fr": "Portail intermittent",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/f/8f8197de-9e50-4255-b9f0-0097834c040f.jpg?1539692187",
+    "link": "https://gatherer.wizards.com/EXO/en-us/132/erratic-portal"
+  },
+  {
+    "number": "133",
+    "name_en": "Medicine Bag",
+    "name_fr": "Sac médecine",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/8/c83b16b7-8e0e-4f94-887b-92de0edf596d.jpg?1539692208",
+    "link": "https://gatherer.wizards.com/EXO/en-us/133/medicine-bag"
+  },
+  {
+    "number": "134",
+    "name_en": "Memory Crystal",
+    "name_fr": "Cristal-mémoire",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/3/73e1ccf8-62f3-4e76-b608-1681dcfaa7d9.jpg?1539692228",
+    "link": "https://gatherer.wizards.com/EXO/en-us/134/memory-crystal"
+  },
+  {
+    "number": "135",
+    "name_en": "Mindless Automaton",
+    "name_fr": "Automate abruti",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/b/2b4cabee-1afc-48f4-b3e8-e3fdf3dc1f40.jpg?1539692246",
+    "link": "https://gatherer.wizards.com/EXO/en-us/135/mindless-automaton"
+  },
+  {
+    "number": "136",
+    "name_en": "Null Brooch",
+    "name_fr": "Broche de cassation",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/08b7dee5-ace3-4389-8e95-23fad0e6d4e3.jpg?1539692264",
+    "link": "https://gatherer.wizards.com/EXO/en-us/136/null-brooch"
+  },
+  {
+    "number": "137",
+    "name_en": "Skyshaper",
+    "name_fr": "Forgeciel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/7/3719ec0a-6dd8-4495-9bbb-2ead1aa6da3c.jpg?1539692283",
+    "link": "https://gatherer.wizards.com/EXO/en-us/137/skyshaper"
+  },
+  {
+    "number": "138",
+    "name_en": "Spellbook",
+    "name_fr": "Livre de sort",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/3/c3365f91-9fe0-4760-b481-8f63c350e4f2.jpg?1539692305",
+    "link": "https://gatherer.wizards.com/EXO/en-us/138/spellbook"
+  },
+  {
+    "number": "139",
+    "name_en": "Sphere of Resistance",
+    "name_fr": "Sphère de résistance",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/7/5750a406-e5e6-4b38-9110-1bc5a5dd3136.jpg?1539692321",
+    "link": "https://gatherer.wizards.com/EXO/en-us/139/sphere-of-resistance"
+  },
+  {
+    "number": "140",
+    "name_en": "Thopter Squadron",
+    "name_fr": "Escadron de mécanoptères",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/4/84510de5-31a4-4d58-a850-eefca14f05f7.jpg?1539692337",
+    "link": "https://gatherer.wizards.com/EXO/en-us/140/thopter-squadron"
+  },
+  {
+    "number": "141",
+    "name_en": "Transmogrifying Licid",
+    "name_fr": "Litique transfigurateur",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/8/686341a9-d8cd-420d-a846-6c05b3d19879.jpg?1539692349",
+    "link": "https://gatherer.wizards.com/EXO/en-us/141/transmogrifying-licid"
+  },
+  {
+    "number": "142",
+    "name_en": "Workhorse",
+    "name_fr": "Cheval de mana",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/f/9f8a82c2-c671-4f17-a0e8-9ac1282dbc6a.jpg?1539692364",
+    "link": "https://gatherer.wizards.com/EXO/en-us/142/workhorse"
+  },
+  {
+    "number": "143",
+    "name_en": "City of Traitors",
+    "name_fr": "Cité des traîtres",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/c/cca79ca8-e503-467f-bb4e-d51979715948.jpg?1539692389",
+    "link": "https://gatherer.wizards.com/EXO/en-us/143/city-of-traitors"
+  }
+]

@@ -4,19 +4,27 @@ import { importOneSet } from './import_one_set.js';
 async function importSetBySet() {
 
     const sets = JSON.parse(fs.readFileSync('../bdd/sets.json', 'utf-8'));
+    const missingPath = './missing_sets.log';
 
+    if (fs.existsSync(missingPath)) {
+        fs.unlinkSync(missingPath);
+        console.log('Existing file deleted.');
+    }
+
+    const today = new Date().toISOString().split('T')[0]; // format: YYYY-MM-DD
     for (let set of sets) {
-        console.log(`starting\n--------\nSet code: ${set.code}, name: ${set.name}`);
-        const today = new Date().toISOString().split('T')[0]; // format: YYYY-MM-DD
+        console.log(`\n--------\nstarting\n${set.code} - ${set.name}`);
 
         if (set.released_at > today) {
-            console.log(`Skipping future set: ${set.code}`);
-            continue; // dans une boucle for...of
+            console.log(`Skipping future set`);
+            console.log('ending\n--------\n');
+            continue;
         }
 
-        importOneSet(set);
+        await importOneSet(set);
+        //await delay(5000); //  second   
         console.log('ending\n--------\n');
-        await delay(1500); // 1 second    
+
     }
 }
 

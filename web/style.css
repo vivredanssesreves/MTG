@@ -14,10 +14,7 @@ body.dark {
     color: #eee;
 }
 
-h1 {
-    text-align: center;
-    margin-bottom: 2rem;
-}
+
 
 #sets {
     display: grid;
@@ -82,6 +79,70 @@ body.dark .toggle-theme:hover {
     background: #ffffff;
     /* exemple pour le mode sombre */
     color: rgb(0, 0, 0);
+}
+
+.icone_title {
+    height: 2rem;
+    vertical-align: middle;
+    margin-right: 0.5remß;
+}
+
+body.dark .icone_title {
+    filter: invert(1);
+}
+
+.progress_container {
+    width: 100%;
+
+    margin: 1rem auto;
+
+}
+
+.progress_bar {
+    background: #4caf50;
+    height: 100%;
+    width: 0%;
+    transition: width 0.5s;
+}
+
+.putin_de_bar {
+    background: #ddd;
+    border-radius: 10px;
+    height: 20px;
+    overflow: hidden;
+}
+
+header {
+    white-space: nowrap;
+    justify-self: center;
+    position: sticky;
+    display: block;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    padding-top: 0rem;
+
+    margin-bottom: 0.2rem;
+    z-index: 404; //*because i want it like that*/
+    /*
+    
+    */
+}
+
+title {
+    top: 0;
+    left: 50%;
+    width: 100%;
+
+    transform: translateX(-50%);
+    margin: 0;
+    font-size: 1.1em;
+}
+
+
+
+body.dark .h1 {
+    filter: invert(1);
 }
 
 /* IMAGE SET */
@@ -223,7 +284,9 @@ body.dark .card-info {
 }
 
 body.dark .small-clickable {
-    /*filter: grayscale(100%);*/
+    /*
+    filter: grayscale(100%);
+    */
 }
 
 /* Ligne d'infos avec icons + numéro alignés */
@@ -290,16 +353,27 @@ body.dark .small-clickable {
     cursor: pointer;
     user-select: none;
     padding-top: 0.2rem;
-    /* ajuste verticalement */
     padding-left: 0.2rem;
-    /* ajuste horizontalement */
+
     position: fixed;
     right: 10%;
+    top: 1rem;
     border: none;
 
 }
 
 body.dark .icon-moon {
+    background-color: #ffdc2f;
+    color: rgb(0, 0, 0);
+}
+
+.export {
+    right: 20%;
+    padding-top: 0.15rem;
+    padding-left: 0.4rem;
+}
+
+body.dark .export {
     background-color: #ffdc2f;
     color: rgb(0, 0, 0);
 }

@@ -13,13 +13,15 @@ const webPath = path.join(__dirname, '..', 'web');
 const bddPath = path.join(__dirname, '..', 'bdd');
 const backEndPath = path.join(__dirname, '..', 'backEnd');
 const myBddPath = path.join(__dirname, '..', 'MYBDD');
+const frontEndPath = path.join(__dirname, '..', 'frontEnd');
 
 app.use(express.static(webPath));       // Frontend (HTML/JS/CSS)
-app.use(express.json());  // <-- obligatoire pour parser JSON dans POST
+app.use(express.json());  
 
-app.use('/bdd', express.static(bddPath)); // Serveur des JSON
-app.use('/backEnd', express.static(backEndPath)); // Serveur des JSON
-app.use('/MYBDD', express.static(myBddPath));
+app.use('/bdd', express.static(bddPath)); // JSON files
+app.use('/backEnd', express.static(backEndPath)); // back end path
+app.use('/MYBDD', express.static(myBddPath)); // my json path
+app.use('/frontEnd', express.static(frontEndPath)); // my json path
 
 
 app.post('/editMyBDD', (request, response) => {

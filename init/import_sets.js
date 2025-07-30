@@ -24,7 +24,8 @@ async function importAllSets() {
             code: set.code,
             name: set.name,
             icon_svg_uri: set.icon_svg_uri,
-            uri: `https://api.scryfall.com/cards/search?order=set&q=e%3A${set.code}+lang%3Afr&unique=prints`,
+            uri: createUri(set.code,false),
+            uri_fr: createUri(set.code,true),
             released_at: set.released_at,
             cards_count: set.card_count
         }));
@@ -34,6 +35,23 @@ async function importAllSets() {
 }
 
 //importAllSets()
+function createUri(code, fr) {
+    //https://api.scryfall.com/cards/search?q=set:fem&order=name&dir=asc&unique=prints
+    //https://api.scryfall.com/cards/search?q=lang:fr+set:ltr&unique=prints
+    //https://api.scryfall.com/cards/search?q=lang:fr+set:ltr&unique=prints
+
+    let uri = "https://api.scryfall.com/cards/search?q=";
+   
+    uri = uri.concat("set:");
+    uri = uri.concat(code);
+     if (fr) {
+        uri = uri.concat("+lang:fr");
+    }
+    uri = uri.concat("&unique=prints");
+    uri = uri.concat("&order=set");
+    return uri;
+
+}
 
 
 export { importAllSets };
