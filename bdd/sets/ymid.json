@@ -1,0 +1,380 @@
+[
+  {
+    "number": "1",
+    "name_en": "Angel of Eternal Dawn",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/a/7a7640d4-72e0-42e4-96ea-eaedc7ffb304.jpg?1680464977",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548227&printed=false"
+  },
+  {
+    "number": "2",
+    "name_en": "Angel of Unity",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/8/682dd4b1-460e-4056-ab37-0af7d45c76b5.jpg?1680465026",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548228&printed=false"
+  },
+  {
+    "number": "3",
+    "name_en": "Captain Eberhart",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/6/46c02d45-a882-4b24-999b-9214fa48f4c6.jpg?1680465040",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548229&printed=false"
+  },
+  {
+    "number": "4",
+    "name_en": "Divine Purge",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/6/d6b74008-c102-470e-a4a4-57bf319916ee.jpg?1680465048",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548230&printed=false"
+  },
+  {
+    "number": "5",
+    "name_en": "Ethereal Escort",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/a/da1d8b40-ea18-40e7-b1ca-cc701109d4f8.jpg?1680465062",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548231&printed=false"
+  },
+  {
+    "number": "6",
+    "name_en": "Expedition Supplier",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/9/c9569a36-69d4-49d9-a053-d1e08b22063a.jpg?1722122061",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548232&printed=false"
+  },
+  {
+    "number": "7",
+    "name_en": "Faithful Disciple",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/b/db883fa9-3490-4e91-9b4a-c89912b62113.jpg?1680465115",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548233&printed=false"
+  },
+  {
+    "number": "8",
+    "name_en": "Inquisitor Captain",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/6/a6f64892-011e-4fd1-8959-927872de0cee.jpg?1680465125",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548234&printed=false"
+  },
+  {
+    "number": "9",
+    "name_en": "Sigardian Evangel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/7/c720ced6-f975-4d82-b020-fb3ac8b5c9c1.jpg?1680465135",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548235&printed=false"
+  },
+  {
+    "number": "10",
+    "name_en": "Slayer's Bounty",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/9/39445ec2-d65a-4954-881a-bdb286f82173.jpg?1680465145",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548236&printed=false"
+  },
+  {
+    "number": "11",
+    "name_en": "Suntail Squadron",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/7/97370a09-8bf8-4be6-a5f3-a38b67a570f4.jpg?1680465157",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548237&printed=false"
+  },
+  {
+    "number": "12",
+    "name_en": "Absorb Energy",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/f/bfdca67d-9a97-4ddc-8d50-26a48ad2e4b7.jpg?1680465172",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548238&printed=false"
+  },
+  {
+    "number": "13",
+    "name_en": "Unexpected Conversion",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/b/eb4cc8d5-75c3-49c2-895f-cfa5ea680edf.jpg?1680465212",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548239&printed=false"
+  },
+  {
+    "number": "14",
+    "name_en": "Clone Crafter",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/9/79e9c05e-964f-488c-a2b1-309044643ae1.jpg?1680465222",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548240&printed=false"
+  },
+  {
+    "number": "15",
+    "name_en": "Discover the Formula",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e829a089-ff42-4355-8918-2693e547ff4e.jpg?1680465232",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548241&printed=false"
+  },
+  {
+    "number": "16",
+    "name_en": "Geist of Regret",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/3/33c15b95-1c96-4841-8693-4c7c8f7064cb.jpg?1680465242",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548242&printed=false"
+  },
+  {
+    "number": "17",
+    "name_en": "Geistchanneler",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/e/5e210c9d-5fa6-4e65-ad85-a98019871dbf.jpg?1680465251",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548243&printed=false"
+  },
+  {
+    "number": "18",
+    "name_en": "Kindred Denial",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/f/4fbdeac6-f61b-4669-934c-9216d669500f.jpg?1680465260",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548244&printed=false"
+  },
+  {
+    "number": "19",
+    "name_en": "Obsessive Collector",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/a/9a0237e9-8aa5-4516-a60c-67dc2bd34b4f.jpg?1680465270",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548245&printed=false"
+  },
+  {
+    "number": "20",
+    "name_en": "Oglor, Devoted Assistant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/7/7701cd3f-7795-44b4-9cd5-76682b7a2533.jpg?1680465280",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548246&printed=false"
+  },
+  {
+    "number": "21",
+    "name_en": "Rimewall Protector",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/c/6c76c9a9-0360-43db-8e93-5659d25d63cc.jpg?1680465289",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548247&printed=false"
+  },
+  {
+    "number": "22",
+    "name_en": "Sinister Reflections",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/f/1f219447-d88e-46db-9b30-9d6a5c38f8ef.jpg?1680465298",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548248&printed=false"
+  },
+  {
+    "number": "23",
+    "name_en": "Tireless Angler",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/c/cc1bb620-0f3e-457f-a1a5-635dcb14ec5c.jpg?1722120457",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548249&printed=false"
+  },
+  {
+    "number": "24",
+    "name_en": "Cursebound Witch",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/e/4e12c98c-54ed-468e-97f0-a020340cea3c.jpg?1680465377",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548250&printed=false"
+  },
+  {
+    "number": "25",
+    "name_en": "Assemble from Parts",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/a/0ab0d862-75bc-4e97-acbe-8ade74d98e68.jpg?1732034834",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548251&printed=false"
+  },
+  {
+    "number": "26",
+    "name_en": "Break Expectations",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/f/5f876f3d-ee80-4465-8091-10e73942252a.jpg?1680465404",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548252&printed=false"
+  },
+  {
+    "number": "27",
+    "name_en": "Citystalker Connoisseur",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/f/5fdeb07f-0e77-4636-b607-ad874d85d502.jpg?1680465432",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548253&printed=false"
+  },
+  {
+    "number": "28",
+    "name_en": "Gutmorn, Pactbound Servant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/0/0083a99d-92a1-4a31-b4d4-0dbb06057b48.jpg?1708319579",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548254&printed=false"
+  },
+  {
+    "number": "29",
+    "name_en": "Patient Zero",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/3/7335e06b-6f38-4e24-9b4b-b7c7ea3c6323.jpg?1680465454",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548255&printed=false"
+  },
+  {
+    "number": "30",
+    "name_en": "Predatory Sludge",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/f/8f8d4b80-3a89-4e69-b883-8562d370e685.jpg?1680465462",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548256&printed=false"
+  },
+  {
+    "number": "31",
+    "name_en": "Puppet Raiser",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/6/562c63c7-a21e-4afb-a74c-1e4b84d03c1f.jpg?1680465471",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548257&printed=false"
+  },
+  {
+    "number": "32",
+    "name_en": "Sanguine Brushstroke",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2744e16-1016-432a-8698-2a2d407e7b04.jpg?1695436280",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548258&printed=false"
+  },
+  {
+    "number": "33",
+    "name_en": "Sap Vitality",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/5/05bb5abb-ad8d-4d0b-85cd-6bc6de78bb24.jpg?1680465488",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548259&printed=false"
+  },
+  {
+    "number": "34",
+    "name_en": "Veteran Ghoulcaller",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/a/eaaa358c-08e7-44af-95c7-14518c4afef7.jpg?1680465497",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548260&printed=false"
+  },
+  {
+    "number": "35",
+    "name_en": "Arms Scavenger",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/1/01fdeddb-b6f8-4c6c-bf97-65d7766fcca9.jpg?1680465531",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548261&printed=false"
+  },
+  {
+    "number": "36",
+    "name_en": "Bloodrage Alpha",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/c/fcdf19a4-1892-4033-9039-0a86d0f5c9c4.jpg?1722120087",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548262&printed=false"
+  },
+  {
+    "number": "37",
+    "name_en": "Brittle Blast",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/d/3d956b50-d5c4-4554-93ff-f1ed545d9abf.jpg?1680465553",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548263&printed=false"
+  },
+  {
+    "number": "38",
+    "name_en": "Conductive Current",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/3/43adef3c-87f0-4db1-9fbb-017c96c815ff.jpg?1680465561",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548264&printed=false"
+  },
+  {
+    "number": "39",
+    "name_en": "Electrostatic Blast",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/6/36ba1ac9-ebb9-449d-bd3b-716631b112fb.jpg?1742808907",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548265&printed=false"
+  },
+  {
+    "number": "40",
+    "name_en": "Fearsome Whelp",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/5/d50c6151-e965-4873-b4d5-9f23b6c73ac6.jpg?1695436288",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548266&printed=false"
+  },
+  {
+    "number": "41",
+    "name_en": "Frenzied Geistblaster",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/5/253fc744-69d0-4c66-b583-ab557e47cec6.jpg?1680465608",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548267&printed=false"
+  },
+  {
+    "number": "42",
+    "name_en": "Rahilda, Wanted Cutthroat // Rahilda, Feral Outlaw",
+    "imageUrl": "",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548268&printed=false"
+  },
+  {
+    "number": "43",
+    "name_en": "Tibalt, Wicked Tormentor",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/b/1b1f5505-e2fc-4782-991e-b984a3d0e45f.jpg?1680465623",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548270&printed=false"
+  },
+  {
+    "number": "44",
+    "name_en": "Toralf's Disciple",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/9/4982f15f-2191-4cff-96c6-e42ce6fbc54f.jpg?1680465633",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548271&printed=false"
+  },
+  {
+    "number": "45",
+    "name_en": "Town-Razer Tyrant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/08cd0a8b-19db-44dc-b17d-7fa9e64d9dfb.jpg?1706508846",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548272&printed=false"
+  },
+  {
+    "number": "46",
+    "name_en": "Antique Collector",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/6/76420044-062e-41d4-8c46-adcc845b7a3c.jpg?1680465706",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548273&printed=false"
+  },
+  {
+    "number": "47",
+    "name_en": "Garruk, Wrath of the Wilds",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/9/a9749bf7-42e1-413b-b320-b883ea9968cf.jpg?1680465715",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548274&printed=false"
+  },
+  {
+    "number": "48",
+    "name_en": "Geistpack Alpha",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/0/f020249b-15f5-452c-9d93-e2f04b50de40.jpg?1680465725",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548275&printed=false"
+  },
+  {
+    "number": "49",
+    "name_en": "Grizzled Huntmaster",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/d/9df8a3e1-fd9b-47ec-be06-9d363354ec76.jpg?1680465734",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548276&printed=false"
+  },
+  {
+    "number": "50",
+    "name_en": "Hinterland Chef",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/7/87b1c9af-617f-4c08-aaa7-8241c6b40221.jpg?1680539739",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548277&printed=false"
+  },
+  {
+    "number": "51",
+    "name_en": "Hollowhenge Wrangler",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/a/3adb076a-ddec-442d-be01-806e498279ea.jpg?1680465752",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548278&printed=false"
+  },
+  {
+    "number": "52",
+    "name_en": "Ishkanah, Broodmother",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/9/f902584a-2cf3-4843-b0be-2ead4fe16c38.jpg?1680465762",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548279&printed=false"
+  },
+  {
+    "number": "53",
+    "name_en": "Lupine Harbingers",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/1/516c1c46-dccd-405c-a71f-d83619c681eb.jpg?1680465771",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548280&printed=false"
+  },
+  {
+    "number": "54",
+    "name_en": "Ravenous Pursuit",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/1/81a59280-60c8-4450-96fb-7b189413abed.jpg?1680465780",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548281&printed=false"
+  },
+  {
+    "number": "55",
+    "name_en": "Settle the Wilds",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/5/250427de-d733-4426-9f3e-7d880dd949b7.jpg?1680465805",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548282&printed=false"
+  },
+  {
+    "number": "56",
+    "name_en": "Tenacious Pup",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/5/559c7e21-1394-42b0-b6b7-d581b2a50569.jpg?1680465815",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548283&printed=false"
+  },
+  {
+    "number": "57",
+    "name_en": "Begin Anew",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/8/d885aedb-2c65-4099-af2e-0a540caf8d33.jpg?1680465840",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548284&printed=false"
+  },
+  {
+    "number": "58",
+    "name_en": "Gitrog, Horror of Zhava",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/f/6f570bed-e603-4696-8676-43cd6f0ee4ab.jpg?1680465850",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548285&printed=false"
+  },
+  {
+    "number": "59",
+    "name_en": "Key to the Archive",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/6/d647773b-0dab-40df-8e25-ed4f437f549b.jpg?1680465887",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548286&printed=false"
+  },
+  {
+    "number": "60",
+    "name_en": "Soulstealer Axe",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/e/fe2bd063-57dd-40f0-8a50-0530d88f2b2d.jpg?1680465901",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548287&printed=false"
+  },
+  {
+    "number": "61",
+    "name_en": "Wickerwing Effigy",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/e/fe945eca-4354-4c0e-aa82-325711bf5cc8.jpg?1680465914",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548288&printed=false"
+  },
+  {
+    "number": "62",
+    "name_en": "Ominous Traveler",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/f/eff59757-30d0-44c1-ab81-2da2dcb20560.jpg?1680465925",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548289&printed=false"
+  },
+  {
+    "number": "63",
+    "name_en": "Forsaken Crossroads",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/1/d19d1d11-d094-4cf3-a596-34bef43d3791.jpg?1680465934",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548290&printed=false"
+  }
+]

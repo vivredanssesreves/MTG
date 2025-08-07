@@ -5,25 +5,31 @@
   <meta charset="UTF-8" />
   <title>MTG Sets</title>
   <link rel="stylesheet" href="style.css" />
-  <script>
-    window.addEventListener('load', () => {
-      if (localStorage.getItem('darkMode') === 'enabled') {
-        document.documentElement.classList.add('dark');
-        document.body.classList.add('dark');
-      }
-    });
-  </script>
 </head>
 
 <body>
-  <button class="icon-moon mouse-button-theme">☾</button>
-  <button class="icon-moon mouse-button-theme export">⇧</button>
+  <div id="menu-burger"></div>
 
   <h1>Available MTG Sets</h1>
   <div id="sets"></div>
 
-
   <script type="module" src="../frontEnd/sets-loadSets.js"></script>
+  <script type="module">
+    import { injectMenuBurger, initDarkMode, initBurgerMenu } from '../frontEnd/utilities.js';
+    document.addEventListener('DOMContentLoaded', () => {
+      injectMenuBurger('menu-burger', 'menu-burger.html');
+      // S'assurer que le menu est bien initialisé après l'injection
+      setTimeout(() => {
+        initBurgerMenu();
+        initDarkMode('dark-toggle');
+        // Forcer l'affichage des boutons reset et export sur index
+        const resetBddBtn = document.getElementById('reset-bdd');
+        if (resetBddBtn) resetBddBtn.style.display = '';
+        const exportBddBtn = document.getElementById('export-bdd');
+        if (exportBddBtn) exportBddBtn.style.display = '';
+      }, 200);
+    });
+  </script>
 </body>
 
 </html>

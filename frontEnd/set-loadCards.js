@@ -3,26 +3,20 @@ const params = new URLSearchParams(window.location.search);
 const setCode = params.get('code');
 let currentCards = [];
 
-// Back button
-document.getElementById('back-btn').onclick = () => {
-    window.location.href = 'index.html';
-};
+// Back button (attendre que le DOM soit prêt)
+document.addEventListener('DOMContentLoaded', () => {
+  const backBtn = document.getElementById('back-btn');
+  if (backBtn) {
+    backBtn.onclick = () => {
+      window.location.href = 'index.html';
+    };
+  }
+});
 
 // Dark mode toggle
-const darkToggle = document.getElementById('dark-toggle');
-darkToggle.onclick = () => {
-    document.body.classList.toggle('dark');
-    if (document.body.classList.contains('dark')) {
-        localStorage.setItem('darkMode', 'enabled');
-    } else {
-        localStorage.removeItem('darkMode');
-    }
-};
-
-window.addEventListener('load', () => {
-    if (localStorage.getItem('darkMode') === 'enabled') {
-        document.body.classList.add('dark');
-    }
+import { initDarkMode } from './utilities.js';
+document.addEventListener('DOMContentLoaded', () => {
+  initDarkMode('dark-toggle');
 });
 
 const setData = sessionStorage.getItem('selectedSet');

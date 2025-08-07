@@ -15,23 +15,31 @@ async function importAllSets() {
     const url = "https://api.scryfall.com/sets";
     const response = await fetch(url);
     const json = await response.json();
+    //console.log(json);
 
-    const mainTypes = ["expansion", "core", "draft_innovation", "commander"];
+    const mainTypes = ["digital", "treasure_chest", "minigame", "memorabilia"];
 
-    const filteredSets = json.data
-        .filter(set => mainTypes.includes(set.set_type))
-        .map(set => ({
-            code: set.code,
-            name: set.name,
-            icon_svg_uri: set.icon_svg_uri,
-            uri: createUri(set.code,false),
-            uri_fr: createUri(set.code,true),
-            released_at: set.released_at,
-            cards_count: set.card_count
-        }));
+    const interSet = json.data.filter(set => !mainTypes.includes(set.set_type))
+    const filteredSets = interSet.map(set => ({
+        code: set.code,
+        name: set.name,
+        icon_svg_uri: set.icon_svg_uri,
+        uri: createUri(set.code, false),
+        uri_fr: createUri(set.code, true),
+        released_at: set.released_at,
+        cards_count: set.card_count,
+        type: set.set_type,
+        sousSets: set.code.length <= 3 ? getSousSets(set.code, interSet) : []
+    }));
 
     fs.writeFileSync(filePath, JSON.stringify(filteredSets, null, 2));
     console.log('sets.json file updated successfully');
+}
+
+function getSousSets(code, json) {
+    return json
+        .filter(set => set.code.includes(code) && set.code !== code)
+        .map(set => ({ code: set.code, type: set.set_type }));
 }
 
 //importAllSets()
@@ -41,10 +49,10 @@ function createUri(code, fr) {
     //https://api.scryfall.com/cards/search?q=lang:fr+set:ltr&unique=prints
 
     let uri = "https://api.scryfall.com/cards/search?q=";
-   
+
     uri = uri.concat("set:");
     uri = uri.concat(code);
-     if (fr) {
+    if (fr) {
         uri = uri.concat("+lang:fr");
     }
     uri = uri.concat("&unique=prints");

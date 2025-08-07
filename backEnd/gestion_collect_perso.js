@@ -6,7 +6,7 @@ document.addEventListener('click', async (e) => {
     const isActive = e.target.classList.contains('active');
     const setCode = e.target.dataset.set;
     const cardN = e.target.dataset.num;
-    console.log(setCode);
+   
     const type = e.target.dataset.type;
     let info = {
       'code': setCode,
@@ -14,7 +14,7 @@ document.addEventListener('click', async (e) => {
       'isActive': isActive,
       'isFoil': isFoil(type)
     }
-    console.log(info);
+    
     await fetch('/editMyBDD', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },

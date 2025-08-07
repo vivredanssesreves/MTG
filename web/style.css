@@ -1,3 +1,200 @@
+/* Icône poubelle pour bouton reset */
+.icon-trash {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  background: #ff1900;
+  border-radius: 50%;
+  margin-right: 0.7rem;
+}
+.icon-trash::before {
+  content: '\1F5D1'; /* Unicode poubelle */
+  font-size: 1.3rem;
+  color: #fff;
+}
+.icon-export {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  background: #0077cc;
+  border-radius: 50%;
+  margin-right: 0.7rem;
+}
+.icon-export::before {
+  content: '\2B07'; /* Unicode flèche vers le bas */
+  font-size: 1.3rem;
+  color: #fff;
+}
+.export-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  border: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 0.7rem 1.2rem;
+  margin-bottom: 1.5rem;
+  transition: background-color 0.3s, color 0.3s;
+}
+body.dark .icon-export {
+  background: #ffdc2f;
+  color: #000;
+}
+body.dark .export-btn {
+  color: #4ea1ff;
+}
+.reset-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.reset-btn span:first-child,
+.export-btn span:first-child {
+  margin-right: 0.7rem;
+  font-size: 1.5rem;
+  font-family: Arial, sans-serif;
+  line-height: 1;
+}
+/* MENU BURGER */
+.top-bar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1.5rem;
+    position: sticky;
+    top: 0;
+    background: transparent;
+    z-index: 1001;
+    padding: 0.7rem 2rem 0.2rem 2rem;
+}
+
+#burger-menu {
+    font-size: 2.2rem;
+    background: #000;
+    color: #fff;
+    border-radius: 50%;
+    border: none;
+    width: 2.5rem;
+    height: 2.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.5rem;
+    /* top right bottom left*/
+    padding: 0.2rem 0rem 0.5rem 0rem;
+}
+
+body.dark #burger-menu {
+    background: #ffdc2f;
+    color: #000;
+}
+
+.side-menu {
+    position: fixed;
+    top: 1.5rem;
+    right: -30rem;
+    min-width: 14rem;
+    max-width: 90vw;
+    height: auto;
+    background: #fff;
+    box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.18);
+    border-radius: 1.2rem;
+    z-index: 2000;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+    transition: right 0.3s;
+}
+
+body.dark .side-menu {
+    background: #222;
+    color: #fff;
+}
+
+.side-menu.open {
+    right: 2rem;
+}
+
+#close-menu {
+    font-size: 1.8rem;
+    background: none;
+    color: #333;
+    border: none;
+    margin-bottom: 0.7rem; /* réduit l'espace */
+    cursor: pointer;
+    align-self: flex-end;
+}
+
+body.dark #close-menu {
+    color: #ffdc2f;
+}
+
+#dark-toggle {
+    font-size: 2rem;
+    background: #000;
+    color: #fff;
+    border-radius: 50%;
+    border: none;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-bottom: 0.7rem; /* réduit l'espace */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+#dark-toggle.sun {
+    background: #fff !important;
+    color: #000 !important;
+}
+
+
+body.dark #dark-toggle {
+    background: #ffdc2f;
+    color: #fff;
+}
+
+#reset-bdd {
+    font-size: 1.2rem;
+    background: transparent;
+    border-radius: 0.5rem;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: 600;
+}
+
+body.dark #reset-bdd {
+    background: transparent;
+    color: #e74c3c;
+    border: none;
+}
+
+@media (max-width: 600px) {
+    .side-menu {
+        width: 90vw;
+        padding: 1.2rem 0.7rem 1rem 0.7rem;
+    }
+
+    #burger-menu {
+        width: 2.2rem;
+        height: 2.2rem;
+        font-size: 2rem;
+    }
+}
+
 /* BODY */
 
 body {
@@ -32,7 +229,7 @@ body.dark {
     text-align: center;
 
     cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -153,7 +350,7 @@ body.dark .h1 {
     padding: 6px;
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
-    transition: background 0.3s;
+    transition: background-color 0.3s;
 }
 
 body.dark .set img {
@@ -342,22 +539,15 @@ body.dark .small-clickable {
     align-items: center;
     justify-content: center;
     width: 2.5rem;
-    /* ~40px, dépend de root font-size */
     height: 2.5rem;
     background-color: #000000;
-    /* fond  */
     color: white;
-    /* couleur lune */
     border-radius: 50%;
     font-size: 2.2rem;
     cursor: pointer;
     user-select: none;
     padding-top: 0.2rem;
     padding-left: 0.2rem;
-
-    position: fixed;
-    right: 10%;
-    top: 1rem;
     border: none;
 
 }
@@ -368,9 +558,10 @@ body.dark .icon-moon {
 }
 
 .export {
-    right: 20%;
-    padding-top: 0.15rem;
-    padding-left: 0.4rem;
+    margin-left: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 body.dark .export {
