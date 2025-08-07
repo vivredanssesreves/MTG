@@ -66,22 +66,25 @@ export function injectMenuBurger(targetId = 'menu-burger', menuHtmlPath = 'menu-
  */
 export function initDarkMode(toggleId = 'dark-toggle') {
   const darkToggle = document.getElementById(toggleId);
+  const iconDiv = darkToggle ? darkToggle.querySelector('.icon-moon') : null;
   if (localStorage.getItem('darkMode') === 'enabled') {
     document.documentElement.classList.add('dark');
     document.body.classList.add('dark');
   }
   function updateDarkIcon() {
-    if (document.body.classList.contains('dark')) {
-      darkToggle.textContent = '☀️';
-      darkToggle.title = 'Switch to light mode';
-      darkToggle.classList.add('sun');
-    } else {
-      darkToggle.textContent = '🌙';
-      darkToggle.title = 'Switch to dark mode';
-      darkToggle.classList.remove('sun');
+    if (iconDiv) {
+      if (document.body.classList.contains('dark')) {
+        iconDiv.textContent = '🔦';
+        darkToggle.title = 'Switch to light mode';
+        iconDiv.classList.add('sun');
+      } else {
+        iconDiv.textContent = '🌙';
+        darkToggle.title = 'Switch to dark mode';
+        iconDiv.classList.remove('sun');
+      }
     }
   }
-  if (darkToggle) {
+  if (darkToggle && iconDiv) {
     updateDarkIcon();
     darkToggle.addEventListener('click', () => {
       document.body.classList.toggle('dark');

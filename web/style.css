@@ -1,66 +1,40 @@
-/* Icône poubelle pour bouton reset */
-.icon-trash {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 2rem;
-  height: 2rem;
-  background: #ff1900;
-  border-radius: 50%;
-  margin-right: 0.7rem;
-}
-.icon-trash::before {
-  content: '\1F5D1'; /* Unicode poubelle */
-  font-size: 1.3rem;
-  color: #fff;
-}
-.icon-export {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 2rem;
-  height: 2rem;
-  background: #0077cc;
-  border-radius: 50%;
-  margin-right: 0.7rem;
-}
-.icon-export::before {
-  content: '\2B07'; /* Unicode flèche vers le bas */
-  font-size: 1.3rem;
-  color: #fff;
-}
 .export-btn {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  background: transparent;
-  border: none;
-  font-weight: 600;
-  font-size: 1.1rem;
-  cursor: pointer;
-  padding: 0.7rem 1.2rem;
-  margin-bottom: 1.5rem;
-  transition: background-color 0.3s, color 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: transparent;
+    border: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 0.7rem 1.2rem;
+    margin-bottom: 1.5rem;
+    transition: background-color 0.3s, color 0.3s;
 }
+
 body.dark .icon-export {
-  background: #ffdc2f;
-  color: #000;
+    background: #ffdc2f;
+    color: #000;
 }
+
 body.dark .export-btn {
-  color: #4ea1ff;
+    color: #4ea1ff;
 }
+
 .reset-btn {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
+
 .reset-btn span:first-child,
 .export-btn span:first-child {
-  margin-right: 0.7rem;
-  font-size: 1.5rem;
-  font-family: Arial, sans-serif;
-  line-height: 1;
+    margin-right: 0.7rem;
+    font-size: 1.5rem;
+    font-family: Arial, sans-serif;
+    line-height: 1;
 }
+
 /* MENU BURGER */
 .top-bar {
     display: flex;
@@ -105,15 +79,36 @@ body.dark #burger-menu {
     min-width: 14rem;
     max-width: 90vw;
     height: auto;
-    background: #fff;
+    background: white;
     box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.18);
     border-radius: 1.2rem;
-    z-index: 2000;
+    z-index: 666999;
     display: flex;
     flex-direction: column;
     align-items: stretch;
     padding: 1.5rem 1.2rem 1.2rem 1.2rem;
     transition: right 0.3s;
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: 600;
+    font-size: 1rem;
+    text-align: left;
+
+}
+
+.side-menu button {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    background: transparent;
+    border: none;
+    gap: 1rem;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0077cc;
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 body.dark .side-menu {
@@ -122,15 +117,16 @@ body.dark .side-menu {
 }
 
 .side-menu.open {
-    right: 2rem;
+    right: 0rem;
 }
 
 #close-menu {
     font-size: 1.8rem;
     background: none;
-    color: #333;
+    color: #020202;
     border: none;
-    margin-bottom: 0.7rem; /* réduit l'espace */
+    margin-bottom: 0.7rem;
+    /* réduit l'espace */
     cursor: pointer;
     align-self: flex-end;
 }
@@ -140,21 +136,13 @@ body.dark #close-menu {
 }
 
 #dark-toggle {
-    font-size: 2rem;
-    background: #000;
-    color: #fff;
-    border-radius: 50%;
-    border: none;
-    width: 2.5rem;
-    height: 2.5rem;
-    margin-bottom: 0.7rem; /* réduit l'espace */
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
 }
 
 
 #dark-toggle.sun {
-    background: #fff !important;
+    background: #ffdc2f;
     color: #000 !important;
 }
 
@@ -164,36 +152,7 @@ body.dark #dark-toggle {
     color: #fff;
 }
 
-#reset-bdd {
-    font-size: 1.2rem;
-    background: transparent;
-    border-radius: 0.5rem;
-    border: none;
-    padding: 0.7rem 1.2rem;
-    margin-bottom: 1.5rem;
-    cursor: pointer;
-    transition: background-color 0.3s, color 0.3s;
-    font-weight: 600;
-}
 
-body.dark #reset-bdd {
-    background: transparent;
-    color: #e74c3c;
-    border: none;
-}
-
-@media (max-width: 600px) {
-    .side-menu {
-        width: 90vw;
-        padding: 1.2rem 0.7rem 1rem 0.7rem;
-    }
-
-    #burger-menu {
-        width: 2.2rem;
-        height: 2.2rem;
-        font-size: 2rem;
-    }
-}
 
 /* BODY */
 
@@ -271,7 +230,6 @@ body.dark .set a {
 }
 
 
-
 body.dark .toggle-theme:hover {
     background: #ffffff;
     /* exemple pour le mode sombre */
@@ -318,12 +276,8 @@ header {
     text-align: center;
     justify-content: space-between;
     padding-top: 0rem;
-
     margin-bottom: 0.2rem;
     z-index: 404; //*because i want it like that*/
-    /*
-    
-    */
 }
 
 title {
@@ -535,19 +489,17 @@ body.dark .small-clickable {
 }
 
 .icon-moon {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
-    width: 2.5rem;
-    height: 2.5rem;
-    background-color: #000000;
-    color: white;
+    vertical-align: middle;
+    width: 3rem;
+    height: 3rem;
+    line-height: 1;
+    background-color: #000;
+    color: #fff;
     border-radius: 50%;
     font-size: 2.2rem;
-    cursor: pointer;
-    user-select: none;
-    padding-top: 0.2rem;
-    padding-left: 0.2rem;
     border: none;
 
 }
