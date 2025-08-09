@@ -1,0 +1,417 @@
+/* Cartes MTG et grilles */
+
+#sets {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(11.25rem, 1fr));
+    gap: 1.5rem;
+    max-width: 62.5rem;
+    margin: 0 auto;
+}
+
+.set {
+    background: var(--card-bg-light);
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.5rem var(--shadow-light);
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.set:hover {
+    transform: translateY(-0.3125rem);
+    box-shadow: 0 0.5rem 1.25rem rgba(0, 0, 0, 0.15);
+}
+
+body.dark .set {
+    background: #252424ae;
+    box-shadow: 0 0.125rem 0.5rem rgba(255 255 255 / 0.1);
+}
+
+body.dark .set:hover {
+    box-shadow: 0 0.5rem 1.25rem rgba(255 255 255 / 0.2);
+}
+
+.set a {
+    text-decoration: none;
+    color: var(--primary-blue);
+    font-weight: 600;
+    display: block;
+    margin-top: 0.3rem;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+.set a:hover {
+    text-decoration: underline;
+}
+
+body.dark .set a {
+    color: var(--primary-blue-light);
+}
+
+/* Cards container */
+#cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.card {
+    background: var(--card-bg-light);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px var(--shadow-light);
+    overflow: hidden;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(255, 255, 255, 0.3);
+}
+
+body.dark .card {
+    background: var(--card-bg-dark);
+    box-shadow: 0 4px 15px var(--shadow-dark);
+}
+
+body.dark .card:hover {
+    box-shadow: 0 12px 24px rgba(255, 255, 255, 0.3);
+}
+
+.card img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border-bottom: 1px solid #6161613b;
+    transition: filter 0.3s ease;
+}
+
+.card:hover img {
+    filter: brightness(1.05);
+    transform: scale(1.05);
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+body.dark .card img {
+    border-color: #333;
+}
+
+/* Card Info */
+.card-info {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* top right buttom left*/
+    padding: 0rem 0.2rem 0rem 0.2rem;
+    background: rgba(255, 255, 255, 0.76);
+    color: #000000;
+    box-sizing: border-box;
+}
+
+/* Dark mode ajustement (si besoin) */
+body.dark .card-info {
+    background: rgba(116, 116, 116, 0.566);
+    color: #ffffff;
+}
+
+.card-number {
+    font-weight: bold;
+    font-size: 0.85rem;
+    opacity: 0.9;
+    display: inline-flex;
+    gap: 6px;
+}
+
+.card-images {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    /* aligne verticalement au centre */
+    padding-left: 0;
+    /* espace à gauche */
+    justify-content: flex-start;
+    width: 20px;
+    /* largeur fixe */
+    height: 20px;
+    /* hauteur fixe */
+    object-fit: contain;
+    /* conserve le ratio sans couper */
+    overflow: visible;
+}
+
+/* Ligne d'infos avec icons + numéro alignés */
+.card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.4rem;
+}
+
+.icon-card-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.4rem;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 0;
+    /* top right buttom left*/
+    padding: 0.2rem 0.2rem 0rem 0.1rem;
+}
+
+/* Small Clickable Elements */
+.small-clickable {
+    overflow: visible;
+    object-fit: contain;
+    display: inline-flex;
+    border-radius: 25%;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.933);
+    transition: transform 0.2s ease;
+    opacity: 0.6;
+    padding: 20%;
+    background-color: #ffffffde;
+    position: relative;
+}
+
+.small-clickable.active {
+    opacity: 1;
+}
+
+/* Icon Search */
+.icon-search {
+    cursor: pointer;
+    margin: 0.25rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: #f37321;
+    border-radius: 50%;
+    display: inline-flex;
+    overflow: visible;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    padding: 0.1rem 0.15rem 0.1rem 0.15rem;
+}
+
+.icon-search:hover {
+    box-shadow: 0 12px 24px rgba(235, 11, 11, 0.3);
+}
+
+/* Icon Image */
+.icon-img {
+    overflow: visible;
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    display: block;
+    margin-top: 2px;
+}
+
+/* Foil Effects */
+.foil {
+    position: relative;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab,
+            #f3ec78, #af4261, #2b86c5, #f7971e, #f953c6, #b91d73,
+            #f7971e, #2b86c5, #784ba0, #ff3cac, #b91d73, #f953c6,
+            #ff3cac, #784ba0, #2b86c5, #f7971e, #f953c6, #f7971e, #2b86c5, #784ba0, #ff3cac);
+    background-size: 1800% 1800%;
+    color: white;
+    font-weight: 700;
+    border-radius: 40%;
+    animation: rainbowFoil 8s ease infinite;
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.933);
+    display: inline-flex;
+    padding: 20%;
+}
+
+body.dark .foil {
+    background: linear-gradient(45deg, #f3ec78, #af4261, #ff00ff, #00ffff, #ffff00);
+    box-shadow: 0 0 8px 2px rgba(255, 255, 255, 0.8);
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.foil:hover {
+    box-shadow: 0 0 15px 4px rgba(255, 223, 0, 0.9);
+}
+
+@keyframes rainbowFoil {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Cards container */
+#cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.card {
+    background: var(--card-bg-light);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px var(--shadow-light);
+    overflow: hidden;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(255, 255, 255, 0.3);
+}
+
+body.dark .card {
+    background: var(--card-bg-dark);
+    box-shadow: 0 4px 15px var(--shadow-dark);
+}
+
+body.dark .card:hover {
+    box-shadow: 0 12px 24px rgba(255, 255, 255, 0.3);
+}
+
+/* Card Info */
+.card-info {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* top right buttom left*/
+    padding: 0rem 0.2rem 0rem 0.2rem;
+    background: rgba(255, 255, 255, 0.76);
+    color: #000000;
+    box-sizing: border-box;
+}
+
+/* Dark mode ajustement (si besoin) */
+body.dark .card-info {
+    background: rgba(116, 116, 116, 0.566);
+    color: #ffffff;
+}
+
+/* Card Number */
+.card-number {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 0.2rem;
+    text-align: center;
+}
+
+/* Small Clickable Elements */
+.small-clickable {
+    overflow: visible;
+    object-fit: contain;
+    display: inline-flex;
+    border-radius: 25%;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.933);
+    transition: transform 0.2s ease;
+    opacity: 0.6;
+    padding: 20%;
+    background-color: #ffffffde;
+    position: relative;
+}
+
+.small-clickable.active {
+    opacity: 1;
+}
+
+/* Icon Search */
+.icon-search {
+    cursor: pointer;
+    margin: 0.25rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: #f37321;
+    border-radius: 50%;
+    display: inline-flex;
+    overflow: visible;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    padding: 0.1rem 0.15rem 0.1rem 0.15rem;
+}
+
+.icon-search:hover {
+    box-shadow: 0 12px 24px rgba(235, 11, 11, 0.3);
+}
+
+/* Icon Image */
+.icon-img {
+    overflow: visible;
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    display: block;
+    margin-top: 2px;
+}
+
+/* Foil Effects */
+.foil {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab,
+            #f3ec78, #af4261, #2b86c5, #f7971e, #f953c6, #b91d73,
+            #f7971e, #2b86c5, #784ba0, #ff3cac, #b91d73, #f953c6,
+            #ff3cac, #784ba0, #2b86c5, #f7971e, #f953c6, #f7971e, #2b86c5, #784ba0, #ff3cac);
+    background-size: 1800% 1800%;
+    color: white;
+    font-weight: 700;
+    border-radius: 40%;
+    animation: rainbowFoil 8s ease infinite;
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.933);
+    display: inline-flex;
+    padding: 20%;
+}
+
+body.dark .foil {
+    background: linear-gradient(45deg, #f3ec78, #af4261, #ff00ff, #00ffff, #ffff00);
+    box-shadow: 0 0 8px 2px rgba(255, 255, 255, 0.8);
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.foil:hover {
+    box-shadow: 0 0 15px 4px rgba(255, 223, 0, 0.9);
+}
+
+@keyframes rainbowFoil {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}

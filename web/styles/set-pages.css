@@ -1,0 +1,47 @@
+/* Styles spécifiques aux pages de sets MTG */
+
+/* Header de page */
+header {
+    justify-self: center;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top: 0rem;
+    margin-bottom: 0.2rem;
+    z-index: 404; /* because i want it like that */
+}
+
+/* Titre des sets */
+.set-title {
+    text-align: center !important;
+    align-self: center !important;
+}
+
+/* Icône dans le titre */
+.icone_title {
+    height: 4rem;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+
+body.dark .icone_title {
+    filter: invert(1);
+}
+
+/* Barre de boutons */
+.button-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1001;
+    padding: 0.7rem 2rem;
+}
+
+/* Styles pour le mode sombre */
+body.dark .h1 {
+    filter: invert(1);
+}

@@ -1,10 +1,29 @@
+/* Variables CSS */
+:root {
+    --primary-blue: #0077cc;
+    --primary-blue-light: #4ea1ff;
+    --accent-yellow: #ffdc2f;
+    --bg-light: #f5f5f5;
+    --bg-dark: #121212;
+    --text-light: #222;
+    --text-dark: #eee;
+    --card-bg-light: #ffffff;
+    --card-bg-dark: #1e1e1e;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+    --shadow-dark: rgba(255, 255, 255, 0.1);
+}
+
 /* Style général pour toutes les icônes */
 .icon-moon {
+    background: transparent;
+    border: 2px solid #000;
+    color: #000;
+
     font-size: 1.5rem;
-    background: #000;
-    color: #fff;
+   
+    
     border-radius: 50%;
-    border: none;
+    
     width: 2.2rem;
     height: 2.2rem;
     cursor: pointer;
@@ -19,6 +38,20 @@
 body.dark .icon-moon {
     background: #fff;
     color: #000;
+}
+
+.icon-moon i {
+    font-size: inherit;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body.dark .icon-moon {
+    background-color: var(--accent-yellow);
+    color: rgb(0, 0, 0);
 }
 
 .icon-moon:hover {
@@ -77,11 +110,13 @@ body.dark .export-btn {
 }
 
 #burger-menu {
-    font-size: 2.2rem;
-    background: #000;
-    color: #fff;
+    background: transparent;
+    border: 2px solid #000;
+    color: #000;
+
+    font-size: 1.5rem;
     border-radius: 50%;
-    border: none;
+
     width: 2.5rem;
     height: 2.5rem;
     cursor: pointer;
@@ -92,13 +127,13 @@ body.dark .export-btn {
     justify-content: center;
     margin-right: 0.5rem;
     /* top right bottom left*/
-    padding: 0.2rem 0rem 0.5rem 0rem;
+    padding: 0rem;
     position: fixed;
 }
 
 body.dark #burger-menu {
-    background: var(--accent-yellow);
-    color: #000;
+    border-color: var(--accent-yellow);
+    color: var(--accent-yellow);
 }
 
 .side-menu {
@@ -177,31 +212,14 @@ body.dark #close-menu {
 
 
 #dark-toggle.sun {
-   
+
     color: #000 !important;
 }
 
 
 body.dark #dark-toggle {
-    
+
     color: #fff;
-}
-
-
-
-/* Variables CSS */
-:root {
-    --primary-blue: #0077cc;
-    --primary-blue-light: #4ea1ff;
-    --accent-yellow: #ffdc2f;
-    --bg-light: #f5f5f5;
-    --bg-dark: #121212;
-    --text-light: #222;
-    --text-dark: #eee;
-    --card-bg-light: #ffffff;
-    --card-bg-dark: #1e1e1e;
-    --shadow-light: rgba(0, 0, 0, 0.1);
-    --shadow-dark: rgba(255, 255, 255, 0.1);
 }
 
 /* BODY */
@@ -323,7 +341,7 @@ body.dark .icone_title {
 }
 
 header {
-    
+
     justify-self: center;
     position: sticky;
     display: flex;
@@ -336,7 +354,7 @@ header {
 }
 
 .set-title {
-    text-align: center !important; 
+    text-align: center !important;
     align-self: center !important;
 }
 
@@ -546,34 +564,8 @@ body.dark .small-clickable {
     margin-top: 2px;
 }
 
-.icon-moon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    vertical-align: middle;
-    width: 3rem;
-    height: 3rem;
-    line-height: 1;
-    background-color: #000;
-    color: #fff;
-    border-radius: 50%;
-    font-size: 2.2rem;
-    border: none;
-}
 
-.icon-moon i {
-    font-size: inherit;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
-body.dark .icon-moon {
-    background-color: var(--accent-yellow);
-    color: rgb(0, 0, 0);
-}
 
 .export {
     margin-left: 0.5rem;
@@ -603,13 +595,17 @@ body.dark .back {
 }
 
 .mouse-button-theme:hover {
-    background-color: var(--accent-yellow) !important;
-    color: rgb(0, 0, 0) !important;
+    background: #000 !important;
+    color: var(--text-dark) !important;
+}
+
+body.dark .mouse-button-theme {
+    border-color: var(--accent-yellow);
+    color: var(--accent-yellow);
 }
 
 body.dark .mouse-button-theme:hover {
     background: #ffffff !important;
-    /* exemple pour le mode sombre */
     color: rgb(0, 0, 0) !important;
 }
 

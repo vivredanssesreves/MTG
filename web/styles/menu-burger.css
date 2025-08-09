@@ -1,0 +1,114 @@
+/* Menu burger et navigation */
+
+.top-bar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1.5rem;
+    position: sticky;
+    top: 0;
+    background: transparent;
+    z-index: 1001;
+    padding: 0.7rem 2rem 0.2rem 2rem;
+}
+
+#burger-menu {
+    background: transparent;
+    border: 0.125rem solid var(--text-light);
+    color: var(--text-light);
+    font-size: 1.5rem;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.5rem;
+    padding: 0rem;
+    position: fixed;
+}
+
+#burger-menu:hover {
+    background: var(--text-light);
+    color: var(--card-bg-light);
+}
+
+body.dark #burger-menu {
+    border-color: var(--accent-yellow);
+    color: var(--accent-yellow);
+}
+
+body.dark #burger-menu:hover {
+    background: var(--card-bg-light);
+    color: var(--text-light);
+}
+
+.side-menu {
+    position: fixed;
+    top: 1.5rem;
+    right: -30rem;
+    min-width: 14rem;
+    max-width: 90vw;
+    height: auto;
+    background: var(--card-bg-light);
+    box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.18);
+    border-radius: 1.2rem;
+    z-index: 666999;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+    transition: right 0.3s;
+    text-decoration: none;
+    color: var(--primary-blue);
+    font-weight: 600;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.side-menu.open {
+    right: 0rem;
+}
+
+.side-menu button {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    background: transparent;
+    border: none;
+    gap: 1rem;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--primary-blue);
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+body.dark .side-menu {
+    background: var(--bg-dark);
+    color: var(--text-dark);
+}
+
+.button-row {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+#close-menu {
+    font-size: 1.8rem;
+    background: none;
+    color: #020202;
+    border: none;
+    margin-bottom: 0.7rem;
+    cursor: pointer;
+    align-self: flex-end;
+}
+
+body.dark #close-menu {
+    color: #ffdc2f;
+}
