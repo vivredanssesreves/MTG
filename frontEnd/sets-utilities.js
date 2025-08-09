@@ -1,6 +1,6 @@
 // Utility script for burger menu, dark mode, and reset button
 document.addEventListener('DOMContentLoaded', () => {
-  // Initialisation du mode sombre au chargement
+  // Initialisation du mode sombre au chargement - synchronise html et body
   if (localStorage.getItem('darkMode') === 'enabled') {
     document.documentElement.classList.add('dark');
     document.body.classList.add('dark');

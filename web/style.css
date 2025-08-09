@@ -171,6 +171,11 @@ body.dark {
     color: #eee;
 }
 
+html.dark body {
+    background-color: #121212;
+    color: #eee;
+}
+
 
 
 #sets {
@@ -270,7 +275,7 @@ body.dark .icone_title {
 
 header {
     
-    justify-self: flex-end;
+    justify-self: center;
     position: sticky;
     display: flex;
     align-items: center;
