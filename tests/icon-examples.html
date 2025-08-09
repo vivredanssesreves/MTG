@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemples d'icônes</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        .examples-container {
+            display: flex;
+            gap: 0.5rem;
+            padding: 0.5rem;
+            margin: 0 auto;
+            background: var(--bg-light);
+        }
+
+        body.dark .examples-container {
+            background: var(--bg-dark);
+        }
+
+        .theme-section {
+            background: var(--bg-light) !important;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .theme-section.dark {
+            background: var(--bg-dark) !important;
+            color: var(--text-dark);
+        }
+
+        .theme-section {
+            background: var(--card-bg-light);
+            padding: 0.5rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px var(--shadow-light);
+        }
+
+        body.dark .theme-section,
+        .theme-section.dark {
+            background: var(--card-bg-dark);
+            box-shadow: 0 4px 12px var(--shadow-dark);
+            color: var(--text-dark);
+        }
+
+        .icon-example {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            height: 3.5rem;
+            padding: 1rem;
+            margin-bottom: 0.5rem;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.05);
+        }
+
+        body.dark .icon-example,
+        .dark .icon-example {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .icon-title {
+            font-weight: bold;
+            min-width: 200px;
+        }
+
+        /* Styles pour les nouvelles icônes */
+        .icon-external {
+            width: 1.5rem;
+            height: 1.5rem;
+            background-color: #f37321;
+            border-radius: 50%;
+            display: inline-flex;
+            overflow: visible;
+            justify-content: center;
+            align-items: center;
+            object-fit: contain;
+            padding: 0.1rem;
+            cursor: pointer;
+            color: white;
+            font-size: 1rem;
+            transition: box-shadow 0.3s ease;
+        }
+
+        .icon-external:hover {
+            box-shadow: 0 12px 24px rgba(235, 11, 11, 0.3);
+        }
+
+        /* Style pour le SVG personnalisé */
+        .icon-external svg {
+            width: 1rem;
+            height: 1rem;
+            fill: currentColor;
+        }
+
+        /* Style minimaliste */
+        .minimal-style {
+            background: transparent;
+            border: 2px solid var(--primary-blue);
+            color: var(--primary-blue);
+        }
+
+        .minimal-style:hover {
+            background: var(--primary-blue);
+            color: white;
+        }
+
+        /* Style minimaliste noir */
+        .minimal-style-black {
+            background: transparent;
+            border: 2px solid #000;
+            color: #000;
+        }
+
+        .minimal-style-black:hover {
+            background: #000;
+            color: white;
+        }
+
+        /* Dark mode adjustments */
+        body.dark .minimal-style,
+        .dark .minimal-style {
+            border-color: var(--accent-yellow);
+            color: var(--accent-yellow);
+        }
+
+        body.dark .minimal-style:hover,
+        .dark .minimal-style:hover {
+            background: var(--accent-yellow);
+            color: var(--bg-dark);
+        }
+
+        body.dark .pulse-effect,
+        .dark .pulse-effect,
+        body.dark .rotate-on-hover,
+        .dark .rotate-on-hover,
+        body.dark .shine-effect,
+        .dark .shine-effect {
+            background-color: var(--accent-yellow);
+            color: var(--bg-dark);
+        }
+
+        h2 {
+            margin-bottom: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Icônes de thème</h2>
+    <div class="examples-container">
+        <div class="theme-section">
+            <h2>Bleu</h2>
+            <!-- Lunes -->
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-moon"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-moon"></i>
+                </div>
+            </div>
+
+            <!-- Soleil et luminosité -->
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-sun"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-sun"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-lightbulb"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section">
+            <h2>Noir</h2>
+            <!-- Lunes -->
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-moon"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="far fa-moon"></i>
+                </div>
+            </div>
+
+            <!-- Soleil et luminosité -->
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-sun"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="far fa-sun"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="far fa-lightbulb"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section dark">
+            <h2>Sombre</h2>
+            <!-- Lunes -->
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-moon"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-moon"></i>
+                </div>
+            </div>
+
+            <!-- Soleil et luminosité -->
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-sun"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-sun"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-lightbulb"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h2>Icônes d'action</h2>
+    <div class="examples-container">
+        <div class="theme-section">
+            <h2>Bleu</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-xmark"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-trash-alt"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section">
+            <h2>Noir</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-xmark"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="far fa-trash-alt"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section dark">
+            <h2>Sombre</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-xmark"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="far fa-trash-alt"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h2>Icônes de navigation</h2>
+    <div class="examples-container">
+        <div class="theme-section">
+            <h2>Bleu</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-download"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-upload"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section">
+            <h2>Noir</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-download"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-upload"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section dark">
+            <h2>Sombre</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-download"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-upload"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h2>Icônes d'interface</h2>
+    <div class="examples-container">
+        <div class="theme-section">
+            <h2>Bleu</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <span class="material-icons">link</span>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-ellipsis-v"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-question"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section">
+            <h2>Noir</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <span class="material-icons">link</span>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-ellipsis-v"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style-black">
+                    <i class="fas fa-question"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section dark">
+            <h2>Sombre</h2>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <span class="material-icons">link</span>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-ellipsis-v"></i>
+                </div>
+            </div>
+            <div class="icon-example">
+                <div class="icon-external minimal-style">
+                    <i class="fas fa-question"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

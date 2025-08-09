@@ -10,6 +10,7 @@ export function initBurgerMenu() {
         const resetSetBtn = document.getElementById('reset-set');
         const exportBddBtn = document.getElementById('export-bdd');
         const exportSetBtn = document.getElementById('export-set');
+        const helpBtn = document.getElementById('help-toggle');
         if (burgerBtn && sideMenu) {
             burgerBtn.onclick = () => {
                 sideMenu.classList.add('open');
@@ -75,6 +76,12 @@ export function initBurgerMenu() {
                         alert('Erreur lors de l\'export');
                     });
                 }
+            };
+        }
+        // Gestion du bouton help
+        if (helpBtn) {
+            helpBtn.onclick = () => {
+                window.open('https://github.com/vivredanssesreves/MTG/wiki', '_blank');
             };
         }
         // Gestion des boutons reset

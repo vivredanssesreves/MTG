@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemples de Progress Bar</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 2rem;
+            background: #f5f5f5;
+            margin: 0;
+        }
+        
+        .split-view {
+            display: flex;
+            min-height: 100vh;
+        }
+        
+        .light-side {
+            flex: 1;
+            padding: 2rem;
+            background: #f5f5f5;
+            color: #333;
+        }
+        
+        .dark-side {
+            flex: 1;
+            padding: 2rem;
+            background: #121212;
+            color: #eee;
+        }
+        
+        .example {
+            margin: 2rem 0;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .light-side .example {
+            background: white;
+        }
+        
+        .dark-side .example {
+            background: #252424ae;
+            box-shadow: 0 2px 8px rgba(255,255,255,0.1);
+        }
+        
+        h1 {
+            text-align: center;
+            margin: 0;
+            padding: 2rem;
+            background: linear-gradient(90deg, #f5f5f5 50%, #121212 50%);
+            color: #333;
+            position: relative;
+        }
+        
+        h1::after {
+            content: "Mode Sombre";
+            position: absolute;
+            right: 25%;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #eee;
+        }
+        
+        h1::before {
+            content: "Mode Clair";
+            position: absolute;
+            left: 25%;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #333;
+        }
+        
+        /* Styles écartés - opacité réduite */
+        .example.rejected {
+            opacity: 0.4;
+            border: 2px dashed #999;
+        }
+        
+        .example.rejected h3 {
+            text-decoration: line-through;
+        }
+        
+        h3 {
+            margin-top: 0;
+            color: inherit;
+        }
+        
+        /* Style 1: Simple et moderne */
+        .progress-modern {
+            border-radius: 25px;
+            height: 8px;
+            overflow: hidden;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+            width: 300px;
+            margin: 0;
+        }
+        
+        .progress-modern .bar {
+            background: linear-gradient(90deg, #4CAF50, #45a049);
+            height: 100%;
+            width: 65%;
+            border-radius: 25px;
+            transition: width 0.6s ease;
+        }
+        
+        /* Style 2: Avec animation */
+        .progress-animated {
+            background: #ddd;
+            border-radius: 4px;
+            height: 20px;
+            overflow: hidden;
+            position: relative;
+            width: 300px;
+            margin: 0;
+        }
+        
+        .progress-animated .bar {
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            height: 100%;
+            width: 75%;
+            position: relative;
+            transition: width 0.8s ease;
+        }
+        
+        .progress-animated .bar::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(
+                90deg,
+                rgba(255,255,255,0) 0%,
+                rgba(255,255,255,0.4) 50%,
+                rgba(255,255,255,0) 100%
+            );
+            animation: shine 2s infinite;
+        }
+        
+        @keyframes shine {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(100%); }
+        }
+        
+        /* Style 3: Coloré avec pourcentage */
+        .progress-colorful {
+            background: #2c2c2c;
+            border-radius: 15px;
+            height: 25px;
+            overflow: hidden;
+            position: relative;
+            width: 300px;
+            margin: 0;
+        }
+        
+        .progress-colorful .bar {
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            height: 100%;
+            width: 45%;
+            border-radius: 15px;
+            transition: width 0.5s ease;
+            position: relative;
+        }
+        
+        .progress-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-weight: bold;
+            font-size: 12px;
+        }
+        
+        /* Style 4: Glassmorphism */
+        .progress-glass {
+            background: rgba(255, 255, 255, 0.25);
+            border-radius: 16px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            height: 15px;
+            overflow: hidden;
+            width: 300px;
+            margin: 0;
+        }
+        
+        .progress-glass .bar {
+            background: linear-gradient(90deg, rgba(76, 175, 80, 0.8), rgba(139, 195, 74, 0.8));
+            height: 100%;
+            width: 80%;
+            border-radius: 16px;
+            transition: width 0.7s ease;
+        }
+        
+        /* Style 5: Ton style actuel amélioré */
+        .putin_de_bar_improved {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 12px;
+            height: 22px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            border: 2px solid rgba(255,255,255,0.3);
+            width: 300px;
+            margin: 0;
+        }
+        
+        .putin_de_bar_improved .bar {
+            background: linear-gradient(90deg, #4CAF50, #81C784);
+            height: 100%;
+            width: 60%;
+            transition: width 0.6s ease;
+            position: relative;
+        }
+        
+        .putin_de_bar_improved .bar::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 50%;
+            background: linear-gradient(180deg, rgba(255,255,255,0.3) 0%, transparent 100%);
+        }
+        
+        /* Style 6: Mix du 3 et 5 */
+        .putin_de_bar_mix {
+            background: #2c2c2c;
+            border-radius: 12px;
+            height: 24px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+            border: 2px solid rgba(76, 175, 80, 0.3);
+            width: 300px;
+            margin: 0;
+            position: relative;
+        }
+        
+        .putin_de_bar_mix .bar {
+            background: linear-gradient(90deg, #4CAF50, #81C784);
+            height: 100%;
+            width: 55%;
+            transition: width 0.6s ease;
+            position: relative;
+        }
+        
+        .putin_de_bar_mix .progress-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-weight: bold;
+            font-size: 12px;
+            z-index: 10;
+        }
+        
+        /* Style 7: Version sombre du 5 */
+        .putin_de_bar_dark {
+            background: linear-gradient(135deg, #2c2c2c 0%, #1a1a1a 100%);
+            border-radius: 12px;
+            height: 20px;
+            overflow: hidden;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.3);
+            border: 1px solid rgba(76, 175, 80, 0.4);
+            width: 300px;
+            margin: 0;
+        }
+        
+        .putin_de_bar_dark .bar {
+            background: linear-gradient(90deg, #4CAF50, #66BB6A, #4CAF50);
+            height: 100%;
+            width: 70%;
+            transition: width 0.8s ease;
+            box-shadow: 0 0 10px rgba(76, 175, 80, 0.6);
+        }
+        
+        /* Style 8: Plus fin et élégant */
+        .putin_de_bar_thin {
+            background: rgba(255,255,255,0.1);
+            border-radius: 8px;
+            height: 12px;
+            overflow: hidden;
+            box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
+            border: 1px solid rgba(255,255,255,0.2);
+            width: 300px;
+            margin: 0;
+        }
+        
+        .putin_de_bar_thin .bar {
+            background: linear-gradient(90deg, #4CAF50, #8BC34A);
+            height: 100%;
+            width: 40%;
+            transition: width 0.5s ease;
+            border-radius: 6px;
+        }
+        
+        /* Style 8: MTG Adaptatif - Mode clair/sombre adaptatif */
+        .progress_mtg_adaptive {
+            background: #f0f0f0;
+            border-radius: 10px;
+            height: 18px;
+            overflow: hidden;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+            border: 1px solid #ddd;
+            width: 300px;
+            margin: 0;
+            transition: all 0.3s ease;
+        }
+        
+        .dark-side .progress_mtg_adaptive {
+            background: #2c2c2c;
+            border-color: rgba(76, 175, 80, 0.3);
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .progress_mtg_adaptive .bar {
+            background: linear-gradient(90deg, #4CAF50, #66BB6A);
+            height: 100%;
+            width: 55%;
+            transition: width 0.6s ease;
+        }
+        
+        .dark-side .progress_mtg_adaptive .bar {
+            background: linear-gradient(90deg, #4CAF50, #81C784);
+            box-shadow: 0 0 8px rgba(76, 175, 80, 0.4);
+        }
+        
+        /* Style 9: MTG Foil Effect - inspiré de tes cartes foil */
+        .progress_mtg_foil {
+            background: #1a1a1a;
+            border-radius: 12px;
+            height: 22px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+            border: 2px solid transparent;
+            background-clip: padding-box;
+            width: 300px;
+            margin: 0;
+            position: relative;
+        }
+        
+        .progress_mtg_foil::before {
+            content: '';
+            position: absolute;
+            top: -2px; left: -2px; right: -2px; bottom: -2px;
+            background: linear-gradient(45deg, #4CAF50, #81C784, #4CAF50, #66BB6A);
+            border-radius: 14px;
+            z-index: -1;
+        }
+        
+        .progress_mtg_foil .bar {
+            background: linear-gradient(270deg, #4CAF50, #81C784, #66BB6A, #4CAF50);
+            background-size: 400% 400%;
+            height: 100%;
+            width: 65%;
+            animation: foilShimmer 3s ease infinite;
+            box-shadow: 0 0 15px rgba(76, 175, 80, 0.6);
+            border-radius: 10px;
+        }
+        
+        @keyframes foilShimmer {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        
+        /* Style 10: MTG Collection avec compteur intégré */
+        .progress_mtg_collection {
+            background: #f5f5f5;
+            border-radius: 8px;
+            height: 24px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border: 2px solid #0077cc;
+            width: 300px;
+            margin: 0;
+            position: relative;
+        }
+        
+        .dark-side .progress_mtg_collection {
+            background: #252424ae;
+            border-color: #4ea1ff;
+        }
+        
+        .progress_mtg_collection .bar {
+            background: linear-gradient(90deg, #0077cc, #4ea1ff);
+            height: 100%;
+            width: 45%;
+            transition: width 0.5s ease;
+            position: relative;
+        }
+        
+        .dark-side .progress_mtg_collection .bar {
+            background: linear-gradient(90deg, #4ea1ff, #66a3ff);
+        }
+        
+        .progress_mtg_collection .progress-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #333;
+            font-weight: bold;
+            font-size: 12px;
+            z-index: 10;
+        }
+        
+        .dark-side .progress_mtg_collection .progress-text {
+            color: white;
+        }
+        
+        /* Style 11: MTG Minimalist - très discret */
+        .progress_mtg_minimal {
+            background: rgba(0,0,0,0.05);
+            border-radius: 20px;
+            height: 6px;
+            overflow: hidden;
+            width: 300px;
+            margin: 0;
+        }
+        
+        .dark-side .progress_mtg_minimal {
+            background: rgba(255,255,255,0.1);
+        }
+        
+        .progress_mtg_minimal .bar {
+            background: #4CAF50;
+            height: 100%;
+            width: 75%;
+            border-radius: 20px;
+            transition: width 0.4s ease;
+        }
+    </style>
+</head>
+<body>
+<body>
+    <div class="split-view">
+        <!-- CÔTÉ CLAIR -->
+        <div class="light-side">
+            <h2 style="text-align: center; margin-bottom: 2rem;">🌞 Mode Clair</h2>
+            
+            <div class="example">
+                <h3>1. Style moderne simple</h3>
+                <div class="progress-modern">
+                    <div class="bar" id="bar1-light"></div>
+                </div>
+                <p>Fin, moderne, avec dégradé subtil</p>
+            </div>
+            
+            <div class="example">
+                <h3>2. Coloré avec compteur</h3>
+                <div class="progress-colorful">
+                    <div class="bar" id="bar2-light"></div>
+                    <div class="progress-text" id="text2-light">120/400</div>
+                </div>
+                <p>Fond sombre avec compteur intégré</p>
+            </div>
+            
+            <div class="example">
+                <h3>3. 🎯 MTG Adaptatif</h3>
+                <div class="progress_mtg_adaptive">
+                    <div class="bar" id="bar8-light"></div>
+                </div>
+                <p>S'adapte automatiquement à ton thème !</p>
+            </div>
+            
+            <div class="example">
+                <h3>4. Mix du style avec compteur</h3>
+                <div class="putin_de_bar_mix">
+                    <div class="bar" id="bar5-light"></div>
+                    <div class="progress-text" id="text5-light">120/400</div>
+                </div>
+                <p>Fond sombre + dégradé + compteur affiché</p>
+            </div>
+            
+            <div class="example">
+                <h3>5. Version sombre et glowy</h3>
+                <div class="putin_de_bar_dark">
+                    <div class="bar" id="bar6-light"></div>
+                </div>
+                <p>Fond très sombre avec effet lumineux vert</p>
+            </div>
+            
+            <div class="example">
+                <h3>6. Version fine et élégante</h3>
+                <div class="putin_de_bar_thin">
+                    <div class="bar" id="bar7-light"></div>
+                </div>
+                <p>Plus petit, discret mais élégant</p>
+            </div>
+            
+            <div class="example">
+                <h3>7. ✨ MTG Foil Effect</h3>
+                <div class="progress_mtg_foil">
+                    <div class="bar" id="bar9-light"></div>
+                </div>
+                <p>Animation brillante inspirée de tes cartes foil</p>
+            </div>
+            
+            <div class="example">
+                <h3>8. 📊 MTG Collection</h3>
+                <div class="progress_mtg_collection">
+                    <div class="bar" id="bar10-light"></div>
+                    <div class="progress-text" id="text10-light">120/400</div>
+                </div>
+                <p>Couleurs de ton interface avec compteur</p>
+            </div>
+            
+            <div class="example">
+                <h3>9. 🎨 MTG Minimalist</h3>
+                <div class="progress_mtg_minimal">
+                    <div class="bar" id="bar11-light"></div>
+                </div>
+                <p>Pour ne pas distraire de tes cartes</p>
+            </div>
+            
+            <!-- SECTION DES STYLES ÉCARTÉS -->
+            <div style="margin-top: 4rem; border-top: 2px dashed #ccc; padding-top: 2rem;">
+                <h2 style="text-align: center; color: #999; margin-bottom: 2rem;">❌ Styles écartés</h2>
+                
+                <div class="example rejected">
+                    <h3>❌ Style glassmorphism</h3>
+                    <div class="progress-glass">
+                        <div class="bar" id="bar3-light"></div>
+                    </div>
+                    <p>Effet de verre avec flou d'arrière-plan</p>
+                </div>
+                
+                <div class="example rejected">
+                    <h3>❌ Ton style actuel amélioré</h3>
+                    <div class="putin_de_bar_improved">
+                        <div class="bar" id="bar4-light"></div>
+                    </div>
+                    <p>Garde le nom mais avec un look plus moderne</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- CÔTÉ SOMBRE -->
+        <div class="dark-side">
+            <h2 style="text-align: center; margin-bottom: 2rem;">🌙 Mode Sombre</h2>
+            
+            <div class="example">
+                <h3>1. Style moderne simple</h3>
+                <div class="progress-modern">
+                    <div class="bar" id="bar1-dark"></div>
+                </div>
+                <p>Fin, moderne, avec dégradé subtil</p>
+            </div>
+            
+            <div class="example">
+                <h3>2. Coloré avec compteur</h3>
+                <div class="progress-colorful">
+                    <div class="bar" id="bar2-dark"></div>
+                    <div class="progress-text" id="text2-dark">120/400</div>
+                </div>
+                <p>Fond sombre avec compteur intégré</p>
+            </div>
+            
+            <div class="example">
+                <h3>3. 🎯 MTG Adaptatif</h3>
+                <div class="progress_mtg_adaptive">
+                    <div class="bar" id="bar8-dark"></div>
+                </div>
+                <p>S'adapte automatiquement à ton thème !</p>
+            </div>
+            
+            <div class="example">
+                <h3>4. Mix du style avec compteur</h3>
+                <div class="putin_de_bar_mix">
+                    <div class="bar" id="bar5-dark"></div>
+                    <div class="progress-text" id="text5-dark">120/400</div>
+                </div>
+                <p>Fond sombre + dégradé + compteur affiché</p>
+            </div>
+            
+            <div class="example">
+                <h3>5. Version sombre et glowy</h3>
+                <div class="putin_de_bar_dark">
+                    <div class="bar" id="bar6-dark"></div>
+                </div>
+                <p>Fond très sombre avec effet lumineux vert</p>
+            </div>
+            
+            <div class="example">
+                <h3>6. Version fine et élégante</h3>
+                <div class="putin_de_bar_thin">
+                    <div class="bar" id="bar7-dark"></div>
+                </div>
+                <p>Plus petit, discret mais élégant</p>
+            </div>
+            
+            <div class="example">
+                <h3>7. ✨ MTG Foil Effect</h3>
+                <div class="progress_mtg_foil">
+                    <div class="bar" id="bar9-dark"></div>
+                </div>
+                <p>Animation brillante inspirée de tes cartes foil</p>
+            </div>
+            
+            <div class="example">
+                <h3>8. 📊 MTG Collection</h3>
+                <div class="progress_mtg_collection">
+                    <div class="bar" id="bar10-dark"></div>
+                    <div class="progress-text" id="text10-dark">120/400</div>
+                </div>
+                <p>Couleurs de ton interface avec compteur</p>
+            </div>
+            
+            <div class="example">
+                <h3>9. 🎨 MTG Minimalist</h3>
+                <div class="progress_mtg_minimal">
+                    <div class="bar" id="bar11-dark"></div>
+                </div>
+                <p>Pour ne pas distraire de tes cartes</p>
+            </div>
+            
+            <!-- SECTION DES STYLES ÉCARTÉS -->
+            <div style="margin-top: 4rem; border-top: 2px dashed #666; padding-top: 2rem;">
+                <h2 style="text-align: center; color: #666; margin-bottom: 2rem;">❌ Styles écartés</h2>
+                
+                <div class="example rejected">
+                    <h3>❌ Style glassmorphism</h3>
+                    <div class="progress-glass">
+                        <div class="bar" id="bar3-dark"></div>
+                    </div>
+                    <p>Effet de verre avec flou d'arrière-plan</p>
+                </div>
+                
+                <div class="example rejected">
+                    <h3>❌ Ton style actuel amélioré</h3>
+                    <div class="putin_de_bar_improved">
+                        <div class="bar" id="bar4-dark"></div>
+                    </div>
+                    <p>Garde le nom mais avec un look plus moderne</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Contrôles centrés en bas -->
+    <div style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); text-align: center; background: rgba(0,0,0,0.8); color: white; padding: 1rem 2rem; border-radius: 12px; backdrop-filter: blur(10px);">
+        <input type="range" min="0" max="400" value="120" style="width: 300px; margin-bottom: 0.5rem;" onchange="updateAllProgress(this.value)">
+        <div>Progression: <span id="globalCount">120/400</span></div>
+    </div>
+    
+    <script>
+        // Animation des barres au chargement
+        window.addEventListener('load', function() {
+            updateAllProgress(120); // Initialise toutes les barres à 120/400
+        });
+        
+        // Fonction pour mettre à jour toutes les progress bars
+        function updateAllProgress(value) {
+            const total = 400;
+            const percentage = (value / total) * 100;
+            
+            // Met à jour l'affichage du compteur global
+            document.getElementById('globalCount').textContent = value + '/' + total;
+            
+            // Met à jour toutes les barres côté clair et sombre
+            for (let i = 1; i <= 11; i++) {
+                const barLight = document.getElementById('bar' + i + '-light');
+                const barDark = document.getElementById('bar' + i + '-dark');
+                if (barLight) barLight.style.width = percentage + '%';
+                if (barDark) barDark.style.width = percentage + '%';
+            }
+            
+            // Met à jour les textes des barres qui en ont (côtés clair et sombre)
+            ['2', '5', '10'].forEach(num => {
+                const textLight = document.getElementById('text' + num + '-light');
+                const textDark = document.getElementById('text' + num + '-dark');
+                if (textLight) textLight.textContent = value + '/' + total;
+                if (textDark) textDark.textContent = value + '/' + total;
+            });
+        }
+    </script>
+</body>
+</html>

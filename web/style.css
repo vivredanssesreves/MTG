@@ -1,3 +1,31 @@
+/* Style général pour toutes les icônes */
+.icon-moon {
+    font-size: 1.5rem;
+    background: #000;
+    color: #fff;
+    border-radius: 50%;
+    border: none;
+    width: 2.2rem;
+    height: 2.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.2rem;
+}
+
+body.dark .icon-moon {
+    background: #fff;
+    color: #000;
+}
+
+.icon-moon:hover {
+    box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.3);
+    transform: translateY(-1px);
+}
+
 .export-btn {
     display: flex;
     align-items: center;
@@ -69,7 +97,7 @@ body.dark .export-btn {
 }
 
 body.dark #burger-menu {
-    background: #ffdc2f;
+    background: var(--accent-yellow);
     color: #000;
 }
 
@@ -80,7 +108,7 @@ body.dark #burger-menu {
     min-width: 14rem;
     max-width: 90vw;
     height: auto;
-    background: white;
+    background: var(--card-bg-light);
     box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.18);
     border-radius: 1.2rem;
     z-index: 666999;
@@ -90,7 +118,7 @@ body.dark #burger-menu {
     padding: 1.5rem 1.2rem 1.2rem 1.2rem;
     transition: right 0.3s;
     text-decoration: none;
-    color: #0077cc;
+    color: var(--primary-blue);
     font-weight: 600;
     font-size: 1rem;
     text-align: left;
@@ -106,19 +134,25 @@ body.dark #burger-menu {
     gap: 1rem;
     cursor: pointer;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #0077cc;
+    color: var(--primary-blue);
     font-weight: 600;
     font-size: 1rem;
     margin-bottom: 0.5rem;
 }
 
 body.dark .side-menu {
-    background: #222;
-    color: #fff;
+    background: var(--bg-dark);
+    color: var(--text-dark);
 }
 
 .side-menu.open {
     right: 0rem;
+}
+
+.button-row {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
 }
 
 #close-menu {
@@ -155,25 +189,40 @@ body.dark #dark-toggle {
 
 
 
+/* Variables CSS */
+:root {
+    --primary-blue: #0077cc;
+    --primary-blue-light: #4ea1ff;
+    --accent-yellow: #ffdc2f;
+    --bg-light: #f5f5f5;
+    --bg-dark: #121212;
+    --text-light: #222;
+    --text-dark: #eee;
+    --card-bg-light: #ffffff;
+    --card-bg-dark: #1e1e1e;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+    --shadow-dark: rgba(255, 255, 255, 0.1);
+}
+
 /* BODY */
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #f5f5f5;
-    color: #222;
+    background: var(--bg-light);
+    color: var(--text-light);
     padding: 2rem;
     margin: 0;
     transition: background-color 0.3s, color 0.3s;
 }
 
 body.dark {
-    background-color: #121212;
-    color: #eee;
+    background-color: var(--bg-dark);
+    color: var(--text-dark);
 }
 
 html.dark body {
-    background-color: #121212;
-    color: #eee;
+    background-color: var(--bg-dark);
+    color: var(--text-dark);
 }
 
 
@@ -187,9 +236,9 @@ html.dark body {
 }
 
 .set {
-    background: white;
+    background: var(--card-bg-light);
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+    box-shadow: 0 2px 8px var(--shadow-light);
     padding: 1rem;
     text-align: center;
 
@@ -219,7 +268,7 @@ body.dark .set:hover {
 
 .set a {
     text-decoration: none;
-    color: #0077cc;
+    color: var(--primary-blue);
     font-weight: 600;
     display: block;
     margin-top: 0.3rem;
@@ -232,7 +281,7 @@ body.dark .set:hover {
 }
 
 body.dark .set a {
-    color: #4ea1ff;
+    color: var(--primary-blue-light);
 }
 
 
@@ -332,9 +381,9 @@ body.dark .set img {
 }
 
 .card {
-    background: white;
+    background: var(--card-bg-light);
     border-radius: 12px;
-    box-shadow: 0 4px 12px rgb(0 0 0 / 0.15);
+    box-shadow: 0 4px 12px var(--shadow-light);
     overflow: hidden;
     cursor: pointer;
     display: flex;
@@ -351,8 +400,8 @@ body.dark .set img {
 }
 
 body.dark .card {
-    background: #1e1e1e;
-    box-shadow: 0 4px 15px rgba(255 255 255 / 0.1);
+    background: var(--card-bg-dark);
+    box-shadow: 0 4px 15px var(--shadow-dark);
 }
 
 
@@ -510,11 +559,19 @@ body.dark .small-clickable {
     border-radius: 50%;
     font-size: 2.2rem;
     border: none;
+}
 
+.icon-moon i {
+    font-size: inherit;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 body.dark .icon-moon {
-    background-color: #ffdc2f;
+    background-color: var(--accent-yellow);
     color: rgb(0, 0, 0);
 }
 
@@ -526,7 +583,7 @@ body.dark .icon-moon {
 }
 
 body.dark .export {
-    background-color: #ffdc2f;
+    background-color: var(--accent-yellow);
     color: rgb(0, 0, 0);
 }
 
@@ -541,12 +598,12 @@ body.dark .export {
 }
 
 body.dark .back {
-    background-color: #ffdc2f;
+    background-color: var(--accent-yellow);
     color: rgb(0, 0, 0);
 }
 
 .mouse-button-theme:hover {
-    background-color: #ffdc2f !important;
+    background-color: var(--accent-yellow) !important;
     color: rgb(0, 0, 0) !important;
 }
 
