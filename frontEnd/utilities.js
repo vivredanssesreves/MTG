@@ -31,7 +31,7 @@ export function initBurgerMenu() {
             resetBddBtn.onclick = () => {
                 if (confirm('Voulez-vous vraiment réinitialiser toute votre BDD ?')) {
                     fetch('/api/reset-bdd', { method: 'POST' });
-                    alert('Reset BDD: done)');
+                    alert('Reset BDD: done');
                 }
             };
         }

@@ -1,6 +1,8 @@
 // Get query param "code"
 const params = new URLSearchParams(window.location.search);
 const setCode = params.get('code');
+const pathMyCards = '../MYBDD/json/'; // Chemin vers mes cartes personnelles
+const pathBddSet = '../bdd/sets/'; // Chemin vers les sets de la BDD
 let currentCards = [];
 
 // Back button (attendre que le DOM soit prêt)
@@ -40,15 +42,13 @@ loadSetCards(setCode);
 async function loadSetCards(code) {
     try {
 
-        const resCards = await fetch(`../bdd/sets/${code}.json`);
-        const resMyCards = await fetch(`../MYBDD/myCards.json`);
+        const resCards = await fetch(`${pathBddSet}${code}.json`);
+        const resMyCards = await fetch(`${pathMyCards}${code}.json`);
 
         if (!resCards.ok || !resMyCards.ok) throw new Error('Erreur de chargement');
 
         const cards = await resCards.json();
-        const myCards = await resMyCards.json();
-        const setMyData = myCards.sets.find(s => s.code === code) || { cards: [] };
-
+        const setMyData = await resMyCards.json();
 
         document.getElementById('set-title').innerHTML = `<img src="${set.icon_svg_uri}" alt="${set.name}" class="icone_title"/> ${set.name}`;
 
@@ -96,10 +96,9 @@ async function progress(cards) {
 
     const cardsProgress = document.createElement('div');
 
-    const resMyCards = await fetch(`../MYBDD/myCards.json`);
+    const resMyCards = await fetch(`../MYBDD/json/${code}.json`);
     const myCardsJson = await resMyCards.json();
-    const setMyData = myCardsJson.sets.find(s => s.code === code) || { cards: [] };
-    const myCards = setMyData.cards;
+    const myCards = myCardsJson.cards;
 
     if (!cards || !myCards) {
         cardsProgress.innerHTML = `
