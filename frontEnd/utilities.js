@@ -8,6 +8,8 @@ export function initBurgerMenu() {
         const closeBtn = document.getElementById('close-menu');
         const resetBddBtn = document.getElementById('reset-bdd');
         const resetSetBtn = document.getElementById('reset-set');
+        const exportBddBtn = document.getElementById('export-bdd');
+        const exportSetBtn = document.getElementById('export-set');
         if (burgerBtn && sideMenu) {
             burgerBtn.onclick = () => {
                 sideMenu.classList.add('open');
@@ -26,6 +28,55 @@ export function initBurgerMenu() {
                 }
             }
         });
+        // Gestion des boutons export
+        if (exportBddBtn) {
+            exportBddBtn.onclick = () => {
+                if (confirm('Voulez-vous exporter toute votre BDD en CSV ?')) {
+                    fetch('/api/export-all', { method: 'POST' })
+                        .then(response => response.json())
+                        .then(data => {
+                            if (data.success) {
+                                alert('Export BDD: done! Fichiers CSV générés dans MYBDD/CSV/');
+                            } else {
+                                alert('Erreur lors de l\'export');
+                            }
+                        })
+                        .catch(error => {
+                            console.error('Export error:', error);
+                            alert('Erreur lors de l\'export');
+                        });
+                }
+            };
+        }
+        if (exportSetBtn) {
+            exportSetBtn.onclick = () => {
+                const params = new URLSearchParams(window.location.search);
+                const setCode = params.get('code');
+                if (!setCode) {
+                    alert('Aucun code de set trouvé');
+                    return;
+                }
+                if (confirm(`Voulez-vous exporter le set ${setCode} en CSV ?`)) {
+                    fetch('/api/export-set', { 
+                        method: 'POST', 
+                        headers: {'Content-Type': 'application/json'}, 
+                        body: JSON.stringify({setCode}) 
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            alert(`Export set ${setCode}: done! Fichier CSV généré dans MYBDD/CSV/`);
+                        } else {
+                            alert('Erreur lors de l\'export');
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Export error:', error);
+                        alert('Erreur lors de l\'export');
+                    });
+                }
+            };
+        }
         // Gestion des boutons reset
         if (resetBddBtn) {
             resetBddBtn.onclick = () => {

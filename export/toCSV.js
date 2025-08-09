@@ -2,15 +2,19 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 
-const setCode = 'ltr'; // Code du set à exporter
-const pathAllCards = `../bdd/sets/${setCode}.json`; // TOUTES les cartes du set
-const pathMyCards = `../MYBDD/json/${setCode}.json`; // Mes cartes personnelles
+
+const pathBdd = `../bdd/sets/`; // TOUTES les cartes du set
+const pathMyBdd = `../MYBDD/json/`; // Mes cartes personnelles
 const pathToMyCSVs = '../MYBDD/CSV/';
 
-function exportCSV() {
+function exportCSV(code) {
+
+    let pathAllCards = `${pathBdd}${code}.json`; // TOUTES les cartes du set
+    let pathMyCards = `${pathMyBdd}${code}.json`; // Mes cartes personnelles
+    
     // Lire TOUTES les cartes du set
     const allCards = JSON.parse(fs.readFileSync(pathAllCards, 'utf-8'));
-    
+
     // Lire mes cartes personnelles
     let mySetData = { cards: [] };
     if (fs.existsSync(pathMyCards)) {
@@ -18,7 +22,7 @@ function exportCSV() {
     }
 
     let csvContent;
-    let pathMyCSV = pathToMyCSVs + `${setCode}.csv`;
+    let pathMyCSV = pathToMyCSVs + `${code}.csv`;
 
     if (fs.existsSync(pathMyCSV)) {
         fs.unlinkSync(pathMyCSV);
@@ -30,9 +34,9 @@ function exportCSV() {
         return;
     }
 
-    console.log(`\n--------\nStarting\n${setCode}`);
+    console.log(`\n--------\nStarting\n${code}`);
     let csvLines = ["number;no_foil;foil"];
-    
+
     // Sort cards by 'number' (ascending)
     const sortedCards = allCards.slice().sort((a, b) => {
         // Si number est numérique, trier comme nombre
@@ -42,13 +46,13 @@ function exportCSV() {
         if (numA > numB) return 1;
         return 0;
     });
-    
+
     sortedCards.forEach(card => {
         // Chercher si cette carte est dans mes cartes personnelles
         const myCard = mySetData.cards.find(c => c.number === card.number);
         const no_foil = myCard ? myCard.no_foil : false;
         const foil = myCard ? myCard.foil : false;
-        
+
         csvLines.push(`${card.number};${no_foil};${foil}`);
     });
     csvContent = csvLines.join('\n');
@@ -63,4 +67,20 @@ function exportCSV() {
     });
 }
 
-exportCSV();
+function exportAllToCSV() {
+    const sets = JSON.parse(fs.readFileSync('../bdd/sets.json', 'utf-8'));
+    sets.forEach(set => {
+        exportCSV(set.code);
+    });
+}
+
+// Export des fonctions pour le serveur
+export { exportCSV, exportAllToCSV };
+
+// Pour les tests directs
+if (process.argv[2]) {
+    const setCode = process.argv[2];
+    exportCSV(setCode);
+} else {
+    // exportCSV(); // Commenté pour éviter l'exécution automatique
+}
