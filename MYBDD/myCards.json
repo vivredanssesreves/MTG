@@ -1284,7 +1284,7 @@
         },
         {
           "number": "5",
-          "no_foil": false,
+          "no_foil": true,
           "foil": false
         },
         {
@@ -3011,6 +3011,11 @@
           "number": "449",
           "no_foil": false,
           "foil": true
+        },
+        {
+          "number": "0",
+          "no_foil": false,
+          "foil": false
         }
       ]
     },

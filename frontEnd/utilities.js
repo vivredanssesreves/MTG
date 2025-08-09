@@ -2,48 +2,57 @@
  * Initialise l'interaction du menu burger (ouverture/fermeture)
  */
 export function initBurgerMenu() {
-  setTimeout(() => {
-    const burgerBtn = document.getElementById('burger-menu');
-    const sideMenu = document.getElementById('side-menu');
-    const closeBtn = document.getElementById('close-menu');
-    const resetBddBtn = document.getElementById('reset-bdd');
-    const resetSetBtn = document.getElementById('reset-set');
-    if (burgerBtn && sideMenu) {
-      burgerBtn.onclick = () => {
-        sideMenu.classList.add('open');
-      };
-    }
-    if (closeBtn && sideMenu) {
-      closeBtn.onclick = () => {
-        sideMenu.classList.remove('open');
-      };
-    }
-    // Fermer le menu si on clique en dehors
-    document.addEventListener('mousedown', (e) => {
-      if (sideMenu && sideMenu.classList.contains('open')) {
-        if (!sideMenu.contains(e.target) && e.target !== burgerBtn) {
-          sideMenu.classList.remove('open');
+    setTimeout(() => {
+        const burgerBtn = document.getElementById('burger-menu');
+        const sideMenu = document.getElementById('side-menu');
+        const closeBtn = document.getElementById('close-menu');
+        const resetBddBtn = document.getElementById('reset-bdd');
+        const resetSetBtn = document.getElementById('reset-set');
+        if (burgerBtn && sideMenu) {
+            burgerBtn.onclick = () => {
+                sideMenu.classList.add('open');
+            };
         }
-      }
-    });
-    // Gestion des boutons reset
-    if (resetBddBtn) {
-      resetBddBtn.onclick = () => {
-        if (confirm('Voulez-vous vraiment réinitialiser toute votre BDD ?')) {
-          // TODO: Ajoute ici la logique réelle de reset
-          alert('Reset BDD demandé (à implémenter)');
+        if (closeBtn && sideMenu) {
+            closeBtn.onclick = () => {
+                sideMenu.classList.remove('open');
+            };
         }
-      };
-    }
-    if (resetSetBtn) {
-      resetSetBtn.onclick = () => {
-        if (confirm('Voulez-vous vraiment réinitialiser ce set ?')) {
-          // TODO: Ajoute ici la logique réelle de reset du set
-          alert('Reset du set demandé (à implémenter)');
+        // Fermer le menu si on clique en dehors
+        document.addEventListener('mousedown', (e) => {
+            if (sideMenu && sideMenu.classList.contains('open')) {
+                if (!sideMenu.contains(e.target) && e.target !== burgerBtn) {
+                    sideMenu.classList.remove('open');
+                }
+            }
+        });
+        // Gestion des boutons reset
+        if (resetBddBtn) {
+            resetBddBtn.onclick = () => {
+                if (confirm('Voulez-vous vraiment réinitialiser toute votre BDD ?')) {
+                    fetch('/api/reset-bdd', { method: 'POST' });
+                    alert('Reset BDD: done)');
+                }
+            };
         }
-      };
-    }
-  }, 100);
+        if (resetSetBtn) {
+            resetSetBtn.onclick = () => {
+                if (confirm('Voulez-vous vraiment réinitialiser ce set ?')) {
+                    const params = new URLSearchParams(window.location.search);
+                    const setCode = params.get('code');
+                    fetch('/api/reset-set', { 
+                        method: 'POST', 
+                        headers: {'Content-Type': 'application/json'}, 
+                        body: JSON.stringify({setCode}) 
+                    })
+                    .then(() => {
+                        alert('Reset set: done');
+                        location.reload(); // Recharge la page pour mettre à jour les icônes
+                    });
+                }
+            };
+        }
+    }, 100);
 }
 // Utilitaires frontEnd pour le menu burger, dark mode, etc.
 
@@ -53,11 +62,30 @@ export function initBurgerMenu() {
  * @param {string} menuHtmlPath - chemin du fichier HTML du menu
  */
 export function injectMenuBurger(targetId = 'menu-burger', menuHtmlPath = 'menu-burger.html') {
-  fetch(menuHtmlPath)
-    .then(r => r.text())
-    .then(html => {
-      document.getElementById(targetId).innerHTML = html;
-    });
+    fetch(menuHtmlPath)
+        .then(r => r.text())
+        .then(html => {
+            document.getElementById(targetId).innerHTML = html;
+        });
+}
+
+/**
+ * Met à jour l'icône du dark mode selon l'état actuel
+ * @param {HTMLElement} iconDiv - L'élément contenant l'icône
+ * @param {HTMLElement} darkToggle - Le bouton de toggle
+ */
+function updateDarkIcon(iconDiv, darkToggle) {
+    if (iconDiv) {
+        if (document.body.classList.contains('dark')) {
+            iconDiv.textContent = '🔦';
+            darkToggle.title = 'Switch to light mode';
+            iconDiv.classList.remove('sun');
+        } else {
+            iconDiv.textContent = '🌙';
+            darkToggle.title = 'Switch to dark mode';
+            iconDiv.classList.remove('sun');
+        }
+    }
 }
 
 /**
@@ -65,32 +93,19 @@ export function injectMenuBurger(targetId = 'menu-burger', menuHtmlPath = 'menu-
  * @param {string} toggleId - id du bouton dark mode
  */
 export function initDarkMode(toggleId = 'dark-toggle') {
-  const darkToggle = document.getElementById(toggleId);
-  const iconDiv = darkToggle ? darkToggle.querySelector('.icon-moon') : null;
-  if (localStorage.getItem('darkMode') === 'enabled') {
-    document.documentElement.classList.add('dark');
-    document.body.classList.add('dark');
-  }
-  function updateDarkIcon() {
-    if (iconDiv) {
-      if (document.body.classList.contains('dark')) {
-        iconDiv.textContent = '🔦';
-        darkToggle.title = 'Switch to light mode';
-        iconDiv.classList.add('sun');
-      } else {
-        iconDiv.textContent = '🌙';
-        darkToggle.title = 'Switch to dark mode';
-        iconDiv.classList.remove('sun');
-      }
+    const darkToggle = document.getElementById(toggleId);
+    const iconDiv = darkToggle ? darkToggle.querySelector('.icon-moon') : null;
+    if (localStorage.getItem('darkMode') === 'enabled') {
+        document.documentElement.classList.add('dark');
+        document.body.classList.add('dark');
     }
-  }
-  if (darkToggle && iconDiv) {
-    updateDarkIcon();
-    darkToggle.addEventListener('click', () => {
-      document.body.classList.toggle('dark');
-      document.documentElement.classList.toggle('dark');
-      localStorage.setItem('darkMode', document.body.classList.contains('dark') ? 'enabled' : 'disabled');
-      updateDarkIcon();
-    });
-  }
+    if (darkToggle && iconDiv) {
+        updateDarkIcon(iconDiv, darkToggle);
+        darkToggle.addEventListener('click', () => {
+            document.body.classList.toggle('dark');
+            document.documentElement.classList.toggle('dark');
+            localStorage.setItem('darkMode', document.body.classList.contains('dark') ? 'enabled' : 'disabled');
+            updateDarkIcon(iconDiv, darkToggle);
+        });
+    }
 }
