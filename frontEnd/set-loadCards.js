@@ -7,18 +7,18 @@ let currentCards = [];
 
 // Back button (attendre que le DOM soit prêt)
 document.addEventListener('DOMContentLoaded', () => {
-  const backBtn = document.getElementById('back-btn');
-  if (backBtn) {
-    backBtn.onclick = () => {
-      window.location.href = 'index.html';
-    };
-  }
+    const backBtn = document.getElementById('back-btn');
+    if (backBtn) {
+        backBtn.onclick = () => {
+            window.location.href = 'index.html';
+        };
+    }
 });
 
 // Dark mode toggle
 import { initDarkMode } from './utilities.js';
 document.addEventListener('DOMContentLoaded', () => {
-  initDarkMode('dark-toggle');
+    initDarkMode('dark-toggle');
 });
 
 const setData = sessionStorage.getItem('selectedSet');
@@ -69,10 +69,8 @@ async function loadSetCards(code) {
                                 <img src="${set.icon_svg_uri}" data-type="no_foil" data-set="${code}" data-num=${card.number} class="small-clickable ${owned.no_foil ? 'active' : ''}" />
                                 <img src="${set.icon_svg_uri}" data-type="foil" data-set="${code}" data-num=${card.number} class="small-clickable foil ${owned.foil ? 'active' : ''}" />
                             </div>
-                            <div class="icon-card-right "># ${card.number} 
-                                <a href="${card.link}" > <span class="material-icons"></span>
-                                                                        
-                                </a>
+                            <div class="icon-card-right"># ${card.number} 
+                                <a href="${card.link}" ><i class="icon-search fas fa-share-alt"></i></a>
                             </div>
                             </div>
                         </div>`;

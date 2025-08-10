@@ -3,6 +3,7 @@ import express from 'express';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
+import { exec } from 'child_process';
 import { updateCard } from './utilities.js';
 import { createEmptySetsFiles } from '../init/init_bdd_perso.js';
 import { createEmptySet } from '../init/init_bdd_perso.js';
@@ -29,6 +30,8 @@ app.use('/backEnd', express.static(backEndPath)); // back end path
 app.use('/MYBDD', express.static(myBddPath)); // my json path
 app.use('/frontEnd', express.static(frontEndPath)); // my json path
 app.use('/init', express.static(initPath));
+
+
 
 app.post('/editMyBDD', (request, response) => {
 
@@ -104,9 +107,55 @@ app.post('/api/export-all', (req, res) => {
   }
 });
 
+// Fonction pour afficher une popup système
+function showPopup(message) {
+  let command;
+  
+  switch (process.platform) {
+    case 'darwin':  // macOS
+      command = `osascript -e 'tell application "System Events" to display dialog "${message}" with title "MTG Server" buttons {"OK"} default button "OK"'`;
+      break;
+    case 'win32':   // Windows
+      command = `powershell -Command "Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show('${message}', 'MTG Server')"`;
+      break;
+    default:        // Linux
+      command = `zenity --info --text="${message}" --title="MTG Server" 2>/dev/null || notify-send "MTG Server" "${message}"`;
+      break;
+  }
+  
+  exec(command);
+}
+
+// Fonction pour ouvrir automatiquement le navigateur
+function openBrowser(url) {
+  let command;
+  
+  switch (process.platform) {
+    case 'darwin':  // macOS
+      command = `open ${url}`;
+      break;
+    case 'win32':   // Windows
+      command = `start ${url}`;
+      break;
+    default:        // Linux et autres
+      command = `xdg-open ${url}`;
+      break;
+  }
+  
+  exec(command, (error) => {
+    if (error) {
+      showPopup('Serveur MTG démarré !\\n\\nAllez sur: http://localhost:3000');
+    }
+  });
+}
 
 app.listen(PORT, () => {
   console.log(`✅ Server running: http://localhost:${PORT}`);
+  
+  // Attendre 1 seconde puis ouvrir le navigateur
+  setTimeout(() => {
+    openBrowser(`http://localhost:${PORT}`);
+  }, 1000);
 });
 
 
