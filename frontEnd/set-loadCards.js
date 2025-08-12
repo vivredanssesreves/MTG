@@ -70,7 +70,7 @@ async function loadSetCards(code) {
                                 <img src="${set.icon_svg_uri}" data-type="foil" data-set="${code}" data-num=${card.number} class="small-clickable foil ${owned.foil ? 'active' : ''}" />
                             </div>
                             <div class="icon-card-right"># ${card.number} 
-                                <a href="${card.link}" ><i class="icon-search fas fa-share-alt"></i></a>
+                                <a target="_blank" href="${card.link}" ><i class="icon-search fas fa-share-alt"></i></a>
                             </div>
                             </div>
                         </div>`;

@@ -29,6 +29,7 @@
     margin-right: 0.5rem;
     padding: 0rem;
     position: fixed;
+    right: 2rem;
 }
 
 #burger-menu:hover {
@@ -53,8 +54,6 @@ body.dark #burger-menu:hover {
     min-width: 14rem;
     max-width: 90vw;
     height: auto;
-    background: var(--card-bg-light);
-    box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.18);
     border-radius: 1.2rem;
     z-index: 666999;
     display: flex;
@@ -67,10 +66,17 @@ body.dark #burger-menu:hover {
     font-weight: 600;
     font-size: 1rem;
     text-align: left;
+    background: #fefefe;
+    border: none;
+    box-shadow:
+        0 1px 1px rgba(0, 0, 0, 0.12),
+        0 2px 2px rgba(0, 0, 0, 0.12),
+        0 4px 4px rgba(0, 0, 0, 0.12),
+        0 8px 8px rgba(0, 0, 0, 0.12);
 }
 
 .side-menu.open {
-    right: 0rem;
+    right: 2rem;
 }
 
 .side-menu button {
@@ -89,7 +95,13 @@ body.dark #burger-menu:hover {
 }
 
 body.dark .side-menu {
-    background: var(--bg-dark);
+    
+    background: #1a1a1a;
+    box-shadow:
+        0 1px 1px rgba(255, 255, 255, 0.15),
+        0 2px 2px rgba(255, 255, 255, 0.18),
+        0 4px 4px rgba(255, 255, 255, 0.20),
+        0 8px 8px rgba(255, 255, 255, 0.22);
     color: var(--text-dark);
 }
 

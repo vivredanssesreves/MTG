@@ -35,7 +35,7 @@ function exportCSV(code) {
     }
 
     console.log(`\n--------\nStarting\n${code}`);
-    let csvLines = ["number;no_foil;foil"];
+    let csvLines = ["set;number;no_foil;foil"];
 
     // Sort cards by 'number' (ascending)
     const sortedCards = allCards.slice().sort((a, b) => {
@@ -53,7 +53,7 @@ function exportCSV(code) {
         const no_foil = myCard ? myCard.no_foil : false;
         const foil = myCard ? myCard.foil : false;
 
-        csvLines.push(`${card.number};${no_foil};${foil}`);
+        csvLines.push(`${code};${card.number};${no_foil};${foil}`);
     });
     csvContent = csvLines.join('\n');
 

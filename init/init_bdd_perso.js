@@ -11,7 +11,7 @@ function createEmptySetsFiles() {
     sets.forEach(set => {
         createEmptySet(set.code);
     });
-    console.log('All set files initialized in MYBDD/json/.');
+    console.log('All set files initialized for my BDD.');
 }
 
 function createEmptySet(setCode) {

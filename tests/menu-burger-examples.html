@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemples de fond pour menu burger</title>
+    <link rel="stylesheet" href="../web/cssMain.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        :root {
+            --bg-light: #f5f5f5;
+            --bg-dark: #121212;
+            --card-bg-light: white;
+            --card-bg-dark: #1e1e1e;
+            --text-light: #333;
+            --text-dark: #e0e0e0;
+            --primary-blue: #1976d2;
+            --accent-yellow: #ffdc2f;
+        }
+
+        body {
+            padding: 2rem;
+            background: var(--bg-light);
+            min-height: 100vh;
+            color: var(--text-light);
+        }
+
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: var(--primary-blue);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-weight: bold;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            display: none; /* Caché car on n'en a plus besoin */
+        }
+
+        .examples-container {
+            display: flex;
+            gap: 2rem;
+            margin: 0 auto;
+            max-width: 1400px;
+        }
+
+        .theme-section {
+            flex: 1;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .theme-section.light {
+            background: var(--bg-light);
+            color: var(--text-light);
+        }
+
+        .theme-section.dark {
+            background: var(--bg-dark);
+            color: var(--text-dark);
+            box-shadow: 0 4px 12px rgba(255,255,255,0.05);
+        }
+
+        .theme-title {
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid currentColor;
+        }
+
+        .example-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .example-box {
+            background: transparent;
+            border-radius: 8px;
+            padding: 1rem;
+            position: relative;
+            height: 300px;
+            overflow: visible;
+            border: none;
+        }
+
+        .theme-section.dark .example-box {
+            background: transparent;
+            border: none;
+        }
+
+        .example-title {
+            font-weight: bold;
+            margin-bottom: 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        /* Style de base commun */
+        .menu-example {
+            position: absolute;
+            top: 50px;
+            right: 10px;
+            min-width: 14rem;
+            max-width: 90vw;
+            height: auto;
+            border-radius: 1.2rem;
+            z-index: 666999;
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+            padding: 1.5rem 1.2rem 1.2rem 1.2rem;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            text-align: left;
+        }
+
+        .menu-example button {
+            text-align: left;
+            display: flex;
+            align-items: center;
+            background: transparent;
+            border: none;
+            gap: 1rem;
+            cursor: pointer;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: 600;
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-light);
+        }
+
+        .theme-section.dark .menu-example button {
+            color: var(--text-dark);
+        }
+
+        /* Glassmorphisme */
+        .menu-blur {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18);
+        }
+
+        .theme-section.dark .menu-blur {
+            background: rgba(30, 30, 30, 0.85);
+            border: none;
+            color: var(--text-dark);
+            box-shadow: 0 12px 40px rgba(255, 255, 255, 0.15);
+        }
+
+        .theme-section.dark .menu-blur button {
+            color: var(--text-dark);
+        }
+
+        /* Material Design */
+        .menu-material {
+            background: white;
+            border: none;
+            box-shadow: 
+                0 4px 6px rgba(0, 0, 0, 0.07),
+                0 1px 3px rgba(0, 0, 0, 0.06),
+                0 16px 24px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        .theme-section.dark .menu-material {
+            background: var(--card-bg-dark);
+            box-shadow: 
+                0 4px 6px rgba(255, 255, 255, 0.15),
+                0 1px 3px rgba(255, 255, 255, 0.08),
+                0 16px 24px rgba(255, 255, 255, 0.12);
+            color: var(--text-dark);
+        }
+
+        .theme-section.dark .menu-material button {
+            color: var(--text-dark);
+        }
+
+        /* Minimaliste */
+        .menu-minimal {
+            background: rgba(255, 255, 255, 0.95);
+            border: 2px solid #e0e0e0;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+            backdrop-filter: blur(3px);
+        }
+
+        .theme-section.dark .menu-minimal {
+            background: rgba(30, 30, 30, 0.95);
+            border: none;
+            color: var(--text-dark);
+            box-shadow: 0 8px 25px rgba(255, 255, 255, 0.15);
+        }
+
+        .theme-section.dark .menu-minimal button {
+            color: var(--text-dark);
+        }
+
+        /* Exemple 9: Effet papier */
+        .menu-paper {
+            background: #fefefe;
+            border: none;
+            box-shadow: 
+                0 1px 1px rgba(0,0,0,0.12), 
+                0 2px 2px rgba(0,0,0,0.12), 
+                0 4px 4px rgba(0,0,0,0.12), 
+                0 8px 8px rgba(0,0,0,0.12);
+        }
+
+        .theme-section.dark .menu-paper {
+            background: #1a1a1a;
+            box-shadow: 
+                0 1px 1px rgba(255,255,255,0.08), 
+                0 2px 2px rgba(255,255,255,0.07), 
+                0 4px 4px rgba(255,255,255,0.06), 
+                0 8px 8px rgba(255,255,255,0.05);
+            color: var(--text-dark);
+        }
+
+        .theme-section.dark .menu-paper button {
+            color: var(--text-dark);
+        }
+
+        .icon-moon {
+            width: 1.5rem;
+            height: 1.5rem;
+            background-color: transparent;
+            border: 2px solid var(--text-light);
+            border-radius: 50%;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            color: var(--text-light);
+            font-size: 0.8rem;
+        }
+
+        .theme-section.dark .icon-moon {
+            border-color: var(--accent-yellow);
+            color: var(--accent-yellow);
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--text-light);
+            margin-bottom: 3rem;
+            margin-top: 1rem;
+        }
+
+        .instruction {
+            text-align: center;
+            margin: 2rem auto;
+            max-width: 800px;
+            color: var(--text-light);
+            background: var(--card-bg-light);
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        body:has(.theme-section.dark) .instruction {
+            background: var(--card-bg-dark);
+            color: var(--text-dark);
+            box-shadow: 0 2px 8px rgba(255,255,255,0.05);
+        }
+    </style>
+</head>
+<body>
+    <!-- Section Nouveaux Styles -->
+    <h2 style="text-align: center; margin-bottom: 1.5rem; color: var(--text-light);">✨ Styles Disponibles</h2>
+
+    <div class="examples-container">
+                <div class="theme-section light">
+            <h2 class="theme-title">☀️ Mode Clair</h2>
+            <div class="example-grid">
+                
+                <!-- Exemple 2: Glassmorphisme -->
+                <div class="example-box">
+                    <div class="example-title">2. Glassmorphisme</div>
+                    <div class="menu-example menu-blur">
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-xmark"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-sun"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-info"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-download"></i></div>
+                            <div>Export</div>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exemple 8: Minimaliste -->
+                <div class="example-box">
+                    <div class="example-title">8. Minimaliste</div>
+                    <div class="menu-example menu-minimal">
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-xmark"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-sun"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-info"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-download"></i></div>
+                            <div>Export</div>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exemple 9: Papier -->
+                <div class="example-box">
+                    <div class="example-title">9. Effet papier</div>
+                    <div class="menu-example menu-paper">
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-xmark"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-sun"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-info"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-download"></i></div>
+                            <div>Export</div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="theme-section dark">
+            <h2 class="theme-title">🌙 Mode Sombre</h2>
+            <div class="example-grid">
+                
+                <!-- Exemple 2: Glassmorphisme -->
+                <div class="example-box">
+                    <div class="example-title">2. Glassmorphisme</div>
+                    <div class="menu-example menu-blur">
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-xmark"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-sun"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-info"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-download"></i></div>
+                            <div>Export</div>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exemple 5: Material Design -->
+                <div class="example-box">
+                    <div class="example-title">5. Material Design</div>
+                    <div class="menu-example menu-material">
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-xmark"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-sun"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-info"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-download"></i></div>
+                            <div>Export</div>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exemple 8: Minimaliste -->
+                <div class="example-box">
+                    <div class="example-title">8. Minimaliste</div>
+                    <div class="menu-example menu-minimal">
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-xmark"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-sun"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-info"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-download"></i></div>
+                            <div>Export</div>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Exemple 9: Papier -->
+                <div class="example-box">
+                    <div class="example-title">9. Effet papier</div>
+                    <div class="menu-example menu-paper">
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-xmark"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-sun"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-info"></i></div>
+                        </button>
+                        <button>
+                            <div class="icon-moon"><i class="fas fa-download"></i></div>
+                            <div>Export</div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Plus besoin du script de basculement
+    </script>
+</body>
+</html>

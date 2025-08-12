@@ -153,11 +153,15 @@ body.dark .card-info {
 
 /* Icon Search */
 .icon-search {
+    background-color: var(--card-bg-light);
+    border: 0.125rem solid var(--text-light);
+    opacity: 0.7;
+    color: var(--text-light);
     cursor: pointer;
     margin: 0.25rem;
     width: 1.5rem;
     height: 1.5rem;
-    background-color: #ff00d0;
+    
     border-radius: 50%;
     display: inline-flex;
     overflow: visible;
@@ -165,10 +169,12 @@ body.dark .card-info {
     align-items: center;
     object-fit: contain;
     padding: 0.1rem 0.15rem 0.1rem 0.15rem;
+    
 }
 
 .icon-search:hover {
-    box-shadow: 0 0.75rem 1.5rem rgba(235, 11, 11, 0.3);
+    box-shadow: 0 0.75rem 1.5rem rgba(101, 75, 187, 0.3);
+    opacity: 1;
 }
 
 /* Icon Image */

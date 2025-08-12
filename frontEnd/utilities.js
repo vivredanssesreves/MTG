@@ -135,11 +135,11 @@ export function injectMenuBurger(targetId = 'menu-burger', menuHtmlPath = 'menu-
 function updateDarkIcon(iconDiv, darkToggle) {
     if (iconDiv) {
         if (document.body.classList.contains('dark')) {
-            iconDiv.textContent = '🔦';
+            iconDiv.innerHTML = '<i class="far fa-lightbulb"></i>';
             darkToggle.title = 'Switch to light mode';
             iconDiv.classList.remove('sun');
         } else {
-            iconDiv.textContent = '🌙';
+            iconDiv.innerHTML = '<i class="far fa-moon"></i>';
             darkToggle.title = 'Switch to dark mode';
             iconDiv.classList.remove('sun');
         }
