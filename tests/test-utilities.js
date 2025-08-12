@@ -8,7 +8,7 @@ import { normalizeBooleanValue } from '../export/utilities/utilities.js';
 const sets = ['neo', 'mid', 'vow', 'snc', 'dmu', 'bro'];
 const maxCard = [531, 400, 423, 513, 453, 399];
 let allCards = [];
-const types = ['normal', 'numbers', 'stress'];
+const types = ['normal', 'numbers', 'stress', 'filter'];
 
 
 /**
@@ -142,7 +142,7 @@ export async function getCSVLine(filePath, targetLineNumber) {
 
         rl.on('line', (line) => {
             currentLine++;
-            
+
             if (currentLine === targetLineNumber) {
                 rl.close();
                 fileStream.close();
@@ -279,7 +279,7 @@ export function verifySpecificCards(cardChecks) {
 /**
  * Verify sample cards from CSV match database
  */
-export async function verifySampleCards(csvFile, sampleSize, totalLines, setFilter) {
+export async function verifySampleCards(csvFile, sampleSize, totalLines, setToFilter, type) {
 
     for (let i = 0; i < sampleSize; i++) {
         // Pick a random line (between 1 and totalLines, not the header)
@@ -291,8 +291,8 @@ export async function verifySampleCards(csvFile, sampleSize, totalLines, setFilt
         const [set, number, no_foil, foil] = line.split(';');
         const possession = getCardPossession(set, number);
 
-        if (setFilter) {
-            if (set === setFilter) {
+        if (type === types[3]) {
+            if (set === setToFilter) {
                 // This card should be imported
                 if (!possession) {
                     throw new Error(`Filtered card missing: ${set}/${number} should be imported (line ${randomLineNum})`);
@@ -310,7 +310,8 @@ export async function verifySampleCards(csvFile, sampleSize, totalLines, setFilt
                     throw new Error(`Non-filtered card found: ${set}/${number} should NOT be imported (line ${randomLineNum})`);
                 }
             }
-        } else {
+            console.log(`✅ ${sampleSize} cards verified successfully with ${setToFilter} filter`);
+        } else if (type === types[0]) {
             // Normal mode - all cards should exist
             if (!possession) {
                 throw new Error(`Missing card: ${set}/${number} (line ${randomLineNum})`);
@@ -322,13 +323,23 @@ export async function verifySampleCards(csvFile, sampleSize, totalLines, setFilt
             if (possession.no_foil !== expectedNoFoil || possession.foil !== expectedFoil) {
                 throw new Error(`Incorrect data: ${set}/${number} expected(${expectedNoFoil},${expectedFoil}) found(${possession.no_foil},${possession.foil})`);
             }
-        }
-    }
+            console.log(`✅ ${sampleSize} cards verified successfully`);
+        } else if (type === types[2]) {
+            try {
+                const expectedFoil = normalizeBooleanValue(foil);
+                const expectedNoFoil = normalizeBooleanValue(no_foil);
+                if (!possession) {
+                    throw new Error(`Stress card missing: unpossessed ${set}/${number} (line ${randomLineNum})`);
+                }
+            }
+            catch (error) {
+                if (possession) {
+                    throw new Error(`Stress card error: possesed ${set}/${number} (line ${randomLineNum}) - ${error.message}`);
+                }
 
-    if (setFilter) {
-        console.log(`✅ ${sampleSize} cards verified successfully with ${setFilter} filter`);
-    } else {
-        console.log(`✅ ${sampleSize} cards verified successfully`);
+            }
+            console.log(`✅ ${sampleSize} stressing cards verified successfully`);
+        }
     }
 }
 

@@ -221,15 +221,15 @@ async function testBadCSVFormats() {
         console.error('❌ Stress CSV error:', error.message);
     }
 
-    //cleanupTestFiles([stressFile]);
-    //resetDatabase();
+    cleanupTestFiles([stressFile]);
+    resetDatabase();
 }
 
 // Run tests
 (async () => {
     try {
-        //await testStreaming();
-        //await testSetFilter();
+        await testStreaming();
+        await testSetFilter();
         //await testDataUpdate();
         await testBadCSVFormats();
         console.log('\n\n================================================================\n\n\n========\n========\n========\n✅ All tests completed');
