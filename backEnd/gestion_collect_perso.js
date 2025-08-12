@@ -6,8 +6,8 @@ document.addEventListener('click', async (e) => {
     const isActive = e.target.classList.contains('active');
     const setCode = e.target.dataset.set;
     const cardN = e.target.dataset.num;
-   
     const type = e.target.dataset.type;
+    
     let info = {
       'code': setCode,
       'cardNum': cardN,

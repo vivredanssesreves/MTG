@@ -116,7 +116,8 @@ async function parseCSVStreaming(filePath, onChunk, onComplete, onError) {
  * @returns {Promise<object>} - Import result with statistics
  */
 async function importCSVFileStreaming(filePath, options = {}) {
-    const { setFilter, onProgress } = options;
+    const setFilter = options.setFilter;
+    const onProgress = options.onProgress;
 
     const result = {
         success: true,
@@ -167,11 +168,14 @@ async function importCSVFileStreaming(filePath, options = {}) {
     const onComplete = (stats) => {
         result.totalLines = stats.totalLines;
         result.imported = totalImported;
-        result.stats = {
-            ...stats,
-            chunksProcessed: chunkCount,
-            setsProcessed: result.processedSets.size
-        };
+        result.stats = {};
+        result.stats.totalLines = stats.totalLines;
+        result.stats.headerDetected = stats.headerDetected;
+        result.stats.processed = stats.processed;
+        result.stats.valid = stats.valid;
+        result.stats.errors = stats.errors;
+        result.stats.chunksProcessed = chunkCount;
+        result.stats.setsProcessed = result.processedSets.size;
         result.processedSets = Array.from(result.processedSets);
     };
 

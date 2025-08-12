@@ -7,7 +7,8 @@ import { exec } from 'child_process';
 import { updateCard } from './utilities.js';
 import { createEmptySetsFiles } from '../init/init_bdd_perso.js';
 import { createEmptySet } from '../init/init_bdd_perso.js';
-import { exportCSV, exportAllToCSV } from '../export/toCSV.js';
+import { handleImportSet, handleImportAll } from '../export/import-handlers.js';
+import { handleExportSet, handleExportAll } from '../export/export-handlers.js';
 
 
 const pathMyBddJson = '../MYBDD/json/';
@@ -21,6 +22,7 @@ const backEndPath = path.join(__dirname, '..', 'backEnd');
 const myBddPath = path.join(__dirname, '..', 'MYBDD');
 const frontEndPath = path.join(__dirname, '..', 'frontEnd');
 const initPath = path.join(__dirname, '..', 'init');
+const expImpPath = path.join(__dirname, '..', 'expImp');
 
 app.use(express.static(webPath));       // Frontend (HTML/JS/CSS)
 app.use(express.json());
@@ -30,6 +32,7 @@ app.use('/backEnd', express.static(backEndPath)); // back end path
 app.use('/MYBDD', express.static(myBddPath)); // my json path
 app.use('/frontEnd', express.static(frontEndPath)); // my json path
 app.use('/init', express.static(initPath));
+app.use('/expImp', express.static(expImpPath)); // export/import path
 
 
 
@@ -40,12 +43,12 @@ app.post('/editMyBDD', (request, response) => {
     console.error("Invalid request data");
     return response.status(400).json({ error: "Invalid request data" });
   }
-  console.log(info);
+  //console.log(info);
   let pathMyCards = pathMyBddJson + info.code + '.json';
-  console.log(pathMyCards);
+  //console.log(pathMyCards);
   if (!fs.existsSync(pathMyCards)) {
     fs.writeFileSync(pathMyCards, JSON.stringify({ cards: [] }, null, 2));
-    console.log('New file created with empty array.');
+    //console.log('New file created with empty array.');
   }
 
   const data = fs.readFileSync(pathMyCards, 'utf-8');
@@ -55,7 +58,7 @@ app.post('/editMyBDD', (request, response) => {
   response.json({ success: true });
 });
 
-// Reset toute la BDD
+// Reset entire BDD
 app.post('/api/reset-bdd', (req, res) => {
   try {
     createEmptySetsFiles();
@@ -66,7 +69,7 @@ app.post('/api/reset-bdd', (req, res) => {
   }
 });
 
-// Reset un set spécifique
+// Reset a specific set
 app.post('/api/reset-set', (req, res) => {
   try {
     const { setCode } = req.body;
@@ -81,33 +84,17 @@ app.post('/api/reset-set', (req, res) => {
   }
 });
 
-// Export un set spécifique en CSV
-app.post('/api/export-set', (req, res) => {
-  try {
-    const { setCode } = req.body;
-    if (!setCode) {
-      return res.status(400).json({ error: 'setCode is required' });
-    }
-    exportCSV(setCode);
-    res.json({ success: true, message: `CSV exported for set ${setCode}` });
-  } catch (error) {
-    console.error('Error exporting set:', error);
-    res.status(500).json({ error: 'Failed to export set' });
-  }
-});
+// Export a specific set to CSV
+app.post('/api/export-set', handleExportSet);
 
-// Export tous les sets en CSV
-app.post('/api/export-all', (req, res) => {
-  try {
-    exportAllToCSV();
-    res.json({ success: true, message: 'All sets exported to CSV' });
-  } catch (error) {
-    console.error('Error exporting all sets:', error);
-    res.status(500).json({ error: 'Failed to export all sets' });
-  }
-});
+// Export all sets to CSV
+app.post('/api/export-all', handleExportAll);
 
-// Fonction pour afficher une popup système
+// Import a specific set from CSV
+app.post('/api/import-set', handleImportSet);
+
+// Import all sets from CSV
+app.post('/api/import-all', handleImportAll);// Function to show a system popup
 function showPopup(message) {
   let command;
   
@@ -126,7 +113,7 @@ function showPopup(message) {
   exec(command);
 }
 
-// Fonction pour ouvrir automatiquement le navigateur
+// Function to automatically open browser
 function openBrowser(url) {
   let command;
   
@@ -152,7 +139,7 @@ function openBrowser(url) {
 app.listen(PORT, () => {
   console.log(`✅ Server running: http://localhost:${PORT}`);
   
-  // Attendre 1 seconde puis ouvrir le navigateur
+  // Wait 1 second then open browser
   setTimeout(() => {
     openBrowser(`http://localhost:${PORT}`);
   }, 1000);

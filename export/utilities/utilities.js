@@ -67,6 +67,5 @@ export function validateCard(card) {
         };
     } catch (error) {
         throw new Error(error.message);
-        return { valid: false, error: error.message, data: null };
     }
 }

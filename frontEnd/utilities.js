@@ -37,7 +37,7 @@ export function initBurgerMenu() {
                         .then(response => response.json())
                         .then(data => {
                             if (data.success) {
-                                alert('Export BDD: done! Fichiers CSV générés dans MYBDD/CSV/');
+                                alert(data.message);
                             } else {
                                 alert('Erreur lors de l\'export');
                             }
@@ -58,23 +58,23 @@ export function initBurgerMenu() {
                     return;
                 }
                 if (confirm(`Voulez-vous exporter le set ${setCode} en CSV ?`)) {
-                    fetch('/api/export-set', { 
-                        method: 'POST', 
-                        headers: {'Content-Type': 'application/json'}, 
-                        body: JSON.stringify({setCode}) 
+                    fetch('/api/export-set', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ setCode })
                     })
-                    .then(response => response.json())
-                    .then(data => {
-                        if (data.success) {
-                            alert(`Export set ${setCode}: done! Fichier CSV généré dans MYBDD/CSV/`);
-                        } else {
+                        .then(response => response.json())
+                        .then(data => {
+                            if (data.success) {
+                                alert(`Export set ${setCode}: done! Fichier CSV généré dans MYBDD/CSV/`);
+                            } else {
+                                alert('Erreur lors de l\'export');
+                            }
+                        })
+                        .catch(error => {
+                            console.error('Export error:', error);
                             alert('Erreur lors de l\'export');
-                        }
-                    })
-                    .catch(error => {
-                        console.error('Export error:', error);
-                        alert('Erreur lors de l\'export');
-                    });
+                        });
                 }
             };
         }
@@ -98,15 +98,15 @@ export function initBurgerMenu() {
                 if (confirm('Voulez-vous vraiment réinitialiser ce set ?')) {
                     const params = new URLSearchParams(window.location.search);
                     const setCode = params.get('code');
-                    fetch('/api/reset-set', { 
-                        method: 'POST', 
-                        headers: {'Content-Type': 'application/json'}, 
-                        body: JSON.stringify({setCode}) 
+                    fetch('/api/reset-set', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ setCode })
                     })
-                    .then(() => {
-                        alert('Reset set: done');
-                        location.reload(); // Recharge la page pour mettre à jour les icônes
-                    });
+                        .then(() => {
+                            alert('Reset set: done');
+                            location.reload(); // Recharge la page pour mettre à jour les icônes
+                        });
                 }
             };
         }

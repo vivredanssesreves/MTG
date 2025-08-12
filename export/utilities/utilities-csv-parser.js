@@ -51,7 +51,10 @@ export function parseCSVLine(line, lineNumber) {
         };
     }
 
-    const [set, number, no_foil, foil] = parts;
+    const set = parts[0];
+    const number = parts[1];
+    const no_foil = parts[2];
+    const foil = parts[3];
 
     return {
         success: true,

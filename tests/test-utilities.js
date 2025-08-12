@@ -33,8 +33,8 @@ function generateAllCards(type) {
                     }
                     break;
                 case types[1]:
-                    no_foil_Def = Math.floor(Math.random() * 10);
-                    foil_Def = Math.floor(Math.random() * 5);
+                    no_foil_Def = Math.floor(Math.random() * 4000);
+                    foil_Def = Math.floor(Math.random() * 1000);
                     break;
                 case types[2]:
                     no_foil_Def = getStressValue();
@@ -56,7 +56,7 @@ function generateAllCards(type) {
 function getStressValue() {
     const stressValues = [
         Math.floor(Math.random() * 1000),
-        -Math.floor(Math.random() * 50),
+        -Math.floor(Math.random() * 500),
         0,
         'true',
         'false',

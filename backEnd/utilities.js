@@ -1,6 +1,6 @@
 // Utility functions for MTG backend
 
-function updateCard(set, cardNumber, active, isFoil) {
+export function updateCard(set, cardNumber, active, isFoil) {
     let card = set.cards.find(c => c.number === cardNumber);
 
     if (card) {
@@ -26,4 +26,4 @@ function updateCard(set, cardNumber, active, isFoil) {
     });
 }
 
-export { updateCard };
+

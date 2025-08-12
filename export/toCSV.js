@@ -7,7 +7,7 @@ const pathBdd = `../bdd/sets/`; // TOUTES les cartes du set
 const pathMyBdd = `../MYBDD/json/`; // Mes cartes personnelles
 const pathToMyCSVs = '../MYBDD/CSV/';
 
-function exportCSV(code) {
+export function exportCSV(code) {
 
     let pathAllCards = `${pathBdd}${code}.json`; // TOUTES les cartes du set
     let pathMyCards = `${pathMyBdd}${code}.json`; // Mes cartes personnelles
@@ -26,7 +26,6 @@ function exportCSV(code) {
 
     if (fs.existsSync(pathMyCSV)) {
         fs.unlinkSync(pathMyCSV);
-        console.log('Existing file deleted.');
     }
 
     if (!allCards) {
@@ -34,7 +33,7 @@ function exportCSV(code) {
         return;
     }
 
-    console.log(`\n--------\nStarting\n${code}`);
+   // console.log(`\n--------\nStarting\n${code}`);
     let csvLines = ["set;number;no_foil;foil"];
 
     // Sort cards by 'number' (ascending)
@@ -60,22 +59,28 @@ function exportCSV(code) {
     // Write the CSV file
     fs.writeFile(pathMyCSV, csvContent, 'utf8', (err) => {
         if (err) {
-            console.error("CSV write error:", err);
+            //console.error("CSV write error:", err);
         } else {
-            console.log("CSV generated: " + pathMyCSV);
+            //console.log("CSV generated: " + pathMyCSV);
         }
     });
 }
 
-function exportAllToCSV() {
+export function exportAllToCSV() {
     const sets = JSON.parse(fs.readFileSync('../bdd/sets.json', 'utf-8'));
+    let missingSets= [];
     sets.forEach(set => {
-        exportCSV(set.code);
+        const setFilePath = `../bdd/sets/${set.code}.json`;
+        if (fs.existsSync(setFilePath)) {
+            exportCSV(set.code);
+        } else {
+            missingSets.push(set.code);
+        }
     });
+    return missingSets;
 }
 
-// Export des fonctions pour le serveur
-export { exportCSV, exportAllToCSV };
+
 
 // Pour les tests directs
 if (process.argv[2]) {
