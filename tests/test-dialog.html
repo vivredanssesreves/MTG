@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Dialog Box</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-blue: #0077cc;
+            --primary-blue-light: #4ea1ff;
+            --accent-yellow: #ffdc2f;
+            --bg-light: #f5f5f5;
+            --bg-dark: #121212;
+            --text-light: #222;
+            --text-dark: #eee;
+            --card-bg-light: #ffffff;
+            --card-bg-dark: #1e1e1e;
+            --shadow-light: rgba(0, 0, 0, 0.1);
+            --shadow-dark: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: var(--bg-light);
+            color: var(--text-light);
+            transition: all 0.3s ease;
+        }
+
+        body.dark {
+            background: var(--bg-dark);
+            color: var(--text-dark);
+        }
+
+        .test-container {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .test-button {
+            background: var(--primary-blue);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px var(--shadow-light);
+        }
+
+        .test-button:hover {
+            background: var(--primary-blue-light);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px var(--shadow-light);
+        }
+
+        body.dark .test-button {
+            box-shadow: 0 2px 4px var(--shadow-dark);
+        }
+
+        body.dark .test-button:hover {
+            box-shadow: 0 4px 8px var(--shadow-dark);
+        }
+
+        .result {
+            margin-top: 20px;
+            padding: 20px;
+            background: var(--card-bg-light);
+            border-radius: 8px;
+            box-shadow: 0 2px 8px var(--shadow-light);
+            border-left: 4px solid var(--primary-blue);
+        }
+
+        body.dark .result {
+            background: var(--card-bg-dark);
+            box-shadow: 0 2px 8px var(--shadow-dark);
+        }
+
+        /* Dialog styles */
+        .dialog-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            backdrop-filter: blur(4px);
+        }
+
+        .dialog-content {
+            background: var(--card-bg-light);
+            color: var(--text-light);
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            max-width: 450px;
+            width: 90%;
+            border: 2px solid var(--primary-blue);
+            transition: all 0.3s ease;
+        }
+
+        body.dark .dialog-content {
+            background: var(--card-bg-dark);
+            color: var(--text-dark);
+            border-color: var(--accent-yellow);
+        }
+
+        .dialog-content h3 {
+            margin-top: 0;
+            text-align: center;
+            color: var(--primary-blue);
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+
+        body.dark .dialog-content h3 {
+            color: var(--accent-yellow);
+        }
+
+        .drop-zone {
+            border: 3px dashed var(--primary-blue);
+            border-radius: 12px;
+            padding: 40px 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 20px 0;
+            background: var(--bg-light);
+        }
+
+        body.dark .drop-zone {
+            border-color: var(--accent-yellow);
+            background: var(--bg-dark);
+        }
+
+        .drop-zone:hover {
+            border-color: var(--primary-blue-light);
+            background: #e3f2fd;
+            transform: scale(1.02);
+        }
+
+        body.dark .drop-zone:hover {
+            border-color: var(--accent-yellow);
+            background: #2a2a2a;
+        }
+
+        .drop-zone.drag-over {
+            border-color: var(--accent-yellow);
+            background: #fff3cd;
+            box-shadow: 0 0 20px rgba(255, 220, 47, 0.3);
+        }
+
+        body.dark .drop-zone.drag-over {
+            background: #3a3a00;
+        }
+
+        .drop-zone i {
+            font-size: 48px;
+            color: var(--primary-blue);
+            margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+
+        body.dark .drop-zone i {
+            color: var(--accent-yellow);
+        }
+
+        .drop-zone p {
+            margin: 10px 0;
+            color: var(--text-light);
+            font-weight: 500;
+        }
+
+        body.dark .drop-zone p {
+            color: var(--text-dark);
+        }
+
+        .btn-browse {
+            background: var(--accent-yellow);
+            color: var(--text-light);
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px var(--shadow-light);
+        }
+
+        .btn-browse:hover {
+            background: #e6c42a;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px var(--shadow-light);
+        }
+
+        body.dark .btn-browse {
+            box-shadow: 0 2px 4px var(--shadow-dark);
+        }
+
+        body.dark .btn-browse:hover {
+            box-shadow: 0 4px 8px var(--shadow-dark);
+        }
+
+        .dialog-actions {
+            text-align: center;
+            margin-top: 25px;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+
+        body.dark .dialog-actions {
+            border-top-color: #444;
+        }
+
+        .btn-cancel {
+            background: #6c757d;
+            color: white;
+            border: none;
+            padding: 10px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn-cancel:hover {
+            background: #545b62;
+            transform: translateY(-1px);
+        }
+
+        /* Dark mode toggle for testing */
+        .toggle-dark {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--primary-blue);
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            transition: all 0.3s ease;
+        }
+
+        .toggle-dark:hover {
+            background: var(--accent-yellow);
+            color: var(--text-light);
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>🃏 MTG Dialog Test</h1>
+        <p>Click the button below to test the drag & drop dialog with MTG styling</p>
+        
+        <button id="test-dialog" class="test-button">
+            <i class="fas fa-upload"></i> Open Import Dialog
+        </button>
+
+        <div id="result" class="result" style="display: none;">
+            <h3>📄 File Selected:</h3>
+            <p id="result-text"></p>
+        </div>
+    </div>
+
+    <button class="toggle-dark" id="dark-toggle" title="Toggle Dark Mode">
+        <i class="fas fa-moon"></i>
+    </button>
+
+    <script type="module">
+        // Copy of the dialog function for testing
+        function showImportDialog(onFileSelected) {
+            const dialogHTML = `
+                <div id="import-dialog" class="dialog-overlay">
+                    <div class="dialog-content">
+                        <h3>Import CSV File</h3>
+                        <div id="drop-zone" class="drop-zone">
+                            <i class="fas fa-upload"></i>
+                            <p>Drag & drop your CSV file here</p>
+                            <p>or</p>
+                            <button id="browse-file" class="btn-browse">Choose File</button>
+                        </div>
+                        <input type="file" id="file-input" accept=".csv" style="display: none;">
+                        <div class="dialog-actions">
+                            <button id="cancel-import" class="btn-cancel">Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            document.body.insertAdjacentHTML('beforeend', dialogHTML);
+
+            const dialog = document.getElementById('import-dialog');
+            const dropZone = document.getElementById('drop-zone');
+            const browseBtn = document.getElementById('browse-file');
+            const fileInput = document.getElementById('file-input');
+            const cancelBtn = document.getElementById('cancel-import');
+
+            // Drag & drop events
+            dropZone.addEventListener('dragover', (e) => {
+                e.preventDefault();
+                dropZone.classList.add('drag-over');
+            });
+
+            dropZone.addEventListener('dragleave', (e) => {
+                e.preventDefault();
+                dropZone.classList.remove('drag-over');
+            });
+
+            dropZone.addEventListener('drop', (e) => {
+                e.preventDefault();
+                dropZone.classList.remove('drag-over');
+                const files = e.dataTransfer.files;
+                if (files.length > 0) {
+                    handleFileSelection(files[0], onFileSelected);
+                }
+            });
+
+            // File picker events
+            browseBtn.addEventListener('click', () => {
+                fileInput.click();
+            });
+
+            fileInput.addEventListener('change', (e) => {
+                if (e.target.files.length > 0) {
+                    handleFileSelection(e.target.files[0], onFileSelected);
+                }
+            });
+
+            // Cancel button
+            cancelBtn.addEventListener('click', () => {
+                closeImportDialog();
+            });
+
+            // Close on overlay click
+            dialog.addEventListener('click', (e) => {
+                if (e.target === dialog) {
+                    closeImportDialog();
+                }
+            });
+        }
+
+        function handleFileSelection(file, onFileSelected) {
+            if (!file.name.toLowerCase().endsWith('.csv')) {
+                alert('Please select a CSV file');
+                return;
+            }
+
+            closeImportDialog();
+
+            if (onFileSelected) {
+                onFileSelected(file);
+            }
+        }
+
+        function closeImportDialog() {
+            const dialog = document.getElementById('import-dialog');
+            if (dialog) {
+                dialog.remove();
+            }
+        }
+
+        // Test button event
+        document.getElementById('test-dialog').addEventListener('click', () => {
+            showImportDialog((file) => {
+                const result = document.getElementById('result');
+                const resultText = document.getElementById('result-text');
+                
+                // LOG EVERYTHING WE CAN GET FROM THE FILE OBJECT
+                console.log('=== TESTING FILE OBJECT ===');
+                console.log('File object:', file);
+                console.log('File name:', file.name);
+                console.log('File size:', file.size);
+                console.log('File type:', file.type);
+                console.log('File lastModified:', file.lastModified);
+                
+                // Try to get ALL properties
+                console.log('=== ALL PROPERTIES ===');
+                for (let prop in file) {
+                    try {
+                        console.log(prop + ':', file[prop]);
+                    } catch (e) {
+                        console.log(prop + ': ERROR -', e.message);
+                    }
+                }
+                
+                // Try some specific properties that might exist
+                console.log('=== TESTING SPECIFIC PROPERTIES ===');
+                console.log('file.path:', file.path);
+                console.log('file.webkitRelativePath:', file.webkitRelativePath);
+                console.log('file.mozFullPath:', file.mozFullPath);
+                console.log('file.fullPath:', file.fullPath);
+                console.log('file.filePath:', file.filePath);
+                
+                // Check if File has any prototype methods we missed
+                console.log('=== FILE PROTOTYPE ===');
+                console.log('File prototype:', Object.getOwnPropertyNames(File.prototype));
+                console.log('file.__proto__:', Object.getOwnPropertyNames(file.__proto__));
+                
+                let pathInfo = 'No path information available';
+                if (file.webkitRelativePath) {
+                    pathInfo = `webkitRelativePath: ${file.webkitRelativePath}`;
+                } else if (file.path) {
+                    pathInfo = `path: ${file.path}`;
+                } else if (file.mozFullPath) {
+                    pathInfo = `mozFullPath: ${file.mozFullPath}`;
+                }
+                
+                resultText.innerHTML = `
+                    <strong>📂 Name:</strong> ${file.name}<br>
+                    <strong>📊 Size:</strong> ${(file.size / 1024).toFixed(2)} KB<br>
+                    <strong>🏷️ Type:</strong> ${file.type}<br>
+                    <strong>📅 Modified:</strong> ${new Date(file.lastModified).toLocaleString()}<br>
+                    <strong>🗂️ Path Info:</strong> ${pathInfo}<br>
+                    <em>Check browser console for detailed logs!</em>
+                `;
+                
+                result.style.display = 'block';
+            });
+        });
+
+        // Dark mode toggle
+        const darkToggle = document.getElementById('dark-toggle');
+        const darkIcon = darkToggle.querySelector('i');
+        
+        darkToggle.addEventListener('click', () => {
+            document.body.classList.toggle('dark');
+            
+            if (document.body.classList.contains('dark')) {
+                darkIcon.className = 'fas fa-sun';
+                darkToggle.title = 'Switch to Light Mode';
+            } else {
+                darkIcon.className = 'fas fa-moon';
+                darkToggle.title = 'Switch to Dark Mode';
+            }
+        });
+    </script>
+</body>
+</html>
