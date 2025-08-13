@@ -10,7 +10,7 @@
  *     - Inject burger menu HTML into target element (exported)
  */
 
-import { showImportDialog, showExportDialog } from './utilities-dialog.js';
+import { showImportDialog, showExportDialog, showImportAllDialog, showImportSetDialog } from './utilities-dialog.js';
 /**
  * Initialize burger menu interaction (open/close)
  */
@@ -23,6 +23,8 @@ export function initBurgerMenu() {
         const resetSetBtn = document.getElementById('reset-set');
         const exportBddBtn = document.getElementById('export-bdd');
         const exportSetBtn = document.getElementById('export-set');
+        const importBddBtn = document.getElementById('import-bdd');
+        const importSetBtn = document.getElementById('import-set');
         const helpBtn = document.getElementById('help-toggle');
         if (burgerBtn && sideMenu) {
             burgerBtn.onclick = () => {
@@ -120,6 +122,26 @@ export function initBurgerMenu() {
                             alert('Reset set: done');
                             location.reload(); // Reload page to update icons
                         });
+                }
+            };
+        }
+        
+        // Handle import buttons
+        if (importBddBtn) {
+            importBddBtn.onclick = () => {
+                sideMenu.classList.remove('open'); // Close menu
+                showImportAllDialog(); // Show drag & drop dialog for all sets
+            };
+        }
+        if (importSetBtn) {
+            importSetBtn.onclick = () => {
+                const params = new URLSearchParams(window.location.search);
+                const setCode = params.get('code');
+                if (setCode) {
+                    sideMenu.classList.remove('open'); // Close menu
+                    showImportSetDialog(setCode); // Show drag & drop dialog for this set
+                } else {
+                    alert('No set code found in URL');
                 }
             };
         }

@@ -120,7 +120,7 @@ async function progress(cards) {
         document.getElementById('cards-progress').appendChild(cardsProgress);
         return;
     }
-    console.log(myCards);
+    //console.log(myCards);
     const totalCards = cards.length;
     const ownedCards = myCards.filter(c => c.no_foil || c.foil).length;
     const percent = (ownedCards / totalCards) * 100;
@@ -134,7 +134,7 @@ async function progress(cards) {
             </div>
         </div>
     `;
-    console.log(cardsProgress);
+    //console.log(cardsProgress);
     document.getElementById('cards-progress').replaceChildren(cardsProgress) //.appendChild(cardsProgress);
 
     // Maintenant que la barre est dans le DOM, on peut la manipuler
