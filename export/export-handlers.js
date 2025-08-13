@@ -1,3 +1,16 @@
+/**
+ * Export Handlers
+ * 
+ * Functions:
+ * - handleExportSet(req: object, res: object) 
+ *     -> void 
+ *     - Handle export of a specific set to CSV (exported)
+ * 
+ * - handleExportAll(req: object, res: object) 
+ *     -> void 
+ *     - Handle export of all sets to CSV (exported)
+ */
+
 // Export handlers for MTG collection management
 import { exportCSV, exportAllToCSV } from './toCSV.js';
 

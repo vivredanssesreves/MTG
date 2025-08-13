@@ -1,13 +1,13 @@
 /**
  * CSV Parser Utilities
  * 
- * Functions exported:
+ * Functions:
  * - isHeaderLine(line: string) 
  *     -> boolean 
- *     - Check if CSV line is a header
+ *     - Check if CSV line is a header (exported)
  * - parseCSVLine(line: string, lineNumber: number) 
  *     -> {success: boolean, data: object|null, error: string|null} 
- *     - Parse a CSV line into card object
+ *     - Parse a CSV line into card object (exported)
  */
 
 /**

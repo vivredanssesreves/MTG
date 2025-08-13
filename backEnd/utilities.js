@@ -1,3 +1,12 @@
+/**
+ * Backend Utilities
+ * 
+ * Functions:
+ * - updateCard(set: object, cardNumber: string, active: boolean, isFoil: boolean) 
+ *     -> void 
+ *     - Update card status in personal collection (exported)
+ */
+
 // Utility functions for MTG backend
 
 export function updateCard(set, cardNumber, active, isFoil) {

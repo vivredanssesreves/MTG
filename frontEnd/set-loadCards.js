@@ -1,11 +1,24 @@
+/**
+ * Set Card Loading Utilities
+ * 
+ * Functions:
+ * - loadSetCards(code: string) 
+ *     -> Promise<array> 
+ *     - Load cards data for a specific set (internal)
+ * 
+ * - progress(cards: array) 
+ *     -> Promise<void> 
+ *     - Update progress indicators (exported)
+ */
+
 // Get query param "code"
 const params = new URLSearchParams(window.location.search);
 const setCode = params.get('code');
-const pathMyCards = '../MYBDD/json/'; // Chemin vers mes cartes personnelles
-const pathBddSet = '../bdd/sets/'; // Chemin vers les sets de la BDD
+const pathMyCards = '../MYBDD/json/'; // Path to my personal cards
+const pathBddSet = '../bdd/sets/'; // Path to database sets
 let currentCards = [];
 
-// Back button (attendre que le DOM soit prêt)
+// Back button (wait for DOM to be ready)
 document.addEventListener('DOMContentLoaded', () => {
     const backBtn = document.getElementById('back-btn');
     if (backBtn) {

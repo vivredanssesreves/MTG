@@ -1,18 +1,18 @@
 /**
  * Chunk Processing Utilities
  * 
- * Functions exported:
+ * Functions:
  * - importChunkForSet(setCode: string, cards: array) 
  *     -> {success: boolean, imported: number, errors: array} 
- *     - Import chunk for specific set
+ *     - Import chunk for specific set (exported)
  * 
  * - processChunkBySets(cards: array) 
  *     -> Promise<array> 
- *     - Process chunk by grouping cards by set
+ *     - Process chunk by grouping cards by set (exported)
  * 
  * - createChunks(array: array, size: number = 250) 
  *     -> array 
- *     - Split array into chunks of specified size
+ *     - Split array into chunks of specified size (exported)
  */
 
 import fs from 'fs';

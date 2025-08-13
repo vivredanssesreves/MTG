@@ -1,21 +1,34 @@
 
+/**
+ * CSV Export Utilities
+ * 
+ * Functions:
+ * - exportCSV(code: string) 
+ *     -> void 
+ *     - Export a specific set to CSV (exported)
+ * 
+ * - exportAllToCSV() 
+ *     -> array 
+ *     - Export all sets to CSV and return missing sets (exported)
+ */
+
 import fs from 'fs';
 import fetch from 'node-fetch';
 
 
-const pathBdd = `../bdd/sets/`; // TOUTES les cartes du set
-const pathMyBdd = `../MYBDD/json/`; // Mes cartes personnelles
+const pathBdd = `../bdd/sets/`; // ALL cards from the set
+const pathMyBdd = `../MYBDD/json/`; // My personal cards
 const pathToMyCSVs = '../MYBDD/CSV/';
 
 export function exportCSV(code) {
 
-    let pathAllCards = `${pathBdd}${code}.json`; // TOUTES les cartes du set
-    let pathMyCards = `${pathMyBdd}${code}.json`; // Mes cartes personnelles
+    let pathAllCards = `${pathBdd}${code}.json`; // ALL cards from the set
+    let pathMyCards = `${pathMyBdd}${code}.json`; // My personal cards
     
-    // Lire TOUTES les cartes du set
+    // Read ALL cards from the set
     const allCards = JSON.parse(fs.readFileSync(pathAllCards, 'utf-8'));
 
-    // Lire mes cartes personnelles
+    // Read my personal cards
     let mySetData = { cards: [] };
     if (fs.existsSync(pathMyCards)) {
         mySetData = JSON.parse(fs.readFileSync(pathMyCards, 'utf-8'));
@@ -38,7 +51,7 @@ export function exportCSV(code) {
 
     // Sort cards by 'number' (ascending)
     const sortedCards = allCards.slice().sort((a, b) => {
-        // Si number est numérique, trier comme nombre
+        // If number is numeric, sort as number
         const numA = isNaN(a.number) ? a.number : Number(a.number);
         const numB = isNaN(b.number) ? b.number : Number(b.number);
         if (numA < numB) return -1;
@@ -47,7 +60,7 @@ export function exportCSV(code) {
     });
 
     sortedCards.forEach(card => {
-        // Chercher si cette carte est dans mes cartes personnelles
+        // Check if this card is in my personal cards
         const myCard = mySetData.cards.find(c => c.number === card.number);
         const no_foil = myCard ? myCard.no_foil : false;
         const foil = myCard ? myCard.foil : false;
@@ -82,10 +95,10 @@ export function exportAllToCSV() {
 
 
 
-// Pour les tests directs
+// For direct testing
 if (process.argv[2]) {
     const setCode = process.argv[2];
     exportCSV(setCode);
 } else {
-    // exportCSV(); // Commenté pour éviter l'exécution automatique
+    // exportCSV(); // Commented to avoid automatic execution
 }

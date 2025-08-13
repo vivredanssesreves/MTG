@@ -1,6 +1,19 @@
+/**
+ * Sets Page Utilities
+ * 
+ * Functions:
+ * -  // Fix: synchronize icon on load according to modeupdateDarkIcon() 
+ *     -> void 
+ *     - Update dark mode icon display (internal)
+ * 
+ * Event Listeners:
+ * - DOMContentLoaded handler
+ *     - Initialize burger menu, dark mode toggle, and reset button
+ */
+
 // Utility script for burger menu, dark mode, and reset button
 document.addEventListener('DOMContentLoaded', () => {
-  // Initialisation du mode sombre au chargement - synchronise html et body
+  // Initialize dark mode on load - synchronize html and body
   if (localStorage.getItem('darkMode') === 'enabled') {
     document.documentElement.classList.add('dark');
     document.body.classList.add('dark');

@@ -1,3 +1,16 @@
+/**
+ * Personal Collection Management
+ * 
+ * Functions:
+ * - isFoil(type: string) 
+ *     -> boolean 
+ *     - Determine if card type is foil (internal)
+ * 
+ * Event Listeners:
+ * - Click handler for .small-clickable elements
+ *     - Toggle card status and update database
+ */
+
 import { progress } from '../frontEnd/set-loadCards.js';
 document.addEventListener('click', async (e) => {
 

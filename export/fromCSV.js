@@ -1,3 +1,20 @@
+/**
+ * CSV Import Utilities
+ * 
+ * Functions:
+ * - parseCSVStreaming(filePath: string, onChunk: function, onComplete: function, onError: function) 
+ *     -> Promise<void> 
+ *     - Parse CSV file line by line with streaming (exported)
+ * 
+ * - importCSVFileStreaming(filePath: string, options: object) 
+ *     -> Promise<object> 
+ *     - Import CSV file with streaming for large files (exported)
+ * 
+ * - detectContext() 
+ *     -> object 
+ *     - Detect current context and get set ID if on set page (exported)
+ */
+
 import fs from 'fs';
 import readline from 'readline';
 import { isHeaderLine, parseCSVLine } from './utilities/utilities-csv-parser.js';

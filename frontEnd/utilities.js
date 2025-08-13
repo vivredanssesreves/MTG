@@ -1,5 +1,23 @@
 /**
- * Initialise l'interaction du menu burger (ouverture/fermeture)
+ * Frontend Utilities
+ * 
+ * Functions:
+ * - initBurgerMenu() 
+ *     -> void 
+ *     - Initialize burger menu interaction with export/import buttons (exported)
+ * - injectMenuBurger(targetId = 'menu-burger', menuHtmlPath = 'menu-burger.html') 
+ *     -> void 
+ *     - Inject burger menu HTML into target element (exported)
+ * - updateDarkIcon(iconDiv, darkToggle) 
+ *     -> void 
+ *     - Update dark mode icon according to current state (internal)
+ * - initDarkMode(toggleId = 'dark-toggle') 
+ *     -> void 
+ *     - Initialize dark mode toggle functionality (exported)
+ */
+
+/**
+ * Initialize burger menu interaction (open/close)
  */
 export function initBurgerMenu() {
     setTimeout(() => {
@@ -21,7 +39,7 @@ export function initBurgerMenu() {
                 sideMenu.classList.remove('open');
             };
         }
-        // Fermer le menu si on clique en dehors
+        // Close menu when clicking outside
         document.addEventListener('mousedown', (e) => {
             if (sideMenu && sideMenu.classList.contains('open')) {
                 if (!sideMenu.contains(e.target) && e.target !== burgerBtn) {
@@ -29,22 +47,22 @@ export function initBurgerMenu() {
                 }
             }
         });
-        // Gestion des boutons export
+        // Handle export buttons
         if (exportBddBtn) {
             exportBddBtn.onclick = () => {
-                if (confirm('Voulez-vous exporter toute votre BDD en CSV ?')) {
+                if (confirm('Do you want to export your entire database to CSV?')) {
                     fetch('/api/export-all', { method: 'POST' })
                         .then(response => response.json())
                         .then(data => {
                             if (data.success) {
                                 alert(data.message);
                             } else {
-                                alert('Erreur lors de l\'export');
+                                alert('Export error');
                             }
                         })
                         .catch(error => {
                             console.error('Export error:', error);
-                            alert('Erreur lors de l\'export');
+                            alert('Export error');
                         });
                 }
             };
@@ -54,10 +72,10 @@ export function initBurgerMenu() {
                 const params = new URLSearchParams(window.location.search);
                 const setCode = params.get('code');
                 if (!setCode) {
-                    alert('Aucun code de set trouvé');
+                    alert('No set code found');
                     return;
                 }
-                if (confirm(`Voulez-vous exporter le set ${setCode} en CSV ?`)) {
+                if (confirm(`Do you want to export set ${setCode} to CSV?`)) {
                     fetch('/api/export-set', {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
@@ -66,28 +84,28 @@ export function initBurgerMenu() {
                         .then(response => response.json())
                         .then(data => {
                             if (data.success) {
-                                alert(`Export set ${setCode}: done! Fichier CSV généré dans MYBDD/CSV/`);
+                                alert(`Export set ${setCode}: done! CSV file generated in MYBDD/CSV/`);
                             } else {
-                                alert('Erreur lors de l\'export');
+                                alert('Export error');
                             }
                         })
                         .catch(error => {
                             console.error('Export error:', error);
-                            alert('Erreur lors de l\'export');
+                            alert('Export error');
                         });
                 }
             };
         }
-        // Gestion du bouton help
+        // Handle help button
         if (helpBtn) {
             helpBtn.onclick = () => {
                 window.open('https://github.com/vivredanssesreves/MTG/wiki', '_blank');
             };
         }
-        // Gestion des boutons reset
+        // Handle reset buttons
         if (resetBddBtn) {
             resetBddBtn.onclick = () => {
-                if (confirm('Voulez-vous vraiment réinitialiser toute votre BDD ?')) {
+                if (confirm('Do you really want to reset your entire database?')) {
                     fetch('/api/reset-bdd', { method: 'POST' });
                     alert('Reset BDD: done');
                 }
@@ -95,7 +113,7 @@ export function initBurgerMenu() {
         }
         if (resetSetBtn) {
             resetSetBtn.onclick = () => {
-                if (confirm('Voulez-vous vraiment réinitialiser ce set ?')) {
+                if (confirm('Do you really want to reset this set?')) {
                     const params = new URLSearchParams(window.location.search);
                     const setCode = params.get('code');
                     fetch('/api/reset-set', {
@@ -105,19 +123,19 @@ export function initBurgerMenu() {
                     })
                         .then(() => {
                             alert('Reset set: done');
-                            location.reload(); // Recharge la page pour mettre à jour les icônes
+                            location.reload(); // Reload page to update icons
                         });
                 }
             };
         }
     }, 100);
 }
-// Utilitaires frontEnd pour le menu burger, dark mode, etc.
+// Frontend utilities for burger menu, dark mode, etc.
 
 /**
- * Injecte le menu burger dans l'élément cible
- * @param {string} targetId - id du conteneur où injecter le menu
- * @param {string} menuHtmlPath - chemin du fichier HTML du menu
+ * Inject burger menu into target element
+ * @param {string} targetId - id of container where to inject menu
+ * @param {string} menuHtmlPath - path to menu HTML file
  */
 export function injectMenuBurger(targetId = 'menu-burger', menuHtmlPath = 'menu-burger.html') {
     fetch(menuHtmlPath)
@@ -128,9 +146,9 @@ export function injectMenuBurger(targetId = 'menu-burger', menuHtmlPath = 'menu-
 }
 
 /**
- * Met à jour l'icône du dark mode selon l'état actuel
- * @param {HTMLElement} iconDiv - L'élément contenant l'icône
- * @param {HTMLElement} darkToggle - Le bouton de toggle
+ * Update dark mode icon according to current state
+ * @param {HTMLElement} iconDiv - Element containing the icon
+ * @param {HTMLElement} darkToggle - Toggle button
  */
 function updateDarkIcon(iconDiv, darkToggle) {
     if (iconDiv) {
@@ -147,8 +165,8 @@ function updateDarkIcon(iconDiv, darkToggle) {
 }
 
 /**
- * Initialise le dark mode sur la page
- * @param {string} toggleId - id du bouton dark mode
+ * Initialize dark mode on page
+ * @param {string} toggleId - id of dark mode button
  */
 export function initDarkMode(toggleId = 'dark-toggle') {
     const darkToggle = document.getElementById(toggleId);

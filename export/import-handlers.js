@@ -1,3 +1,16 @@
+/**
+ * Import Handlers
+ * 
+ * Functions:
+ * - handleImportSet(req: object, res: object) 
+ *     -> Promise<void> 
+ *     - Handle import of a specific set from CSV (exported)
+ * 
+ * - handleImportAll(req: object, res: object) 
+ *     -> Promise<void> 
+ *     - Handle import of all sets from CSV (exported)
+ */
+
 // export/import-handlers.js
 import { importCSVFileStreaming } from './fromCSV.js';
 

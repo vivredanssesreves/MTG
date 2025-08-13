@@ -1,3 +1,11 @@
+/**
+ * Sets Loading and Display
+ * 
+ * Event Listeners:
+ * - DOMContentLoaded handler
+ *     - Load and display sets list with filtering and dark mode support
+ */
+
 // Wait for DOM and dark mode to be ready before loading sets
 document.addEventListener('DOMContentLoaded', async () => {
   // Ensure dark mode is applied before creating elements

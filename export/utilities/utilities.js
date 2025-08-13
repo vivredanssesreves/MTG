@@ -2,14 +2,14 @@
 /**
  * General Utilities
  * 
- * Functions exported:
+ * Functions:
  * - normalizeBooleanValue(value: any) 
  *     -> boolean 
- *     - Normalize any value to boolean, throws error for invalid values
+ *     - Normalize any value to boolean, throws error for invalid values (exported)
  * 
  * - validateCard(card: object) 
  *     -> {valid: boolean, error: string|null, data: object} 
- *     - Validate and normalize card data
+ *     - Validate and normalize card data (exported)
  */
 
 /**

@@ -1,3 +1,24 @@
+/**
+ * CSV Import Test Suite
+ * 
+ * Functions:
+ * - testStreaming() 
+ *     -> Promise<void> 
+ *     - Test streaming CSV import with large files (internal)
+ * - testSetFilter() 
+ *     -> Promise<void> 
+ *     - Test CSV import with specific set filtering (internal)
+ * - testDataUpdate() 
+ *     -> Promise<void> 
+ *     - Test CSV import data update functionality (internal)
+ * - testBadCSVFormats() 
+ *     -> Promise<void> 
+ *     - Test CSV import error handling with malformed files (internal)
+ * 
+ * Test Execution:
+ * - IIFE async function that runs all test suites
+ */
+
 import { importCSVFileStreaming } from '../export/fromCSV.js';
 import fs from 'fs';
 import {

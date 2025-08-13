@@ -1,3 +1,69 @@
+/**
+ * Test Utilities
+ * 
+ * Functions:
+ * - generateAllCards(type) 
+ *     -> void 
+ *     - Generate all possible cards from all sets (internal)
+ * - getStressValue() 
+ *     -> number 
+ *     - Generate extreme values for stress testing (internal)
+ * - consoleUpdate(result, duration, totalChunks) 
+ *     -> void 
+ *     - Display test progress and results (exported)
+ * - createTestCSV(filePath, numLines, type) 
+ *     -> void 
+ *     - Create test CSV file with specified parameters (exported)
+ * - createStressTestCSV(filePath, numLines) 
+ *     -> void 
+ *     - Create stress test CSV with extreme values (exported)
+ * - createSpecificTestCSV(filePath, cardData) 
+ *     -> void 
+ *     - Create CSV with specific card data (exported)
+ * - checkSetFile(setCode) 
+ *     -> Object 
+ *     - Check set file existence and validity (exported)
+ * - getCardPossession(setCode, cardNumber) 
+ *     -> Object 
+ *     - Get card possession data from set file (exported)
+ * - resetDatabase() 
+ *     -> void 
+ *     - Reset test database to empty state (exported)
+ * - cleanupTestFiles(filePaths) 
+ *     -> void 
+ *     - Remove test files after testing (exported)
+ * - verifyInitialState(testSets) 
+ *     -> Object 
+ *     - Verify database initial state before tests (exported)
+ * - assertCardCountsMatch(expectedTotal) 
+ *     -> void 
+ *     - Assert card counts match expected values (exported)
+ * - verifySpecificCards(cardChecks) 
+ *     -> void 
+ *     - Verify specific card possession values (exported)
+ * - verifySampleCards(csvFile, sampleSize, totalLines, setToFilter, type) 
+ *     -> Promise<void> 
+ *     - Verify sample cards from CSV file (exported)
+ * - verifyCardPossession(cardChecks) 
+ *     -> void 
+ *     - Verify card possession against expected values (exported)
+ * - verifyCsvNoDuplicates(csvFile) 
+ *     -> void 
+ *     - Verify CSV file has no duplicate entries (exported)
+ * - verifySetsExistence() 
+ *     -> void 
+ *     - Verify all test sets exist in database (exported)
+ * - verifyCsvDataConsistency(csvFile, isStressTest) 
+ *     -> void 
+ *     - Verify CSV data consistency and format (exported)
+ * - verifyCsvDataIntegrity(csvFile, isStressTest) 
+ *     -> void 
+ *     - Verify CSV data integrity (exported)
+ * - howManyOfSet(csvFile, setCode) 
+ *     -> number 
+ *     - Count cards of specific set in CSV file (exported)
+ */
+
 import { get } from 'http';
 import { createEmptySetsFiles } from '../init/init_bdd_perso.js';
 import fs from 'fs';

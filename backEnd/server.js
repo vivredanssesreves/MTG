@@ -1,3 +1,25 @@
+/**
+ * MTG Collection Server
+ * 
+ * Functions:
+ * - showPopup(message: string) 
+ *     -> void 
+ *     - Show system popup notification (internal)
+ * 
+ * - openBrowser(url: string) 
+ *     -> void 
+ *     - Automatically open browser (internal)
+ * 
+ * API Routes:
+ * - POST /editMyBDD - Update personal card collection
+ * - POST /api/reset-bdd - Reset entire database
+ * - POST /api/reset-set - Reset specific set
+ * - POST /api/export-set - Export specific set to CSV
+ * - POST /api/export-all - Export all sets to CSV
+ * - POST /api/import-set - Import specific set from CSV
+ * - POST /api/import-all - Import all sets from CSV
+ */
+
 // backEnd/server.js
 import express from 'express';
 import path from 'path';
