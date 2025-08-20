@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Evoli Collection</title>
+  <script>
+    if (localStorage.getItem('darkMode') === 'enabled') {
+      document.documentElement.classList.add('dark');
+    }
+  </script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="../cssMain.css" />
+</head>
+
+<body>
+  <div class="button-bar">
+    <div id="menu-burger"></div>
+  </div>
+  
+  <header class="header">
+    <h1>🌟 Évoli 🌟</h1>
+  </header>
+  
+  <div id="sets"></div>
+
+  <button onclick="window.location.href='../index.html'">🏠</button>
+
+  <script type="module">
+    import { injectMenuBurger, initDarkMode, initBurgerMenu } from '../../frontEnd/utilities.js';
+    
+    const evoliData = [
+      { name: "Evoli", type: "Normal", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png" },
+      { name: "Aquali", type: "Eau", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png" },
+      { name: "Voltali", type: "Électrique", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png" },
+      { name: "Pyroli", type: "Feu", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png" },
+      { name: "Mentali", type: "Psy", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png" },
+      { name: "Noctali", type: "Ténèbres", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" },
+      { name: "Phyllali", type: "Plante", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png" },
+      { name: "Givrali", type: "Glace", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png" },
+      { name: "Nymphali", type: "Fée", image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png" }
+    ];
+
+    function renderEvoli() {
+      const grid = document.getElementById('sets');
+      
+      evoliData.forEach(evoli => {
+        const card = document.createElement('div');
+        card.className = 'set';
+        card.innerHTML = `
+          <div class="card-image">
+            <img src="${evoli.image}" alt="${evoli.name}" >
+          </div>
+          <div class="card-content">
+            <h3 class="card-title">${evoli.name}</h3>
+            <p class="card-description"><strong>Type:</strong> ${evoli.type}</p>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      injectMenuBurger('menu-burger', '../menu-burger.html');
+      setTimeout(() => {
+        initBurgerMenu();
+        initDarkMode('dark-toggle');
+      }, 200);
+      
+      renderEvoli();
+    });
+  </script>
+</body>
+
+</html>

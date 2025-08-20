@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTG - Test Liste Déroulante</title>
+    <link rel="stylesheet" href="../web/cssMain.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        .examples-container {
+            display: flex;
+            gap: 2rem;
+            margin: 0 auto;
+            max-width: 1400px;
+            padding: 2rem;
+        }
+
+        .theme-section {
+            flex: 1;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .theme-section.light {
+            background: var(--bg-light);
+            color: var(--text-light);
+        }
+
+        .theme-section.dark {
+            background: var(--bg-dark);
+            color: var(--text-dark);
+            box-shadow: 0 4px 12px rgba(255,255,255,0.05);
+        }
+
+        .theme-title {
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid currentColor;
+        }
+
+        .dropdown-section {
+            margin-bottom: 2rem;
+            padding: 1rem;
+            border-radius: 8px;
+            border: 1px solid rgba(128, 128, 128, 0.3);
+        }
+
+        .section-title {
+            font-size: 1.2em;
+            margin-bottom: 1rem;
+            font-weight: bold;
+        }
+
+        /* Style 1: Classic MTG */
+        .dropdown-classic {
+            position: relative;
+            display: inline-block;
+            margin: 10px 0;
+        }
+
+                .theme-section.light .dropdown-classic select {
+            background: #ffffff;
+            border: 2px solid #1976d2;
+            color: #333333;
+        }
+
+        .theme-section.dark .dropdown-classic select {
+            background: #2c3e50;
+            border: 2px solid #ffd700;
+            color: #ffffff;
+        }
+
+        .dropdown-classic select {
+            padding: 12px 40px 12px 15px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            appearance: none;
+            min-width: 200px;
+        }
+
+        .dropdown-classic select:focus {
+            outline: none;
+            box-shadow: 0 0 5px rgba(102, 102, 102, 0.5);
+        }
+
+        .theme-section.dark .dropdown-classic select:focus {
+            box-shadow: 0 0 5px rgba(204, 204, 204, 0.5);
+        }
+
+        .dropdown-classic::after {
+            content: '▼';
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+
+        .theme-section.light .dropdown-classic::after {
+            color: #666666;
+        }
+
+        .theme-section.dark .dropdown-classic::after {
+            color: #cccccc;
+        }
+
+        /* Style 2: Minimal */
+        .dropdown-minimal {
+            position: relative;
+            display: inline-block;
+            margin: 10px 0;
+        }
+
+        .dropdown-minimal select {
+            border: none;
+            border-bottom: 3px solid;
+            padding: 15px 40px 15px 5px;
+            font-size: 16px;
+            cursor: pointer;
+            appearance: none;
+            min-width: 200px;
+            transition: all 0.3s ease;
+        }
+
+        .theme-section.light .dropdown-minimal select {
+            background: transparent;
+            color: #333333;
+            border-bottom-color: #1976d2;
+        }
+
+        .theme-section.dark .dropdown-minimal select {
+            background: transparent;
+            color: #ffffff;
+            border-bottom-color: #ffd700;
+        }
+
+        .dropdown-minimal select:focus {
+            outline: none;
+        }
+
+        .theme-section.light .dropdown-minimal select:focus {
+            border-bottom-color: #333333;
+            background: rgba(102, 102, 102, 0.05);
+        }
+
+        .theme-section.dark .dropdown-minimal select:focus {
+            border-bottom-color: #ffffff;
+            background: rgba(204, 204, 204, 0.1);
+        }
+
+        .dropdown-minimal::after {
+            content: '▾';
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 20px;
+            pointer-events: none;
+            transition: transform 0.3s ease;
+        }
+
+        .theme-section.light .dropdown-minimal::after {
+            color: #1976d2;
+        }
+
+        .theme-section.dark .dropdown-minimal::after {
+            color: #ffd700;
+        }
+
+        .dropdown-minimal:hover::after {
+            transform: translateY(-50%) scale(1.2);
+        }
+
+        /* Style 3: Card Style */
+        .dropdown-card {
+            position: relative;
+            display: inline-block;
+            margin: 10px 0;
+        }
+
+        .dropdown-card select {
+            padding: 12px 40px 12px 15px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 12px;
+            cursor: pointer;
+            appearance: none;
+            min-width: 200px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            border: 3px solid;
+        }
+
+        .theme-section.light .dropdown-card select {
+            background: linear-gradient(to bottom, #f4f4f4 0%, #e0e0e0 100%);
+            color: #2c1810;
+            border-color: #1976d2;
+        }
+
+        .theme-section.dark .dropdown-card select {
+            background: linear-gradient(to bottom, #3e3e3e 0%, #2c2c2c 100%);
+            color: #ffffff;
+            border-color: #ffd700;
+        }
+
+        .dropdown-card select:focus {
+            outline: none;
+        }
+
+        .theme-section.light .dropdown-card select:focus {
+            border-color: #0d47a1;
+            box-shadow: 0 0 15px rgba(25, 118, 210, 0.5), 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .theme-section.dark .dropdown-card select:focus {
+            border-color: #ffeb3b;
+            box-shadow: 0 0 15px rgba(255, 215, 0, 0.5), 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .dropdown-card::after {
+            content: '▼';
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+
+        .demo-content {
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 6px;
+            font-size: 14px;
+            border-left: 4px solid;
+        }
+
+        .theme-section.light .demo-content {
+            background: rgba(25, 118, 210, 0.1);
+            border-left-color: #1976d2;
+        }
+
+        .theme-section.dark .demo-content {
+            background: rgba(255, 215, 0, 0.1);
+            border-left-color: #ffd700;
+        }
+    </style>
+</head>
+<body>
+    <div class="examples-container">
+        <!-- Section Light -->
+        <div class="theme-section light">
+            <h2 class="theme-title">🌞 Mode Clair</h2>
+            
+            <div class="dropdown-section">
+                <h3 class="section-title">Style Classic</h3>
+                <div class="dropdown-classic">
+                    <select onchange="updateDemo(this.value, 'classic-light')">
+                        <option value="">Tous les types</option>
+                        <option value="main">Main</option>
+                        <option value="token">Token</option>
+                        <option value="promo">Promo</option>
+                        <option value="alchemy">Alchemy</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="dropdown-section">
+                <h3 class="section-title">Style Minimal</h3>
+                <div class="dropdown-minimal">
+                    <select onchange="updateDemo(this.value, 'minimal-light')">
+                        <option value="">Tous les types</option>
+                        <option value="main">Main</option>
+                        <option value="token">Token</option>
+                        <option value="promo">Promo</option>
+                        <option value="alchemy">Alchemy</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="dropdown-section">
+                <h3 class="section-title">Style Card</h3>
+                <div class="dropdown-card">
+                    <select onchange="updateDemo(this.value, 'card-light')">
+                        <option value="">Tous les types</option>
+                        <option value="main">Main</option>
+                        <option value="token">Token</option>
+                        <option value="promo">Promo</option>
+                        <option value="alchemy">Alchemy</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section Dark -->
+        <div class="theme-section dark">
+            <h2 class="theme-title">🌙 Mode Sombre</h2>
+            
+            <div class="dropdown-section">
+                <h3 class="section-title">Style Classic</h3>
+                <div class="dropdown-classic">
+                    <select onchange="updateDemo(this.value, 'classic-dark')">
+                        <option value="">Tous les types</option>
+                        <option value="main">Main</option>
+                        <option value="token">Token</option>
+                        <option value="promo">Promo</option>
+                        <option value="alchemy">Alchemy</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="dropdown-section">
+                <h3 class="section-title">Style Minimal</h3>
+                <div class="dropdown-minimal">
+                    <select onchange="updateDemo(this.value, 'minimal-dark')">
+                        <option value="">Tous les types</option>
+                        <option value="main">Main</option>
+                        <option value="token">Token</option>
+                        <option value="promo">Promo</option>
+                        <option value="alchemy">Alchemy</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="dropdown-section">
+                <h3 class="section-title">Style Card</h3>
+                <div class="dropdown-card">
+                    <select onchange="updateDemo(this.value, 'card-dark')">
+                        <option value="">Tous les types</option>
+                        <option value="main">Main</option>
+                        <option value="token">Token</option>
+                        <option value="promo">Promo</option>
+                        <option value="alchemy">Alchemy</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function updateDemo(value, demoId) {
+            const demoEl = document.getElementById(`demo-${demoId}`);
+            if (value) {
+                const typeNames = {
+                    'main': 'Main',
+                    'token': 'Token',
+                    'promo': 'Promo',
+                    'alchemy': 'Alchemy'
+                };
+                demoEl.innerHTML = `
+                    <strong>Filtrage:</strong> ${typeNames[value]} <br>
+                    <em>Sets filtrés pour "${typeNames[value]}"</em>
+                `;
+            } else {
+                demoEl.innerHTML = 'Tous les sets affichés';
+            }
+        }
+    </script>
+</body>
+</html>

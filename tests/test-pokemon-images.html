@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Test Images Pokémon</title>
+  <link rel="stylesheet" href="../cssMain.css" />
+  <style>
+    .test-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      padding: 2rem;
+    }
+    .test-card {
+      border: 1px solid #ccc;
+      padding: 1rem;
+      text-align: center;
+      background: hotpink;
+    }
+    .test-card img {
+      width: 100px;
+      height: 100px;
+      object-fit: contain;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Test Images Pokémon</h1>
+  
+  <div class="test-grid" id="test-grid">
+    <!-- Images de test seront ajoutées ici -->
+  </div>
+
+  <script>
+    const pokemonTests = [
+      {
+        name: "Eevee",
+        id: 133,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/eevee.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Vaporeon", 
+        id: 134,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/vaporeon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Jolteon",
+        id: 135,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/jolteon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Flareon",
+        id: 136,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/flareon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Espeon",
+        id: 196,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/espeon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Umbreon",
+        id: 197,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/umbreon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Leafeon",
+        id: 470,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/leafeon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Glaceon",
+        id: 471,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/glaceon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      },
+      {
+        name: "Sylveon",
+        id: 700,
+        sources: [
+          { url: "https://img.pokemondb.net/artwork/sylveon.jpg", desc: "PokemonDB (avec fond)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png", desc: "PokeAPI Official (transparent)" },
+          { url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png", desc: "PokeAPI Sprite (petit, transparent)" }
+        ]
+      }
+    ];
+
+    function loadTestImages() {
+      const grid = document.getElementById('test-grid');
+      
+      pokemonTests.forEach(pokemon => {
+        pokemon.sources.forEach((source, index) => {
+          const card = document.createElement('div');
+          card.className = 'test-card';
+          card.innerHTML = `
+            <h3>${pokemon.name} - ${source.desc}</h3>
+            <img src="${source.url}" alt="${pokemon.name}" onerror="this.style.display='none'">
+            <p style="font-size: 0.8em; word-break: break-all;">${source.url}</p>
+          `;
+          grid.appendChild(card);
+        });
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', loadTestImages);
+  </script>
+</body>
+
+</html>

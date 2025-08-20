@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Évoli",
+        "id": "eevee",
+        "type": "Normal",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+    },
+    {
+        "name": "Aquali",
+        "id": "vaporeon",
+        "type": "Eau",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+    },
+    {
+        "name": "Voltali",
+        "id": "jolteon",
+        "type": "Électrique",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    },
+    {
+        "name": "Pyroli",
+        "id": "flareon",
+        "type": "Feu",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+    },
+    {
+        "name": "Mentali",
+        "id": "espeon",
+        "type": "Psy",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png"
+    },
+    {
+        "name": "Noctali",
+        "id": "umbreon",
+        "type": "Ténèbres",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+    },
+    {
+        "name": "Phyllali",
+        "id": "leafeon",
+        "type": "Plante",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png"
+    },
+    {
+        "name": "Givrali",
+        "id": "glaceon",
+        "type": "Glace",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
+    },
+    {
+        "name": "Nymphali",
+        "id": "sylveon",
+        "type": "Fée",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
+    }
+]
