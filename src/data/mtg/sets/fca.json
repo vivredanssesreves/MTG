@@ -1,0 +1,392 @@
+[
+  {
+    "number": "1",
+    "name_en": "Adeline, Resplendent Cathar",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/b/0b9579d8-bc8f-4d74-bfc1-dcdd42568f79.jpg?1748703787",
+    "link": "https://gatherer.wizards.com/FCA/en-us/1/adeline-resplendent-cathar"
+  },
+  {
+    "number": "2",
+    "name_en": "Ranger-Captain of Eos",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/a/9af0b8d6-f41b-4aa3-ae32-1ef2d1d4bade.jpg?1748703788",
+    "link": "https://gatherer.wizards.com/FCA/en-us/2/ranger-captain-of-eos"
+  },
+  {
+    "number": "3",
+    "name_en": "Sram, Senior Edificer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/084d7a61-ef18-42e3-8485-76ae9a36ef7b.jpg?1748703796",
+    "link": "https://gatherer.wizards.com/FCA/en-us/3/sram-senior-edificer"
+  },
+  {
+    "number": "4",
+    "name_en": "Counterspell",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/1/e1e48b21-1a4f-4708-a4b4-e2e296df924c.jpg?1748703796",
+    "link": "https://gatherer.wizards.com/FCA/en-us/4/counterspell"
+  },
+  {
+    "number": "5",
+    "name_en": "Urza, Lord High Artificer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/8/98294441-b5a1-4b59-9325-80d0ff913ebd.jpg?1749987748",
+    "link": "https://gatherer.wizards.com/FCA/en-us/5/urza-lord-high-artificer"
+  },
+  {
+    "number": "6",
+    "name_en": "Venser, Shaper Savant",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/9/d9aa060d-8682-4803-9ab9-052250e3d794.jpg?1748703804",
+    "link": "https://gatherer.wizards.com/FCA/en-us/6/venser-shaper-savant"
+  },
+  {
+    "number": "7",
+    "name_en": "Bolas's Citadel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/4/24b2833e-6c08-4f33-8481-f65f2a063c60.jpg?1748703810",
+    "link": "https://gatherer.wizards.com/FCA/en-us/7/bolass-citadel"
+  },
+  {
+    "number": "8",
+    "name_en": "Dark Ritual",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/c/7cc0cfe1-7f13-4b1b-9a37-33ef457d3c62.jpg?1748703813",
+    "link": "https://gatherer.wizards.com/FCA/en-us/8/dark-ritual"
+  },
+  {
+    "number": "9",
+    "name_en": "Fatal Push",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/4/2430f223-edb2-402b-a85b-5d328323992d.jpg?1748703818",
+    "link": "https://gatherer.wizards.com/FCA/en-us/9/fatal-push"
+  },
+  {
+    "number": "10",
+    "name_en": "Syr Konrad, the Grim",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/b/5b40815d-0104-461e-b193-fcf5e1f35299.jpg?1748703822",
+    "link": "https://gatherer.wizards.com/FCA/en-us/10/syr-konrad-the-grim"
+  },
+  {
+    "number": "11",
+    "name_en": "Yawgmoth, Thran Physician",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/e/6ed83401-0b7e-48c7-b1a4-8e97aec29960.jpg?1748703826",
+    "link": "https://gatherer.wizards.com/FCA/en-us/11/yawgmoth-thran-physician"
+  },
+  {
+    "number": "12",
+    "name_en": "Ancient Copper Dragon",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/6/f6cbc754-8aed-4c32-857c-ea639943b5d2.jpg?1748703830",
+    "link": "https://gatherer.wizards.com/FCA/en-us/12/ancient-copper-dragon"
+  },
+  {
+    "number": "13",
+    "name_en": "Godo, Bandit Warlord",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/2/b24b733e-f98a-4ae1-9e54-eb416dea7cf6.jpg?1749987752",
+    "link": "https://gatherer.wizards.com/FCA/en-us/13/godo-bandit-warlord"
+  },
+  {
+    "number": "14",
+    "name_en": "Purphoros, God of the Forge",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/b/fbd25e79-d29b-4b51-9653-3932c980b931.jpg?1749237389",
+    "link": "https://gatherer.wizards.com/FCA/en-us/14/purphoros-god-of-the-forge"
+  },
+  {
+    "number": "15",
+    "name_en": "Azusa, Lost but Seeking",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/a/ea8e1f76-bd26-4037-8556-e348d50bfd95.jpg?1748703841",
+    "link": "https://gatherer.wizards.com/FCA/en-us/15/azusa-lost-but-seeking"
+  },
+  {
+    "number": "16",
+    "name_en": "Nyxbloom Ancient",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/f/5f2b2373-9052-4246-a644-1f5b723ea9f1.jpg?1749237307",
+    "link": "https://gatherer.wizards.com/FCA/en-us/16/nyxbloom-ancient"
+  },
+  {
+    "number": "17",
+    "name_en": "Jodah, the Unifier",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/0/c02bef17-a293-4f77-8043-104864de4eaa.jpg?1748703849",
+    "link": "https://gatherer.wizards.com/FCA/en-us/17/jodah-the-unifier"
+  },
+  {
+    "number": "18",
+    "name_en": "Tymna the Weaver",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/7/87eff269-c8d7-479e-ade4-383b8622e70d.jpg?1749987760",
+    "link": "https://gatherer.wizards.com/FCA/en-us/18/tymna-the-weaver"
+  },
+  {
+    "number": "19",
+    "name_en": "Winota, Joiner of Forces",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/e/6e1a948f-2d7f-4398-9f56-90dac6897c69.jpg?1748703857",
+    "link": "https://gatherer.wizards.com/FCA/en-us/19/winota-joiner-of-forces"
+  },
+  {
+    "number": "A-19",
+    "name_en": "A-Winota, Joiner of Forces",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/4/844a56c7-d17a-4495-9945-89b68443dd5b.jpg?1752476539",
+    "link": "https://gatherer.wizards.com/FCA/en-us/A-19/a-winota-joiner-of-forces"
+  },
+  {
+    "number": "20",
+    "name_en": "Traxos, Scourge of Kroog",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3f0cbff1-4b4e-4d60-b114-20bd3e977b25.jpg?1748703858",
+    "link": "https://gatherer.wizards.com/FCA/en-us/20/traxos-scourge-of-kroog"
+  },
+  {
+    "number": "21",
+    "name_en": "Akroma's Will",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/c/fc9c542d-ff46-4193-9972-68287879a8a0.jpg?1749987785",
+    "link": "https://gatherer.wizards.com/FCA/en-us/21/akromas-will"
+  },
+  {
+    "number": "22",
+    "name_en": "Danitha Capashen, Paragon",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/1/210ff924-215e-4ae8-8706-5af3891c6605.jpg?1748703865",
+    "link": "https://gatherer.wizards.com/FCA/en-us/22/danitha-capashen-paragon"
+  },
+  {
+    "number": "23",
+    "name_en": "Kenrith, the Returned King",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/5/d51b956a-acca-4aee-92ff-bd90a9814988.jpg?1748703872",
+    "link": "https://gatherer.wizards.com/FCA/en-us/23/kenrith-the-returned-king"
+  },
+  {
+    "number": "24",
+    "name_en": "Loran of the Third Path",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/5/450ec0a6-839b-4a35-a79b-ae358408a17c.jpg?1748703873",
+    "link": "https://gatherer.wizards.com/FCA/en-us/24/loran-of-the-third-path"
+  },
+  {
+    "number": "25",
+    "name_en": "Mangara, the Diplomat",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/3/232b5c18-0a0a-425d-89aa-de2db833a22c.jpg?1748703879",
+    "link": "https://gatherer.wizards.com/FCA/en-us/25/mangara-the-diplomat"
+  },
+  {
+    "number": "26",
+    "name_en": "Stroke of Midnight",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/1/711135d0-7769-4154-873a-e2505f8795f0.jpg?1748703880",
+    "link": "https://gatherer.wizards.com/FCA/en-us/26/stroke-of-midnight"
+  },
+  {
+    "number": "27",
+    "name_en": "Wall of Omens",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/e/ae94ab2a-5a6b-4358-ad7f-bdc9a98a9ac0.jpg?1749987788",
+    "link": "https://gatherer.wizards.com/FCA/en-us/27/wall-of-omens"
+  },
+  {
+    "number": "28",
+    "name_en": "Brainstorm",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/1/c14f8bce-d5b3-4d01-8346-8a4923ec03d9.jpg?1748703888",
+    "link": "https://gatherer.wizards.com/FCA/en-us/28/brainstorm"
+  },
+  {
+    "number": "29",
+    "name_en": "Cryptic Command",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/b/7b182d1f-be0f-4b97-bca3-083483f7713c.jpg?1749987791",
+    "link": "https://gatherer.wizards.com/FCA/en-us/29/cryptic-command"
+  },
+  {
+    "number": "30",
+    "name_en": "Laboratory Maniac",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/4/44ede007-b6db-4396-8b25-9e2621cfeec4.jpg?1749987796",
+    "link": "https://gatherer.wizards.com/FCA/en-us/30/laboratory-maniac"
+  },
+  {
+    "number": "31",
+    "name_en": "Rhystic Study",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/d/cd212de7-25f6-4b3b-a35b-df7d87fe205b.jpg?1749237396",
+    "link": "https://gatherer.wizards.com/FCA/en-us/31/rhystic-study"
+  },
+  {
+    "number": "32",
+    "name_en": "Teferi, Mage of Zhalfir",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/c/9ca8fdd4-7e62-4475-9aed-c227ab3977f7.jpg?1749987800",
+    "link": "https://gatherer.wizards.com/FCA/en-us/32/teferi-mage-of-zhalfir"
+  },
+  {
+    "number": "33",
+    "name_en": "Deadly Dispute",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/4/a4e0b297-6d33-4e2b-b497-aa952dcf2141.jpg?1748703910",
+    "link": "https://gatherer.wizards.com/FCA/en-us/33/deadly-dispute"
+  },
+  {
+    "number": "34",
+    "name_en": "Diabolic Intent",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/2/a2ec8e5e-ada8-4cd7-b43d-157568356a80.jpg?1748703914",
+    "link": "https://gatherer.wizards.com/FCA/en-us/34/diabolic-intent"
+  },
+  {
+    "number": "35",
+    "name_en": "Gix, Yawgmoth Praetor",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/1/f1de9d89-4cbf-453b-ab6d-88090bd7a204.jpg?1748703918",
+    "link": "https://gatherer.wizards.com/FCA/en-us/35/gix-yawgmoth-praetor"
+  },
+  {
+    "number": "36",
+    "name_en": "K'rrik, Son of Yawgmoth",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/5/45393005-78c7-4056-9ce6-310264922af3.jpg?1748703923",
+    "link": "https://gatherer.wizards.com/FCA/en-us/36/krrik-son-of-yawgmoth"
+  },
+  {
+    "number": "37",
+    "name_en": "Varragoth, Bloodsky Sire",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/6/e6628dee-54b1-4e04-90b2-3b327a2de090.jpg?1748703926",
+    "link": "https://gatherer.wizards.com/FCA/en-us/37/varragoth-bloodsky-sire"
+  },
+  {
+    "number": "38",
+    "name_en": "Captain Lannery Storm",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/c/7c3aeedd-d41b-44c9-9b0a-e5952202f632.jpg?1748703929",
+    "link": "https://gatherer.wizards.com/FCA/en-us/38/captain-lannery-storm"
+  },
+  {
+    "number": "39",
+    "name_en": "Light Up the Stage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/8/686150d8-1d01-4c4f-8e4d-61ada78d6859.jpg?1748703933",
+    "link": "https://gatherer.wizards.com/FCA/en-us/39/light-up-the-stage"
+  },
+  {
+    "number": "40",
+    "name_en": "Lightning Bolt",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e89794ab-6070-4916-936f-2b42fe41d31b.jpg?1748703937",
+    "link": "https://gatherer.wizards.com/FCA/en-us/40/lightning-bolt"
+  },
+  {
+    "number": "41",
+    "name_en": "Mizzix's Mastery",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/a/8a139398-4d42-4715-8a5a-c446bf665a2e.jpg?1748703940",
+    "link": "https://gatherer.wizards.com/FCA/en-us/41/mizzixs-mastery"
+  },
+  {
+    "number": "42",
+    "name_en": "Najeela, the Blade-Blossom",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/c/cc30e027-8cb8-4b06-a24a-6ad49d6a2cf3.jpg?1749987803",
+    "link": "https://gatherer.wizards.com/FCA/en-us/42/najeela-the-blade-blossom"
+  },
+  {
+    "number": "43",
+    "name_en": "Ragavan, Nimble Pilferer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/7/a71d1ec3-2d7a-4749-8936-8bf7a8b83d84.jpg?1748703947",
+    "link": "https://gatherer.wizards.com/FCA/en-us/43/ragavan-nimble-pilferer"
+  },
+  {
+    "number": "44",
+    "name_en": "Carpet of Flowers",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/d/dd28c05c-9473-4df8-9bb3-70593f2c5a50.jpg?1749987806",
+    "link": "https://gatherer.wizards.com/FCA/en-us/44/carpet-of-flowers"
+  },
+  {
+    "number": "45",
+    "name_en": "Farseek",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/3/f36f237f-6b44-4513-ba5d-fe6b4936f78e.jpg?1749987809",
+    "link": "https://gatherer.wizards.com/FCA/en-us/45/farseek"
+  },
+  {
+    "number": "46",
+    "name_en": "Fynn, the Fangbearer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/9/e983925b-de9c-4a09-8bff-913301aff269.jpg?1748703960",
+    "link": "https://gatherer.wizards.com/FCA/en-us/46/fynn-the-fangbearer"
+  },
+  {
+    "number": "47",
+    "name_en": "Nature's Claim",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/3/d349901d-f9a6-4f09-a881-531c695cf1c4.jpg?1749987882",
+    "link": "https://gatherer.wizards.com/FCA/en-us/47/natures-claim"
+  },
+  {
+    "number": "48",
+    "name_en": "Primeval Titan",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/7/972dfe0d-1f8a-4e18-bcd8-c1ff6266c01a.jpg?1748703968",
+    "link": "https://gatherer.wizards.com/FCA/en-us/48/primeval-titan"
+  },
+  {
+    "number": "49",
+    "name_en": "Atraxa, Grand Unifier",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/e/be326fe9-4ed8-4f64-934c-9955edea5fdb.jpg?1748703969",
+    "link": "https://gatherer.wizards.com/FCA/en-us/49/atraxa-grand-unifier"
+  },
+  {
+    "number": "50",
+    "name_en": "Bruse Tarl, Boorish Herder",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/7/07889f56-740f-4d17-9b0e-8d8e9e327f31.jpg?1749987885",
+    "link": "https://gatherer.wizards.com/FCA/en-us/50/bruse-tarl-boorish-herder"
+  },
+  {
+    "number": "51",
+    "name_en": "Dovin's Veto",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/a/ba332954-ed8c-48d7-8d85-971c7b71dccf.jpg?1748703977",
+    "link": "https://gatherer.wizards.com/FCA/en-us/51/dovins-veto"
+  },
+  {
+    "number": "52",
+    "name_en": "Inalla, Archmage Ritualist",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/8/786a3daa-41a6-4cf3-97bc-c59e1c7cd674.jpg?1749987889",
+    "link": "https://gatherer.wizards.com/FCA/en-us/52/inalla-archmage-ritualist"
+  },
+  {
+    "number": "53",
+    "name_en": "Ishai, Ojutai Dragonspeaker",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/2/92e0c1a4-e6f3-494d-9238-913af54dbffb.jpg?1748703985",
+    "link": "https://gatherer.wizards.com/FCA/en-us/53/ishai-ojutai-dragonspeaker"
+  },
+  {
+    "number": "54",
+    "name_en": "Isshin, Two Heavens as One",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/3/a3baaf97-171a-40c0-a1dc-74ae05db0e25.jpg?1748703990",
+    "link": "https://gatherer.wizards.com/FCA/en-us/54/isshin-two-heavens-as-one"
+  },
+  {
+    "number": "55",
+    "name_en": "Kinnan, Bonder Prodigy",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/1/e141f975-945e-4e2c-ac04-6083b5bdaf16.jpg?1748732768",
+    "link": "https://gatherer.wizards.com/FCA/en-us/55/kinnan-bonder-prodigy"
+  },
+  {
+    "number": "56",
+    "name_en": "Kraum, Ludevic's Opus",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/1/b1a273c4-008a-41a0-84b8-38654303265d.jpg?1749987892",
+    "link": "https://gatherer.wizards.com/FCA/en-us/56/kraum-ludevics-opus"
+  },
+  {
+    "number": "57",
+    "name_en": "Muldrotha, the Gravetide",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/5/752e16fc-8ee1-41f7-9495-6ab8029c9353.jpg?1748704000",
+    "link": "https://gatherer.wizards.com/FCA/en-us/57/muldrotha-the-gravetide"
+  },
+  {
+    "number": "58",
+    "name_en": "Thrasios, Triton Hero",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/f/5f13417d-3fe1-4357-b826-cb48dd111247.jpg?1749987895",
+    "link": "https://gatherer.wizards.com/FCA/en-us/58/thrasios-triton-hero"
+  },
+  {
+    "number": "59",
+    "name_en": "Vial Smasher the Fierce",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/5/958077e8-a226-4cb5-839f-35557051c953.jpg?1749987898",
+    "link": "https://gatherer.wizards.com/FCA/en-us/59/vial-smasher-the-fierce"
+  },
+  {
+    "number": "60",
+    "name_en": "Yuriko, the Tiger's Shadow",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/b/6b26622f-7bf5-4a07-b109-4bcb13fdb010.jpg?1749987901",
+    "link": "https://gatherer.wizards.com/FCA/en-us/60/yuriko-the-tigers-shadow"
+  },
+  {
+    "number": "61",
+    "name_en": "Chromatic Lantern",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/1/d170adf6-eb5e-4094-9917-3b68be92e8b9.jpg?1748704014",
+    "link": "https://gatherer.wizards.com/FCA/en-us/61/chromatic-lantern"
+  },
+  {
+    "number": "62",
+    "name_en": "Smuggler's Copter",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/0/d0e53c71-6a58-4ea1-a550-f3cbd749eafd.jpg?1748704018",
+    "link": "https://gatherer.wizards.com/FCA/en-us/62/smugglers-copter"
+  },
+  {
+    "number": "63",
+    "name_en": "Strixhaven Stadium",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/c/bcf0d751-5c47-4531-add4-acd07b82adf5.jpg?1748704021",
+    "link": "https://gatherer.wizards.com/FCA/en-us/63/strixhaven-stadium"
+  },
+  {
+    "number": "64",
+    "name_en": "Command Beacon",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/6/2670653e-fcaa-46e3-b3bf-cb8e8b981a9c.jpg?1749987904",
+    "link": "https://gatherer.wizards.com/FCA/en-us/64/command-beacon"
+  }
+]

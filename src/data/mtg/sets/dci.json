@@ -1,0 +1,476 @@
+[
+  {
+    "number": "1",
+    "name_en": "Wood Elves",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/e/de62160b-3a29-48ed-9dfc-fd1464147f35.jpg?1677543129",
+    "link": "https://gatherer.wizards.com/DCI/en-us/1/wood-elves"
+  },
+  {
+    "number": "2",
+    "name_en": "Icatian Javelineers",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/1/61b4e09b-f2c7-4469-8bde-8d9ce1887b63.jpg?1677543135",
+    "link": "https://gatherer.wizards.com/DCI/en-us/2/icatian-javelineers"
+  },
+  {
+    "number": "3",
+    "name_en": "Fiery Temper",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/3/d377a7b9-5c25-4017-84a8-ae368eceba50.jpg?1677543138",
+    "link": "https://gatherer.wizards.com/DCI/en-us/3/fiery-temper"
+  },
+  {
+    "number": "4",
+    "name_en": "Boomerang",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/0/40eb66bd-4276-4475-b725-a45c535d03bf.jpg?1677543164",
+    "link": "https://gatherer.wizards.com/DCI/en-us/4/boomerang"
+  },
+  {
+    "number": "5",
+    "name_en": "Calciderm",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/8/387adc65-5d18-4291-85b1-f49f556781c7.jpg?1677543168",
+    "link": "https://gatherer.wizards.com/DCI/en-us/5/calciderm"
+  },
+  {
+    "number": "6",
+    "name_en": "Reckless Wurm",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/e/ce03bef4-c438-498e-a02f-86f199ae73e9.jpg?1677543172",
+    "link": "https://gatherer.wizards.com/DCI/en-us/6/reckless-wurm"
+  },
+  {
+    "number": "7",
+    "name_en": "Yixlid Jailer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/1/b17c6589-69ec-46a1-be2d-0fb7c07a7f68.jpg?1677543176",
+    "link": "https://gatherer.wizards.com/DCI/en-us/7/yixlid-jailer"
+  },
+  {
+    "number": "8",
+    "name_en": "Zoetic Cavern",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/0/70d94a4d-e14a-46ee-978f-7d6164ea990f.jpg?1677543180",
+    "link": "https://gatherer.wizards.com/DCI/en-us/8/zoetic-cavern"
+  },
+  {
+    "number": "9",
+    "name_en": "Llanowar Elves",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/4/3412a5a9-f3dd-4f23-b588-d3b7fd3a382e.jpg?1677543184",
+    "link": "https://gatherer.wizards.com/DCI/en-us/9/llanowar-elves"
+  },
+  {
+    "number": "10",
+    "name_en": "Mogg Fanatic",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/4/e4d0f23d-1ae5-4ba6-8c05-e98ca250f365.jpg?1677543189",
+    "link": "https://gatherer.wizards.com/DCI/en-us/10/mogg-fanatic"
+  },
+  {
+    "number": "11",
+    "name_en": "Mind Stone",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/7/679d884f-4511-4267-89b9-9d350255ef32.jpg?1677543194",
+    "link": "https://gatherer.wizards.com/DCI/en-us/11/mind-stone"
+  },
+  {
+    "number": "12",
+    "name_en": "Dauntless Dourbark",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/a/bad809d0-82a5-4bb0-bef2-465205879a8d.jpg?1677543199",
+    "link": "https://gatherer.wizards.com/DCI/en-us/12/dauntless-dourbark"
+  },
+  {
+    "number": "13",
+    "name_en": "Lava Axe",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/6/c6a4ed5b-56fc-4d5c-a378-68406667310d.jpg?1677543220",
+    "link": "https://gatherer.wizards.com/DCI/en-us/13/lava-axe"
+  },
+  {
+    "number": "14",
+    "name_en": "Cenn's Tactician",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/a/4ab6fde4-a8e0-4bbf-b382-ec0602333e76.jpg?1677543224",
+    "link": "https://gatherer.wizards.com/DCI/en-us/14/cenns-tactician"
+  },
+  {
+    "number": "15",
+    "name_en": "Oona's Blackguard",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/a/6a99dcbf-67c5-40ca-be8d-e5d6eae8a7cd.jpg?1677543229",
+    "link": "https://gatherer.wizards.com/DCI/en-us/15/oonas-blackguard"
+  },
+  {
+    "number": "16",
+    "name_en": "Gravedigger",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/0/c0a22595-6d0a-4f17-9965-1f8eb39122b2.jpg?1677543233",
+    "link": "https://gatherer.wizards.com/DCI/en-us/16/gravedigger"
+  },
+  {
+    "number": "17",
+    "name_en": "Boggart Ram-Gang",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/7/a7aef473-2c55-494a-ba9a-4a14fad02ba8.jpg?1677543238",
+    "link": "https://gatherer.wizards.com/DCI/en-us/17/boggart-ram-gang"
+  },
+  {
+    "number": "18",
+    "name_en": "Wilt-Leaf Cavaliers",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/e/3ebcadf9-65ec-4835-9472-921c3dde96d2.jpg?1677543243",
+    "link": "https://gatherer.wizards.com/DCI/en-us/18/wilt-leaf-cavaliers"
+  },
+  {
+    "number": "19",
+    "name_en": "Duergar Hedge-Mage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/6/c6cc79d2-97b4-4e18-9124-650c520a4bd1.jpg?1677543247",
+    "link": "https://gatherer.wizards.com/DCI/en-us/19/duergar-hedge-mage"
+  },
+  {
+    "number": "20",
+    "name_en": "Selkie Hedge-Mage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/8/c879bd30-2209-4409-9e4d-3d65565ceddf.jpg?1677543251",
+    "link": "https://gatherer.wizards.com/DCI/en-us/20/selkie-hedge-mage"
+  },
+  {
+    "number": "21",
+    "name_en": "Sprouting Thrinax",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/1/310038c2-685e-4f1b-b91f-7a5ad2b0646f.jpg?1677543265",
+    "link": "https://gatherer.wizards.com/DCI/en-us/21/sprouting-thrinax"
+  },
+  {
+    "number": "22",
+    "name_en": "Woolly Thoctar",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/b/fb3a2bb2-3ba7-4486-84c9-3aab85c368e1.jpg?1677543270",
+    "link": "https://gatherer.wizards.com/DCI/en-us/22/woolly-thoctar"
+  },
+  {
+    "number": "24",
+    "name_en": "Path to Exile",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/0/30233158-01b4-4f14-b7d2-d0377273f6c3.jpg?1677543084",
+    "link": "https://gatherer.wizards.com/DCI/en-us/24/path-to-exile"
+  },
+  {
+    "number": "25",
+    "name_en": "Hellspark Elemental",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/4/a485fc8d-a7a0-444f-b4b3-aa0c9964ec53.jpg?1677543089",
+    "link": "https://gatherer.wizards.com/DCI/en-us/25/hellspark-elemental"
+  },
+  {
+    "number": "26",
+    "name_en": "Marisi's Twinclaws",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/b/eba9449b-d1f2-4322-a5d4-b8935f270fff.jpg?1677543093",
+    "link": "https://gatherer.wizards.com/DCI/en-us/26/marisis-twinclaws"
+  },
+  {
+    "number": "27",
+    "name_en": "Slave of Bolas",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/c/cc4c8807-77e1-4519-9281-5a312af88ad8.jpg?1677543098",
+    "link": "https://gatherer.wizards.com/DCI/en-us/27/slave-of-bolas"
+  },
+  {
+    "number": "28",
+    "name_en": "Mycoid Shepherd",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/b/4bb53920-2511-4467-b287-79b562d3c24c.jpg?1677543426",
+    "link": "https://gatherer.wizards.com/DCI/en-us/28/mycoid-shepherd"
+  },
+  {
+    "number": "29",
+    "name_en": "Naya Sojourners",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/a/1a7dcba8-416e-4908-8969-bf5511a117e8.jpg?1677543430",
+    "link": "https://gatherer.wizards.com/DCI/en-us/29/naya-sojourners"
+  },
+  {
+    "number": "30",
+    "name_en": "Mind Control",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/c/2c1468fc-52ba-4d21-bb39-d2d42f6cd50c.jpg?1677543103",
+    "link": "https://gatherer.wizards.com/DCI/en-us/30/mind-control"
+  },
+  {
+    "number": "31",
+    "name_en": "Rise from the Grave",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/4/2482d1ef-29f4-42ad-b384-07072cd3f71e.jpg?1677543109",
+    "link": "https://gatherer.wizards.com/DCI/en-us/31/rise-from-the-grave"
+  },
+  {
+    "number": "32",
+    "name_en": "Kor Duelist",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e826b53c-5a6d-452f-bb57-2c4fd798f06d.jpg?1677543113",
+    "link": "https://gatherer.wizards.com/DCI/en-us/32/kor-duelist"
+  },
+  {
+    "number": "33",
+    "name_en": "Vampire Nighthawk",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/0/600c7386-dad1-43d0-9862-5e6750a5bb92.jpg?1677543118",
+    "link": "https://gatherer.wizards.com/DCI/en-us/33/vampire-nighthawk"
+  },
+  {
+    "number": "34",
+    "name_en": "Nissa's Chosen",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/4/e45e4c8f-bb6c-471d-b14f-cc90869f341a.jpg?1677543444",
+    "link": "https://gatherer.wizards.com/DCI/en-us/34/nissas-chosen"
+  },
+  {
+    "number": "35",
+    "name_en": "Emeria Angel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/1/01967a0c-bd2c-4dba-9c62-e6f955c017e3.jpg?1677543448",
+    "link": "https://gatherer.wizards.com/DCI/en-us/35/emeria-angel"
+  },
+  {
+    "number": "36",
+    "name_en": "Kor Firewalker",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/d/8d1e1127-a8f3-4a07-bba5-a44166cb7abc.jpg?1677543810",
+    "link": "https://gatherer.wizards.com/DCI/en-us/36/kor-firewalker"
+  },
+  {
+    "number": "37",
+    "name_en": "Leatherback Baloth",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/2/e2c621ad-7109-4e07-b0cf-49fc243bc175.jpg?1677543814",
+    "link": "https://gatherer.wizards.com/DCI/en-us/37/leatherback-baloth"
+  },
+  {
+    "number": "38",
+    "name_en": "Hada Freeblade",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/9/099718e6-9896-4d5e-8edb-3bc9a15c81ec.jpg?1677543503",
+    "link": "https://gatherer.wizards.com/DCI/en-us/38/hada-freeblade"
+  },
+  {
+    "number": "39",
+    "name_en": "Kalastria Highborn",
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/8/28f11e26-6904-4add-99ed-db306598bd3b.jpg?1677543463",
+    "link": "https://gatherer.wizards.com/DCI/en-us/39/kalastria-highborn"
+  },
+  {
+    "number": "40",
+    "name_en": "Syphon Mind",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/0/e0a72c31-6df0-4b88-b04c-324b03872aff.jpg?1677543818",
+    "link": "https://gatherer.wizards.com/DCI/en-us/40/syphon-mind"
+  },
+  {
+    "number": "41",
+    "name_en": "Tazeem",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/6/76e5383d-ac12-4abc-aa30-15e99ded2d6f.jpg?1738584678",
+    "link": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198069&printed=false"
+  },
+  {
+    "number": "42",
+    "name_en": "Celestine Reef",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/f/fffcbc4e-c6dc-4808-b262-f7c453e74dd8.jpg?1677544171",
+    "link": "https://gatherer.wizards.com/DCI/en-us/42/celestine-reef"
+  },
+  {
+    "number": "43",
+    "name_en": "Horizon Boughs",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/2/a2e697bc-68e0-49c1-be40-1d52831deb8c.jpg?1677544183",
+    "link": "https://gatherer.wizards.com/DCI/en-us/43/horizon-boughs"
+  },
+  {
+    "number": "44",
+    "name_en": "Mirrored Depths",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/0/50a879a4-622f-4589-a10a-ad2db8219486.jpg?1677544179",
+    "link": "https://gatherer.wizards.com/DCI/en-us/44/mirrored-depths"
+  },
+  {
+    "number": "45",
+    "name_en": "Tember City",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/5/b50fd15a-544f-4561-9313-139239ec75a0.jpg?1677544175",
+    "link": "https://gatherer.wizards.com/DCI/en-us/45/tember-city"
+  },
+  {
+    "number": "46",
+    "name_en": "Pathrazer of Ulamog",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/f/ef1e41e0-d78c-40b2-97f6-767318329711.jpg?1677543822",
+    "link": "https://gatherer.wizards.com/DCI/en-us/46/pathrazer-of-ulamog"
+  },
+  {
+    "number": "47",
+    "name_en": "Curse of Wizardry",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/0/d0f1c170-03d1-42a7-91e4-0ac537af1328.jpg?1677543826",
+    "link": "https://gatherer.wizards.com/DCI/en-us/47/curse-of-wizardry"
+  },
+  {
+    "number": "48",
+    "name_en": "Staggershock",
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/c/7c7eeca0-a4cf-455f-888c-57571cf3555d.jpg?1677543522",
+    "link": "https://gatherer.wizards.com/DCI/en-us/48/staggershock"
+  },
+  {
+    "number": "49",
+    "name_en": "Deathless Angel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/b/8b5e6882-4c37-4c47-92c4-4083c66e9019.jpg?1677543527",
+    "link": "https://gatherer.wizards.com/DCI/en-us/49/deathless-angel"
+  },
+  {
+    "number": "50",
+    "name_en": "Fling",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/0/303195f3-07ac-4eed-ab27-bf7c4b5378a3.jpg?1677543830",
+    "link": "https://gatherer.wizards.com/DCI/en-us/50/fling"
+  },
+  {
+    "number": "51",
+    "name_en": "Sylvan Ranger",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/6/e63c5f75-e975-4355-bdac-4124a132ae13.jpg?1677543834",
+    "link": "https://gatherer.wizards.com/DCI/en-us/51/sylvan-ranger"
+  },
+  {
+    "number": "52",
+    "name_en": "Liliana's Specter",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/e/0e348e20-f0bd-482f-b7de-475fa05753a4.jpg?1677544374",
+    "link": "https://gatherer.wizards.com/DCI/en-us/52/lilianas-specter"
+  },
+  {
+    "number": "53",
+    "name_en": "Mitotic Slime",
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3f8060a3-ba74-404c-9050-0e9f7128209f.jpg?1677544345",
+    "link": "https://gatherer.wizards.com/DCI/en-us/53/mitotic-slime"
+  },
+  {
+    "number": "54",
+    "name_en": "Plots That Span Centuries",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/3/438cab33-ffb1-4fba-8c2a-2c91fd39b9a2.jpg?1719568097",
+    "link": "https://gatherer.wizards.com/DCI/en-us/54/plots-that-span-centuries"
+  },
+  {
+    "number": "55",
+    "name_en": "Perhaps You've Met My Cohort",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/f/9fdda372-05b0-47ca-ac74-713037bcac17.jpg?1719568101",
+    "link": "https://gatherer.wizards.com/DCI/en-us/55/perhaps-youve-met-my-cohort"
+  },
+  {
+    "number": "56",
+    "name_en": "Your Inescapable Doom",
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/b/9badcc58-0281-499c-9e1f-5d894761ca61.jpg?1719568104",
+    "link": "https://gatherer.wizards.com/DCI/en-us/56/your-inescapable-doom"
+  },
+  {
+    "number": "57",
+    "name_en": "Drench the Soil in Their Blood",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/14e5d253-e075-4df4-98af-4ae43c000634.jpg?1719568107",
+    "link": "https://gatherer.wizards.com/DCI/en-us/57/drench-the-soil-in-their-blood"
+  },
+  {
+    "number": "58",
+    "name_en": "Imprison This Insolent Wretch",
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/e/fee17785-2a29-4998-a34e-b738de955d53.jpg?1719568110",
+    "link": "https://gatherer.wizards.com/DCI/en-us/58/imprison-this-insolent-wretch"
+  },
+  {
+    "number": "59",
+    "name_en": "Plague Stinger",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/6/568d7e97-ae65-47e8-b53d-1bc367738c78.jpg?1677543838",
+    "link": "https://gatherer.wizards.com/DCI/en-us/59/plague-stinger"
+  },
+  {
+    "number": "60",
+    "name_en": "Golem's Heart",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/6/1630b54b-b580-4d64-8926-72df69065a9b.jpg?1677543842",
+    "link": "https://gatherer.wizards.com/DCI/en-us/60/golems-heart"
+  },
+  {
+    "number": "61",
+    "name_en": "Memnite",
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/6/4669327f-268f-43c2-ad57-555a02baa6a1.jpg?1677543658",
+    "link": "https://gatherer.wizards.com/DCI/en-us/61/memnite"
+  },
+  {
+    "number": "62",
+    "name_en": "Tempered Steel",
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/d/bd03c292-821f-41fd-b582-db71b40b9804.jpg?1677543646",
+    "link": "https://gatherer.wizards.com/DCI/en-us/62/tempered-steel"
+  },
+  {
+    "number": "63",
+    "name_en": "Skinrender",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/6/56cb6d16-506e-4902-b0d8-883651a624f5.jpg?1677543846",
+    "link": "https://gatherer.wizards.com/DCI/en-us/63/skinrender"
+  },
+  {
+    "number": "64",
+    "name_en": "Master's Call",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/a/8a4c6e74-bb8d-406d-9fb0-ac879108db81.jpg?1677543891",
+    "link": "https://gatherer.wizards.com/DCI/en-us/64/masters-call"
+  },
+  {
+    "number": "65",
+    "name_en": "Plague Myr",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/0/e068a398-74f3-4e41-b077-aa1963a5986b.jpg?1677543895",
+    "link": "https://gatherer.wizards.com/DCI/en-us/65/plague-myr"
+  },
+  {
+    "number": "66",
+    "name_en": "Signal Pest",
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/3/5312358c-128f-4bcb-b121-1f7441ae7bc7.jpg?1677543900",
+    "link": "https://gatherer.wizards.com/DCI/en-us/66/signal-pest"
+  },
+  {
+    "number": "67",
+    "name_en": "Treasure Mage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/9/c97874a8-e048-4433-8831-54dc67980902.jpg?1677543682",
+    "link": "https://gatherer.wizards.com/DCI/en-us/67/treasure-mage"
+  },
+  {
+    "number": "68",
+    "name_en": "Black Sun's Zenith",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/d/dd88131a-2811-4a1f-bb9a-c82e12c1493b.jpg?1677543674",
+    "link": "https://gatherer.wizards.com/DCI/en-us/68/black-suns-zenith"
+  },
+  {
+    "number": "69",
+    "name_en": "Fling",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/a/ca9d200b-1384-4eb9-8efb-94dc5fa106ed.jpg?1677543904",
+    "link": "https://gatherer.wizards.com/DCI/en-us/69/fling"
+  },
+  {
+    "number": "70",
+    "name_en": "Sylvan Ranger",
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/d/0ddeb538-f706-44a8-8f36-0c73a8870f35.jpg?1677543908",
+    "link": "https://gatherer.wizards.com/DCI/en-us/70/sylvan-ranger"
+  },
+  {
+    "number": "71",
+    "name_en": "Vault Skirge",
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/9/19dbd2db-ab33-4171-ae51-aa66c79b97b2.jpg?1677543912",
+    "link": "https://gatherer.wizards.com/DCI/en-us/71/vault-skirge"
+  },
+  {
+    "number": "72",
+    "name_en": "Maul Splicer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/9/69f66142-fda7-461b-a876-d055c9d4febf.jpg?1677543917",
+    "link": "https://gatherer.wizards.com/DCI/en-us/72/maul-splicer"
+  },
+  {
+    "number": "73",
+    "name_en": "Shrine of Burning Rage",
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/9/d9185aa3-e0af-477f-951d-be4f9d3b0c9c.jpg?1677543921",
+    "link": "https://gatherer.wizards.com/DCI/en-us/73/shrine-of-burning-rage"
+  },
+  {
+    "number": "74",
+    "name_en": "Priest of Urabrask",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/0/e05862a2-dd14-4607-a0db-ae0533551cb9.jpg?1677543706",
+    "link": "https://gatherer.wizards.com/DCI/en-us/74/priest-of-urabrask"
+  },
+  {
+    "number": "75",
+    "name_en": "Myr Superion",
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/a/ea58b15c-8648-42f9-a7ec-25b17697bb8c.jpg?1677543716",
+    "link": "https://gatherer.wizards.com/DCI/en-us/75/myr-superion"
+  },
+  {
+    "number": "76",
+    "name_en": "Tormented Soul",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/e/ceb5d4c4-d6b5-4d28-8ed7-e367c6201f24.jpg?1726951612",
+    "link": "https://gatherer.wizards.com/DCI/en-us/76/tormented-soul"
+  },
+  {
+    "number": "77",
+    "name_en": "Auramancer",
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/5/c568b80e-8c1b-416f-b47d-100086549fd8.jpg?1677543930",
+    "link": "https://gatherer.wizards.com/DCI/en-us/77/auramancer"
+  },
+  {
+    "number": "78",
+    "name_en": "Circle of Flame",
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/2/a2de620b-1358-483e-8b59-53206b1d3936.jpg?1677543934",
+    "link": "https://gatherer.wizards.com/DCI/en-us/78/circle-of-flame"
+  },
+  {
+    "number": "79",
+    "name_en": "Stormblood Berserker",
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/a/8af30f24-0b2a-4d18-a8d2-2edc2687bdf6.jpg?1677543737",
+    "link": "https://gatherer.wizards.com/DCI/en-us/79/stormblood-berserker"
+  },
+  {
+    "number": "80",
+    "name_en": "Dungrove Elder",
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/7/678c11d1-567e-4153-b828-a4f18fc7bd58.jpg?1677543744",
+    "link": "https://gatherer.wizards.com/DCI/en-us/80/dungrove-elder"
+  }
+]
