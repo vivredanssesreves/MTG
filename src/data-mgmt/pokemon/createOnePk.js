@@ -6,13 +6,13 @@ const pathSrcBddPoke = `${pathSrc}data/pokemon/`;
 const pathBddOnePoke = `${pathSrcBddPoke}oneByOne/`;
 const pathBddBase = `${pathSrcBddPoke}base/`;
 
-const pathBddExt = `../../../bdd/pokemon/base/`;
+const pathBddExt = `../../../bddExt/`;
 const bddDexPath = `${pathBddExt}tcg-dex/`;
-const bddTcgPath = `${pathBddExt}pokemon-tcg-data/`;
+const bddTcgPath = `${pathBddExt}tcg-data/`;
 
 
-const bddPath = `${pathSrc}bdd/pokemon/`;
-const bddBasePath = `${bddPath}base/`;
+// const bddPath = `${pathSrc}bdd/pokemon/`;
+// const bddBasePath = `${bddPath}base/`;
 
 const langs = ['fr', 'en', 'zh-cn', 'zh-tw', 'ja', 'ko'];
 

@@ -15,8 +15,17 @@
 const pathDir = '../../../';
 const params = new URLSearchParams(window.location.search);
 const setCode = params.get('code');
-const pathMyCards = `${pathDir}MYBDD/json/`; // Path to my personal cards
-const pathBddSet = `${pathDir}bdd/sets/`; // Path to database sets
+
+const pathSrc = `${pathDir}src/`;
+const pathBddMtg = `${pathSrc}data/mtg/`;
+const pathBddSet = `${pathBddMtg}sets/`;
+
+const pathMyData = `${pathSrc}data-user/`;
+const pathMyJson = `${pathMyData}mtg/json/`;
+
+// const pathMyCards = `${pathDir}MYBDD/json/`; 
+// const pathBddSet = `${pathDir}bdd/sets/`; 
+
 let currentCards = [];
 
 // Back button (wait for DOM to be ready)
@@ -30,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Dark mode toggle
-import { initDarkMode } from './shared/utilities.js';
+import { initDarkMode } from '../shared/utilities.js';
 document.addEventListener('DOMContentLoaded', () => {
     initDarkMode('dark-toggle');
 });
@@ -134,8 +143,8 @@ function renderCards(cards, setMyData, filter = 'all') {
 async function loadSetCards(code) {
     try {
 
-        const resCards = await fetch(`${pathBddSet}${code}.json`);
-        const resMyCards = await fetch(`${pathMyCards}${code}.json`);
+        const resCards = await fetch(`${pathBddMtg}${code}.json`);
+        const resMyCards = await fetch(`${pathMyMtgJson}${code}.json`);
 
         if (!resCards.ok || !resMyCards.ok) throw new Error('Erreur de chargement');
 

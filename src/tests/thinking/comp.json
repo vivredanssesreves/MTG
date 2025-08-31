@@ -1,0 +1,367 @@
+
+{
+  category: 'Pokémon',
+  id: 'tk-xy-su-4',
+  illustrator: 'Kouki Saitou',
+  localId: '4',
+  name: 'Évoli',
+  rarity: 'Sans Rareté',
+  set: {
+    cardCount: { official: 30, total: 30 },
+    id: 'tk-xy-su',
+    name: 'XY Kit du dresseur (Suicune)',
+    symbol: 'https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol'
+  },
+  variants: {
+    firstEdition: false,
+    holo: true,
+    normal: true,
+    reverse: true,
+    wPromo: false
+  },
+  dexId: [ 133 ],
+  hp: 60,
+  types: [ 'Incolore' ],
+  stage: 'De base',
+  attacks: [ { damage: 10 }, { damage: 30 } ],
+  weaknesses: [ { type: 'Combat', value: '×2' } ],
+  retreat: 1,
+  legal: { standard: false, expanded: false },
+  updated: '2025-08-16T20:39:55Z',
+  pricing: {
+    cardmarket: null,
+    tcgplayer: {
+      updated: '2025-08-21T20:06:32.000Z',
+      unit: 'USD',
+      normal: [Object]
+    }
+  }
+}
+
+
+
+
+
+
+
+ {
+  sdk: <ref *1> _TCGdex {
+    cache: MemoryCache { cache: [Map] },
+    cacheTTL: 3600,
+    random: {
+      card: [AsyncFunction: card],
+      set: [AsyncFunction: set],
+      serie: [AsyncFunction: serie]
+    },
+    card: Endpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class Card extends CardResume],
+      listModel: [class CardResume extends Model],
+      endpoint: 'cards'
+    },
+    set: Endpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class Set extends Model],
+      listModel: [class SetResume extends Model],
+      endpoint: 'sets'
+    },
+    serie: Endpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class Serie extends SerieResume],
+      listModel: [class SerieResume extends Model],
+      endpoint: 'series'
+    },
+    type: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'types'
+    },
+    retreat: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'retreats'
+    },
+    rarity: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'rarities'
+    },
+    illustrator: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'illustrators'
+    },
+    hp: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'hp'
+    },
+    categorie: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'categories'
+    },
+    dexID: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'dex-ids'
+    },
+    energyType: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'energy-types'
+    },
+    regulationMark: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'regulation-marks'
+    },
+    stage: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'stages'
+    },
+    suffixe: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'suffixes'
+    },
+    trainerType: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'trainer-types'
+    },
+    variant: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'variants'
+    },
+    lang: 'fr',
+    endpointURL: 'https://api.tcgdex.net/v2'
+  },
+  category: 'Pokémon',
+  id: 'tk-xy-su-4',
+  illustrator: 'Kouki Saitou',
+  localId: '4',
+  name: 'Évoli',
+  rarity: 'Sans Rareté',
+  set: {
+    cardCount: { official: 30, total: 30 },
+    id: 'tk-xy-su',
+    name: 'XY Kit du dresseur (Suicune)',
+    symbol: 'https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol'
+  },
+  variants: {
+    firstEdition: false,
+    holo: true,
+    normal: true,
+    reverse: true,
+    wPromo: false
+  },
+  dexId: [ 133 ],
+  hp: 60,
+  types: [ 'Incolore' ],
+  stage: 'De base',
+  attacks: [ { damage: 10 }, { damage: 30 } ],
+  weaknesses: [ { type: 'Combat', value: '×2' } ],
+  retreat: 1,
+  legal: { standard: false, expanded: false },
+  updated: '2025-08-16T20:39:55Z',
+  pricing: {
+    cardmarket: null,
+    tcgplayer: {
+      updated: '2025-08-21T20:06:32.000Z',
+      unit: 'USD',
+      normal: [Object]
+    }
+  }
+}
+
+
+
+
+
+
+
+{
+  category: 'Pokemon',
+  id: 'fut2020-2',
+  illustrator: 'The Pokémon Company Art Team',
+  image: 'https://assets.tcgdex.net/en/swsh/fut2020/2',
+  localId: '2',
+  name: 'Eevee on the Ball',
+  rarity: 'None',
+  set: {
+    cardCount: { official: 5, total: 5 },
+    id: 'fut2020',
+    logo: 'https://assets.tcgdex.net/en/swsh/fut2020/logo',
+    name: 'Pokémon Futsal 2020',
+    symbol: 'https://assets.tcgdex.net/univ/swsh/fut2020/symbol'
+  },
+  variants: {
+    firstEdition: false,
+    holo: true,
+    normal: true,
+    reverse: true,
+    wPromo: false
+  },
+  dexId: [ 133 ],
+  description: 'It has the ability to alter the composition of its body to suit its surrounding environment.',
+  stage: 'Basic',
+  attacks: [
+    {
+      cost: [Array],
+      name: 'Make the Assist',
+      effect: 'Attach a basic Energy card from your hand to 1 of your Benched Pokémon.'
+    },
+    { cost: [Array], name: 'Tackle', damage: 20 }
+  ],
+  regulationMark: 'D',
+  legal: { standard: false, expanded: true },
+  updated: '2025-08-16T19:38:01Z',
+  pricing: { cardmarket: null, tcgplayer: null }
+}
+
+
+
+
+
+
+
+Card {
+  sdk: <ref *1> _TCGdex {
+    cache: MemoryCache { cache: [Map] },
+    cacheTTL: 3600,
+    random: {
+      card: [AsyncFunction: card],
+      set: [AsyncFunction: set],
+      serie: [AsyncFunction: serie]
+    },
+    card: Endpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class Card extends CardResume],
+      listModel: [class CardResume extends Model],
+      endpoint: 'cards'
+    },
+    set: Endpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class Set extends Model],
+      listModel: [class SetResume extends Model],
+      endpoint: 'sets'
+    },
+    serie: Endpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class Serie extends SerieResume],
+      listModel: [class SerieResume extends Model],
+      endpoint: 'series'
+    },
+    type: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'types'
+    },
+    retreat: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'retreats'
+    },
+    rarity: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'rarities'
+    },
+    illustrator: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'illustrators'
+    },
+    hp: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'hp'
+    },
+    categorie: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'categories'
+    },
+    dexID: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'dex-ids'
+    },
+    energyType: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'energy-types'
+    },
+    regulationMark: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'regulation-marks'
+    },
+    stage: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'stages'
+    },
+    suffixe: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'suffixes'
+    },
+    trainerType: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'trainer-types'
+    },
+    variant: SimpleEndpoint {
+      tcgdex: [Circular *1],
+      itemModel: [class StringEndpoint extends Model],
+      endpoint: 'variants'
+    },
+    lang: 'en',
+    endpointURL: 'https://api.tcgdex.net/v2'
+  },
+  category: 'Pokemon',
+  id: 'fut2020-2',
+  illustrator: 'The Pokémon Company Art Team',
+  image: 'https://assets.tcgdex.net/en/swsh/fut2020/2',
+  localId: '2',
+  name: 'Eevee on the Ball',
+  rarity: 'None',
+  set: {
+    cardCount: { official: 5, total: 5 },
+    id: 'fut2020',
+    logo: 'https://assets.tcgdex.net/en/swsh/fut2020/logo',
+    name: 'Pokémon Futsal 2020',
+    symbol: 'https://assets.tcgdex.net/univ/swsh/fut2020/symbol'
+  },
+  variants: {
+    firstEdition: false,
+    holo: true,
+    normal: true,
+    reverse: true,
+    wPromo: false
+  },
+  dexId: [ 133 ],
+  description: 'It has the ability to alter the composition of its body to suit its surrounding environment.',
+  stage: 'Basic',
+  attacks: [
+    {
+      cost: [Array],
+      name: 'Make the Assist',
+      effect: 'Attach a basic Energy card from your hand to 1 of your Benched Pokémon.'
+    },
+    { cost: [Array], name: 'Tackle', damage: 20 }
+  ],
+  regulationMark: 'D',
+  legal: { standard: false, expanded: true },
+  updated: '2025-08-16T19:38:01Z',
+  pricing: { cardmarket: null, tcgplayer: null }
+}
+
+
+
+
+

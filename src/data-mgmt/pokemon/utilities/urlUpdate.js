@@ -2,9 +2,13 @@ import fs from 'fs';
 import fetch from "node-fetch";
 import TCGdex from '@tcgdex/sdk'
 
-const bddPath = '../../bdd/pokemon/';
-const bddBasePath = `${bddPath}base/`;
-const bddDexPath = `${bddBasePath}tcg-dex/`;
+const pathBddExt = `../../../bddExt/`;
+const pathBddDex = `${pathBddExt}tcg-dex/`;
+const pathBddTcg = `${pathBddExt}tcg-data/`;
+
+// const bddPath = '../../bddExt/';
+// const bddBasePath = `${bddPath}base/`;
+//const bddDexPath = `${bddBasePath}tcg-dex/`;
 const langs = ['fr', 'en', 'zh-cn', 'zh-tw', 'ja', 'ko'];
 
 

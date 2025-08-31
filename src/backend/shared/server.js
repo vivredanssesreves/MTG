@@ -31,14 +31,14 @@ import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { exec } from 'child_process';
 import { updateCard } from './utilities.js';
-import { createEmptySetsFiles } from '../../../init/init_bdd_perso.js';
-import { createEmptySet } from '../../../init/init_bdd_perso.js';
-import { handleImportSet, handleImportAll } from '../../../export/import-handlers.js';
-import { handleExportSet, handleExportAll } from '../../../export/export-handlers.js';
+import { createEmptySetsFiles } from '../../../toDelete-maybe/init/init_bdd_perso.js';
+import { createEmptySet } from '../../../toDelete-maybe/init/init_bdd_perso.js';
+import { handleImportSet, handleImportAll } from '../../../toDelete-maybe/export/import-handlers.js';
+import { handleExportSet, handleExportAll } from '../../../toDelete-maybe/export/export-handlers.js';
 
 
 
-const pathMyBddJson = `${_pathProject}/MYBDD/json/`;
+//const pathMyBddJson = `${_pathProject}/MYBDD/json/`;
 const app = express();
 const PORT = 3000;
 
@@ -49,7 +49,7 @@ const backEndPath = path.join(_pathProject, 'backEnd');
 const myBddPath = path.join(_pathProject, 'MYBDD');
 const frontEndPath = path.join(_pathProject, 'frontEnd');
 const initPath = path.join(_pathProject, 'init');
-const expImpPath = path.join(_pathProject, 'expImp');
+//const expImpPath = path.join(_pathProject, 'expImp');
 
 const pathSrc = path.join(_pathProject, 'src');
 
@@ -60,21 +60,26 @@ const pathFrontShared = path.join(pathSrcFront, 'shared');
 const pathFrontStyles = path.join(pathFrontShared, 'styles');
 const pathFrontLib = path.join(pathFrontShared, 'lib');
 
+const pathMyData = path.join(pathSrc, 'data-user');
+const pathMyDataMtg = path.join(pathMyData, 'mtg');
+const pathMyMtgJson = path.join(pathMyDataMtg, 'json');
+const pathMyMtgCsv = path.join(pathMyDataMtg, 'CSV');
+
+const pathMyDataPoke = path.join(pathMyData, 'pokemon');
+
 const pathPublic = path.join(_pathProject, 'public');
 const pathPublicPoke = path.join(pathPublic, 'pokemon');
 const pathPublicMtg = path.join(pathPublic, 'mtg');
 
-app.use('/pokemon', express.static(pathPublicPoke));
-app.use('/mtg', express.static(pathPublicMtg));
-app.use(express.json());
-console.log(`pathPublicPoke: ${pathPublicPoke}`);
+// app.use('/pokemon', express.static(pathPublicPoke));
+// app.use('/mtg', express.static(pathPublicMtg));
 
-app.use('/bdd', express.static(bddPath)); // JSON files
-app.use('/backEnd', express.static(backEndPath)); // back end path
-app.use('/MYBDD', express.static(myBddPath)); // my json path
-app.use('/frontEnd', express.static(frontEndPath)); // my json path
-app.use('/init', express.static(initPath));
-app.use('/expImp', express.static(expImpPath)); // export/import path
+// app.use('/bdd', express.static(bddPath)); // JSON files
+// app.use('/backEnd', express.static(backEndPath)); // back end path
+// app.use('/MYBDD', express.static(myBddPath)); /
+// app.use('/frontEnd', express.static(frontEndPath)); 
+// app.use('/init', express.static(initPath));
+// app.use('/expImp', express.static(expImpPath)); 
 
 app.use('/public', express.static(pathPublic)); // public path
 app.use('/public/pokemon', express.static(pathPublicPoke)); // public pokemon path
@@ -89,11 +94,20 @@ app.use('/src/frontEnd/shared', express.static(pathFrontShared));
 app.use('/src/frontEnd/shared/styles', express.static(pathFrontStyles));
 app.use('/src/frontEnd/shared/lib', express.static(pathFrontLib));
 
+app.use('/data-user', express.static(pathMyData));
+app.use('/data-user/mtg', express.static(pathMyDataMtg));
+app.use('/data-user/mtg/json', express.static(pathMyMtgJson));
+app.use('/data-user/mtg/csv', express.static(pathMyMtgCsv));
+
+app.use('/data-user/pokemon', express.static(pathMyDataPoke));
+
+app.use(express.json());
+
+
 
 app.get('/', (req, res) => {
   res.sendFile(path.join(pathPublic, 'index.html'));
 });
-
 
 
 app.post('/editMyBDD', (request, response) => {
@@ -104,7 +118,7 @@ app.post('/editMyBDD', (request, response) => {
     return response.status(400).json({ error: "Invalid request data" });
   }
   //console.log(info);
-  let pathMyCards = pathMyBddJson + info.code + '.json';
+  let pathMyCards = pathMyMtgJson + info.code + '.json';
   //console.log(pathMyCards);
   if (!fs.existsSync(pathMyCards)) {
     fs.writeFileSync(pathMyCards, JSON.stringify({ cards: [] }, null, 2));
@@ -191,18 +205,18 @@ function openBrowser(url) {
 
   exec(command, (error) => {
     if (error) {
-      showPopup('Serveur MTG démarré !\\n\\nAllez sur: http://localhost:3000');
+      console.error('Failed to open browser:\n', error);
+      showPopup('\n\nServeur MTG démarré !\\n\\nAllez sur: http://localhost:3000');
     }
+
   });
 }
 
 app.listen(PORT, () => {
   console.log(`✅ Server running: http://localhost:${PORT}`);
-
-  // Wait 1 second then open browser
-  setTimeout(() => {
-    openBrowser(`http://localhost:${PORT}`);
-  }, 1000);
+  openBrowser(`http://localhost:${PORT}`);
+}).on('error', (err) => {
+  console.error('\nServer error:\n', err);
 });
 
 

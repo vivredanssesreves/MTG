@@ -21,9 +21,9 @@ const pathSrcBddPoke = `${pathSrc}data/pokemon/`;
 const pathBddOnePoke = `${pathSrcBddPoke}oneByOne/`;
 const pathBddBase = `${pathSrcBddPoke}base/`;
 
-const pathBddExt = `../../../bdd/pokemon/base/`;
+const pathBddExt = `../../../bddExt/`;
 const pathBddDex = `${pathBddExt}tcg-dex/`;
-const pathBddTcg = `${pathBddExt}pokemon-tcg-data/`;
+const pathBddTcg = `${pathBddExt}tcg-data/`;
 
 //const pathBdd = '../../bdd/pokemon/base/';
 const pathBddEnergies = `${pathBddBase}all_energies_cards.json`;

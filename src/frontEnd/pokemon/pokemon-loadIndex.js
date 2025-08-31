@@ -12,7 +12,7 @@ const pathPublic = '../../../public/';
 const pathSrcBddPoke = `${pathSrc}data/pokemon/`; 
 const pathBddBase = `${pathSrcBddPoke}base/`;
 const pathDataIndex = `${pathBddBase}index_eevees.json`; 
-const pathIndex = '../../../bdd/pokemon/base/index_eevees.json'; 
+//const pathIndex = '../../../bdd/pokemon/base/index_eevees.json'; 
 
 
 // Back button (wait for DOM to be ready)

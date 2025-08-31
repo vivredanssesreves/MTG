@@ -11,7 +11,7 @@
  *     - Toggle card status and update database
  */
 
-import { progress } from '../frontEnd/set-loadCards.js';
+import { progress } from '../../../src/frontEnd/mtg/set-loadCards.js';
 document.addEventListener('click', async (e) => {
 
   if (e.target.classList.contains('small-clickable')) {

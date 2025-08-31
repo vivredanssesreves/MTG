@@ -1,0 +1,48 @@
+data-id="[^"]*"
+href="/fr/cartes[^"]*"
+<a href="/fr/[^"]*">
+<a href="NoCard"></a>
+^$(\r?\n)
+
+ <!-- <div id="cards-progress"></div> -->
+
+  <!--  -->
+
+   // ${card.lang ? `<span class="icon-card-right">${card.lang}</span>` : ''}
+                        ${card.types.map(type => `<span class="small-clickable">${type}</span>`).join('')}
+
+                      https://assets.tcgdex.net/univ/bw/bwp/symbol
+
+
+                      <p class="small-clickable>${card.name}</p>
+
+                      https://pokecardex.b-cdn.net/assets/images/symboles/MC1.png
+
+https://images.pokemontcg.io/mcd16/12_hires.png
+https://images.pokemontcg.io/smp/SM169.png
+image poke
+if mcdo 
+mdcXX/id
+XX = pour 2016 c'ets 16 
+
+image logo
+https://images.pokemontcg.io/mcd16/logo.png
+mdcXX/logo.png
+
+symboles
+https://images.pokemontcg.io/mcd16/symbol.png
+mcdXX/symbol.png
+
+https://images.pokemontcg.io/smp/SM169.png
+set.id / local id
+
+ https://pokecardex.b-cdn.net/assets/images/sets/${set.id}/HD/${numCard}.jpg?class=hd
+
+ https://images.pokemontcg.io/tk-xy-su/4.png
+
+
+
+ images":{
+    "small":"https://images.pokemontcg.io/smp/SM05.png",
+    "large":"https://images.pokemontcg.io/smp/SM05_hires.png"
+    }

@@ -1,0 +1,262 @@
+[
+    // base 1 OU base 2
+    {
+        // card.supertype OU card.category
+        "category": "",
+        // card.id les deux
+        "id": "",
+        // card.artist OU card.illustrator
+        "illustrator": "",
+        // card.number OU card.localId
+        "localId": "",
+        // card.name  les deux
+        "name": "",
+        // card.rarity les deux
+        "rarity": "",
+        // va faloir chercher le set ici j'imagine....
+        "set": {
+            "serie": {
+                // card. je sais pas
+                "id": "",
+                // pareili je sais pas
+                "name": ""
+            },
+            // no clue OU card.set.id
+            "id": "",
+            // no clue OU card.set.name
+            "name": "",
+            "images": {
+                // no clue OU card.set.symbol+/high.png
+                "symbol": "",
+                // no clue OU 
+                "logo": ""
+            }
+        },
+        "variants": {
+            "firstEdition": false,
+            "holo": true,
+            "normal": true,
+            "reverse": true,
+            "wPromo": false
+        },
+        // card.types les deux
+        "types": [
+            "Incolore"
+        ],
+        // look for it
+        "released": "2025-08-16T20:39:55Z",
+        "images": {
+            // card.images.small OU card.image+/low.png
+            "low": "undefined/low.png",
+            // card.images.large OU card.image+/high.png
+            "high": "undefined/high.png"
+        }
+    },
+    {
+        //base 1
+        "id": "xy3-80",
+        "name": "Eevee",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Vaporeon",
+            "Jolteon",
+            "Flareon",
+            "Sylveon",
+            "Espeon",
+            "Umbreon",
+            "Leafeon",
+            "Glaceon"
+        ],
+        "abilities": [
+            {
+                "name": "Energy Evolution",
+                "text": "When you attach a basic Energy card from your hand to this Pokémon, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Gnaw",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "number": "80",
+        "artist": "sui",
+        "rarity": "Common",
+        "flavorText": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
+        "nationalPokedexNumbers": [
+            133
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/xy3/80.png",
+            "large": "https://images.pokemontcg.io/xy3/80_hires.png"
+        }
+    },
+    {
+        // base 2 dex
+        "category": "Pokémon",
+        "id": "bwp-BW97",
+        "illustrator": "Akira Komayama",
+        "image": "https://assets.tcgdex.net/fr/bw/bwp/BW97",
+        "localId": "BW97",
+        "name": "Évoli",
+        "rarity": "Commune",
+        "set": {
+            "cardCount": {
+                "official": 101,
+                "total": 101
+            },
+            "id": "bwp",
+            "name": "Promo BW",
+            "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol"
+        },
+        "variants": {
+            "firstEdition": false,
+            "holo": true,
+            "normal": true,
+            "reverse": true,
+            "wPromo": false
+        },
+        "variants_detailed": [
+            {
+                "type": "normal",
+                "size": "standard"
+            },
+            {
+                "type": "reverse",
+                "size": "standard"
+            },
+            {
+                "type": "holo",
+                "size": "standard"
+            }
+        ],
+        "dexId": [
+            133
+        ],
+        "hp": 60,
+        "types": [
+            "Incolore"
+        ],
+        "stage": "De base",
+        "attacks": [
+            {
+                "cost": [
+                    "Incolore"
+                ],
+                "name": "Rugissement",
+                "effect": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés par des attaques du Pokémon Défenseur sont réduits de 20 (avant application de la Faiblesse et de la Résistance)."
+            },
+            {
+                "cost": [
+                    "Incolore",
+                    "Incolore"
+                ],
+                "name": "Vive-Attaque",
+                "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Combat",
+                "value": "×2"
+            }
+        ],
+        "retreat": 1,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
+        "updated": "2021-05-26T14:51:02+02:00"
+    },
+    {
+        "id":"",
+        "name":"",
+        "images":{
+            "logo":"",
+            "symbol":"",
+            "releaseDate":""
+        },
+        "sets":[]
+    }
+]
+
+https://assets.tcgdex.net/en/sm/smp/SM169/low.png
+
+//<div 
+// class="card water / interactive" 
+// data-number="33" 
+// data-set="" 
+// data-subtypes="basic" 
+// data-supertype="pokémon" 
+// data-rarity="common" 
+// data-trainer-gallery="false" 
+// style="   >
+// <img 
+// src="https://images.pokemontcg.io/sm10/33_hires.png" 
+// alt="Front design of the Squirtle Pokemon Card, with the stats and info around the edge" 
+// loading="lazy" 
+// width="660" height="921"> 
+// <div class="card__shine"></div> 
+// <div class="card__glare"></div></div></button></div></div>
+common ans uncomomn
+reverse holo non rares
+holofoil rare
+galaxy cosmos holofoil
+holofoil amazing rare
+radiant holofoil
+trainer gallery holofoil
+pokemon v
+pokemon v full art
+pokemon v alternate art
+v max
+v max alternate rainbow
+vstar
+trainer holo full art trainer gallery
+rainbow rare (vmax vstar)
+secret rare
+trainer gallery
+shiny vault
+
+Classe	Effet / Utilité
+.pokemon-card	Structure de base de la carte (container).
+.holo	Effet holofoil (arc-en-ciel qui se déplace).
+.shine	Ajoute un effet de brillance marqué.
+.glare	Reflet lumineux qui bouge.
+.active	Force l’effet comme si la souris passait dessus.
+.animated	Animation continue (sans interaction).
+.rainbow	Dégradé arc-en-ciel plus prononcé.
+.stars	Ajoute un motif d’étoiles scintillantes.
+.sparkle
+
+
+
+

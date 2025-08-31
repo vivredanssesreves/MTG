@@ -17,7 +17,7 @@ const pokemonId = params.get('id');
 const pathSrc = '../../../src/';
 const pathSrcBddPoke = `${pathSrc}data/pokemon/`;
 const pathBddOnePoke = `${pathSrcBddPoke}oneByOne/`;
-const pathBddPokemon = '../../../bdd/pokemon/';
+//const pathBddPokemon = '../../../bdd/pokemon/';
 let currentCards = [];
 
 

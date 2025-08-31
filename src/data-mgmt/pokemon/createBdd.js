@@ -10,8 +10,6 @@ const pathSrcBddPoke = `${pathSrc}data/pokemon/`;
 const pathBddOnePoke = `${pathSrcBddPoke}oneByOne/`;
 const pathBddBase = `${pathSrcBddPoke}base/`;
 
-const bddBasePath = `${pathSrc}bdd/pokemon/`;
-
 const eeveeIds = JSON.parse(fs.readFileSync(`${pathBddBase}index_eevees.json`, 'utf-8'));
 
 export async function createBdd() {
@@ -22,7 +20,7 @@ export async function createBdd() {
         //createSets();
         await createForOne(poke.ids.en);
 
-        break;
+        // break;
     }
 }
 
