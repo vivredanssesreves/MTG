@@ -1,0 +1,3417 @@
+[
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp1-98",
+    "illustrator": "Ken Sugimori",
+    "localId": "98",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp1",
+      "name": "Diamant & Perle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp1/98/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp1/98/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp1-98",
+    "illustrator": "Ken Sugimori",
+    "localId": "98",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp1",
+      "name": "Diamond & Pearl",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp1/98/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp1/98/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dpp-DP15",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "DP15",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dpp",
+      "name": "DP Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dpp/DP15/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dpp/DP15/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp1-98",
+    "illustrator": "Ken Sugimori",
+    "localId": "98",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp1",
+      "name": "Diamond & Pearl",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp1/98.png",
+      "high": "https://images.pokemontcg.io/dp1/98_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dpp-DP15",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "DP15",
+    "name": "Shinx",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dpp",
+      "name": "DP Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dpp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dpp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dpp/DP15.png",
+      "high": "https://images.pokemontcg.io/dpp/DP15_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp2-98",
+    "illustrator": "Lee HyunJung",
+    "localId": "98",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp2",
+      "name": "Trésors Mystérieux",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2007-08-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp2/98/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp2/98/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp2-98",
+    "illustrator": "Lee HyunJung",
+    "localId": "98",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp2",
+      "name": "Mysterious Treasures",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-08-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp2/98/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp2/98/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp2-98",
+    "illustrator": "Lee HyunJung",
+    "localId": "98",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp2",
+      "name": "Mysterious Treasures",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-08-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp2/98.png",
+      "high": "https://images.pokemontcg.io/dp2/98_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp6-118",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "118",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp6",
+      "name": "Éveil des Légendes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp6/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2008-08-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp6/118/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp6/118/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp6-118",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "118",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp6",
+      "name": "Legends Awakened",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp6/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-08-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp6/118/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp6/118/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp6-118",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "118",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp6",
+      "name": "Legends Awakened",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp6/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-08-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp6/118.png",
+      "high": "https://images.pokemontcg.io/dp6/118_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pl3-126",
+    "illustrator": "Kouki Saitou",
+    "localId": "126",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platine"
+      },
+      "id": "pl3",
+      "name": "Vainqueurs Suprêmes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl3/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/pl/pl3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2009-08-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pl/pl3/126/low.png",
+      "high": "https://assets.tcgdex.net/fr/pl/pl3/126/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl3-126",
+    "illustrator": "Kouki Saitou",
+    "localId": "126",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl3",
+      "name": "Supreme Victors",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-08-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl3/126/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl3/126/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl3-126",
+    "illustrator": "Kouki Saitou",
+    "localId": "126",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl3",
+      "name": "Supreme Victors",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-08-19",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl3/126.png",
+      "high": "https://images.pokemontcg.io/pl3/126_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl4-74",
+    "illustrator": "sui",
+    "localId": "74",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl4",
+      "name": "Arceus",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-11-04",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl4/74/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl4/74/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl4-SH12",
+    "illustrator": "sui",
+    "localId": "SH12",
+    "name": "Shinx",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl4",
+      "name": "Arceus",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-11-04",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl4/SH12/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl4/SH12/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl4-74",
+    "illustrator": "sui",
+    "localId": "74",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl4",
+      "name": "Arceus",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-11-04",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl4/74.png",
+      "high": "https://images.pokemontcg.io/pl4/74_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl4-SH12",
+    "illustrator": "sui",
+    "localId": "SH12",
+    "name": "Shinx",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl4",
+      "name": "Arceus",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-11-04",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl4/SH12.png",
+      "high": "https://images.pokemontcg.io/pl4/SH12_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw4-42",
+    "illustrator": "Atsuko Nishida",
+    "localId": "42",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw4",
+      "name": "Destinées Futures",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw4/42/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw4/42/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw4-43",
+    "illustrator": "Naoki Saito",
+    "localId": "43",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw4",
+      "name": "Destinées Futures",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw4/43/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw4/43/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw4-42",
+    "illustrator": "Atsuko Nishida",
+    "localId": "42",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw4/42/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw4/42/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw4-43",
+    "illustrator": "Naoki Saito",
+    "localId": "43",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw4/43/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw4/43/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw4-42",
+    "illustrator": "Atsuko Nishida",
+    "localId": "42",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw4/42.png",
+      "high": "https://images.pokemontcg.io/bw4/42_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw4-43",
+    "illustrator": "Naoki Saito",
+    "localId": "43",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw4/43.png",
+      "high": "https://images.pokemontcg.io/bw4/43_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy2-32",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "32",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy2",
+      "name": "Étincelles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2014-05-07",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy2/32/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy2/32/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy2-32",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "32",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy2",
+      "name": "Flashfire",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2014-05-07",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy2/32/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy2/32/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy2-32",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "32",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy2",
+      "name": "Flashfire",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2014-05-07",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy2/32.png",
+      "high": "https://images.pokemontcg.io/xy2/32_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy9-44",
+    "illustrator": "Saya Tsuruta",
+    "localId": "44",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "Rupture Turbo",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy9/44/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy9/44/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy9-44",
+    "illustrator": "Saya Tsuruta",
+    "localId": "44",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy9/44/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy9/44/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy9-44",
+    "illustrator": "Saya Tsuruta",
+    "localId": "44",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy9/44.png",
+      "high": "https://images.pokemontcg.io/xy9/44_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm5-45",
+    "illustrator": "Shibuzoh.",
+    "localId": "45",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm5",
+      "name": "Ultra-Prisme",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm5/45/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm5/45/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm5-46",
+    "illustrator": "Ken Sugimori",
+    "localId": "46",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm5",
+      "name": "Ultra-Prisme",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm5/46/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm5/46/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm5-45",
+    "illustrator": "Shibuzoh.",
+    "localId": "45",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm5/45/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm5/45/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm5-46",
+    "illustrator": "Ken Sugimori",
+    "localId": "46",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm5/46/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm5/46/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm5-45",
+    "illustrator": "Shibuzoh.",
+    "localId": "45",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm5/45.png",
+      "high": "https://images.pokemontcg.io/sm5/45_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm5-46",
+    "illustrator": "Ken Sugimori",
+    "localId": "46",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm5/46.png",
+      "high": "https://images.pokemontcg.io/sm5/46_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh2-60",
+    "illustrator": "Uta",
+    "localId": "60",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh2",
+      "name": "Clash des Rebelles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2020-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh2/60/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh2/60/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh2-60",
+    "illustrator": "Uta",
+    "localId": "60",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh2/60/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh2/60/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh2-60",
+    "illustrator": "Uta",
+    "localId": "60",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh2/60.png",
+      "high": "https://images.pokemontcg.io/swsh2/60_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SC1a-009",
+    "illustrator": "Uta",
+    "localId": "009",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SC1a",
+      "name": "劍&盾 SET A",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-06-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SC1a/009/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SC1a/009/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S5R-030",
+    "illustrator": "sowsow",
+    "localId": "030",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S5R",
+      "name": "連撃大師",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-01-29",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S5R/030/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S5R/030/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCB-049",
+    "illustrator": "sowsow",
+    "localId": "049",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCB",
+      "name": "挑戰",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-01-29",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCB/049/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCB/049/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh45-31",
+    "illustrator": "Uta",
+    "localId": "31",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021/02/19",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh45/31.png",
+      "high": "https://images.pokemontcg.io/swsh45/31_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh4.5-31",
+    "illustrator": "Uta",
+    "localId": "31",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh4.5",
+      "name": "Déstinées Radieuses",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh4.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-02-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh4.5/31/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh4.5/31/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh4.5-31",
+    "illustrator": "Uta",
+    "localId": "31",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh4.5",
+      "name": "Shining Fates",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh4.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-02-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh4.5/31/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh4.5/31/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh5-46",
+    "illustrator": "sowsow",
+    "localId": "46",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh5",
+      "name": "Styles de combat",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-03-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh5/46/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh5/46/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh5-46",
+    "illustrator": "sowsow",
+    "localId": "46",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-03-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh5/46/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh5/46/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh5-46",
+    "illustrator": "sowsow",
+    "localId": "46",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-03-19",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh5/46.png",
+      "high": "https://images.pokemontcg.io/swsh5/46_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SH-020",
+    "illustrator": "Naoyo Kimura",
+    "localId": "020",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SH",
+      "name": "寶可夢卡牌家庭組合",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-06-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SH/020/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SH/020/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh8-91",
+    "illustrator": "Naoyo Kimura",
+    "localId": "91",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh8",
+      "name": "Poing de Fusion",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh8/91/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh8/91/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh8-91",
+    "illustrator": "Naoyo Kimura",
+    "localId": "91",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh8/91/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh8/91/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh8-91",
+    "illustrator": "Naoyo Kimura",
+    "localId": "91",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh8/91.png",
+      "high": "https://images.pokemontcg.io/swsh8/91_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "S9-037",
+    "illustrator": "Mizue",
+    "localId": "037",
+    "name": "コリンク",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "剣と盾"
+      },
+      "id": "S9",
+      "name": "スターバース",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-01-14",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/S/S9/037/low.png",
+      "high": "https://assets.tcgdex.net/ja/S/S9/037/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S9-037",
+    "illustrator": "Mizue",
+    "localId": "037",
+    "name": "小貓怪",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S9",
+      "name": "星星誕生",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-01-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S9/037/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S9/037/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-140",
+    "illustrator": "Mina Nakai",
+    "localId": "140",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/140/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/140/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh9-049",
+    "localId": "049",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh9",
+      "name": "Stars Étincelantes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh9/049/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh9/049/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh9-049",
+    "localId": "049",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh9/049/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh9/049/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh9-49",
+    "illustrator": "Mizue",
+    "localId": "49",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh9/49.png",
+      "high": "https://images.pokemontcg.io/swsh9/49_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "S12-026",
+    "illustrator": "0313",
+    "localId": "026",
+    "name": "コリンク",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "剣と盾"
+      },
+      "id": "S12",
+      "name": "パラダイムトリガー",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-10-21",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/S/S12/026/low.png",
+      "high": "https://assets.tcgdex.net/ja/S/S12/026/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SDP-002",
+    "illustrator": "Mizue",
+    "localId": "002",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SDP",
+      "name": "皮卡丘",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-11-04",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SDP/002/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SDP/002/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S12-026",
+    "illustrator": "0313",
+    "localId": "026",
+    "name": "小貓怪",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S12",
+      "name": "思維激盪",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-11-04",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S12/026/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S12/026/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh12pt5-39",
+    "illustrator": "Mina Nakai",
+    "localId": "39",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/01/20",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh12pt5/39.png",
+      "high": "https://images.pokemontcg.io/swsh12pt5/39_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh12pt5-40",
+    "illustrator": "0313",
+    "localId": "40",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/01/20",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh12pt5/40.png",
+      "high": "https://images.pokemontcg.io/swsh12pt5/40_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh12.5-039",
+    "localId": "039",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh12.5",
+      "name": "Zénith Suprême",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh12.5/039/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh12.5/039/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh12.5-040",
+    "localId": "040",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh12.5",
+      "name": "Zénith Suprême",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh12.5/040/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh12.5/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh12.5-039",
+    "localId": "039",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12.5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh12.5/039/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh12.5/039/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh12.5-040",
+    "localId": "040",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12.5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh12.5/040/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh12.5/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV2D-019",
+    "illustrator": "Oswaldo KATO",
+    "localId": "019",
+    "name": "コリンク",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV2D",
+      "name": "クレイバースト",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-04-14",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV2D/019/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV2D/019/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SVC-005",
+    "illustrator": "kurumitsu",
+    "localId": "005",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SVC",
+      "name": "皮卡丘特別組合",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-04-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SVC/005/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SVC/005/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV2D-019",
+    "illustrator": "Oswaldo KATO",
+    "localId": "019",
+    "name": "小貓怪",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV2D",
+      "name": "碟旋暴擊",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-04-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV2D/019/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV2D/019/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv2-68",
+    "illustrator": "kurumitsu",
+    "localId": "68",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/06/09",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv2/68.png",
+      "high": "https://images.pokemontcg.io/sv2/68_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv2-69",
+    "illustrator": "Oswaldo KATO",
+    "localId": "69",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/06/09",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv2/69.png",
+      "high": "https://images.pokemontcg.io/sv2/69_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv02-068",
+    "illustrator": "kurumitsu",
+    "localId": "068",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv02",
+      "name": "Évolutions à Paldea",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv02/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv02/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-06-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv02/068/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv02/068/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv02-069",
+    "illustrator": "Oswaldo KATO",
+    "localId": "069",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv02",
+      "name": "Évolutions à Paldea",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv02/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv02/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-06-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv02/069/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv02/069/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv02-068",
+    "illustrator": "kurumitsu",
+    "localId": "068",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv02",
+      "name": "Paldea Evolved",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv02/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv02/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-06-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv02/068/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv02/068/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv02-069",
+    "illustrator": "Oswaldo KATO",
+    "localId": "069",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv02",
+      "name": "Paldea Evolved",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv02/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv02/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-06-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv02/069/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv02/069/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV4a-059",
+    "illustrator": "Oswaldo KATO",
+    "localId": "059",
+    "name": "コリンク",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV4a",
+      "name": "レイジングサーフ",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-12-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV4a/059/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV4a/059/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV4a-240",
+    "illustrator": "Saya Tsuruta",
+    "localId": "240",
+    "name": "コリンク",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV4a",
+      "name": "レイジングサーフ",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-12-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV4a/240/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV4a/240/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV4a-059",
+    "illustrator": "Oswaldo KATO",
+    "localId": "059",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV4a",
+      "name": "閃色寶藏ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-12-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV4a/059/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV4a/059/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV4a-240",
+    "illustrator": "Saya Tsuruta",
+    "localId": "240",
+    "name": "小貓怪",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV4a",
+      "name": "閃色寶藏ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-12-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV4a/240/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV4a/240/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv4pt5-135",
+    "illustrator": "Saya Tsuruta",
+    "localId": "135",
+    "name": "Shinx",
+    "rarity": "Shiny Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv4pt5",
+      "name": "Paldean Fates",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024/01/26",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv4pt5/135.png",
+      "high": "https://images.pokemontcg.io/sv4pt5/135_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv04.5-135",
+    "illustrator": "Saya Tsuruta",
+    "localId": "135",
+    "name": "Lixy",
+    "rarity": "Shiny rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv04.5",
+      "name": "Destinées de Paldea",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv04.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv04.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2024-01-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv04.5/135/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv04.5/135/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv04.5-135",
+    "illustrator": "Saya Tsuruta",
+    "localId": "135",
+    "name": "Shinx",
+    "rarity": "Shiny rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv04.5",
+      "name": "Paldean Fates",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv04.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv04.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-01-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv04.5/135/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv04.5/135/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV6-039",
+    "illustrator": "Yuu Nishida",
+    "localId": "039",
+    "name": "コリンク",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV6",
+      "name": "変幻の仮面",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV6/039/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV6/039/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV6-039",
+    "illustrator": "Yuu Nishida",
+    "localId": "039",
+    "name": "小貓怪",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV6",
+      "name": "變幻假面",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-05-10",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV6/039/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV6/039/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv6-66",
+    "illustrator": "Yuu Nishida",
+    "localId": "66",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024/05/24",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv6/66.png",
+      "high": "https://images.pokemontcg.io/sv6/66_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv06-066",
+    "illustrator": "Yuu Nishida",
+    "localId": "066",
+    "name": "Lixy",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv06",
+      "name": "Mascarade Crépusculaire",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv06/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2024-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv06/066/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv06/066/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv06-066",
+    "illustrator": "Yuu Nishida",
+    "localId": "066",
+    "name": "Shinx",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv06",
+      "name": "Twilight Masquerade",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv06/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv06/066/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv06/066/high.png"
+    }
+  }
+]

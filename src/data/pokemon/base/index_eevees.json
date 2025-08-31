@@ -1,0 +1,146 @@
+[
+    {
+        "ids": {
+            "fr": "Évoli",
+            "en": "Eevee",
+            "ja": "イーブイ",
+            "zh-cn": "伊布",
+            "zh-tw": "伊布",
+            "ko": "이브이"
+        },
+        "type": "Normal",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+    },
+    {
+        "ids": {
+            "fr": "Aquali",
+            "en": "Vaporeon",
+            "ja": "シャワーズ",
+            "zh-cn": "水伊布",
+            "zh-tw": "水伊布",
+            "ko": "샤미드"
+        },
+        "type": "Water",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+    },
+    {
+        "ids": {
+            "fr": "Voltali",
+            "en": "Jolteon",
+            "ja": "サンダース",
+            "zh-cn": "雷伊布",
+            "zh-tw": "雷伊布",
+            "ko": "쥬피썬더"
+        },
+        "type": "Electric",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+    },
+    {
+        "ids": {
+            "fr": "Pyroli",
+            "en": "Flareon",
+            "ja": "ブースター",
+            "zh-cn": "火伊布",
+            "zh-tw": "火伊布",
+            "ko": "부스터"
+        },
+        "type": "Fire",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+    },
+    {
+        "ids": {
+            "fr": "Mentali",
+            "en": "Espeon",
+            "ja": "エーフィ",
+            "zh-cn": "太陽伊布",
+            "zh-tw": "太陽伊布",
+            "ko": "에브이"
+        },
+        "type": "Psychic",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png"
+    },
+    {
+        "ids": {
+            "fr": "Noctali",
+            "en": "Umbreon",
+            "ja": "ブラッキー",
+            "zh-cn": "月亮伊布",
+            "zh-tw": "月亮伊布",
+            "ko": "블래키"
+        },
+        "type": "Dark",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+    },
+    {
+        "ids": {
+            "fr": "Phyllali",
+            "en": "Leafeon",
+            "ja": "リーフィア",
+            "zh-cn": "葉伊布",
+            "zh-tw": "葉伊布",
+            "ko": "리피아"
+        },
+        "type": "Grass",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png"
+    },
+    {
+        "ids": {
+            "fr": "Givrali",
+            "en": "Glaceon",
+            "ja": "グレイシア",
+            "zh-cn": "冰伊布",
+            "zh-tw": "冰伊布",
+            "ko": "글레이시아"
+        },
+        "type": "Ice",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
+    },
+    {
+        "ids": {
+            "fr": "Nymphali",
+            "en": "Sylveon",
+            "ja": "ニンフィア",
+            "zh-cn": "仙子伊布",
+            "zh-tw": "仙子伊布",
+            "ko": "님피아"
+        },
+        "type": "Fairy",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
+    },
+    {
+        "ids": {
+            "fr": "Lixy",
+            "en": "Shinx",
+            "ja": "コリンク",
+            "zh-cn": "小猫怪",
+            "zh-tw": "小貓怪",
+            "ko": "꼬링크"
+        },
+        "type": "Electric",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png"
+    },
+    {
+        "ids": {
+            "fr": "Luxio",
+            "en": "Luxio",
+            "ja": "ルクシオ",
+            "zh-cn": "力斯欧",
+            "zh-tw": "力斯歐",
+            "ko": "럭시오"
+        },
+        "type": "Electric",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png"
+    },
+    {
+        "ids": {
+            "fr": "Luxray",
+            "en": "Luxray",
+            "ja": "レントラー",
+            "zh-cn": "伦琴猫",
+            "zh-tw": "倫琴貓",
+            "ko": "렌트라"
+        },
+        "type": "Electric",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+    }
+]

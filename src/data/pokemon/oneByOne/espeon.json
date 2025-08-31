@@ -1,0 +1,4983 @@
+[
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "neo2-1",
+    "illustrator": "Atsuko Nishida",
+    "localId": "1",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2001-06-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/neo/neo2/1/low.png",
+      "high": "https://assets.tcgdex.net/fr/neo/neo2/1/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "neo2-20",
+    "illustrator": "Naoyo Kimura",
+    "localId": "20",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2001-06-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/neo/neo2/20/low.png",
+      "high": "https://assets.tcgdex.net/fr/neo/neo2/20/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "neo2-1",
+    "illustrator": "Atsuko Nishida",
+    "localId": "1",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2001-06-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/neo/neo2/1/low.png",
+      "high": "https://assets.tcgdex.net/en/neo/neo2/1/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "neo2-20",
+    "illustrator": "Naoyo Kimura",
+    "localId": "20",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2001-06-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/neo/neo2/20/low.png",
+      "high": "https://assets.tcgdex.net/en/neo/neo2/20/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "neo2-1",
+    "illustrator": "Atsuko Nishida",
+    "localId": "1",
+    "name": "Espeon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2001-06-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/neo2/1.png",
+      "high": "https://images.pokemontcg.io/neo2/1_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "neo2-20",
+    "illustrator": "Naoyo Kimura",
+    "localId": "20",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo2",
+      "name": "Neo Discovery",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2001-06-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/neo2/20.png",
+      "high": "https://images.pokemontcg.io/neo2/20_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "neo4-4",
+    "illustrator": "Atsuko Nishida",
+    "localId": "4",
+    "name": "Mentali obscur",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/neo/neo4/4/low.png",
+      "high": "https://assets.tcgdex.net/fr/neo/neo4/4/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "neo4-4",
+    "illustrator": "Atsuko Nishida",
+    "localId": "4",
+    "name": "Dark Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/neo/neo4/4/low.png",
+      "high": "https://assets.tcgdex.net/en/neo/neo4/4/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "neo4-4",
+    "illustrator": "Atsuko Nishida",
+    "localId": "4",
+    "name": "Dark Espeon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://images.pokemontcg.io/neo4/4.png",
+      "high": "https://images.pokemontcg.io/neo4/4_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ecard2-11",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "11",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "e-cards"
+      },
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2003-01-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ecard/ecard2/11/low.png",
+      "high": "https://assets.tcgdex.net/fr/ecard/ecard2/11/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ecard2-H09",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "H09",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "e-cards"
+      },
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2003-01-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ecard/ecard2/H09/low.png",
+      "high": "https://assets.tcgdex.net/fr/ecard/ecard2/H09/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ecard2-11",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "11",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2003-01-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ecard/ecard2/11/low.png",
+      "high": "https://assets.tcgdex.net/en/ecard/ecard2/11/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ecard2-H09",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "H09",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2003-01-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ecard/ecard2/H09/low.png",
+      "high": "https://assets.tcgdex.net/en/ecard/ecard2/H09/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ecard2-11",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "11",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2003-01-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/ecard2/11.png",
+      "high": "https://images.pokemontcg.io/ecard2/11_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ecard2-H9",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "H9",
+    "name": "Espeon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard2",
+      "name": "Aquapolis",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2003-01-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/ecard2/H9.png",
+      "high": "https://images.pokemontcg.io/ecard2/H9_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex2-16",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "16",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "EX Tempête de sable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex2/16/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex2/16/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex2-16",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "16",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "Sandstorm",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex2/16/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex2/16/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex2-16",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "16",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "Sandstorm",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex2/16.png",
+      "high": "https://images.pokemontcg.io/ex2/16_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex10-102",
+    "illustrator": "Ryo Ueda",
+    "localId": "102",
+    "name": "Mentali ex",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "EX Forces Cachées",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex10/102/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex10/102/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex10-102",
+    "illustrator": "Ryo Ueda",
+    "localId": "102",
+    "name": "Espeon ex",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex10/102/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex10/102/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex10-102",
+    "illustrator": "Ryo Ueda",
+    "localId": "102",
+    "name": "Espeon ex",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex10/102.png",
+      "high": "https://images.pokemontcg.io/ex10/102_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex11-4",
+    "illustrator": "Ryo Ueda",
+    "localId": "4",
+    "name": "Mentali δ",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "EX Espèces Delta",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy",
+      "Métal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex11/4/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex11/4/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex11-4",
+    "illustrator": "Ryo Ueda",
+    "localId": "4",
+    "name": "Espeon δ",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic",
+      "Metal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex11/4/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex11/4/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex11-4",
+    "illustrator": "Ryo Ueda",
+    "localId": "4",
+    "name": "Espeon δ",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic",
+      "Metal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex11/4.png",
+      "high": "https://images.pokemontcg.io/ex11/4_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pop5-16",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "16",
+    "name": "Espeon ★",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop5",
+      "name": "POP Series 5",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2007-03-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pop/pop5/16/low.png",
+      "high": "https://assets.tcgdex.net/en/pop/pop5/16/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pop5-16",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "16",
+    "name": "Espeon ★",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop5",
+      "name": "POP Series 5",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2007-03-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/pop5/16.png",
+      "high": "https://images.pokemontcg.io/pop5/16_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp5-18",
+    "illustrator": "Naoyo Kimura",
+    "localId": "18",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp5",
+      "name": "Aube Majestueuse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp5/18/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp5/18/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp5-18",
+    "illustrator": "Naoyo Kimura",
+    "localId": "18",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp5/18/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp5/18/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp5-18",
+    "illustrator": "Naoyo Kimura",
+    "localId": "18",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp5/18.png",
+      "high": "https://images.pokemontcg.io/dp5/18_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pl2-18",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "18",
+    "name": "Mentali  Niv. 55",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platine"
+      },
+      "id": "pl2",
+      "name": "Rivaux Émergeants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pl/pl2/18/low.png",
+      "high": "https://assets.tcgdex.net/fr/pl/pl2/18/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl2-18",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "18",
+    "name": "Espeon 4",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl2/18/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl2/18/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl2-18",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "18",
+    "name": "Espeon E4",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl2/18.png",
+      "high": "https://images.pokemontcg.io/pl2/18_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "hgss3-2",
+    "illustrator": "match",
+    "localId": "2",
+    "name": "Mentali",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Indomptable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/hgss/hgss3/2/low.png",
+      "high": "https://assets.tcgdex.net/fr/hgss/hgss3/2/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "hgss3-81",
+    "illustrator": "Hideaki Hakozaki",
+    "localId": "81",
+    "name": "Mentali",
+    "rarity": "Rare Prime",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Indomptable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/hgss/hgss3/81/low.png",
+      "high": "https://assets.tcgdex.net/fr/hgss/hgss3/81/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "hgss3-2",
+    "illustrator": "match",
+    "localId": "2",
+    "name": "Espeon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/hgss/hgss3/2/low.png",
+      "high": "https://assets.tcgdex.net/en/hgss/hgss3/2/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "hgss3-81",
+    "illustrator": "Hideaki Hakozaki",
+    "localId": "81",
+    "name": "Espeon",
+    "rarity": "Rare PRIME",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/hgss/hgss3/81/low.png",
+      "high": "https://assets.tcgdex.net/en/hgss/hgss3/81/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "hgss3-2",
+    "illustrator": "match",
+    "localId": "2",
+    "name": "Espeon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://images.pokemontcg.io/hgss3/2.png",
+      "high": "https://images.pokemontcg.io/hgss3/2_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "hgss3-81",
+    "illustrator": "Hideaki Hakozaki",
+    "localId": "81",
+    "name": "Espeon",
+    "rarity": "Rare Prime",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://images.pokemontcg.io/hgss3/81.png",
+      "high": "https://images.pokemontcg.io/hgss3/81_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "col1-4",
+    "illustrator": "match",
+    "localId": "4",
+    "name": "Espeon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "col",
+        "name": "Call of Legends"
+      },
+      "id": "col1",
+      "name": "Call of Legends",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2011-02-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/col/col1/4/low.png",
+      "high": "https://assets.tcgdex.net/en/col/col1/4/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "col1-4",
+    "illustrator": "match",
+    "localId": "4",
+    "name": "Espeon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "col",
+        "name": "Call of Legends"
+      },
+      "id": "col1",
+      "name": "Call of Legends",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2011-02-09",
+    "images": {
+      "low": "https://images.pokemontcg.io/col1/4.png",
+      "high": "https://images.pokemontcg.io/col1/4_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bwp-BW92",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW92",
+    "name": "Mentali",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bwp",
+      "name": "Promo BW",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bwp/BW92/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bwp/BW92/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bwp-BW92",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW92",
+    "name": "Espeon",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bwp/BW92/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bwp/BW92/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bwp-BW92",
+    "illustrator": "The Pokémon Company Art Team",
+    "localId": "BW92",
+    "name": "Espeon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://images.pokemontcg.io/bwp/BW92.png",
+      "high": "https://images.pokemontcg.io/bwp/BW92_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw5-48",
+    "illustrator": "Mizue",
+    "localId": "48",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw5",
+      "name": "Explorateurs Obscurs",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw5/48/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw5/48/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw5-48",
+    "illustrator": "Mizue",
+    "localId": "48",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw5/48/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw5/48/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw5-48",
+    "illustrator": "Mizue",
+    "localId": "48",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw5/48.png",
+      "high": "https://images.pokemontcg.io/bw5/48_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw9-48",
+    "illustrator": "5ban Graphics",
+    "localId": "48",
+    "name": "Mentali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw9",
+      "name": "Glaciation Plasma",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw9/48/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw9/48/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw9-48",
+    "illustrator": "5ban Graphics",
+    "localId": "48",
+    "name": "Espeon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw9/48/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw9/48/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw9-48",
+    "illustrator": "5ban Graphics",
+    "localId": "48",
+    "name": "Espeon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw9/48.png",
+      "high": "https://images.pokemontcg.io/bw9/48_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy9-52",
+    "illustrator": "Ayaka Yoshida",
+    "localId": "52",
+    "name": "Mentali EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "Rupture Turbo",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy9/52/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy9/52/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy9-117",
+    "illustrator": "Ryo Ueda",
+    "localId": "117",
+    "name": "Mentali EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "Rupture Turbo",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy9/117/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy9/117/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy9-52",
+    "illustrator": "Ayaka Yoshida",
+    "localId": "52",
+    "name": "Espeon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy9/52/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy9/52/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy9-117",
+    "illustrator": "Ryo Ueda",
+    "localId": "117",
+    "name": "Espeon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy9/117/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy9/117/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy9-52",
+    "illustrator": "Ayaka Yoshida",
+    "localId": "52",
+    "name": "Espeon-EX",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy9/52.png",
+      "high": "https://images.pokemontcg.io/xy9/52_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy9-117",
+    "illustrator": "Ryo Ueda",
+    "localId": "117",
+    "name": "Espeon-EX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy9/117.png",
+      "high": "https://images.pokemontcg.io/xy9/117_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm1-61",
+    "illustrator": "5ban Graphics",
+    "localId": "61",
+    "name": "Mentali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm1",
+      "name": "Soleil et Lune",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm1/61/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm1/61/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm1-140",
+    "illustrator": "5ban Graphics",
+    "localId": "140",
+    "name": "Mentali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm1",
+      "name": "Soleil et Lune",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm1/140/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm1/140/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm1-152",
+    "illustrator": "5ban Graphics",
+    "localId": "152",
+    "name": "Mentali GX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm1",
+      "name": "Soleil et Lune",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm1/152/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm1/152/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "smp-SM240",
+    "localId": "SM240",
+    "name": "Mentali et Deoxys GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "smp",
+      "name": "Promo SM",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/smp/SM240/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/smp/SM240/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "smp-SM35",
+    "illustrator": "5ban Graphics",
+    "localId": "SM35",
+    "name": "Mentali GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "smp",
+      "name": "Promo SM",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/smp/SM35/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/smp/SM35/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm1-61",
+    "illustrator": "5ban Graphics",
+    "localId": "61",
+    "name": "Espeon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm1/61/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm1/61/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm1-140",
+    "illustrator": "5ban Graphics",
+    "localId": "140",
+    "name": "Espeon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm1/140/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm1/140/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm1-152",
+    "illustrator": "5ban Graphics",
+    "localId": "152",
+    "name": "Espeon GX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm1/152/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm1/152/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "smp-SM240",
+    "localId": "SM240",
+    "name": "Espeon & Deoxys GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/smp/SM240/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/smp/SM240/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "smp-SM35",
+    "illustrator": "5ban Graphics",
+    "localId": "SM35",
+    "name": "Espeon GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/smp/SM35/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/smp/SM35/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm1-61",
+    "illustrator": "5ban Graphics",
+    "localId": "61",
+    "name": "Espeon-GX",
+    "rarity": "Rare Holo GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm1/61.png",
+      "high": "https://images.pokemontcg.io/sm1/61_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm1-140",
+    "illustrator": "5ban Graphics",
+    "localId": "140",
+    "name": "Espeon-GX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm1/140.png",
+      "high": "https://images.pokemontcg.io/sm1/140_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm1-152",
+    "illustrator": "5ban Graphics",
+    "localId": "152",
+    "name": "Espeon-GX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm1",
+      "name": "Sun & Moon",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm1/152.png",
+      "high": "https://images.pokemontcg.io/sm1/152_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "smp-SM35",
+    "illustrator": "5ban Graphics",
+    "localId": "SM35",
+    "name": "Espeon-GX",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/smp/SM35.png",
+      "high": "https://images.pokemontcg.io/smp/SM35_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "smp-SM240",
+    "illustrator": "Hasuno",
+    "localId": "SM240",
+    "name": "Espeon & Deoxys-GX",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/smp/SM240.png",
+      "high": "https://images.pokemontcg.io/smp/SM240_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm8-89",
+    "illustrator": "Ryota Murayama",
+    "localId": "89",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm8",
+      "name": "Tonnerre Perdu",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2018-11-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm8/89/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm8/89/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm8-89",
+    "illustrator": "Ryota Murayama",
+    "localId": "89",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm8",
+      "name": "Lost Thunder",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2018-11-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm8/89/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm8/89/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm8-89",
+    "illustrator": "Ryota Murayama",
+    "localId": "89",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm8",
+      "name": "Lost Thunder",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2018-11-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm8/89.png",
+      "high": "https://images.pokemontcg.io/sm8/89_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm11-72",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "72",
+    "name": "Mentali et Deoxys GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm11",
+      "name": "Harmonie des Esprits",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm11/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2019-08-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm11/72/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm11/72/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm11-72",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "72",
+    "name": "Espeon & Deoxys GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm11",
+      "name": "Unified Minds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-08-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm11/72/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm11/72/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm11-72",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "72",
+    "name": "Espeon & Deoxys-GX",
+    "rarity": "Rare Holo GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm11",
+      "name": "Unified Minds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-08-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm11/72.png",
+      "high": "https://images.pokemontcg.io/sm11/72_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sma-SV60",
+    "illustrator": "5ban Graphics",
+    "localId": "SV60",
+    "name": "Mentali-GX",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sma",
+      "name": "Carte Alternative A Jaune",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sma/SV60/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sma/SV60/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sma-SV60",
+    "illustrator": "5ban Graphics",
+    "localId": "SV60",
+    "name": "Espeon-GX",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sma",
+      "name": "Yellow A Alternate",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sma/SV60/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sma/SV60/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sma-SV60",
+    "illustrator": "5ban Graphics",
+    "localId": "SV60",
+    "name": "Espeon-GX",
+    "rarity": "Rare Shiny GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sma",
+      "name": "Yellow A Alternate",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://images.pokemontcg.io/sma/SV60.png",
+      "high": "https://images.pokemontcg.io/sma/SV60_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH174",
+    "localId": "SWSH174",
+    "name": "Mentali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH174/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH174/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH201",
+    "localId": "SWSH201",
+    "name": "Mentali V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH201/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH201/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH174",
+    "localId": "SWSH174",
+    "name": "Espeon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH174/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH174/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH201",
+    "localId": "SWSH201",
+    "name": "Espeon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH201/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH201/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH174",
+    "illustrator": "Tika Matsuno",
+    "localId": "SWSH174",
+    "name": "Espeon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH174.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH174_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH201",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH201",
+    "name": "Espeon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH201.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH201_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S6a-035",
+    "illustrator": "5ban Graphics",
+    "localId": "035",
+    "name": "太陽伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S6a",
+      "name": "伊布英雄",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S6a/035/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S6a/035/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-069",
+    "illustrator": "5ban Graphics",
+    "localId": "069",
+    "name": "太陽伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/069/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/069/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-070",
+    "illustrator": "5ban Graphics",
+    "localId": "070",
+    "name": "太陽伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/070/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/070/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-64",
+    "illustrator": "5ban Graphics",
+    "localId": "64",
+    "name": "Mentali V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/64/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/64/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-65",
+    "illustrator": "5ban Graphics",
+    "localId": "65",
+    "name": "Mentali VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/65/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/65/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-179",
+    "illustrator": "5ban Graphics",
+    "localId": "179",
+    "name": "Mentali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/179/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/179/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-180",
+    "illustrator": "sowsow",
+    "localId": "180",
+    "name": "Mentali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/180/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/180/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-64",
+    "illustrator": "5ban Graphics",
+    "localId": "64",
+    "name": "Espeon V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/64/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/64/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-65",
+    "illustrator": "5ban Graphics",
+    "localId": "65",
+    "name": "Espeon VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/65/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/65/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-179",
+    "illustrator": "5ban Graphics",
+    "localId": "179",
+    "name": "Espeon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/179/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/179/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-180",
+    "illustrator": "sowsow",
+    "localId": "180",
+    "name": "Espeon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/180/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/180/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-64",
+    "illustrator": "5ban Graphics",
+    "localId": "64",
+    "name": "Espeon V",
+    "rarity": "Rare Holo V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/64.png",
+      "high": "https://images.pokemontcg.io/swsh7/64_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-65",
+    "illustrator": "5ban Graphics",
+    "localId": "65",
+    "name": "Espeon VMAX",
+    "rarity": "Rare Holo VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/65.png",
+      "high": "https://images.pokemontcg.io/swsh7/65_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-179",
+    "illustrator": "5ban Graphics",
+    "localId": "179",
+    "name": "Espeon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/179.png",
+      "high": "https://images.pokemontcg.io/swsh7/179_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-180",
+    "illustrator": "sowsow",
+    "localId": "180",
+    "name": "Espeon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/180.png",
+      "high": "https://images.pokemontcg.io/swsh7/180_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh8-270",
+    "illustrator": "Kouki Saitou",
+    "localId": "270",
+    "name": "Mentali VMAX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh8",
+      "name": "Poing de Fusion",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh8/270/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh8/270/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh8-270",
+    "illustrator": "Kouki Saitou",
+    "localId": "270",
+    "name": "Espeon VMAX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh8/270/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh8/270/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh8-270",
+    "illustrator": "Kouki Saitou",
+    "localId": "270",
+    "name": "Espeon VMAX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh8/270.png",
+      "high": "https://images.pokemontcg.io/swsh8/270_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-172",
+    "illustrator": "5ban Graphics",
+    "localId": "172",
+    "name": "太陽伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/172/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/172/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-173",
+    "illustrator": "5ban Graphics",
+    "localId": "173",
+    "name": "太陽伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/173/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/173/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV3-046",
+    "illustrator": "Cona Nitanda",
+    "localId": "046",
+    "name": "エーフィ",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV3",
+      "name": "黒炎の支配者",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2023-07-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV3/046/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV3/046/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv3-86",
+    "illustrator": "Cona Nitanda",
+    "localId": "86",
+    "name": "Espeon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv3",
+      "name": "Obsidian Flames",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2023/08/11",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv3/86.png",
+      "high": "https://images.pokemontcg.io/sv3/86_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv03-086",
+    "illustrator": "Cona Nitanda",
+    "localId": "086",
+    "name": "Mentali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv03",
+      "name": "Flammes Obsidiennes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv03/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2023-08-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv03/086/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv03/086/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv03-086",
+    "illustrator": "Cona Nitanda",
+    "localId": "086",
+    "name": "Espeon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv03",
+      "name": "Obsidian Flames",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv03/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv03/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2023-08-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv03/086/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv03/086/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV3-046",
+    "illustrator": "Cona Nitanda",
+    "localId": "046",
+    "name": "太陽伊布",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV3",
+      "name": "黯焰支配者",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2023-08-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV3/046/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV3/046/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-062",
+    "illustrator": "Kariya",
+    "localId": "062",
+    "name": "エーフィ",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/062/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/062/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-063",
+    "illustrator": "5ban Graphics",
+    "localId": "063",
+    "name": "エーフィex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/063/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/063/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-211",
+    "illustrator": "sui",
+    "localId": "211",
+    "name": "エーフィex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/211/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/211/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-062",
+    "illustrator": "Kariya",
+    "localId": "062",
+    "name": "太陽伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/062/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/062/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-063",
+    "illustrator": "5ban Graphics",
+    "localId": "063",
+    "name": "太陽伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/063/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/063/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-211",
+    "illustrator": "sui",
+    "localId": "211",
+    "name": "太陽伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/211/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/211/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-062",
+    "illustrator": "Kariya",
+    "localId": "062",
+    "name": "太陽伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/062/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/062/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-063",
+    "illustrator": "5ban Graphics",
+    "localId": "063",
+    "name": "太陽伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/063/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/063/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-211",
+    "illustrator": "sui",
+    "localId": "211",
+    "name": "太陽伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/211/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/211/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-33",
+    "localId": "33",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/33.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/33_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-34",
+    "localId": "34",
+    "name": "Espeon ex",
+    "rarity": "Double Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/34.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/34_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-155",
+    "localId": "155",
+    "name": "Espeon ex",
+    "rarity": "Special Illustration Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/155.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/155_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-033",
+    "illustrator": "Kariya",
+    "localId": "033",
+    "name": "Mentali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/033/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/033/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-034",
+    "illustrator": "5ban Graphics",
+    "localId": "034",
+    "name": "Mentali-ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/034/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/034/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-155",
+    "illustrator": "sui",
+    "localId": "155",
+    "name": "Mentali-ex",
+    "rarity": "Illustration spéciale rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/155/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/155/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-033",
+    "illustrator": "Kariya",
+    "localId": "033",
+    "name": "Espeon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/033/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/033/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-034",
+    "illustrator": "5ban Graphics",
+    "localId": "034",
+    "name": "Espeon ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/034/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/034/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-155",
+    "illustrator": "sui",
+    "localId": "155",
+    "name": "Espeon ex",
+    "rarity": "Special illustration rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/155/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/155/high.png"
+    }
+  }
+]

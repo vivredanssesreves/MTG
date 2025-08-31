@@ -1,0 +1,4579 @@
+[
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp5-5",
+    "illustrator": "Atsuko Nishida",
+    "localId": "5",
+    "name": "Givrali",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp5",
+      "name": "Aube Majestueuse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp5/5/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp5/5/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp5-20",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "20",
+    "name": "Givrali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp5",
+      "name": "Aube Majestueuse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp5/20/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp5/20/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp5-98",
+    "illustrator": "Ryo Ueda",
+    "localId": "98",
+    "name": "Givrali",
+    "rarity": "Rare Holo LV.X",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp5",
+      "name": "Aube Majestueuse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp5/98/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp5/98/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp5-5",
+    "illustrator": "Atsuko Nishida",
+    "localId": "5",
+    "name": "Glaceon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp5/5/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp5/5/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp5-20",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "20",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp5/20/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp5/20/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp5-98",
+    "illustrator": "Ryo Ueda",
+    "localId": "98",
+    "name": "Glaceon",
+    "rarity": "Rare Holo LV.X",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp5/98/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp5/98/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp5-5",
+    "illustrator": "Atsuko Nishida",
+    "localId": "5",
+    "name": "Glaceon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp5/5.png",
+      "high": "https://images.pokemontcg.io/dp5/5_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp5-20",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "20",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp5/20.png",
+      "high": "https://images.pokemontcg.io/dp5/20_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp5-98",
+    "illustrator": "Ryo Ueda",
+    "localId": "98",
+    "name": "Glaceon LV.X",
+    "rarity": "Rare Holo LV.X",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp5/98.png",
+      "high": "https://images.pokemontcg.io/dp5/98_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pl2-41",
+    "illustrator": "Naoyo Kimura",
+    "localId": "41",
+    "name": "Givrali Niv. 42",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platine"
+      },
+      "id": "pl2",
+      "name": "Rivaux Émergeants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pl/pl2/41/low.png",
+      "high": "https://assets.tcgdex.net/fr/pl/pl2/41/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl2-41",
+    "illustrator": "Naoyo Kimura",
+    "localId": "41",
+    "name": "Glaceon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl2/41/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl2/41/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl2-41",
+    "illustrator": "Naoyo Kimura",
+    "localId": "41",
+    "name": "Glaceon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl2/41.png",
+      "high": "https://images.pokemontcg.io/pl2/41_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bwp-BW90",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW90",
+    "name": "Givrali",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bwp",
+      "name": "Promo BW",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bwp/BW90/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bwp/BW90/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bwp-BW90",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW90",
+    "name": "Glaceon",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bwp/BW90/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bwp/BW90/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bwp-BW90",
+    "illustrator": "The Pokémon Company Art Team",
+    "localId": "BW90",
+    "name": "Glaceon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://images.pokemontcg.io/bwp/BW90.png",
+      "high": "https://images.pokemontcg.io/bwp/BW90_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw5-30",
+    "illustrator": "Ryo Ueda",
+    "localId": "30",
+    "name": "Givrali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw5",
+      "name": "Explorateurs Obscurs",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw5/30/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw5/30/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw5-30",
+    "illustrator": "Ryo Ueda",
+    "localId": "30",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw5/30/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw5/30/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw5-30",
+    "illustrator": "Ryo Ueda",
+    "localId": "30",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw5/30.png",
+      "high": "https://images.pokemontcg.io/bw5/30_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw9-23",
+    "illustrator": "5ban Graphics",
+    "localId": "23",
+    "name": "Givrali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw9",
+      "name": "Glaciation Plasma",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw9/23/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw9/23/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw9-23",
+    "illustrator": "5ban Graphics",
+    "localId": "23",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw9/23/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw9/23/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw9-23",
+    "illustrator": "5ban Graphics",
+    "localId": "23",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw9/23.png",
+      "high": "https://images.pokemontcg.io/bw9/23_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "2013bw-4",
+    "illustrator": "Rya Ueda",
+    "localId": "4",
+    "name": "Givrali",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "mc",
+        "name": "Promo McDonald's"
+      },
+      "id": "2013bw",
+      "name": "Promo McDonald's 2013",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2013-11-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/mc/2013bw/4/low.png",
+      "high": "https://assets.tcgdex.net/fr/mc/2013bw/4/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy3-19",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "19",
+    "name": "Givrali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy3",
+      "name": "Poings Furieux",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy3/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2014-08-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy3/19/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy3/19/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy3-19",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "19",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy3",
+      "name": "Furious Fists",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2014-08-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy3/19/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy3/19/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy3-19",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "19",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy3",
+      "name": "Furious Fists",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2014-08-13",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy3/19.png",
+      "high": "https://images.pokemontcg.io/xy3/19_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy10-20",
+    "illustrator": "Ayaka Yoshida",
+    "localId": "20",
+    "name": "Givrali EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy10",
+      "name": "Impact des Destins",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy10/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2016-05-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy10/20/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy10/20/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy10-116",
+    "illustrator": "Ryo Ueda",
+    "localId": "116",
+    "name": "Givrali EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy10",
+      "name": "Impact des Destins",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy10/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2016-05-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy10/116/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy10/116/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy10-20",
+    "illustrator": "Ayaka Yoshida",
+    "localId": "20",
+    "name": "Glaceon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy10",
+      "name": "Fates Collide",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2016-05-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy10/20/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy10/20/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy10-116",
+    "illustrator": "Ryo Ueda",
+    "localId": "116",
+    "name": "Glaceon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy10",
+      "name": "Fates Collide",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2016-05-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy10/116/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy10/116/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy10-20",
+    "illustrator": "Ayaka Yoshida",
+    "localId": "20",
+    "name": "Glaceon-EX",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy10",
+      "name": "Fates Collide",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2016-05-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy10/20.png",
+      "high": "https://images.pokemontcg.io/xy10/20_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy10-116",
+    "illustrator": "Ryo Ueda",
+    "localId": "116",
+    "name": "Glaceon-EX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy10",
+      "name": "Fates Collide",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2016-05-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy10/116.png",
+      "high": "https://images.pokemontcg.io/xy10/116_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "smp-SM147",
+    "illustrator": "5ban Graphics",
+    "localId": "SM147",
+    "name": "Givrali GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "smp",
+      "name": "Promo SM",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/smp/SM147/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/smp/SM147/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "smp-SM238",
+    "localId": "SM238",
+    "name": "Givrali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "smp",
+      "name": "Promo SM",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/smp/SM238/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/smp/SM238/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "smp-SM147",
+    "illustrator": "5ban Graphics",
+    "localId": "SM147",
+    "name": "Glaceon GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/smp/SM147/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/smp/SM147/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "smp-SM238",
+    "localId": "SM238",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/smp/SM238/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/smp/SM238/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "smp-SM147",
+    "illustrator": "5ban Graphics",
+    "localId": "SM147",
+    "name": "Glaceon-GX",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/smp/SM147.png",
+      "high": "https://images.pokemontcg.io/smp/SM147_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "smp-SM238",
+    "illustrator": "Mizue",
+    "localId": "SM238",
+    "name": "Glaceon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/smp/SM238.png",
+      "high": "https://images.pokemontcg.io/smp/SM238_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm5-39",
+    "illustrator": "5ban Graphics",
+    "localId": "39",
+    "name": "Givrali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm5",
+      "name": "Ultra-Prisme",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm5/39/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm5/39/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm5-141",
+    "illustrator": "5ban Graphics",
+    "localId": "141",
+    "name": "Givrali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm5",
+      "name": "Ultra-Prisme",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm5/141/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm5/141/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm5-159",
+    "illustrator": "5ban Graphics",
+    "localId": "159",
+    "name": "Givrali GX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm5",
+      "name": "Ultra-Prisme",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm5/159/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm5/159/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm5-39",
+    "illustrator": "5ban Graphics",
+    "localId": "39",
+    "name": "Glaceon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm5/39/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm5/39/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm5-141",
+    "illustrator": "5ban Graphics",
+    "localId": "141",
+    "name": "Glaceon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm5/141/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm5/141/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm5-159",
+    "illustrator": "5ban Graphics",
+    "localId": "159",
+    "name": "Glaceon GX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm5/159/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm5/159/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm5-39",
+    "illustrator": "5ban Graphics",
+    "localId": "39",
+    "name": "Glaceon-GX",
+    "rarity": "Rare Holo GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm5/39.png",
+      "high": "https://images.pokemontcg.io/sm5/39_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm5-141",
+    "illustrator": "5ban Graphics",
+    "localId": "141",
+    "name": "Glaceon-GX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm5/141.png",
+      "high": "https://images.pokemontcg.io/sm5/141_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm5-159",
+    "illustrator": "5ban Graphics",
+    "localId": "159",
+    "name": "Glaceon-GX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm5/159.png",
+      "high": "https://images.pokemontcg.io/sm5/159_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sma-SV55",
+    "illustrator": "5ban Graphics",
+    "localId": "SV55",
+    "name": "Givrali-GX",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sma",
+      "name": "Carte Alternative A Jaune",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sma/SV55/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sma/SV55/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sma-SV55",
+    "illustrator": "5ban Graphics",
+    "localId": "SV55",
+    "name": "Glaceon-GX",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sma",
+      "name": "Yellow A Alternate",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sma/SV55/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sma/SV55/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sma-SV55",
+    "illustrator": "5ban Graphics",
+    "localId": "SV55",
+    "name": "Glaceon-GX",
+    "rarity": "Rare Shiny GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sma",
+      "name": "Yellow A Alternate",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://images.pokemontcg.io/sma/SV55.png",
+      "high": "https://images.pokemontcg.io/sma/SV55_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH192",
+    "localId": "SWSH192",
+    "name": "Givrali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH192/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH192/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH196",
+    "localId": "SWSH196",
+    "name": "Givrali V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH196/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH196/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH197",
+    "localId": "SWSH197",
+    "name": "Givrali VSTAR",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH197/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH197/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH192",
+    "localId": "SWSH192",
+    "name": "Glaceon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH192/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH192/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH196",
+    "localId": "SWSH196",
+    "name": "Glaceon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH196/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH196/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH197",
+    "localId": "SWSH197",
+    "name": "Glaceon VSTAR",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH197/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH197/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH192",
+    "illustrator": "OKACHEKE",
+    "localId": "SWSH192",
+    "name": "Glaceon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH192.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH192_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH196",
+    "illustrator": "PLANETA Yamashita",
+    "localId": "SWSH196",
+    "name": "Glaceon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH196.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH196_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH197",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH197",
+    "name": "Glaceon VSTAR",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH197.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH197_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S6a-024",
+    "illustrator": "5ban Graphics",
+    "localId": "024",
+    "name": "冰伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S6a",
+      "name": "伊布英雄",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S6a/024/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S6a/024/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S6a-025",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "025",
+    "name": "冰伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S6a",
+      "name": "伊布英雄",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S6a/025/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S6a/025/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-048",
+    "illustrator": "5ban Graphics",
+    "localId": "048",
+    "name": "冰伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/048/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/048/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-40",
+    "illustrator": "5ban Graphics",
+    "localId": "40",
+    "name": "Givrali V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/40/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/40/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-41",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "41",
+    "name": "Givrali VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/41/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/41/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-174",
+    "illustrator": "5ban Graphics",
+    "localId": "174",
+    "name": "Givrali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/174/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/174/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-175",
+    "illustrator": "Narumi Sato",
+    "localId": "175",
+    "name": "Givrali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/175/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/175/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-208",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "208",
+    "name": "Givrali VMAX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/208/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/208/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-209",
+    "illustrator": "kirisAki",
+    "localId": "209",
+    "name": "Givrali VMAX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/209/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/209/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-40",
+    "illustrator": "5ban Graphics",
+    "localId": "40",
+    "name": "Glaceon V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/40/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/40/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-41",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "41",
+    "name": "Glaceon VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/41/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/41/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-174",
+    "illustrator": "5ban Graphics",
+    "localId": "174",
+    "name": "Glaceon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/174/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/174/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-175",
+    "illustrator": "Narumi Sato",
+    "localId": "175",
+    "name": "Glaceon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/175/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/175/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-208",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "208",
+    "name": "Glaceon VMAX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/208/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/208/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-209",
+    "illustrator": "kirisAki",
+    "localId": "209",
+    "name": "Glaceon VMAX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/209/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/209/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-40",
+    "illustrator": "5ban Graphics",
+    "localId": "40",
+    "name": "Glaceon V",
+    "rarity": "Rare Holo V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/40.png",
+      "high": "https://images.pokemontcg.io/swsh7/40_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-41",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "41",
+    "name": "Glaceon VMAX",
+    "rarity": "Rare Holo VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/41.png",
+      "high": "https://images.pokemontcg.io/swsh7/41_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-174",
+    "illustrator": "5ban Graphics",
+    "localId": "174",
+    "name": "Glaceon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/174.png",
+      "high": "https://images.pokemontcg.io/swsh7/174_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-175",
+    "illustrator": "Narumi Sato",
+    "localId": "175",
+    "name": "Glaceon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/175.png",
+      "high": "https://images.pokemontcg.io/swsh7/175_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-208",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "208",
+    "name": "Glaceon VMAX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/208.png",
+      "high": "https://images.pokemontcg.io/swsh7/208_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-209",
+    "illustrator": "kirisAki",
+    "localId": "209",
+    "name": "Glaceon VMAX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/209.png",
+      "high": "https://images.pokemontcg.io/swsh7/209_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-103",
+    "illustrator": "5ban Graphics",
+    "localId": "103",
+    "name": "冰伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/103/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/103/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-104",
+    "illustrator": "PLANETA Tsuji",
+    "localId": "104",
+    "name": "冰伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/104/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/104/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S10P-021",
+    "illustrator": "saino misaki",
+    "localId": "021",
+    "name": "冰伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S10P",
+      "name": "空間魔術師",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2022-04-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S10P/021/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S10P/021/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh10-038",
+    "localId": "038",
+    "name": "Givrali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh10",
+      "name": "Astres Radieux",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2022-05-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh10/038/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh10/038/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh10-038",
+    "localId": "038",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh10",
+      "name": "Astral Radiance",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2022-05-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh10/038/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh10/038/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh10-38",
+    "illustrator": "saino misaki",
+    "localId": "38",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh10",
+      "name": "Astral Radiance",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2022-05-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh10/38.png",
+      "high": "https://images.pokemontcg.io/swsh10/38_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S12a-217",
+    "illustrator": "Gemi",
+    "localId": "217",
+    "name": "冰伊布VSTAR",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S12a",
+      "name": "天地萬物VSTAR",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2022-12-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S12a/217/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S12a/217/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "S12a-217",
+    "illustrator": "Gemi",
+    "localId": "217",
+    "name": "グレイシアVSTAR",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "剣と盾"
+      },
+      "id": "S12a",
+      "name": "VSTARユニバース",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2022-12-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/S/S12a/217/low.png",
+      "high": "https://assets.tcgdex.net/ja/S/S12a/217/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh12pt5-38",
+    "illustrator": "PLANETA Mochizuki",
+    "localId": "38",
+    "name": "Glaceon V",
+    "rarity": "Rare Holo V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2023/01/20",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh12pt5/38.png",
+      "high": "https://images.pokemontcg.io/swsh12pt5/38_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh12pt5gg-GG40",
+    "illustrator": "Gemi",
+    "localId": "GG40",
+    "name": "Glaceon VSTAR",
+    "rarity": "Rare Holo VSTAR",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12pt5gg",
+      "name": "Crown Zenith Galarian Gallery",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2023/01/20",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh12pt5gg/GG40.png",
+      "high": "https://images.pokemontcg.io/swsh12pt5gg/GG40_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh12.5-038",
+    "localId": "038",
+    "name": "Givrali V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh12.5",
+      "name": "Zénith Suprême",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh12.5/038/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh12.5/038/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh12.5-GG40",
+    "localId": "GG40",
+    "name": "Givrali VSTAR",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh12.5",
+      "name": "Zénith Suprême",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh12.5/GG40/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh12.5/GG40/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh12.5-038",
+    "localId": "038",
+    "name": "Glaceon V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12.5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh12.5/038/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh12.5/038/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh12.5-GG40",
+    "localId": "GG40",
+    "name": "Glaceon VSTAR",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12.5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG40/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh12.5/GG40/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "svp-171",
+    "illustrator": "Keisin",
+    "localId": "171",
+    "name": "Givrali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/svp/171/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/svp/171/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "svp-171",
+    "illustrator": "Keisin",
+    "localId": "171",
+    "name": "Glaceon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/svp/171/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/svp/171/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV5a-021",
+    "illustrator": "rika",
+    "localId": "021",
+    "name": "グレイシア",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV5a",
+      "name": "クリムゾンヘイズ",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-03-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV5a/021/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV5a/021/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV5a-021",
+    "illustrator": "rika",
+    "localId": "021",
+    "name": "冰伊布",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV5a",
+      "name": "緋紅薄霧",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-04-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV5a/021/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV5a/021/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv6-54",
+    "illustrator": "rika",
+    "localId": "54",
+    "name": "Glaceon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024/05/24",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv6/54.png",
+      "high": "https://images.pokemontcg.io/sv6/54_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv06-054",
+    "illustrator": "rika",
+    "localId": "054",
+    "name": "Givrali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv06",
+      "name": "Mascarade Crépusculaire",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv06/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2024-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv06/054/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv06/054/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv06-054",
+    "illustrator": "rika",
+    "localId": "054",
+    "name": "Glaceon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv06",
+      "name": "Twilight Masquerade",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv06/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv06/054/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv06/054/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-040",
+    "illustrator": "Keisin",
+    "localId": "040",
+    "name": "グレイシア",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/040/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-041",
+    "illustrator": "aky CG Works",
+    "localId": "041",
+    "name": "グレイシアex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/041/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-206",
+    "illustrator": "Kamome Shirahama",
+    "localId": "206",
+    "name": "グレイシアex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/206/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/206/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-040",
+    "illustrator": "Keisin",
+    "localId": "040",
+    "name": "冰伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/040/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-041",
+    "illustrator": "aky CG Works",
+    "localId": "041",
+    "name": "冰伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/041/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-206",
+    "illustrator": "Kamome Shirahama",
+    "localId": "206",
+    "name": "冰伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/206/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/206/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-040",
+    "illustrator": "Keisin",
+    "localId": "040",
+    "name": "冰伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/040/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-041",
+    "illustrator": "aky CG Works",
+    "localId": "041",
+    "name": "冰伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/041/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-206",
+    "illustrator": "Kamome Shirahama",
+    "localId": "206",
+    "name": "冰伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/206/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/206/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-25",
+    "localId": "25",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/25.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/25_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-26",
+    "localId": "26",
+    "name": "Glaceon ex",
+    "rarity": "Double Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/26.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/26_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-150",
+    "localId": "150",
+    "name": "Glaceon ex",
+    "rarity": "Special Illustration Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/150.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/150_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-025",
+    "illustrator": "rika",
+    "localId": "025",
+    "name": "Givrali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/025/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/025/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-026",
+    "illustrator": "aky CG Works",
+    "localId": "026",
+    "name": "Givrali-ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/026/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/026/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-150",
+    "illustrator": "Kamome Shirahama",
+    "localId": "150",
+    "name": "Givrali-ex",
+    "rarity": "Illustration spéciale rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Eau"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/150/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/150/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-025",
+    "illustrator": "rika",
+    "localId": "025",
+    "name": "Glaceon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/025/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/025/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-026",
+    "illustrator": "aky CG Works",
+    "localId": "026",
+    "name": "Glaceon ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/026/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/026/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-150",
+    "illustrator": "Kamome Shirahama",
+    "localId": "150",
+    "name": "Glaceon ex",
+    "rarity": "Special illustration rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Water"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/150/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/150/high.png"
+    }
+  }
+]

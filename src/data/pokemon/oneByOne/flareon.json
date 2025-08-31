@@ -1,0 +1,5252 @@
+[
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "base2-3",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "3",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/base/base2/3/low.png",
+      "high": "https://assets.tcgdex.net/fr/base/base2/3/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "base2-19",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "19",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/base/base2/19/low.png",
+      "high": "https://assets.tcgdex.net/fr/base/base2/19/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "base2-3",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "3",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/base/base2/3/low.png",
+      "high": "https://assets.tcgdex.net/en/base/base2/3/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "base2-19",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "19",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/base/base2/19/low.png",
+      "high": "https://assets.tcgdex.net/en/base/base2/19/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base2-3",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "3",
+    "name": "Flareon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/base2/3.png",
+      "high": "https://images.pokemontcg.io/base2/3_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base2-19",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "19",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/base2/19.png",
+      "high": "https://images.pokemontcg.io/base2/19_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "base5-35",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "35",
+    "name": "Pyroli obscur",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base5",
+      "name": "Team Rocket",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2000-04-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/base/base5/35/low.png",
+      "high": "https://assets.tcgdex.net/fr/base/base5/35/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "base5-35",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "35",
+    "name": "Dark Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base5",
+      "name": "Team Rocket",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2000-04-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/base/base5/35/low.png",
+      "high": "https://assets.tcgdex.net/en/base/base5/35/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base5-35",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "35",
+    "name": "Dark Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base5",
+      "name": "Team Rocket",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2000-04-24",
+    "images": {
+      "low": "https://images.pokemontcg.io/base5/35.png",
+      "high": "https://images.pokemontcg.io/base5/35_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "neo4-46",
+    "illustrator": "Atsuko Nishida",
+    "localId": "46",
+    "name": "Pyroli lumineux",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/neo/neo4/46/low.png",
+      "high": "https://assets.tcgdex.net/fr/neo/neo4/46/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "neo4-46",
+    "illustrator": "Atsuko Nishida",
+    "localId": "46",
+    "name": "Light Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/neo/neo4/46/low.png",
+      "high": "https://assets.tcgdex.net/en/neo/neo4/46/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "neo4-46",
+    "illustrator": "Atsuko Nishida",
+    "localId": "46",
+    "name": "Light Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://images.pokemontcg.io/neo4/46.png",
+      "high": "https://images.pokemontcg.io/neo4/46_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base6-10",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "10",
+    "name": "Flareon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "Other",
+        "name": null
+      },
+      "id": "base6",
+      "name": "Legendary Collection",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base6/symbol.png",
+        "logo": "https://images.pokemontcg.io/base6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2002/05/24",
+    "images": {
+      "low": "https://images.pokemontcg.io/base6/10.png",
+      "high": "https://images.pokemontcg.io/base6/10_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "lc-10",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "10",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "lc",
+        "name": "Legendary Collection"
+      },
+      "id": "lc",
+      "name": "Legendary Collection",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/lc/lc/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2002-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/lc/lc/10/low.png",
+      "high": "https://assets.tcgdex.net/en/lc/lc/10/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ecard3-8",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "8",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ecard/ecard3/8/low.png",
+      "high": "https://assets.tcgdex.net/en/ecard/ecard3/8/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ecard3-H07",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "H07",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ecard/ecard3/H07/low.png",
+      "high": "https://assets.tcgdex.net/en/ecard/ecard3/H07/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ecard3-8",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "8",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/ecard3/8.png",
+      "high": "https://images.pokemontcg.io/ecard3/8_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ecard3-H7",
+    "illustrator": "Kyoko Umemoto",
+    "localId": "H7",
+    "name": "Flareon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/ecard3/H7.png",
+      "high": "https://images.pokemontcg.io/ecard3/H7_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex2-5",
+    "illustrator": "Midori Harada",
+    "localId": "5",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "EX Tempête de sable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex2/5/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex2/5/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex2-5",
+    "illustrator": "Midori Harada",
+    "localId": "5",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "Sandstorm",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex2/5/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex2/5/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex2-5",
+    "illustrator": "Midori Harada",
+    "localId": "5",
+    "name": "Flareon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "Sandstorm",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex2/5.png",
+      "high": "https://images.pokemontcg.io/ex2/5_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex10-5",
+    "illustrator": "Naoyo Kimura",
+    "localId": "5",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "EX Forces Cachées",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex10/5/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex10/5/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex10-5",
+    "illustrator": "Naoyo Kimura",
+    "localId": "5",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex10/5/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex10/5/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex10-5",
+    "illustrator": "Naoyo Kimura",
+    "localId": "5",
+    "name": "Flareon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex10/5.png",
+      "high": "https://images.pokemontcg.io/ex10/5_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex11-5",
+    "illustrator": "Kouki Saitou",
+    "localId": "5",
+    "name": "Pyroli δ",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "EX Espèces Delta",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu",
+      "Métal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex11/5/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex11/5/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex11-108",
+    "illustrator": "Ryo Ueda",
+    "localId": "108",
+    "name": "Pyroli ex",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "EX Espèces Delta",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex11/108/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex11/108/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex11-5",
+    "illustrator": "Kouki Saitou",
+    "localId": "5",
+    "name": "Flareon δ",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire",
+      "Metal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex11/5/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex11/5/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex11-108",
+    "illustrator": "Ryo Ueda",
+    "localId": "108",
+    "name": "Flareon ex",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex11/108/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex11/108/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex11-5",
+    "illustrator": "Kouki Saitou",
+    "localId": "5",
+    "name": "Flareon δ",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire",
+      "Metal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex11/5.png",
+      "high": "https://images.pokemontcg.io/ex11/5_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex11-108",
+    "illustrator": "Ryo Ueda",
+    "localId": "108",
+    "name": "Flareon ex",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex11/108.png",
+      "high": "https://images.pokemontcg.io/ex11/108_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pop3-2",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "2",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop3",
+      "name": "POP Série 3",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2006-04-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pop/pop3/2/low.png",
+      "high": "https://assets.tcgdex.net/fr/pop/pop3/2/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pop3-2",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "2",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop3",
+      "name": "POP Series 3",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2006-04-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pop/pop3/2/low.png",
+      "high": "https://assets.tcgdex.net/en/pop/pop3/2/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pop3-2",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "2",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop3",
+      "name": "POP Series 3",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2006-04-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/pop3/2.png",
+      "high": "https://images.pokemontcg.io/pop3/2_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex16-100",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "100",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex16",
+      "name": "EX Gardiens du Pouvoir",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2007-02-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex16/100/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex16/100/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex16-100",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "100",
+    "name": "Flareon Star",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex16",
+      "name": "Power Keepers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2007-02-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex16/100/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex16/100/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex16-100",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "100",
+    "name": "Flareon ★",
+    "rarity": "Rare Holo Star",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex16",
+      "name": "Power Keepers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2007-02-17",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex16/100.png",
+      "high": "https://images.pokemontcg.io/ex16/100_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp5-19",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "19",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp5",
+      "name": "Aube Majestueuse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp5/19/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp5/19/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp5-19",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "19",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp5/19/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp5/19/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp5-19",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "19",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp5/19.png",
+      "high": "https://images.pokemontcg.io/dp5/19_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pl2-19",
+    "illustrator": "Midori Harada",
+    "localId": "19",
+    "name": "Pyroli Niv. 38",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platine"
+      },
+      "id": "pl2",
+      "name": "Rivaux Émergeants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pl/pl2/19/low.png",
+      "high": "https://assets.tcgdex.net/fr/pl/pl2/19/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pl2-60",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "60",
+    "name": "Pyroli  Niv. 55",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platine"
+      },
+      "id": "pl2",
+      "name": "Rivaux Émergeants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pl/pl2/60/low.png",
+      "high": "https://assets.tcgdex.net/fr/pl/pl2/60/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl2-19",
+    "illustrator": "Midori Harada",
+    "localId": "19",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl2/19/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl2/19/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl2-60",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "60",
+    "name": "Flareon 4",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl2/60/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl2/60/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl2-19",
+    "illustrator": "Midori Harada",
+    "localId": "19",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl2/19.png",
+      "high": "https://images.pokemontcg.io/pl2/19_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl2-60",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "60",
+    "name": "Flareon E4",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl2/60.png",
+      "high": "https://images.pokemontcg.io/pl2/60_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "hgss3-26",
+    "illustrator": "kawayoo",
+    "localId": "26",
+    "name": "Pyroli",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Indomptable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/hgss/hgss3/26/low.png",
+      "high": "https://assets.tcgdex.net/fr/hgss/hgss3/26/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "hgss3-26",
+    "illustrator": "kawayoo",
+    "localId": "26",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/hgss/hgss3/26/low.png",
+      "high": "https://assets.tcgdex.net/en/hgss/hgss3/26/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "hgss3-26",
+    "illustrator": "kawayoo",
+    "localId": "26",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://images.pokemontcg.io/hgss3/26.png",
+      "high": "https://images.pokemontcg.io/hgss3/26_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "col1-44",
+    "illustrator": "kawayoo",
+    "localId": "44",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "col",
+        "name": "Call of Legends"
+      },
+      "id": "col1",
+      "name": "Call of Legends",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2011-02-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/col/col1/44/low.png",
+      "high": "https://assets.tcgdex.net/en/col/col1/44/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "col1-44",
+    "illustrator": "kawayoo",
+    "localId": "44",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "col",
+        "name": "Call of Legends"
+      },
+      "id": "col1",
+      "name": "Call of Legends",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2011-02-09",
+    "images": {
+      "low": "https://images.pokemontcg.io/col1/44.png",
+      "high": "https://images.pokemontcg.io/col1/44_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bwp-BW88",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW88",
+    "name": "Pyroli",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bwp",
+      "name": "Promo BW",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bwp/BW88/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bwp/BW88/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bwp-BW88",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW88",
+    "name": "Flareon",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bwp/BW88/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bwp/BW88/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bwp-BW88",
+    "illustrator": "The Pokémon Company Art Team",
+    "localId": "BW88",
+    "name": "Flareon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://images.pokemontcg.io/bwp/BW88.png",
+      "high": "https://images.pokemontcg.io/bwp/BW88_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw5-12",
+    "illustrator": "Suwama Chiaki",
+    "localId": "12",
+    "name": "Pyroli",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw5",
+      "name": "Explorateurs Obscurs",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw5/12/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw5/12/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw5-12",
+    "illustrator": "Suwama Chiaki",
+    "localId": "12",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw5/12/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw5/12/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw5-12",
+    "illustrator": "Suwama Chiaki",
+    "localId": "12",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw5/12.png",
+      "high": "https://images.pokemontcg.io/bw5/12_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw9-12",
+    "illustrator": "5ban Graphics",
+    "localId": "12",
+    "name": "Pyroli",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw9",
+      "name": "Glaciation Plasma",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw9/12/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw9/12/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw9-12",
+    "illustrator": "5ban Graphics",
+    "localId": "12",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw9/12/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw9/12/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw9-12",
+    "illustrator": "5ban Graphics",
+    "localId": "12",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw9/12.png",
+      "high": "https://images.pokemontcg.io/bw9/12_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy7-13",
+    "illustrator": "sui",
+    "localId": "13",
+    "name": "Pyroli",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy7",
+      "name": "Origines Antiques",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2015-08-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy7/13/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy7/13/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy7-13",
+    "illustrator": "sui",
+    "localId": "13",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy7",
+      "name": "Ancient Origins",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2015-08-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy7/13/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy7/13/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy7-13",
+    "illustrator": "sui",
+    "localId": "13",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy7",
+      "name": "Ancient Origins",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2015-08-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy7/13.png",
+      "high": "https://images.pokemontcg.io/xy7/13_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "g1-RC28",
+    "illustrator": "kirisAki",
+    "localId": "RC28",
+    "name": "Pyroli-EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Générations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/g1/RC28/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/g1/RC28/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "g1-RC6",
+    "illustrator": "Atsuko Nishida",
+    "localId": "RC6",
+    "name": "Pyroli-EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Générations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/g1/RC6/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/g1/RC6/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "g1-RC28",
+    "illustrator": "kirisAki",
+    "localId": "RC28",
+    "name": "Flareon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/g1/RC28/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/g1/RC28/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "g1-RC6",
+    "illustrator": "Atsuko Nishida",
+    "localId": "RC6",
+    "name": "Flareon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/g1/RC6/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/g1/RC6/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "g1-RC6",
+    "illustrator": "Atsuko Nishida",
+    "localId": "RC6",
+    "name": "Flareon-EX",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/g1/RC6.png",
+      "high": "https://images.pokemontcg.io/g1/RC6_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "g1-RC28",
+    "illustrator": "kirisAki",
+    "localId": "RC28",
+    "name": "Flareon-EX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/g1/RC28.png",
+      "high": "https://images.pokemontcg.io/g1/RC28_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "smp-SM171",
+    "illustrator": "PLANETA Otani",
+    "localId": "SM171",
+    "name": "Pyroli GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "smp",
+      "name": "Promo SM",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/smp/SM171/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/smp/SM171/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "smp-SM186",
+    "illustrator": "Shin Nagasawa",
+    "localId": "SM186",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "smp",
+      "name": "Promo SM",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/smp/SM186/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/smp/SM186/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "smp-SM171",
+    "illustrator": "PLANETA Otani",
+    "localId": "SM171",
+    "name": "Flareon GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/smp/SM171/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/smp/SM171/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "smp-SM186",
+    "illustrator": "Shin Nagasawa",
+    "localId": "SM186",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/smp/SM186/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/smp/SM186/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "smp-SM171",
+    "illustrator": "PLANETA Otani",
+    "localId": "SM171",
+    "name": "Flareon-GX",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/smp/SM171.png",
+      "high": "https://images.pokemontcg.io/smp/SM171_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "smp-SM186",
+    "illustrator": "Shin Nagasawa",
+    "localId": "SM186",
+    "name": "Flareon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/smp/SM186.png",
+      "high": "https://images.pokemontcg.io/smp/SM186_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm12-25",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "25",
+    "name": "Pyroli",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm12",
+      "name": "Éclipse Cosmique",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm12/25/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm12/25/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm12-25",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "25",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm12/25/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm12/25/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm12-25",
+    "illustrator": "AKIRA EGAWA",
+    "localId": "25",
+    "name": "Flareon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm12/25.png",
+      "high": "https://images.pokemontcg.io/sm12/25_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH041",
+    "illustrator": "You Iribi",
+    "localId": "SWSH041",
+    "name": "Pyroli",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH041/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH149",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH149",
+    "name": "Pyroli V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH149/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH149/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH179",
+    "localId": "SWSH179",
+    "name": "Pyroli V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH179/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH179/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH180",
+    "localId": "SWSH180",
+    "name": "Pyroli VMAX",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH180/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH180/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH041",
+    "illustrator": "You Iribi",
+    "localId": "SWSH041",
+    "name": "Flareon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH041/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH149",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH149",
+    "name": "Flareon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH149/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH149/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH179",
+    "localId": "SWSH179",
+    "name": "Flareon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH179/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH179/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH180",
+    "localId": "SWSH180",
+    "name": "Flareon VMAX",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH180/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH180/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH041",
+    "illustrator": "You Iribi",
+    "localId": "SWSH041",
+    "name": "Flareon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH041.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH041_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH149",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH149",
+    "name": "Flareon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH149.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH149_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH179",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "SWSH179",
+    "name": "Flareon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH179.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH179_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH180",
+    "illustrator": "OKACHEKE",
+    "localId": "SWSH180",
+    "name": "Flareon VMAX",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH180.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH180_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SC1b-043",
+    "illustrator": "You Iribi",
+    "localId": "043",
+    "name": "火伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SC1b",
+      "name": "劍&盾 SET B",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2020-06-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SC1b/043/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SC1b/043/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S4-013",
+    "illustrator": "Eri Yamaki",
+    "localId": "013",
+    "name": "火伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S4",
+      "name": "驚天伏特攻擊",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2020-10-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S4/013/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S4/013/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh4-26",
+    "illustrator": "Eri Yamaki",
+    "localId": "26",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh4",
+      "name": "Voltage Éclatant",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2020-11-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh4/26/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh4/26/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh4-26",
+    "illustrator": "Eri Yamaki",
+    "localId": "26",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2020-11-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh4/26/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh4/26/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh4-26",
+    "illustrator": "Eri Yamaki",
+    "localId": "26",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2020-11-13",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh4/26.png",
+      "high": "https://images.pokemontcg.io/swsh4/26_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCB-020",
+    "illustrator": "You Iribi",
+    "localId": "020",
+    "name": "火伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCB",
+      "name": "挑戰",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-01-29",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCB/020/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCB/020/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S6a-011",
+    "illustrator": "5ban Graphics",
+    "localId": "011",
+    "name": "火伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S6a",
+      "name": "伊布英雄",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S6a/011/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S6a/011/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-018",
+    "illustrator": "5ban Graphics",
+    "localId": "018",
+    "name": "火伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/018/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/018/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-019",
+    "illustrator": "5ban Graphics",
+    "localId": "019",
+    "name": "火伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/019/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/019/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-18",
+    "illustrator": "5ban Graphics",
+    "localId": "18",
+    "name": "Pyroli VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/18/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/18/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-169",
+    "illustrator": "5ban Graphics",
+    "localId": "169",
+    "name": "Pyroli V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/169/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/169/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-18",
+    "illustrator": "5ban Graphics",
+    "localId": "18",
+    "name": "Flareon VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/18/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/18/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-169",
+    "illustrator": "5ban Graphics",
+    "localId": "169",
+    "name": "Flareon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/169/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/169/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-18",
+    "illustrator": "5ban Graphics",
+    "localId": "18",
+    "name": "Flareon VMAX",
+    "rarity": "Rare Holo VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/18.png",
+      "high": "https://images.pokemontcg.io/swsh7/18_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-169",
+    "illustrator": "5ban Graphics",
+    "localId": "169",
+    "name": "Flareon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/169.png",
+      "high": "https://images.pokemontcg.io/swsh7/169_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S8b-018",
+    "illustrator": "Eri Yamaki",
+    "localId": "018",
+    "name": "火伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S8b",
+      "name": "VMAX絕群壓軸",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2021-12-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S8b/018/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S8b/018/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-051",
+    "illustrator": "5ban Graphics",
+    "localId": "051",
+    "name": "火伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/051/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/051/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-052",
+    "illustrator": "5ban Graphics",
+    "localId": "052",
+    "name": "火伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/052/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/052/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh9tg-TG01",
+    "illustrator": "You Iribi",
+    "localId": "TG01",
+    "name": "Flareon",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2022/02/25",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh9tg/TG01.png",
+      "high": "https://images.pokemontcg.io/swsh9tg/TG01_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh9-TG01",
+    "localId": "TG01",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh9",
+      "name": "Stars Étincelantes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh9/TG01/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh9/TG01/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh9-TG01",
+    "localId": "TG01",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh9/TG01/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh9/TG01/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "svp-167",
+    "illustrator": "SIE NANAHARA",
+    "localId": "167",
+    "name": "Pyroli",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/svp/167/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/svp/167/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "svp-167",
+    "illustrator": "SIE NANAHARA",
+    "localId": "167",
+    "name": "Flareon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/svp/167/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/svp/167/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV2a-136",
+    "illustrator": "Ryota Murayama",
+    "localId": "136",
+    "name": "ブースター",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV2a",
+      "name": "ポケモンカード151",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2023-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV2a/136/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV2a/136/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV2a-136",
+    "illustrator": "Ryota Murayama",
+    "localId": "136",
+    "name": "火伊布",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV2a",
+      "name": "寶可夢卡牌151",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2023-06-30",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV2a/136/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV2a/136/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv3pt5-136",
+    "illustrator": "Ryota Murayama",
+    "localId": "136",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv3pt5",
+      "name": "151",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2023/09/22",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv3pt5/136.png",
+      "high": "https://images.pokemontcg.io/sv3pt5/136_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv03.5-136",
+    "illustrator": "Ryota Murayama",
+    "localId": "136",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv03.5",
+      "name": "151",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv03.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2023-09-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv03.5/136/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv03.5/136/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv03.5-136",
+    "illustrator": "Ryota Murayama",
+    "localId": "136",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv03.5",
+      "name": "151",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2023-09-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv03.5/136/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv03.5/136/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-021",
+    "illustrator": "SIE NANAHARA",
+    "localId": "021",
+    "name": "ブースター",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/021/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/021/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-022",
+    "illustrator": "5ban Graphics",
+    "localId": "022",
+    "name": "ブースターex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/022/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/022/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-202",
+    "illustrator": "Nurikabe",
+    "localId": "202",
+    "name": "ブースターex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/202/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/202/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-021",
+    "illustrator": "SIE NANAHARA",
+    "localId": "021",
+    "name": "火伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/021/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/021/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-022",
+    "illustrator": "5ban Graphics",
+    "localId": "022",
+    "name": "火伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/022/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/022/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-202",
+    "illustrator": "Nurikabe",
+    "localId": "202",
+    "name": "火伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/202/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/202/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-021",
+    "illustrator": "SIE NANAHARA",
+    "localId": "021",
+    "name": "火伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/021/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/021/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-022",
+    "illustrator": "5ban Graphics",
+    "localId": "022",
+    "name": "火伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/022/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/022/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-202",
+    "illustrator": "Nurikabe",
+    "localId": "202",
+    "name": "火伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/202/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/202/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-13",
+    "localId": "13",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/13.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/13_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-14",
+    "localId": "14",
+    "name": "Flareon ex",
+    "rarity": "Double Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/14.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/14_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-146",
+    "localId": "146",
+    "name": "Flareon ex",
+    "rarity": "Special Illustration Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/146.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/146_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-013",
+    "illustrator": "Ryota Murayama",
+    "localId": "013",
+    "name": "Pyroli",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/013/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/013/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-014",
+    "illustrator": "5ban Graphics",
+    "localId": "014",
+    "name": "Pyroli-ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/014/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/014/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-146",
+    "illustrator": "Nurikabe",
+    "localId": "146",
+    "name": "Pyroli-ex",
+    "rarity": "Illustration spéciale rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Feu"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/146/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/146/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-013",
+    "illustrator": "Ryota Murayama",
+    "localId": "013",
+    "name": "Flareon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/013/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/013/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-014",
+    "illustrator": "5ban Graphics",
+    "localId": "014",
+    "name": "Flareon ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/014/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/014/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-146",
+    "illustrator": "Nurikabe",
+    "localId": "146",
+    "name": "Flareon ex",
+    "rarity": "Special illustration rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fire"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/146/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/146/high.png"
+    }
+  }
+]

@@ -1,0 +1,4621 @@
+[
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xyp-XY04",
+    "illustrator": "5ban Graphics",
+    "localId": "XY04",
+    "name": "Nymphali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xyp",
+      "name": "Promo XY",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2013-10-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xyp/XY04/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xyp/XY04/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xyp-XY04",
+    "illustrator": "5ban Graphics",
+    "localId": "XY04",
+    "name": "Sylveon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2013-10-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xyp/XY04/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xyp/XY04/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xyp-XY04",
+    "illustrator": "5ban Graphics",
+    "localId": "XY04",
+    "name": "Sylveon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xyp",
+      "name": "XY Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xyp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xyp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2013-10-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/xyp/XY04.png",
+      "high": "https://images.pokemontcg.io/xyp/XY04_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "tk-xy-sy-15",
+    "illustrator": "5ban Graphics",
+    "localId": "15",
+    "name": "Nymphali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "tk",
+        "name": "Kits du dresseur"
+      },
+      "id": "tk-xy-sy",
+      "name": "XY Kit du dresseur (Nymphali)",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2014-03-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/15/low.png",
+      "high": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/15/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "tk-xy-sy-30",
+    "illustrator": "5ban Graphics",
+    "localId": "30",
+    "name": "Nymphali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "tk",
+        "name": "Kits du dresseur"
+      },
+      "id": "tk-xy-sy",
+      "name": "XY Kit du dresseur (Nymphali)",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2014-03-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/30/low.png",
+      "high": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/30/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "tk-xy-sy-15",
+    "illustrator": "5ban Graphics",
+    "localId": "15",
+    "name": "Sylveon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "tk",
+        "name": "Trainer kits"
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2014-03-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/tk/tk-xy-sy/15/low.png",
+      "high": "https://assets.tcgdex.net/en/tk/tk-xy-sy/15/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "tk-xy-sy-30",
+    "illustrator": "5ban Graphics",
+    "localId": "30",
+    "name": "Sylveon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "tk",
+        "name": "Trainer kits"
+      },
+      "id": "tk-xy-sy",
+      "name": "XY trainer Kit (Sylveon)",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2014-03-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/tk/tk-xy-sy/30/low.png",
+      "high": "https://assets.tcgdex.net/en/tk/tk-xy-sy/30/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy3-72",
+    "illustrator": "5ban Graphics",
+    "localId": "72",
+    "name": "Nymphali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy3",
+      "name": "Poings Furieux",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy3/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2014-08-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy3/72/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy3/72/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy3-72",
+    "illustrator": "5ban Graphics",
+    "localId": "72",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy3",
+      "name": "Furious Fists",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2014-08-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy3/72/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy3/72/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy3-72",
+    "illustrator": "5ban Graphics",
+    "localId": "72",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy3",
+      "name": "Furious Fists",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2014-08-13",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy3/72.png",
+      "high": "https://images.pokemontcg.io/xy3/72_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "g1-RC21",
+    "illustrator": "sui",
+    "localId": "RC21",
+    "name": "Nymphali-EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Générations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/g1/RC21/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/g1/RC21/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "g1-RC32",
+    "illustrator": "Kanako Eo",
+    "localId": "RC32",
+    "name": "Nymphali-EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Générations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/g1/RC32/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/g1/RC32/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "g1-RC21",
+    "illustrator": "sui",
+    "localId": "RC21",
+    "name": "Sylveon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/g1/RC21/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/g1/RC21/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "g1-RC32",
+    "illustrator": "Kanako Eo",
+    "localId": "RC32",
+    "name": "Sylveon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/g1/RC32/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/g1/RC32/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "g1-RC21",
+    "illustrator": "sui",
+    "localId": "RC21",
+    "name": "Sylveon-EX",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/g1/RC21.png",
+      "high": "https://images.pokemontcg.io/g1/RC21_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "g1-RC32",
+    "illustrator": "Kanako Eo",
+    "localId": "RC32",
+    "name": "Sylveon-EX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/g1/RC32.png",
+      "high": "https://images.pokemontcg.io/g1/RC32_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm2-92",
+    "illustrator": "5ban Graphics",
+    "localId": "92",
+    "name": "Nymphali GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm2",
+      "name": "Gardiens Ascendants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm2/92/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm2/92/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm2-140",
+    "illustrator": "5ban Graphics",
+    "localId": "140",
+    "name": "Nymphali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm2",
+      "name": "Gardiens Ascendants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm2/140/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm2/140/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm2-158",
+    "illustrator": "5ban Graphics",
+    "localId": "158",
+    "name": "Nymphali GX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm2",
+      "name": "Gardiens Ascendants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm2/158/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm2/158/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm2-92",
+    "illustrator": "5ban Graphics",
+    "localId": "92",
+    "name": "Sylveon GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm2/92/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm2/92/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm2-140",
+    "illustrator": "5ban Graphics",
+    "localId": "140",
+    "name": "Sylveon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm2/140/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm2/140/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm2-158",
+    "illustrator": "5ban Graphics",
+    "localId": "158",
+    "name": "Sylveon GX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm2/158/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm2/158/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm2-92",
+    "illustrator": "5ban Graphics",
+    "localId": "92",
+    "name": "Sylveon-GX",
+    "rarity": "Rare Holo GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm2/92.png",
+      "high": "https://images.pokemontcg.io/sm2/92_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm2-92a",
+    "illustrator": "5ban Graphics",
+    "localId": "92a",
+    "name": "Sylveon-GX",
+    "rarity": "Rare Holo GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm2/92a.png",
+      "high": "https://images.pokemontcg.io/sm2/92a_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm2-140",
+    "illustrator": "5ban Graphics",
+    "localId": "140",
+    "name": "Sylveon-GX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm2/140.png",
+      "high": "https://images.pokemontcg.io/sm2/140_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm2-158",
+    "illustrator": "5ban Graphics",
+    "localId": "158",
+    "name": "Sylveon-GX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm2",
+      "name": "Guardians Rising",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2017-05-05",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm2/158.png",
+      "high": "https://images.pokemontcg.io/sm2/158_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm6-87",
+    "illustrator": "0313",
+    "localId": "87",
+    "name": "Nymphali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm6",
+      "name": "Lumière Interdite",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2018-05-04",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm6/87/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm6/87/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm6-87",
+    "illustrator": "0313",
+    "localId": "87",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2018-05-04",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm6/87/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm6/87/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm6-87",
+    "illustrator": "0313",
+    "localId": "87",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm6",
+      "name": "Forbidden Light",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm6/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2018-05-04",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm6/87.png",
+      "high": "https://images.pokemontcg.io/sm6/87_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm10-130",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "130",
+    "name": "Gardevoir et Nymphali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm10",
+      "name": "Alliance Infaillible",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm10/130/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm10/130/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm10-204",
+    "illustrator": "5ban Graphics",
+    "localId": "204",
+    "name": "Gardevoir et Nymphali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm10",
+      "name": "Alliance Infaillible",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm10/204/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm10/204/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm10-205",
+    "illustrator": "Atsuko Nishida",
+    "localId": "205",
+    "name": "Gardevoir et Nymphali GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm10",
+      "name": "Alliance Infaillible",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm10/205/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm10/205/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm10-225",
+    "illustrator": "5ban Graphics",
+    "localId": "225",
+    "name": "Gardevoir et Nymphali GX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm10",
+      "name": "Alliance Infaillible",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm10/225/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm10/225/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm10-130",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "130",
+    "name": "Gardevoir & Sylveon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm10/130/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm10/130/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm10-204",
+    "illustrator": "5ban Graphics",
+    "localId": "204",
+    "name": "Gardevoir & Sylveon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm10/204/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm10/204/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm10-205",
+    "illustrator": "Atsuko Nishida",
+    "localId": "205",
+    "name": "Gardevoir & Sylveon GX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm10/205/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm10/205/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm10-225",
+    "illustrator": "5ban Graphics",
+    "localId": "225",
+    "name": "Gardevoir & Sylveon GX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm10/225/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm10/225/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm10-130",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "130",
+    "name": "Gardevoir & Sylveon-GX",
+    "rarity": "Rare Holo GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm10/130.png",
+      "high": "https://images.pokemontcg.io/sm10/130_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm10-204",
+    "illustrator": "5ban Graphics",
+    "localId": "204",
+    "name": "Gardevoir & Sylveon-GX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm10/204.png",
+      "high": "https://images.pokemontcg.io/sm10/204_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm10-205",
+    "illustrator": "Atsuko Nishida",
+    "localId": "205",
+    "name": "Gardevoir & Sylveon-GX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm10/205.png",
+      "high": "https://images.pokemontcg.io/sm10/205_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm10-225",
+    "illustrator": "5ban Graphics",
+    "localId": "225",
+    "name": "Gardevoir & Sylveon-GX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm10",
+      "name": "Unbroken Bonds",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-05-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm10/225.png",
+      "high": "https://images.pokemontcg.io/sm10/225_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sma-SV76",
+    "illustrator": "5ban Graphics",
+    "localId": "SV76",
+    "name": "Nymphali-GX",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sma",
+      "name": "Carte Alternative A Jaune",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sma/SV76/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sma/SV76/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sma-SV76",
+    "illustrator": "5ban Graphics",
+    "localId": "SV76",
+    "name": "Sylveon-GX",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sma",
+      "name": "Yellow A Alternate",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sma/SV76/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sma/SV76/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sma-SV76",
+    "illustrator": "5ban Graphics",
+    "localId": "SV76",
+    "name": "Sylveon-GX",
+    "rarity": "Rare Shiny GX",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sma",
+      "name": "Yellow A Alternate",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sma/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://images.pokemontcg.io/sma/SV76.png",
+      "high": "https://images.pokemontcg.io/sma/SV76_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm12-155",
+    "illustrator": "Naoyo Kimura",
+    "localId": "155",
+    "name": "Nymphali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm12",
+      "name": "Éclipse Cosmique",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fée"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm12/155/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm12/155/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm12-155",
+    "illustrator": "Naoyo Kimura",
+    "localId": "155",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm12/155/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm12/155/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm12-155",
+    "illustrator": "Naoyo Kimura",
+    "localId": "155",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Fairy"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm12/155.png",
+      "high": "https://images.pokemontcg.io/sm12/155_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH134",
+    "illustrator": "Ryuta Fuse",
+    "localId": "SWSH134",
+    "name": "Nymphali obscur V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH134/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH134/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH202",
+    "localId": "SWSH202",
+    "name": "Nymphali V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH202/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH202/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH211",
+    "localId": "SWSH211",
+    "name": "Nymphali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH211/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH211/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH134",
+    "illustrator": "Ryuta Fuse",
+    "localId": "SWSH134",
+    "name": "Dark Sylveon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH134/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH134/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH202",
+    "localId": "SWSH202",
+    "name": "Sylveon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH202/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH202/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH211",
+    "localId": "SWSH211",
+    "name": "Sylveon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH211/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH211/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH134",
+    "illustrator": "Ryuta Fuse",
+    "localId": "SWSH134",
+    "name": "Dark Sylveon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH134.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH134_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH202",
+    "illustrator": "aky CG Works",
+    "localId": "SWSH202",
+    "name": "Sylveon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH202.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH202_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH211",
+    "illustrator": "Mizue",
+    "localId": "SWSH211",
+    "name": "Sylveon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH211.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH211_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S6a-040",
+    "illustrator": "aky CG Works",
+    "localId": "040",
+    "name": "仙子伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S6a",
+      "name": "伊布英雄",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S6a/040/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S6a/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S6a-041",
+    "illustrator": "Ryota Murayama",
+    "localId": "041",
+    "name": "仙子伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S6a",
+      "name": "伊布英雄",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S6a/041/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S6a/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-080",
+    "illustrator": "aky CG Works",
+    "localId": "080",
+    "name": "仙子伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/080/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/080/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-74",
+    "illustrator": "aky CG Works",
+    "localId": "74",
+    "name": "Nymphali V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/74/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/74/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-75",
+    "illustrator": "Ryota Murayama",
+    "localId": "75",
+    "name": "Nymphali VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/75/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/75/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-183",
+    "illustrator": "aky CG Works",
+    "localId": "183",
+    "name": "Nymphali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/183/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/183/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-184",
+    "illustrator": "Yuu Nishida",
+    "localId": "184",
+    "name": "Nymphali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/184/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/184/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-211",
+    "illustrator": "Ryota Murayama",
+    "localId": "211",
+    "name": "Nymphali VMAX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/211/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/211/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-212",
+    "illustrator": "Taira Akitsu",
+    "localId": "212",
+    "name": "Nymphali VMAX",
+    "rarity": "Magnifique rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/212/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/212/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-74",
+    "illustrator": "aky CG Works",
+    "localId": "74",
+    "name": "Sylveon V",
+    "rarity": "Holo Rare V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/74/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/74/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-75",
+    "illustrator": "Ryota Murayama",
+    "localId": "75",
+    "name": "Sylveon VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/75/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/75/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-183",
+    "illustrator": "aky CG Works",
+    "localId": "183",
+    "name": "Sylveon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/183/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/183/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-184",
+    "illustrator": "Yuu Nishida",
+    "localId": "184",
+    "name": "Sylveon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/184/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/184/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-211",
+    "illustrator": "Ryota Murayama",
+    "localId": "211",
+    "name": "Sylveon VMAX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/211/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/211/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-212",
+    "illustrator": "Taira Akitsu",
+    "localId": "212",
+    "name": "Sylveon VMAX",
+    "rarity": "Secret Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/212/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/212/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-74",
+    "illustrator": "aky CG Works",
+    "localId": "74",
+    "name": "Sylveon V",
+    "rarity": "Rare Holo V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/74.png",
+      "high": "https://images.pokemontcg.io/swsh7/74_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-75",
+    "illustrator": "Ryota Murayama",
+    "localId": "75",
+    "name": "Sylveon VMAX",
+    "rarity": "Rare Holo VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/75.png",
+      "high": "https://images.pokemontcg.io/swsh7/75_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-183",
+    "illustrator": "aky CG Works",
+    "localId": "183",
+    "name": "Sylveon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/183.png",
+      "high": "https://images.pokemontcg.io/swsh7/183_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-184",
+    "illustrator": "Yuu Nishida",
+    "localId": "184",
+    "name": "Sylveon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/184.png",
+      "high": "https://images.pokemontcg.io/swsh7/184_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-211",
+    "illustrator": "Ryota Murayama",
+    "localId": "211",
+    "name": "Sylveon VMAX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/211.png",
+      "high": "https://images.pokemontcg.io/swsh7/211_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-212",
+    "illustrator": "Taira Akitsu",
+    "localId": "212",
+    "name": "Sylveon VMAX",
+    "rarity": "Rare Rainbow",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/212.png",
+      "high": "https://images.pokemontcg.io/swsh7/212_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S8b-074",
+    "illustrator": "aky CG Works",
+    "localId": "074",
+    "name": "仙子伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S8b",
+      "name": "VMAX絕群壓軸",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-12-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S8b/074/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S8b/074/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S8b-075",
+    "illustrator": "Ryota Murayama",
+    "localId": "075",
+    "name": "仙子伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S8b",
+      "name": "VMAX絕群壓軸",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2021-12-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S8b/075/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S8b/075/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-191",
+    "illustrator": "aky CG Works",
+    "localId": "191",
+    "name": "仙子伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/191/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/191/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-192",
+    "illustrator": "Ryota Murayama",
+    "localId": "192",
+    "name": "仙子伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/192/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/192/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh9tg-TG14",
+    "illustrator": "Megumi Mizutani",
+    "localId": "TG14",
+    "name": "Sylveon V",
+    "rarity": "Rare Holo V",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022/02/25",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh9tg/TG14.png",
+      "high": "https://images.pokemontcg.io/swsh9tg/TG14_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh9tg-TG15",
+    "illustrator": "sui",
+    "localId": "TG15",
+    "name": "Sylveon VMAX",
+    "rarity": "Rare Holo VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022/02/25",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh9tg/TG15.png",
+      "high": "https://images.pokemontcg.io/swsh9tg/TG15_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh9-TG14",
+    "localId": "TG14",
+    "name": "Nymphali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh9",
+      "name": "Stars Étincelantes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh9/TG14/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh9/TG14/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh9-TG15",
+    "localId": "TG15",
+    "name": "Nymphali VMAX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh9",
+      "name": "Stars Étincelantes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh9/TG15/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh9/TG15/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh9-TG14",
+    "localId": "TG14",
+    "name": "Sylveon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh9/TG14/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh9/TG14/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh9-TG15",
+    "localId": "TG15",
+    "name": "Sylveon VMAX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh9/TG15/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh9/TG15/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S10b-035",
+    "illustrator": "Atsushi Furusawa",
+    "localId": "035",
+    "name": "仙子伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S10b",
+      "name": "Pokémon GO",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-06-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S10b/035/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S10b/035/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pgo-35",
+    "illustrator": "Atsushi Furusawa",
+    "localId": "35",
+    "name": "Sylveon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "pgo",
+      "name": "Pokémon GO",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/pgo/symbol.png",
+        "logo": "https://images.pokemontcg.io/pgo/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022/07/01",
+    "images": {
+      "low": "https://images.pokemontcg.io/pgo/35.png",
+      "high": "https://images.pokemontcg.io/pgo/35_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh10.5-035",
+    "localId": "035",
+    "name": "Nymphali",
+    "rarity": "Holo Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh10.5",
+      "name": "Pokémon GO",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh10.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2022-07-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh10.5/035/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh10.5/035/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh10.5-035",
+    "localId": "035",
+    "name": "Sylveon",
+    "rarity": "Holo Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh10.5",
+      "name": "Pokémon GO",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh10.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh10.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2022-07-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh10.5/035/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh10.5/035/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "svp-172",
+    "illustrator": "Susumu Maeya",
+    "localId": "172",
+    "name": "Nymphali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/svp/172/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/svp/172/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "svp-172",
+    "illustrator": "Susumu Maeya",
+    "localId": "172",
+    "name": "Sylveon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/svp/172/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/svp/172/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV6a-022",
+    "illustrator": "Kuroimori",
+    "localId": "022",
+    "name": "仙子伊布",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV6a",
+      "name": "黑夜漫遊者",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-06-21",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV6a/022/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV6a/022/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv6pt5-22",
+    "illustrator": "Kuroimori",
+    "localId": "22",
+    "name": "Sylveon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv6pt5",
+      "name": "Shrouded Fable",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024/08/02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv6pt5/22.png",
+      "high": "https://images.pokemontcg.io/sv6pt5/22_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv06.5-022",
+    "illustrator": "Kuroimori",
+    "localId": "022",
+    "name": "Nymphali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv06.5",
+      "name": "Fable Nébuleuse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv06.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2024-08-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv06.5/022/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv06.5/022/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv06.5-022",
+    "illustrator": "Kuroimori",
+    "localId": "022",
+    "name": "Sylveon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv06.5",
+      "name": "Shrouded Fable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-08-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv06.5/022/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv06.5/022/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SVLN-005",
+    "illustrator": "5ban Graphics",
+    "localId": "005",
+    "name": "ニンフィアex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SVLN",
+      "name": "スターターセット テラスタイプ：ステラ ニンフィアex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-08-30",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SVLN/005/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SVLN/005/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8-86",
+    "localId": "86",
+    "name": "Sylveon ex",
+    "rarity": "Double Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024/11/08",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8/86.png",
+      "high": "https://images.pokemontcg.io/sv8/86_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08-086",
+    "illustrator": "5ban Graphics",
+    "localId": "086",
+    "name": "Nymphali-ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08",
+      "name": "Étincelles Déferlantes",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2024-11-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08/086/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08/086/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08-086",
+    "illustrator": "5ban Graphics",
+    "localId": "086",
+    "name": "Sylveon ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08",
+      "name": "Surging Sparks",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-11-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08/086/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08/086/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-068",
+    "illustrator": "Susumu Maeya",
+    "localId": "068",
+    "name": "ニンフィア",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/068/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/068/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-069",
+    "illustrator": "5ban Graphics",
+    "localId": "069",
+    "name": "ニンフィアex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/069/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/069/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-212",
+    "illustrator": "Cona Nitanda",
+    "localId": "212",
+    "name": "ニンフィアex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/212/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/212/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-068",
+    "illustrator": "Susumu Maeya",
+    "localId": "068",
+    "name": "仙子伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/068/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/068/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-069",
+    "illustrator": "5ban Graphics",
+    "localId": "069",
+    "name": "仙子伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/069/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/069/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-212",
+    "illustrator": "Cona Nitanda",
+    "localId": "212",
+    "name": "仙子伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/212/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/212/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-068",
+    "illustrator": "Susumu Maeya",
+    "localId": "068",
+    "name": "仙子伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/068/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/068/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-069",
+    "illustrator": "5ban Graphics",
+    "localId": "069",
+    "name": "仙子伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/069/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/069/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-212",
+    "illustrator": "Cona Nitanda",
+    "localId": "212",
+    "name": "仙子伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/212/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/212/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-40",
+    "localId": "40",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/40.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/40_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-41",
+    "localId": "41",
+    "name": "Sylveon ex",
+    "rarity": "Double Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/41.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/41_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-156",
+    "localId": "156",
+    "name": "Sylveon ex",
+    "rarity": "Special Illustration Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/156.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/156_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-040",
+    "illustrator": "MINAMINAMI Take",
+    "localId": "040",
+    "name": "Nymphali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/040/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-041",
+    "illustrator": "5ban Graphics",
+    "localId": "041",
+    "name": "Nymphali-ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/041/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-156",
+    "illustrator": "Cona Nitanda",
+    "localId": "156",
+    "name": "Nymphali-ex",
+    "rarity": "Illustration spéciale rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psy"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/156/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/156/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-040",
+    "illustrator": "MINAMINAMI Take",
+    "localId": "040",
+    "name": "Sylveon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/040/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/040/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-041",
+    "illustrator": "5ban Graphics",
+    "localId": "041",
+    "name": "Sylveon ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/041/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-156",
+    "illustrator": "Cona Nitanda",
+    "localId": "156",
+    "name": "Sylveon ex",
+    "rarity": "Special illustration rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Psychic"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/156/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/156/high.png"
+    }
+  }
+]

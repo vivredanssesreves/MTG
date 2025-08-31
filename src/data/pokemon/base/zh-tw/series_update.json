@@ -1,0 +1,506 @@
+[
+  {
+    "id": "S",
+    "name": "劍＆盾",
+    "logo": null,
+    "sets": [
+      {
+        "id": "SC2D",
+        "name": "無極力量",
+        "releaseDate": "2020-08-21"
+      },
+      {
+        "id": "SC2a",
+        "name": "無極力量 SET A",
+        "releaseDate": "2020-08-21"
+      },
+      {
+        "id": "SC2b",
+        "name": "無極力量 SET B",
+        "releaseDate": "2020-08-21"
+      },
+      {
+        "id": "CS1.5",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "CS1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "CS1b",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "CS2.5",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "CS2a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "CS2b",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "CS3.5",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "sv1a",
+        "name": "三連音爆",
+        "releaseDate": "2024-04-26"
+      },
+      {
+        "id": "S10D",
+        "name": "時間觀察者",
+        "releaseDate": "2022-04-22"
+      },
+      {
+        "id": "S10P",
+        "name": "空間魔術師",
+        "releaseDate": "2022-04-22"
+      },
+      {
+        "id": "S10a",
+        "name": "黑暗亡靈",
+        "releaseDate": "2022-05-27"
+      },
+      {
+        "id": "S10b",
+        "name": "Pokémon GO",
+        "releaseDate": "2022-06-17"
+      },
+      {
+        "id": "S11",
+        "name": "三連音爆",
+        "releaseDate": "2022-07-29"
+      },
+      {
+        "id": "S11a",
+        "name": "白熱奧祕",
+        "releaseDate": "2022-09-16"
+      },
+      {
+        "id": "S12",
+        "name": "思維激盪",
+        "releaseDate": "2022-11-04"
+      },
+      {
+        "id": "S12a",
+        "name": "天地萬物VSTAR",
+        "releaseDate": "2022-12-02"
+      },
+      {
+        "id": "S4",
+        "name": "驚天伏特攻擊",
+        "releaseDate": "2020-10-09"
+      },
+      {
+        "id": "S4a",
+        "name": "閃色明星V",
+        "releaseDate": "2020-11-27"
+      },
+      {
+        "id": "S5I",
+        "name": "一撃大師",
+        "releaseDate": "2021-01-29"
+      },
+      {
+        "id": "S5R",
+        "name": "連撃大師",
+        "releaseDate": "2021-01-29"
+      },
+      {
+        "id": "S5a",
+        "name": "雙璧戰士",
+        "releaseDate": "2021-04-02"
+      },
+      {
+        "id": "S6H",
+        "name": "銀白戰槍",
+        "releaseDate": "2021-05-07"
+      },
+      {
+        "id": "S6K",
+        "name": "漆黑幽魂",
+        "releaseDate": "2021-05-07"
+      },
+      {
+        "id": "S6a",
+        "name": "伊布英雄",
+        "releaseDate": "2021-06-11"
+      },
+      {
+        "id": "S7D",
+        "name": "摩天巔峰",
+        "releaseDate": "2021-07-23"
+      },
+      {
+        "id": "S7R",
+        "name": "蒼空烈流",
+        "releaseDate": "2021-07-23"
+      },
+      {
+        "id": "S8",
+        "name": "匯流藝術",
+        "releaseDate": "2021-10-01"
+      },
+      {
+        "id": "S8a",
+        "name": "25週年收藏款",
+        "releaseDate": "2021-10-20"
+      },
+      {
+        "id": "S8b",
+        "name": "VMAX絕群壓軸",
+        "releaseDate": "2021-12-17"
+      },
+      {
+        "id": "S9",
+        "name": "星星誕生",
+        "releaseDate": "2022-01-28"
+      },
+      {
+        "id": "S9a",
+        "name": "對戰地區",
+        "releaseDate": "2022-03-11"
+      },
+      {
+        "id": "SC1D",
+        "name": "劍&盾",
+        "releaseDate": "2020-06-19"
+      },
+      {
+        "id": "SC1a",
+        "name": "劍&盾 SET A",
+        "releaseDate": "2020-06-19"
+      },
+      {
+        "id": "SC1b",
+        "name": "劍&盾 SET B",
+        "releaseDate": "2020-06-19"
+      },
+      {
+        "id": "SCA",
+        "name": "搭檔",
+        "releaseDate": "2020-11-27"
+      },
+      {
+        "id": "SCB",
+        "name": "挑戰",
+        "releaseDate": "2021-01-29"
+      },
+      {
+        "id": "SCC",
+        "name": "進化",
+        "releaseDate": "2021-06-11"
+      },
+      {
+        "id": "SCD",
+        "name": "強大",
+        "releaseDate": "2021-10-01"
+      },
+      {
+        "id": "SDL",
+        "name": "噴火龍",
+        "releaseDate": "2022-11-04"
+      },
+      {
+        "id": "SDM",
+        "name": "超夢",
+        "releaseDate": "2022-11-04"
+      },
+      {
+        "id": "SDP",
+        "name": "皮卡丘",
+        "releaseDate": "2022-11-04"
+      },
+      {
+        "id": "SH",
+        "name": "寶可夢卡牌家庭組合",
+        "releaseDate": "2021-06-28"
+      },
+      {
+        "id": "SI",
+        "name": "初階牌組100",
+        "releaseDate": "2022-02-18"
+      },
+      {
+        "id": "SJ",
+        "name": "藏瑪然特VS無極汰那",
+        "releaseDate": "2022-01-28"
+      },
+      {
+        "id": "SK",
+        "name": "頂級訓練家收藏箱 VSTAR",
+        "releaseDate": "2022-01-28"
+      },
+      {
+        "id": "SLD",
+        "name": "起始組合VSTAR 達克萊伊",
+        "releaseDate": "2022-03-11"
+      },
+      {
+        "id": "SLL",
+        "name": "起始組合VSTAR 路卡利歐",
+        "releaseDate": "2022-03-11"
+      },
+      {
+        "id": "SN",
+        "name": "初階牌組100 特別版",
+        "releaseDate": "2022-10-02"
+      },
+      {
+        "id": "SP5",
+        "name": "強大",
+        "releaseDate": "2021-08-27"
+      },
+      {
+        "id": "SP6",
+        "name": "VSTAR特別組合",
+        "releaseDate": "2022-08-26"
+      },
+      {
+        "id": "SPD",
+        "name": "VSTAR&VMAX 高級牌組 代歐奇希斯",
+        "releaseDate": "2022-08-26"
+      },
+      {
+        "id": "SPZ",
+        "name": "VSTAR&VMAX 高級牌組 捷拉奧拉",
+        "releaseDate": "2022-08-26"
+      }
+    ]
+  },
+  {
+    "id": "SV",
+    "name": "朱&紫系列",
+    "logo": null,
+    "sets": [
+      {
+        "id": "SV-P",
+        "name": "特典卡 朱&紫",
+        "releaseDate": "2023-01-26"
+      },
+      {
+        "id": "SV10",
+        "name": "火箭隊的榮耀",
+        "releaseDate": "2025-05-02"
+      },
+      {
+        "id": "SV1S",
+        "name": "朱ex",
+        "releaseDate": "2023-02-03"
+      },
+      {
+        "id": "SV1V",
+        "name": "紫ex",
+        "releaseDate": "2023-02-03"
+      },
+      {
+        "id": "SV1a",
+        "name": "三連音爆",
+        "releaseDate": "2023-03-24"
+      },
+      {
+        "id": "SV2D",
+        "name": "碟旋暴擊",
+        "releaseDate": "2023-04-28"
+      },
+      {
+        "id": "SV2P",
+        "name": "冰雪險境",
+        "releaseDate": "2023-04-28"
+      },
+      {
+        "id": "SV2a",
+        "name": "寶可夢卡牌151",
+        "releaseDate": "2023-06-30"
+      },
+      {
+        "id": "SV3",
+        "name": "黯焰支配者",
+        "releaseDate": "2023-08-11"
+      },
+      {
+        "id": "SV3a",
+        "name": "激狂駭浪",
+        "releaseDate": "2023-09-29"
+      },
+      {
+        "id": "SV4K",
+        "name": "古代咆哮",
+        "releaseDate": "2023-11-10"
+      },
+      {
+        "id": "SV4M",
+        "name": "未來閃光",
+        "releaseDate": "2023-11-10"
+      },
+      {
+        "id": "SV4a",
+        "name": "閃色寶藏ex",
+        "releaseDate": "2023-12-22"
+      },
+      {
+        "id": "SV5K",
+        "name": "狂野之力",
+        "releaseDate": "2024-02-02"
+      },
+      {
+        "id": "SV5M",
+        "name": "異度審判",
+        "releaseDate": "2024-02-02"
+      },
+      {
+        "id": "SV5a",
+        "name": "緋紅薄霧",
+        "releaseDate": "2024-04-03"
+      },
+      {
+        "id": "SV6",
+        "name": "變幻假面",
+        "releaseDate": "2024-05-10"
+      },
+      {
+        "id": "SV6a",
+        "name": "黑夜漫遊者",
+        "releaseDate": "2024-06-21"
+      },
+      {
+        "id": "SV7",
+        "name": "星晶奇跡",
+        "releaseDate": "2024-08-02"
+      },
+      {
+        "id": "SV7a",
+        "name": "樂園騰龍",
+        "releaseDate": "2024-09-27"
+      },
+      {
+        "id": "SV8",
+        "name": "超電突圍",
+        "releaseDate": "2024-10-25"
+      },
+      {
+        "id": "SV8a",
+        "name": "太晶慶典ex",
+        "releaseDate": "2024-12-20"
+      },
+      {
+        "id": "SV9",
+        "name": "對戰搭檔",
+        "releaseDate": "2025-02-07"
+      },
+      {
+        "id": "SV9a",
+        "name": "熱風競技場",
+        "releaseDate": "2025-03-28"
+      },
+      {
+        "id": "SVAL",
+        "name": "起始組合ex 呆火鱷&電龍 ex",
+        "releaseDate": "2023-08-11"
+      },
+      {
+        "id": "SVAM",
+        "name": "起始組合ex 新葉喵&路卡利歐 ex",
+        "releaseDate": "2023-08-11"
+      },
+      {
+        "id": "SVAW",
+        "name": "起始組合ex 潤水鴨&謎擬Ｑ ex",
+        "releaseDate": "2023-08-11"
+      },
+      {
+        "id": "SVB",
+        "name": "頂級訓練家收藏箱ex",
+        "releaseDate": "2023-03-03"
+      },
+      {
+        "id": "SVC",
+        "name": "皮卡丘特別組合",
+        "releaseDate": "2023-04-28"
+      },
+      {
+        "id": "SVD",
+        "name": "ex初階牌組",
+        "releaseDate": "2023-07-21"
+      },
+      {
+        "id": "SVEL",
+        "name": "骨紋巨聲鱷ex",
+        "releaseDate": "2023-09-29"
+      },
+      {
+        "id": "SVEM",
+        "name": "超夢ex",
+        "releaseDate": "2023-09-29"
+      },
+      {
+        "id": "SVF",
+        "name": "黯焰支配者",
+        "releaseDate": "2023-08-11"
+      },
+      {
+        "id": "SVHK",
+        "name": "未來密勒頓ex",
+        "releaseDate": "2024-02-02"
+      },
+      {
+        "id": "SVHM",
+        "name": "閃色寶藏ex",
+        "releaseDate": "2024-02-02"
+      },
+      {
+        "id": "SVP1",
+        "name": "ex特別組合",
+        "releaseDate": "2023-06-02"
+      }
+    ]
+  }
+]

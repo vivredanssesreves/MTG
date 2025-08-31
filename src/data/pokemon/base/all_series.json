@@ -1,0 +1,230 @@
+[
+  {
+    "id": "base",
+    "name": "Base",
+    "releaseDate": "1999-01-09",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo.png"
+  },
+  {
+    "id": "misc",
+    "name": "Miscellaneous",
+    "releaseDate": "2000-02-01",
+    "logo": "undefined.png"
+  },
+  {
+    "id": "neo",
+    "name": "Neo",
+    "releaseDate": "2000-12-16",
+    "logo": "https://assets.tcgdex.net/en/neo/neo1/logo.png"
+  },
+  {
+    "id": "ecard",
+    "name": "E-Card",
+    "releaseDate": "2002-08-01",
+    "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.png"
+  },
+  {
+    "id": "ex",
+    "name": "EX",
+    "releaseDate": "2003-07-01",
+    "logo": "https://assets.tcgdex.net/en/ex/ex1/logo.png"
+  },
+  {
+    "id": "pop",
+    "name": "POP",
+    "releaseDate": "2003-10-01",
+    "logo": "https://assets.tcgdex.net/en/pop/pop1/logo.png"
+  },
+  {
+    "id": "tk",
+    "name": "Trainer kits",
+    "releaseDate": "2004-07-01",
+    "logo": "undefined.png"
+  },
+  {
+    "id": "dp",
+    "name": "Diamond & Pearl",
+    "releaseDate": "2007-05-01",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.png"
+  },
+  {
+    "id": "pl",
+    "name": "Platinum",
+    "releaseDate": "2009-02-11",
+    "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.png"
+  },
+  {
+    "id": "hgss",
+    "name": "HeartGold & SoulSilver",
+    "releaseDate": "2010-02-10",
+    "logo": "https://assets.tcgdex.net/en/hgss/hgss1/logo.png"
+  },
+  {
+    "id": "col",
+    "name": "Call of Legends",
+    "releaseDate": "2011-02-09",
+    "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+  },
+  {
+    "id": "bw",
+    "name": "Black & White",
+    "releaseDate": "2011-04-25",
+    "logo": "https://assets.tcgdex.net/en/bw/bw1/logo.png"
+  },
+  {
+    "id": "mc",
+    "name": "McDonald's Collection",
+    "releaseDate": "2011-06-17",
+    "logo": "undefined.png"
+  },
+  {
+    "id": "xy",
+    "name": "XY",
+    "releaseDate": "2013-10-12",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo.png"
+  },
+  {
+    "id": "sm",
+    "name": "Sun & Moon",
+    "releaseDate": "2017-02-03",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+  },
+  {
+    "id": "swsh",
+    "name": "Sword & Shield",
+    "releaseDate": "2019-11-15",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo.png"
+  },
+  {
+    "id": "sv",
+    "name": "Scarlet & Violet",
+    "releaseDate": "2023-03-31",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.png"
+  },
+  {
+    "id": "tcgp",
+    "name": "Pokémon TCG Pocket",
+    "releaseDate": "2024-10-30",
+    "logo": "https://assets.tcgdex.net/en/tcgp/A1/logo.png"
+  },
+  {
+    "id": "base",
+    "name": "Base",
+    "releaseDate": "1999-01-09",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo.png"
+  },
+  {
+    "id": "misc",
+    "name": "Miscellaneous",
+    "releaseDate": "2000-02-01",
+    "logo": "undefined.png"
+  },
+  {
+    "id": "gym",
+    "name": "Gym",
+    "releaseDate": "2000-08-14",
+    "logo": "https://assets.tcgdex.net/en/gym/gym1/logo.png"
+  },
+  {
+    "id": "neo",
+    "name": "Neo",
+    "releaseDate": "2000-12-16",
+    "logo": "https://assets.tcgdex.net/en/neo/neo1/logo.png"
+  },
+  {
+    "id": "lc",
+    "name": "Legendary Collection",
+    "releaseDate": "2002-05-24",
+    "logo": "https://assets.tcgdex.net/en/lc/lc/logo.png"
+  },
+  {
+    "id": "ecard",
+    "name": "E-Card",
+    "releaseDate": "2002-08-01",
+    "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo.png"
+  },
+  {
+    "id": "ex",
+    "name": "EX",
+    "releaseDate": "2003-07-01",
+    "logo": "https://assets.tcgdex.net/en/ex/ex1/logo.png"
+  },
+  {
+    "id": "pop",
+    "name": "POP",
+    "releaseDate": "2003-10-01",
+    "logo": "https://assets.tcgdex.net/en/pop/pop1/logo.png"
+  },
+  {
+    "id": "tk",
+    "name": "Trainer kits",
+    "releaseDate": "2004-07-01",
+    "logo": "undefined.png"
+  },
+  {
+    "id": "dp",
+    "name": "Diamond & Pearl",
+    "releaseDate": "2007-05-01",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.png"
+  },
+  {
+    "id": "pl",
+    "name": "Platinum",
+    "releaseDate": "2009-02-11",
+    "logo": "https://assets.tcgdex.net/en/pl/pl1/logo.png"
+  },
+  {
+    "id": "hgss",
+    "name": "HeartGold & SoulSilver",
+    "releaseDate": "2010-02-10",
+    "logo": "https://assets.tcgdex.net/en/hgss/hgss1/logo.png"
+  },
+  {
+    "id": "col",
+    "name": "Call of Legends",
+    "releaseDate": "2011-02-09",
+    "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+  },
+  {
+    "id": "bw",
+    "name": "Black & White",
+    "releaseDate": "2011-04-25",
+    "logo": "https://assets.tcgdex.net/en/bw/bw1/logo.png"
+  },
+  {
+    "id": "mc",
+    "name": "McDonald's Collection",
+    "releaseDate": "2011-06-17",
+    "logo": "undefined.png"
+  },
+  {
+    "id": "xy",
+    "name": "XY",
+    "releaseDate": "2013-10-12",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo.png"
+  },
+  {
+    "id": "sm",
+    "name": "Sun & Moon",
+    "releaseDate": "2017-02-03",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo.png"
+  },
+  {
+    "id": "swsh",
+    "name": "Sword & Shield",
+    "releaseDate": "2019-11-15",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo.png"
+  },
+  {
+    "id": "sv",
+    "name": "Scarlet & Violet",
+    "releaseDate": "2023-03-31",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo.png"
+  },
+  {
+    "id": "tcgp",
+    "name": "Pokémon TCG Pocket",
+    "releaseDate": "2024-10-30",
+    "logo": "https://assets.tcgdex.net/en/tcgp/A1/logo.png"
+  }
+]

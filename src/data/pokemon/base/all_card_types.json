@@ -1,0 +1,472 @@
+[
+  {
+    "id": {
+      "en": "Normal",
+      "fr": "Normale",
+      "zh-cn": "普通",
+      "zh-tw": "普通",
+      "ja": "ノーマル",
+      "ko": "일반"
+    },
+    "css": [],
+    "visualEffect": "",
+    "rarity": "common"
+  },
+  {
+    "id": {
+      "en": "Holo",
+      "fr": "Holographique",
+      "zh-cn": "全息",
+      "zh-tw": "全息",
+      "ja": "ホロ",
+      "ko": "홀로"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "holographic",
+    "rarity": "rare"
+  },
+  {
+    "id": {
+      "en": "Reverse Holo",
+      "fr": "Holo inversé",
+      "zh-cn": "反向全息",
+      "zh-tw": "反向全息",
+      "ja": "リバースホロ",
+      "ko": "리버스 홀로"
+    },
+    "css": [
+      "shine"
+    ],
+    "visualEffect": "reverse holographic",
+    "rarity": "rare"
+  },
+  {
+    "id": {
+      "en": "First Edition",
+      "fr": "Première Édition",
+      "zh-cn": "第一版",
+      "zh-tw": "第一版",
+      "ja": "初版",
+      "ko": "초판"
+    },
+    "css": [
+      "stars"
+    ],
+    "visualEffect": "first edition logo",
+    "rarity": "rare"
+  },
+  {
+    "id": {
+      "en": "Promo",
+      "fr": "Promo",
+      "zh-cn": "促销",
+      "zh-tw": "促銷",
+      "ja": "プロモ",
+      "ko": "프로모"
+    },
+    "css": [
+      "rainbow"
+    ],
+    "visualEffect": "special promo",
+    "rarity": "promo"
+  },
+  {
+    "id": {
+      "en": "Shiny",
+      "fr": "Shiny",
+      "zh-cn": "闪光",
+      "zh-tw": "閃光",
+      "ja": "シャイニー",
+      "ko": "샤이니"
+    },
+    "css": [
+      "sparkle"
+    ],
+    "visualEffect": "shiny illustration",
+    "rarity": "rare"
+  },
+  {
+    "id": {
+      "en": "EX",
+      "fr": "EX",
+      "zh-cn": "EX",
+      "zh-tw": "EX",
+      "ja": "EX",
+      "ko": "EX"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "GX",
+      "fr": "GX",
+      "zh-cn": "GX",
+      "zh-tw": "GX",
+      "ja": "GX",
+      "ko": "GX"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "V",
+      "fr": "V",
+      "zh-cn": "V",
+      "zh-tw": "V",
+      "ja": "V",
+      "ko": "V"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "VSTAR",
+      "fr": "VSTAR",
+      "zh-cn": "VSTAR",
+      "zh-tw": "VSTAR",
+      "ja": "VSTAR",
+      "ko": "VSTAR"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "VMAX",
+      "fr": "VMAX",
+      "zh-cn": "VMAX",
+      "zh-tw": "VMAX",
+      "ja": "VMAX",
+      "ko": "VMAX"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "giant full art",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "LEGEND",
+      "fr": "LÉGENDE",
+      "zh-cn": "传奇",
+      "zh-tw": "傳說",
+      "ja": "LEGEND",
+      "ko": "레전드"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art fusion",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Prism Star",
+      "fr": "Étoile Prism",
+      "zh-cn": "棱镜之星",
+      "zh-tw": "棱鏡之星",
+      "ja": "プリズムスター",
+      "ko": "프리즘 스타"
+    },
+    "css": [
+      "rainbow"
+    ],
+    "visualEffect": "prism star effect",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Full Art",
+      "fr": "Illustration Complète",
+      "zh-cn": "全图",
+      "zh-tw": "全圖",
+      "ja": "フルアート",
+      "ko": "풀 아트"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art illustration",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Secret Rare",
+      "fr": "Carte Secrète",
+      "zh-cn": "秘密稀有",
+      "zh-tw": "秘密稀有",
+      "ja": "シークレットレア",
+      "ko": "시크릿 레어"
+    },
+    "css": [
+      "rainbow"
+    ],
+    "visualEffect": "secret numbering",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Rainbow Rare",
+      "fr": "Arc-en-ciel Rare",
+      "zh-cn": "彩虹稀有",
+      "zh-tw": "彩虹稀有",
+      "ja": "レインボーレア",
+      "ko": "레인보우 레어"
+    },
+    "css": [
+      "rainbow"
+    ],
+    "visualEffect": "full rainbow holo",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Gold Rare",
+      "fr": "Or Rare",
+      "zh-cn": "金稀有",
+      "zh-tw": "金稀有",
+      "ja": "ゴールドレア",
+      "ko": "골드 레어"
+    },
+    "css": [
+      "gold"
+    ],
+    "visualEffect": "gold foil",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Alternate Art",
+      "fr": "Art Alternatif",
+      "zh-cn": "替代艺术",
+      "zh-tw": "替代藝術",
+      "ja": "オルタナティブアート",
+      "ko": "얼터너티브 아트"
+    },
+    "css": [
+      "sparkle"
+    ],
+    "visualEffect": "alternate illustration",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Ultra Rare",
+      "fr": "Ultra Rare",
+      "zh-cn": "超稀有",
+      "zh-tw": "超稀有",
+      "ja": "ウルトラレア",
+      "ko": "울트라 레어"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art + effect",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Holofoil",
+      "fr": "Holofoil",
+      "zh-cn": "全息箔",
+      "zh-tw": "全息箔",
+      "ja": "ホロフォイル",
+      "ko": "홀로포일"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "holographic foil",
+    "rarity": "rare"
+  },
+  {
+    "id": {
+      "en": "Trainer",
+      "fr": "Dresseur",
+      "zh-cn": "训练师",
+      "zh-tw": "訓練師",
+      "ja": "トレーナー",
+      "ko": "트레이너"
+    },
+    "css": [],
+    "visualEffect": "basic",
+    "rarity": "common"
+  },
+  {
+    "id": {
+      "en": "Item",
+      "fr": "Objet",
+      "zh-cn": "物品",
+      "zh-tw": "物品",
+      "ja": "アイテム",
+      "ko": "아이템"
+    },
+    "css": [],
+    "visualEffect": "basic",
+    "rarity": "common"
+  },
+  {
+    "id": {
+      "en": "Supporter",
+      "fr": "Supporter",
+      "zh-cn": "支援者",
+      "zh-tw": "支援者",
+      "ja": "サポート",
+      "ko": "서포터"
+    },
+    "css": [],
+    "visualEffect": "basic",
+    "rarity": "common"
+  },
+  {
+    "id": {
+      "en": "Stadium",
+      "fr": "Stade",
+      "zh-cn": "体育场",
+      "zh-tw": "體育場",
+      "ja": "スタジアム",
+      "ko": "스타디움"
+    },
+    "css": [],
+    "visualEffect": "basic",
+    "rarity": "common"
+  },
+  {
+    "id": {
+      "en": "Tag Team",
+      "fr": "Double Équipe",
+      "zh-cn": "组队",
+      "zh-tw": "組隊",
+      "ja": "タッグチーム",
+      "ko": "태그 팀"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art duo",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "GX Tag Team",
+      "fr": "GX Double Équipe",
+      "zh-cn": "GX组队",
+      "zh-tw": "GX組隊",
+      "ja": "GXタッグチーム",
+      "ko": "GX 태그 팀"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "full art duo GX",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Legendary Pokémon",
+      "fr": "Pokémon Légendaire",
+      "zh-cn": "传说宝可梦",
+      "zh-tw": "傳說寶可夢",
+      "ja": "伝説のポケモン",
+      "ko": "전설 포켓몬"
+    },
+    "css": [
+      "holo"
+    ],
+    "visualEffect": "legendary full art",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Special Art",
+      "fr": "Art Spécial",
+      "zh-cn": "特别插画",
+      "zh-tw": "特別插畫",
+      "ja": "スペシャルアート",
+      "ko": "스페셜 아트"
+    },
+    "css": [
+      "sparkle"
+    ],
+    "visualEffect": "unique illustration",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Promo Art",
+      "fr": "Art Promo",
+      "zh-cn": "促销插画",
+      "zh-tw": "促銷插畫",
+      "ja": "プロモアート",
+      "ko": "프로모 아트"
+    },
+    "css": [
+      "rainbow"
+    ],
+    "visualEffect": "promo illustration",
+    "rarity": "promo"
+  },
+  {
+    "id": {
+      "en": "Alternate Full Art",
+      "fr": "Illustration Complète Alternée",
+      "zh-cn": "替代全图",
+      "zh-tw": "替代全圖",
+      "ja": "オルタナティブフルアート",
+      "ko": "얼터너티브 풀 아트"
+    },
+    "css": [
+      "sparkle"
+    ],
+    "visualEffect": "full art alternate",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Gold Star",
+      "fr": "Étoile d'Or",
+      "zh-cn": "金星",
+      "zh-tw": "金星",
+      "ja": "ゴールドスター",
+      "ko": "골드 스타"
+    },
+    "css": [
+      "gold"
+    ],
+    "visualEffect": "shiny star foil",
+    "rarity": "ultra rare"
+  },
+  {
+    "id": {
+      "en": "Rainbow Holo",
+      "fr": "Holo Arc-en-ciel",
+      "zh-cn": "彩虹全息",
+      "zh-tw": "彩虹全息",
+      "ja": "レインボーホロ",
+      "ko": "레인보우 홀로"
+    },
+    "css": [
+      "rainbow"
+    ],
+    "visualEffect": "rainbow holo foil",
+    "rarity": "ultra rare"
+  }
+]

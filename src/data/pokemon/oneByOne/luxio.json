@@ -1,0 +1,2490 @@
+[
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp1-52",
+    "illustrator": "Ken Sugimori",
+    "localId": "52",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp1",
+      "name": "Diamant & Perle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp1/52/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp1/52/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp1-52",
+    "illustrator": "Ken Sugimori",
+    "localId": "52",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp1",
+      "name": "Diamond & Pearl",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp1/52/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp1/52/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp1-52",
+    "illustrator": "Ken Sugimori",
+    "localId": "52",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp1",
+      "name": "Diamond & Pearl",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp1/52.png",
+      "high": "https://images.pokemontcg.io/dp1/52_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp6-62",
+    "illustrator": "Naoyo Kimura",
+    "localId": "62",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp6",
+      "name": "Éveil des Légendes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp6/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2008-08-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp6/62/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp6/62/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp6-62",
+    "illustrator": "Naoyo Kimura",
+    "localId": "62",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp6",
+      "name": "Legends Awakened",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp6/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-08-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp6/62/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp6/62/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp6-62",
+    "illustrator": "Naoyo Kimura",
+    "localId": "62",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp6",
+      "name": "Legends Awakened",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp6/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-08-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp6/62.png",
+      "high": "https://images.pokemontcg.io/dp6/62_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pop8-8",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "8",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop8",
+      "name": "POP Series 8",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-09-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pop/pop8/8/low.png",
+      "high": "https://assets.tcgdex.net/en/pop/pop8/8/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pop8-8",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "8",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop8",
+      "name": "POP Series 8",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-09-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/pop8/8.png",
+      "high": "https://images.pokemontcg.io/pop8/8_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl4-43",
+    "illustrator": "Suwama Chiaki",
+    "localId": "43",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl4",
+      "name": "Arceus",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-11-04",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl4/43/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl4/43/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl4-43",
+    "illustrator": "Suwama Chiaki",
+    "localId": "43",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl4",
+      "name": "Arceus",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-11-04",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl4/43.png",
+      "high": "https://images.pokemontcg.io/pl4/43_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bwp-BW34",
+    "illustrator": "Naoki Saito",
+    "localId": "BW34",
+    "name": "Luxio",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bwp",
+      "name": "Promo BW",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bwp/BW34/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bwp/BW34/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bwp-BW34",
+    "illustrator": "Naoki Saito",
+    "localId": "BW34",
+    "name": "Luxio",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bwp/BW34/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bwp/BW34/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bwp-BW34",
+    "illustrator": "Naoki Saito",
+    "localId": "BW34",
+    "name": "Luxio",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://images.pokemontcg.io/bwp/BW34.png",
+      "high": "https://images.pokemontcg.io/bwp/BW34_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw4-44",
+    "illustrator": "Kouki Saitou",
+    "localId": "44",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw4",
+      "name": "Destinées Futures",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw4/44/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw4/44/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw4-45",
+    "illustrator": "Naoki Saito",
+    "localId": "45",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw4",
+      "name": "Destinées Futures",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw4/45/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw4/45/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw4-44",
+    "illustrator": "Kouki Saitou",
+    "localId": "44",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw4/44/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw4/44/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw4-45",
+    "illustrator": "Naoki Saito",
+    "localId": "45",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw4/45/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw4/45/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw4-44",
+    "illustrator": "Kouki Saitou",
+    "localId": "44",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw4/44.png",
+      "high": "https://images.pokemontcg.io/bw4/44_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw4-45",
+    "illustrator": "Naoki Saito",
+    "localId": "45",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw4",
+      "name": "Next Destinies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-02-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw4/45.png",
+      "high": "https://images.pokemontcg.io/bw4/45_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy2-33",
+    "illustrator": "Akira Komayama",
+    "localId": "33",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy2",
+      "name": "Étincelles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2014-05-07",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy2/33/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy2/33/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy2-33",
+    "illustrator": "Akira Komayama",
+    "localId": "33",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy2",
+      "name": "Flashfire",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2014-05-07",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy2/33/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy2/33/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy2-33",
+    "illustrator": "Akira Komayama",
+    "localId": "33",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy2",
+      "name": "Flashfire",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2014-05-07",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy2/33.png",
+      "high": "https://images.pokemontcg.io/xy2/33_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy9-45",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "45",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "Rupture Turbo",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy9/45/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy9/45/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy9-45",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "45",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy9/45/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy9/45/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy9-45",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "45",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy9",
+      "name": "BREAKpoint",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy9/45.png",
+      "high": "https://images.pokemontcg.io/xy9/45_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm5-47",
+    "illustrator": "tetsuya koizumi",
+    "localId": "47",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm5",
+      "name": "Ultra-Prisme",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm5/47/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm5/47/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm5-47",
+    "illustrator": "tetsuya koizumi",
+    "localId": "47",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm5/47/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm5/47/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm5-47",
+    "illustrator": "tetsuya koizumi",
+    "localId": "47",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm5",
+      "name": "Ultra Prism",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2018-02-02",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm5/47.png",
+      "high": "https://images.pokemontcg.io/sm5/47_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh2-61",
+    "illustrator": "ryoma uratsuka",
+    "localId": "61",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh2",
+      "name": "Clash des Rebelles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2020-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh2/61/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh2/61/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh2-61",
+    "illustrator": "ryoma uratsuka",
+    "localId": "61",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh2/61/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh2/61/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh2-61",
+    "illustrator": "ryoma uratsuka",
+    "localId": "61",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh2/61.png",
+      "high": "https://images.pokemontcg.io/swsh2/61_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh45-32",
+    "illustrator": "NC Empire",
+    "localId": "32",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021/02/19",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh45/32.png",
+      "high": "https://images.pokemontcg.io/swsh45/32_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh4.5-32",
+    "illustrator": "NC Empire",
+    "localId": "32",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh4.5",
+      "name": "Déstinées Radieuses",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh4.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-02-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh4.5/32/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh4.5/32/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh4.5-32",
+    "illustrator": "NC Empire",
+    "localId": "32",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh4.5",
+      "name": "Shining Fates",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh4.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-02-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh4.5/32/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh4.5/32/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh5-47",
+    "illustrator": "Megumi Higuchi",
+    "localId": "47",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh5",
+      "name": "Styles de combat",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-03-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh5/47/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh5/47/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh5-47",
+    "illustrator": "Megumi Higuchi",
+    "localId": "47",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-03-19",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh5/47/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh5/47/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh5-47",
+    "illustrator": "Megumi Higuchi",
+    "localId": "47",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-03-19",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh5/47.png",
+      "high": "https://images.pokemontcg.io/swsh5/47_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh8-92",
+    "illustrator": "Tika Matsuno",
+    "localId": "92",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh8",
+      "name": "Poing de Fusion",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh8/92/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh8/92/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh8-92",
+    "illustrator": "Tika Matsuno",
+    "localId": "92",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh8/92/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh8/92/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh8-92",
+    "illustrator": "Tika Matsuno",
+    "localId": "92",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh8/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-11-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh8/92.png",
+      "high": "https://images.pokemontcg.io/swsh8/92_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "S9-038",
+    "illustrator": "kurumitsu",
+    "localId": "038",
+    "name": "ルクシオ",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "剣と盾"
+      },
+      "id": "S9",
+      "name": "スターバース",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-01-14",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/S/S9/038/low.png",
+      "high": "https://assets.tcgdex.net/ja/S/S9/038/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh9-050",
+    "localId": "050",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh9",
+      "name": "Stars Étincelantes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh9/050/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh9/050/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh9-050",
+    "localId": "050",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh9/050/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh9/050/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh9-50",
+    "illustrator": "kurumitsu",
+    "localId": "50",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh9/50.png",
+      "high": "https://images.pokemontcg.io/swsh9/50_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "S12-027",
+    "illustrator": "Eri Yamaki",
+    "localId": "027",
+    "name": "ルクシオ",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "剣と盾"
+      },
+      "id": "S12",
+      "name": "パラダイムトリガー",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-10-21",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/S/S12/027/low.png",
+      "high": "https://assets.tcgdex.net/ja/S/S12/027/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh12pt5-41",
+    "illustrator": "Shibuzoh.",
+    "localId": "41",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/01/20",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh12pt5/41.png",
+      "high": "https://images.pokemontcg.io/swsh12pt5/41_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh12pt5-42",
+    "illustrator": "Eri Yamaki",
+    "localId": "42",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12pt5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/01/20",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh12pt5/42.png",
+      "high": "https://images.pokemontcg.io/swsh12pt5/42_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh12.5-041",
+    "localId": "041",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh12.5",
+      "name": "Zénith Suprême",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh12.5/041/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh12.5/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh12.5-042",
+    "localId": "042",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh12.5",
+      "name": "Zénith Suprême",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh12.5/042/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh12.5/042/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh12.5-041",
+    "localId": "041",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12.5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh12.5/041/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh12.5/041/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh12.5-042",
+    "localId": "042",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh12.5",
+      "name": "Crown Zenith",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh12.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-01-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh12.5/042/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh12.5/042/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV2D-020",
+    "illustrator": "Narumi Sato",
+    "localId": "020",
+    "name": "ルクシオ",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV2D",
+      "name": "クレイバースト",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-04-14",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV2D/020/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV2D/020/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv2-70",
+    "illustrator": "Narumi Sato",
+    "localId": "70",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/06/09",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv2/70.png",
+      "high": "https://images.pokemontcg.io/sv2/70_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv02-070",
+    "illustrator": "Narumi Sato",
+    "localId": "070",
+    "name": "Luxio",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv02",
+      "name": "Évolutions à Paldea",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv02/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv02/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-06-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv02/070/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv02/070/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv02-070",
+    "illustrator": "Narumi Sato",
+    "localId": "070",
+    "name": "Luxio",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv02",
+      "name": "Paldea Evolved",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv02/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv02/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-06-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv02/070/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv02/070/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV4a-060",
+    "illustrator": "Narumi Sato",
+    "localId": "060",
+    "name": "ルクシオ",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV4a",
+      "name": "レイジングサーフ",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-12-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV4a/060/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV4a/060/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV4a-241",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "241",
+    "name": "ルクシオ",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV4a",
+      "name": "レイジングサーフ",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-12-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV4a/241/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV4a/241/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv4pt5-136",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "136",
+    "name": "Luxio",
+    "rarity": "Shiny Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv4pt5",
+      "name": "Paldean Fates",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024/01/26",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv4pt5/136.png",
+      "high": "https://images.pokemontcg.io/sv4pt5/136_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv04.5-136",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "136",
+    "name": "Luxio",
+    "rarity": "Shiny rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv04.5",
+      "name": "Destinées de Paldea",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv04.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv04.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2024-01-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv04.5/136/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv04.5/136/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv04.5-136",
+    "illustrator": "Souichirou Gunjima",
+    "localId": "136",
+    "name": "Luxio",
+    "rarity": "Shiny rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv04.5",
+      "name": "Paldean Fates",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv04.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv04.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-01-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv04.5/136/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv04.5/136/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV6-040",
+    "illustrator": "Takumi Wada",
+    "localId": "040",
+    "name": "ルクシオ",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV6",
+      "name": "変幻の仮面",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV6/040/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV6/040/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv6-67",
+    "illustrator": "Takumi Wada",
+    "localId": "67",
+    "name": "Luxio",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024/05/24",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv6/67.png",
+      "high": "https://images.pokemontcg.io/sv6/67_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv06-067",
+    "illustrator": "Takumi Wada",
+    "localId": "067",
+    "name": "Luxio",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv06",
+      "name": "Mascarade Crépusculaire",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv06/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2024-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv06/067/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv06/067/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv06-067",
+    "illustrator": "Takumi Wada",
+    "localId": "067",
+    "name": "Luxio",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv06",
+      "name": "Twilight Masquerade",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv06/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv06/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv06/067/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv06/067/high.png"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "fr": "Normal",
+    "en": "Normal",
+    "zh-cn": "一般",
+    "zh-tw": "一般",
+    "ja": "ノーマル",
+    "ko": "노말"
+  },
+  {
+    "fr": "Feu",
+    "en": "Fire",
+    "zh-cn": "火",
+    "zh-tw": "火",
+    "ja": "ほのお",
+    "ko": "불"
+  },
+  {
+    "fr": "Eau",
+    "en": "Water",
+    "zh-cn": "水",
+    "zh-tw": "水",
+    "ja": "みず",
+    "ko": "물"
+  },
+  {
+    "fr": "Plante",
+    "en": "Grass",
+    "zh-cn": "草",
+    "zh-tw": "草",
+    "ja": "くさ",
+    "ko": "풀"
+  },
+  {
+    "fr": "Électrique",
+    "en": "Electric",
+    "zh-cn": "电",
+    "zh-tw": "電",
+    "ja": "でんき",
+    "ko": "전기"
+  },
+  {
+    "fr": "Psy",
+    "en": "Psychic",
+    "zh-cn": "超能力",
+    "zh-tw": "超能力",
+    "ja": "エスパー",
+    "ko": "에스퍼"
+  },
+  {
+    "fr": "Combat",
+    "en": "Fighting",
+    "zh-cn": "格斗",
+    "zh-tw": "格鬥",
+    "ja": "かくとう",
+    "ko": "격투"
+  },
+  {
+    "fr": "Obscurité",
+    "en": "Darkness",
+    "zh-cn": "恶",
+    "zh-tw": "惡",
+    "ja": "あく",
+    "ko": "어둠"
+  },
+  {
+    "fr": "Métal",
+    "en": "Metal",
+    "zh-cn": "钢",
+    "zh-tw": "鋼",
+    "ja": "はがね",
+    "ko": "강철"
+  },
+  {
+    "fr": "Fée",
+    "en": "Fairy",
+    "zh-cn": "妖精",
+    "zh-tw": "妖精",
+    "ja": "フェアリー",
+    "ko": "요정"
+  }
+]

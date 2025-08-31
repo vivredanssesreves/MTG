@@ -1,0 +1,14 @@
+/* Variables CSS */
+:root {
+    --primary-blue: #0077cc;
+    --primary-blue-light: #4ea1ff;
+    --accent-yellow: #ffdc2f;
+    --bg-light: #f5f5f5;
+    --bg-dark: #121212;
+    --text-light: #222;
+    --text-dark: #eee;
+    --card-bg-light: #ffffff;
+    --card-bg-dark: #1e1e1e;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+    --shadow-dark: rgba(255, 255, 255, 0.1);
+}

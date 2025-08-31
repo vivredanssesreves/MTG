@@ -1,0 +1,49 @@
+<!-- Import Dialog Template -->
+<div id="import-dialog" class="dialog-overlay" style="display: none;">
+    <div class="dialog-content">
+        <h3>📂 Import CSV File</h3>
+        <div id="drop-zone" class="drop-zone">
+            <i class="fas fa-upload"></i>
+            <p>Drag & drop your CSV file here</p>
+            <p>or</p>
+            <button id="browse-file" class="btn-browse">Choose File</button>
+        </div>
+        <input type="file" id="file-input" accept=".csv" style="display: none;">
+        
+        <!-- Progress bar (hidden by default) -->
+        <div id="import-progress" class="dialog-progress" style="display: none;">
+            <div class="dialog-progress-bar" style="width: 0%;"></div>
+        </div>
+        
+        <div class="dialog-actions">
+            <button id="cancel-import" class="btn-cancel">Cancel</button>
+        </div>
+    </div>
+</div>
+
+<!-- Export Dialog Template -->
+<div id="export-dialog" class="dialog-overlay" style="display: none;">
+    <div class="dialog-content">
+        <h3>📤 Export Collection</h3>
+        <div class="export-options">
+            <p>Choose what to export:</p>
+            <div class="export-choices">
+                <button id="export-all" class="btn-browse">
+                    <i class="fas fa-database"></i> Export All Cards
+                </button>
+                <button id="export-set" class="btn-browse">
+                    <i class="fas fa-layer-group"></i> Export Current Set
+                </button>
+            </div>
+        </div>
+        
+        <!-- Progress bar -->
+        <div id="export-progress" class="dialog-progress" style="display: none;">
+            <div class="dialog-progress-bar" style="width: 0%;"></div>
+        </div>
+        
+        <div class="dialog-actions">
+            <button id="cancel-export" class="btn-cancel">Cancel</button>
+        </div>
+    </div>
+</div>

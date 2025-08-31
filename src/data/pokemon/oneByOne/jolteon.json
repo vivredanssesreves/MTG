@@ -1,0 +1,5099 @@
+[
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "base2-4",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "4",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/base/base2/4/low.png",
+      "high": "https://assets.tcgdex.net/fr/base/base2/4/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "base2-20",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "20",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/base/base2/20/low.png",
+      "high": "https://assets.tcgdex.net/fr/base/base2/20/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "base2-4",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "4",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/base/base2/4/low.png",
+      "high": "https://assets.tcgdex.net/en/base/base2/4/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "base2-20",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "20",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/base/base2/20/low.png",
+      "high": "https://assets.tcgdex.net/en/base/base2/20/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base2-4",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "4",
+    "name": "Jolteon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/base2/4.png",
+      "high": "https://images.pokemontcg.io/base2/4_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base2-20",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "20",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base2",
+      "name": "Jungle",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "1999-06-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/base2/20.png",
+      "high": "https://images.pokemontcg.io/base2/20_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "base5-38",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "38",
+    "name": "Voltali obscur",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base5",
+      "name": "Team Rocket",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2000-04-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/base/base5/38/low.png",
+      "high": "https://assets.tcgdex.net/fr/base/base5/38/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "base5-38",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "38",
+    "name": "Dark Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base5",
+      "name": "Team Rocket",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2000-04-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/base/base5/38/low.png",
+      "high": "https://assets.tcgdex.net/en/base/base5/38/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base5-38",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "38",
+    "name": "Dark Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "base",
+        "name": "Base"
+      },
+      "id": "base5",
+      "name": "Team Rocket",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/base/base5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2000-04-24",
+    "images": {
+      "low": "https://images.pokemontcg.io/base5/38.png",
+      "high": "https://images.pokemontcg.io/base5/38_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "gym2-28",
+    "illustrator": "Ken Sugimori",
+    "localId": "28",
+    "name": "Lt. Surge's Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "gym",
+        "name": "Gym"
+      },
+      "id": "gym2",
+      "name": "Gym Challenge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2000-10-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/gym/gym2/28/low.png",
+      "high": "https://assets.tcgdex.net/en/gym/gym2/28/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "gym2-28",
+    "illustrator": "Ken Sugimori",
+    "localId": "28",
+    "name": "Lt. Surge's Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "gym",
+        "name": "Gym"
+      },
+      "id": "gym2",
+      "name": "Gym Challenge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/gym/gym2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/gym/gym2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2000-10-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/gym2/28.png",
+      "high": "https://images.pokemontcg.io/gym2/28_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "neo4-48",
+    "illustrator": "Naoyo Kimura",
+    "localId": "48",
+    "name": "Voltali lumineux",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/neo/neo4/48/low.png",
+      "high": "https://assets.tcgdex.net/fr/neo/neo4/48/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "neo4-48",
+    "illustrator": "Naoyo Kimura",
+    "localId": "48",
+    "name": "Light Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/neo/neo4/48/low.png",
+      "high": "https://assets.tcgdex.net/en/neo/neo4/48/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "neo4-48",
+    "illustrator": "Naoyo Kimura",
+    "localId": "48",
+    "name": "Light Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "neo",
+        "name": "Neo"
+      },
+      "id": "neo4",
+      "name": "Neo Destiny",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/neo/neo4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/neo/neo4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2002-02-28",
+    "images": {
+      "low": "https://images.pokemontcg.io/neo4/48.png",
+      "high": "https://images.pokemontcg.io/neo4/48_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "base6-14",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "14",
+    "name": "Jolteon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "Other",
+        "name": null
+      },
+      "id": "base6",
+      "name": "Legendary Collection",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/base6/symbol.png",
+        "logo": "https://images.pokemontcg.io/base6/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2002/05/24",
+    "images": {
+      "low": "https://images.pokemontcg.io/base6/14.png",
+      "high": "https://images.pokemontcg.io/base6/14_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "lc-14",
+    "illustrator": "Kagemaru Himeno",
+    "localId": "14",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "lc",
+        "name": "Legendary Collection"
+      },
+      "id": "lc",
+      "name": "Legendary Collection",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/lc/lc/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/lc/lc/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2002-05-24",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/lc/lc/14/low.png",
+      "high": "https://assets.tcgdex.net/en/lc/lc/14/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ecard3-13",
+    "illustrator": "Hikaru Koike",
+    "localId": "13",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ecard/ecard3/13/low.png",
+      "high": "https://assets.tcgdex.net/en/ecard/ecard3/13/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ecard3-H12",
+    "illustrator": "Hikaru Koike",
+    "localId": "H12",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ecard/ecard3/H12/low.png",
+      "high": "https://assets.tcgdex.net/en/ecard/ecard3/H12/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ecard3-13",
+    "illustrator": "Hikaru Koike",
+    "localId": "13",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/ecard3/13.png",
+      "high": "https://images.pokemontcg.io/ecard3/13_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ecard3-H12",
+    "illustrator": "Hikaru Koike",
+    "localId": "H12",
+    "name": "Jolteon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ecard",
+        "name": "E-Card"
+      },
+      "id": "ecard3",
+      "name": "Skyridge",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ecard/ecard3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2003-05-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/ecard3/H12.png",
+      "high": "https://images.pokemontcg.io/ecard3/H12_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex2-6",
+    "illustrator": "Atsuko Nishida",
+    "localId": "6",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "EX Tempête de sable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex2/6/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex2/6/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex2-6",
+    "illustrator": "Atsuko Nishida",
+    "localId": "6",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "Sandstorm",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex2/6/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex2/6/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex2-6",
+    "illustrator": "Atsuko Nishida",
+    "localId": "6",
+    "name": "Jolteon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex2",
+      "name": "Sandstorm",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2003-09-18",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex2/6.png",
+      "high": "https://images.pokemontcg.io/ex2/6_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex10-8",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "8",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "EX Forces Cachées",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex10/8/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex10/8/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex10-8",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "8",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex10/8/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex10/8/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex10-8",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "8",
+    "name": "Jolteon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex10",
+      "name": "Unseen Forces",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex10/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex10/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2005-08-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex10/8.png",
+      "high": "https://images.pokemontcg.io/ex10/8_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex11-7",
+    "illustrator": "Kouki Saitou",
+    "localId": "7",
+    "name": "Voltali δ",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "EX Espèces Delta",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique",
+      "Métal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex11/7/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex11/7/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex11-109",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "109",
+    "name": "Voltali ex",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "EX Espèces Delta",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex11/109/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex11/109/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex11-7",
+    "illustrator": "Kouki Saitou",
+    "localId": "7",
+    "name": "Jolteon δ",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning",
+      "Metal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex11/7/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex11/7/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex11-109",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "109",
+    "name": "Jolteon ex",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex11/109/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex11/109/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex11-7",
+    "illustrator": "Kouki Saitou",
+    "localId": "7",
+    "name": "Jolteon δ",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning",
+      "Metal"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex11/7.png",
+      "high": "https://images.pokemontcg.io/ex11/7_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex11-109",
+    "illustrator": "Mitsuhiro Arita",
+    "localId": "109",
+    "name": "Jolteon ex",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex11",
+      "name": "Delta Species",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex11/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex11/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2005-10-31",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex11/109.png",
+      "high": "https://images.pokemontcg.io/ex11/109_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pop3-3",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "3",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop3",
+      "name": "POP Série 3",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2006-04-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pop/pop3/3/low.png",
+      "high": "https://assets.tcgdex.net/fr/pop/pop3/3/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pop3-3",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "3",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop3",
+      "name": "POP Series 3",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2006-04-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pop/pop3/3/low.png",
+      "high": "https://assets.tcgdex.net/en/pop/pop3/3/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pop3-3",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "3",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pop",
+        "name": "POP"
+      },
+      "id": "pop3",
+      "name": "POP Series 3",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pop/pop3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2006-04-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/pop3/3.png",
+      "high": "https://images.pokemontcg.io/pop3/3_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "ex16-101",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "101",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex16",
+      "name": "EX Gardiens du Pouvoir",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2007-02-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/ex/ex16/101/low.png",
+      "high": "https://assets.tcgdex.net/fr/ex/ex16/101/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "ex16-101",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "101",
+    "name": "Jolteon Star",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex16",
+      "name": "Power Keepers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-02-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/ex/ex16/101/low.png",
+      "high": "https://assets.tcgdex.net/en/ex/ex16/101/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "ex16-101",
+    "illustrator": "Masakazu Fukuda",
+    "localId": "101",
+    "name": "Jolteon ★",
+    "rarity": "Rare Holo Star",
+    "set": {
+      "serie": {
+        "id": "ex",
+        "name": "EX"
+      },
+      "id": "ex16",
+      "name": "Power Keepers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/ex/ex16/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/ex/ex16/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2007-02-17",
+    "images": {
+      "low": "https://images.pokemontcg.io/ex16/101.png",
+      "high": "https://images.pokemontcg.io/ex16/101_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "dp5-23",
+    "illustrator": "Midori Harada",
+    "localId": "23",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamant & Perle"
+      },
+      "id": "dp5",
+      "name": "Aube Majestueuse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/dp/dp5/23/low.png",
+      "high": "https://assets.tcgdex.net/fr/dp/dp5/23/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "dp5-23",
+    "illustrator": "Midori Harada",
+    "localId": "23",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/dp/dp5/23/low.png",
+      "high": "https://assets.tcgdex.net/en/dp/dp5/23/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "dp5-23",
+    "illustrator": "Midori Harada",
+    "localId": "23",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "dp",
+        "name": "Diamond & Pearl"
+      },
+      "id": "dp5",
+      "name": "Majestic Dawn",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/dp/dp5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/dp/dp5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2008-05-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/dp5/23.png",
+      "high": "https://images.pokemontcg.io/dp5/23_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "pl2-26",
+    "illustrator": "Hajime Kusajima",
+    "localId": "26",
+    "name": "Voltali Niv. 43",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platine"
+      },
+      "id": "pl2",
+      "name": "Rivaux Émergeants",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/pl/pl2/26/low.png",
+      "high": "https://assets.tcgdex.net/fr/pl/pl2/26/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "pl2-26",
+    "illustrator": "Hajime Kusajima",
+    "localId": "26",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/pl/pl2/26/low.png",
+      "high": "https://assets.tcgdex.net/en/pl/pl2/26/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "pl2-26",
+    "illustrator": "Hajime Kusajima",
+    "localId": "26",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "pl",
+        "name": "Platinum"
+      },
+      "id": "pl2",
+      "name": "Rising Rivals",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/pl/pl2/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/pl/pl2/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2009-05-16",
+    "images": {
+      "low": "https://images.pokemontcg.io/pl2/26.png",
+      "high": "https://images.pokemontcg.io/pl2/26_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "hgss3-28",
+    "illustrator": "Shin Nagasawa",
+    "localId": "28",
+    "name": "Voltali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Indomptable",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/hgss/hgss3/28/low.png",
+      "high": "https://assets.tcgdex.net/fr/hgss/hgss3/28/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "hgss3-28",
+    "illustrator": "Shin Nagasawa",
+    "localId": "28",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/hgss/hgss3/28/low.png",
+      "high": "https://assets.tcgdex.net/en/hgss/hgss3/28/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "hgss3-28",
+    "illustrator": "Shin Nagasawa",
+    "localId": "28",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "hgss",
+        "name": "HeartGold & SoulSilver"
+      },
+      "id": "hgss3",
+      "name": "Undaunted",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/hgss/hgss3/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2010-08-18",
+    "images": {
+      "low": "https://images.pokemontcg.io/hgss3/28.png",
+      "high": "https://images.pokemontcg.io/hgss3/28_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "col1-45",
+    "illustrator": "Shin Nagasawa",
+    "localId": "45",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "col",
+        "name": "Call of Legends"
+      },
+      "id": "col1",
+      "name": "Call of Legends",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2011-02-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/col/col1/45/low.png",
+      "high": "https://assets.tcgdex.net/en/col/col1/45/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "col1-45",
+    "illustrator": "Shin Nagasawa",
+    "localId": "45",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "col",
+        "name": "Call of Legends"
+      },
+      "id": "col1",
+      "name": "Call of Legends",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/col/col1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/col/col1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2011-02-09",
+    "images": {
+      "low": "https://images.pokemontcg.io/col1/45.png",
+      "high": "https://images.pokemontcg.io/col1/45_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bwp-BW91",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW91",
+    "name": "Voltali",
+    "rarity": "Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bwp",
+      "name": "Promo BW",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bwp/BW91/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bwp/BW91/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bwp-BW91",
+    "illustrator": "Illus.＆Direc.The Pokémon Company Art Team",
+    "localId": "BW91",
+    "name": "Jolteon",
+    "rarity": "Common",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bwp/BW91/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bwp/BW91/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bwp-BW91",
+    "illustrator": "The Pokémon Company Art Team",
+    "localId": "BW91",
+    "name": "Jolteon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bwp",
+      "name": "BW Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bwp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bwp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2011-04-26",
+    "images": {
+      "low": "https://images.pokemontcg.io/bwp/BW91.png",
+      "high": "https://images.pokemontcg.io/bwp/BW91_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw5-37",
+    "illustrator": "Sumiyoshi Kizuki",
+    "localId": "37",
+    "name": "Voltali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw5",
+      "name": "Explorateurs Obscurs",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw5/37/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw5/37/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw5-37",
+    "illustrator": "Sumiyoshi Kizuki",
+    "localId": "37",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw5/37/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw5/37/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw5-37",
+    "illustrator": "Sumiyoshi Kizuki",
+    "localId": "37",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw5",
+      "name": "Dark Explorers",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2012-05-09",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw5/37.png",
+      "high": "https://images.pokemontcg.io/bw5/37_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "bw9-34",
+    "illustrator": "5ban Graphics",
+    "localId": "34",
+    "name": "Voltali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Noir & Blanc"
+      },
+      "id": "bw9",
+      "name": "Glaciation Plasma",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/bw/bw9/34/low.png",
+      "high": "https://assets.tcgdex.net/fr/bw/bw9/34/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "bw9-34",
+    "illustrator": "5ban Graphics",
+    "localId": "34",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/bw/bw9/34/low.png",
+      "high": "https://assets.tcgdex.net/en/bw/bw9/34/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "bw9-34",
+    "illustrator": "5ban Graphics",
+    "localId": "34",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "bw",
+        "name": "Black & White"
+      },
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/bw/bw9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/bw/bw9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2013-05-08",
+    "images": {
+      "low": "https://images.pokemontcg.io/bw9/34.png",
+      "high": "https://images.pokemontcg.io/bw9/34_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xya-28a",
+    "illustrator": "Ryo Ueda",
+    "localId": "28a",
+    "name": "Voltali-ex",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xya",
+      "name": "carte alternative A Jaune",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2014-02-05",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xya/28a/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xya/28a/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "xy7-26",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "26",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy7",
+      "name": "Origines Antiques",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/xy7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2015-08-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/xy7/26/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/xy7/26/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "xy7-26",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "26",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy7",
+      "name": "Ancient Origins",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2015-08-12",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/xy7/26/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/xy7/26/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "xy7-26",
+    "illustrator": "Sanosuke Sakuma",
+    "localId": "26",
+    "name": "Jolteon",
+    "rarity": "Rare Holo",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "xy7",
+      "name": "Ancient Origins",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/xy7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/xy7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2015-08-12",
+    "images": {
+      "low": "https://images.pokemontcg.io/xy7/26.png",
+      "high": "https://images.pokemontcg.io/xy7/26_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "g1-28",
+    "illustrator": "Naoki Saito",
+    "localId": "28",
+    "name": "Voltali-EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Générations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/xy/g1/28/low.png",
+      "high": "https://assets.tcgdex.net/fr/xy/g1/28/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "g1-28a",
+    "illustrator": "Naoki Saito",
+    "localId": "28a",
+    "name": "Jolteon-EX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/g1/28a/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/g1/28a/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "g1-28",
+    "illustrator": "Naoki Saito",
+    "localId": "28",
+    "name": "Jolteon EX",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/xy/g1/28/low.png",
+      "high": "https://assets.tcgdex.net/en/xy/g1/28/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "g1-28",
+    "illustrator": "Naoki Saito",
+    "localId": "28",
+    "name": "Jolteon-EX",
+    "rarity": "Rare Holo EX",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/g1/28.png",
+      "high": "https://images.pokemontcg.io/g1/28_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "g1-28a",
+    "illustrator": "Ryo Ueda",
+    "localId": "28a",
+    "name": "Jolteon-EX",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "xy",
+        "name": "XY"
+      },
+      "id": "g1",
+      "name": "Generations",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/xy/g1/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/xy/g1/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2016-02-22",
+    "images": {
+      "low": "https://images.pokemontcg.io/g1/28a.png",
+      "high": "https://images.pokemontcg.io/g1/28a_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "smp-SM173",
+    "illustrator": "PLANETA Otani",
+    "localId": "SM173",
+    "name": "Voltali GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "smp",
+      "name": "Promo SM",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/smp/SM173/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/smp/SM173/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "smp-SM173",
+    "illustrator": "PLANETA Otani",
+    "localId": "SM173",
+    "name": "Jolteon GX",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/smp/SM173/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/smp/SM173/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "smp-SM173",
+    "illustrator": "PLANETA Otani",
+    "localId": "SM173",
+    "name": "Jolteon-GX",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/smp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/smp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2017-02-03",
+    "images": {
+      "low": "https://images.pokemontcg.io/smp/SM173.png",
+      "high": "https://images.pokemontcg.io/smp/SM173_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm115-23",
+    "illustrator": "Kouki Saitou",
+    "localId": "23",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm115",
+      "name": "Destinées Occultes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm115/23/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm115/23/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm115-23",
+    "illustrator": "Kouki Saitou",
+    "localId": "23",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm115",
+      "name": "Hidden Fates",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm115/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm115/23/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm115/23/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm115-23",
+    "illustrator": "Kouki Saitou",
+    "localId": "23",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm115",
+      "name": "Hidden Fates",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm115/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm115/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-08-23",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm115/23.png",
+      "high": "https://images.pokemontcg.io/sm115/23_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sm12-70",
+    "illustrator": "Uta",
+    "localId": "70",
+    "name": "Voltali",
+    "rarity": "Peu Commune",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Soleil et Lune"
+      },
+      "id": "sm12",
+      "name": "Éclipse Cosmique",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sm/sm12/70/low.png",
+      "high": "https://assets.tcgdex.net/fr/sm/sm12/70/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sm12-70",
+    "illustrator": "Uta",
+    "localId": "70",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sm/sm12/70/low.png",
+      "high": "https://assets.tcgdex.net/en/sm/sm12/70/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sm12-70",
+    "illustrator": "Uta",
+    "localId": "70",
+    "name": "Jolteon",
+    "rarity": "Uncommon",
+    "set": {
+      "serie": {
+        "id": "sm",
+        "name": "Sun & Moon"
+      },
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sm/sm12/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sm/sm12/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-01",
+    "images": {
+      "low": "https://images.pokemontcg.io/sm12/70.png",
+      "high": "https://images.pokemontcg.io/sm12/70_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH094",
+    "illustrator": "Yuu Nishida",
+    "localId": "SWSH094",
+    "name": "Voltali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH094/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH094/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH151",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH151",
+    "name": "Voltali V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH151/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH151/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH183",
+    "localId": "SWSH183",
+    "name": "Voltali V",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH183/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH183/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swshp-SWSH184",
+    "localId": "SWSH184",
+    "name": "Voltali VMAX",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swshp",
+      "name": "Promo SWSH",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH184/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH184/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH094",
+    "illustrator": "Yuu Nishida",
+    "localId": "SWSH094",
+    "name": "Jolteon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH094/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH094/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH151",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH151",
+    "name": "Jolteon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH151/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH151/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH183",
+    "localId": "SWSH183",
+    "name": "Jolteon V",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH183/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH183/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swshp-SWSH184",
+    "localId": "SWSH184",
+    "name": "Jolteon VMAX",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swshp/SWSH184/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swshp/SWSH184/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH094",
+    "illustrator": "Yuu Nishida",
+    "localId": "SWSH094",
+    "name": "Jolteon",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH094.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH094_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH151",
+    "illustrator": "5ban Graphics",
+    "localId": "SWSH151",
+    "name": "Jolteon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH151.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH151_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH183",
+    "illustrator": "nagimiso",
+    "localId": "SWSH183",
+    "name": "Jolteon V",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH183.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH183_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swshp-SWSH184",
+    "illustrator": "Hasuno",
+    "localId": "SWSH184",
+    "name": "Jolteon VMAX",
+    "rarity": "Promo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swshp",
+      "name": "SWSH Black Star Promos",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swshp/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2019-11-15",
+    "images": {
+      "low": "https://images.pokemontcg.io/swshp/SWSH184.png",
+      "high": "https://images.pokemontcg.io/swshp/SWSH184_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S4-034",
+    "illustrator": "Mizue",
+    "localId": "034",
+    "name": "雷伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S4",
+      "name": "驚天伏特攻擊",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-10-09",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S4/034/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S4/034/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh4-47",
+    "illustrator": "Mizue",
+    "localId": "47",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh4",
+      "name": "Voltage Éclatant",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2020-11-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh4/47/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh4/47/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh4-47",
+    "illustrator": "Mizue",
+    "localId": "47",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-11-13",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh4/47/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh4/47/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh4-47",
+    "illustrator": "Mizue",
+    "localId": "47",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh4/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2020-11-13",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh4/47.png",
+      "high": "https://images.pokemontcg.io/swsh4/47_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S6a-030",
+    "illustrator": "5ban Graphics",
+    "localId": "030",
+    "name": "雷伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S6a",
+      "name": "伊布英雄",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S6a/030/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S6a/030/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-058",
+    "illustrator": "5ban Graphics",
+    "localId": "058",
+    "name": "雷伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/058/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/058/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SCC-059",
+    "illustrator": "5ban Graphics",
+    "localId": "059",
+    "name": "雷伊布VMAX",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SCC",
+      "name": "進化",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-06-11",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SCC/059/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SCC/059/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-51",
+    "illustrator": "5ban Graphics",
+    "localId": "51",
+    "name": "Voltali VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/51/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/51/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh7-177",
+    "illustrator": "5ban Graphics",
+    "localId": "177",
+    "name": "Voltali V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh7",
+      "name": "Évolution Céleste",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh7/177/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh7/177/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-51",
+    "illustrator": "5ban Graphics",
+    "localId": "51",
+    "name": "Jolteon VMAX",
+    "rarity": "Holo Rare VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/51/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/51/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh7-177",
+    "illustrator": "5ban Graphics",
+    "localId": "177",
+    "name": "Jolteon V",
+    "rarity": "Ultra Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh7/177/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh7/177/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-51",
+    "illustrator": "5ban Graphics",
+    "localId": "51",
+    "name": "Jolteon VMAX",
+    "rarity": "Rare Holo VMAX",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/51.png",
+      "high": "https://images.pokemontcg.io/swsh7/51_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh7-177",
+    "illustrator": "5ban Graphics",
+    "localId": "177",
+    "name": "Jolteon V",
+    "rarity": "Rare Ultra",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh7/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-08-27",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh7/177.png",
+      "high": "https://images.pokemontcg.io/swsh7/177_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "S8b-049",
+    "illustrator": "Mizue",
+    "localId": "049",
+    "name": "雷伊布",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "S8b",
+      "name": "VMAX絕群壓軸",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2021-12-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/S8b/049/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/S8b/049/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SI-130",
+    "illustrator": "5ban Graphics",
+    "localId": "130",
+    "name": "雷伊布V",
+    "set": {
+      "serie": {
+        "id": "S",
+        "name": "劍＆盾"
+      },
+      "id": "SI",
+      "name": "初階牌組100",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-02-18",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/S/SI/130/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/S/SI/130/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "swsh9tg-TG04",
+    "illustrator": "DOM",
+    "localId": "TG04",
+    "name": "Jolteon",
+    "rarity": "Trainer Gallery Rare Holo",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9tg",
+      "name": "Brilliant Stars Trainer Gallery",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022/02/25",
+    "images": {
+      "low": "https://images.pokemontcg.io/swsh9tg/TG04.png",
+      "high": "https://images.pokemontcg.io/swsh9tg/TG04_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "swsh9-TG04",
+    "localId": "TG04",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Épée et Bouclier"
+      },
+      "id": "swsh9",
+      "name": "Stars Étincelantes",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/swsh/swsh9/TG04/low.png",
+      "high": "https://assets.tcgdex.net/fr/swsh/swsh9/TG04/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "swsh9-TG04",
+    "localId": "TG04",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "swsh",
+        "name": "Sword & Shield"
+      },
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/swsh/swsh9/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2022-02-25",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/swsh/swsh9/TG04/low.png",
+      "high": "https://assets.tcgdex.net/en/swsh/swsh9/TG04/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "svp-169",
+    "illustrator": "Nisota Niso",
+    "localId": "169",
+    "name": "Voltali",
+    "rarity": "Sans Rareté",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/svp/169/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/svp/169/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "svp-169",
+    "illustrator": "Nisota Niso",
+    "localId": "169",
+    "name": "Jolteon",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "svp",
+      "name": "SVP Black Star Promos",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-03-31",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/svp/169/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/svp/169/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV2a-135",
+    "illustrator": "sui",
+    "localId": "135",
+    "name": "サンダース",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV2a",
+      "name": "ポケモンカード151",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-06-16",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV2a/135/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV2a/135/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV2a-135",
+    "illustrator": "sui",
+    "localId": "135",
+    "name": "雷伊布",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV2a",
+      "name": "寶可夢卡牌151",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-06-30",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV2a/135/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV2a/135/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv3pt5-135",
+    "illustrator": "sui",
+    "localId": "135",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv3pt5",
+      "name": "151",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv3pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023/09/22",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv3pt5/135.png",
+      "high": "https://images.pokemontcg.io/sv3pt5/135_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv03.5-135",
+    "illustrator": "sui",
+    "localId": "135",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv03.5",
+      "name": "151",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv03.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2023-09-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv03.5/135/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv03.5/135/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv03.5-135",
+    "illustrator": "sui",
+    "localId": "135",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv03.5",
+      "name": "151",
+      "images": {
+        "symbol": "https://assets.tcgdex.net/univ/sv/sv03.5/symbol.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2023-09-22",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv03.5/135/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv03.5/135/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-051",
+    "illustrator": "Nisota Niso",
+    "localId": "051",
+    "name": "サンダース",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/051/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/051/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-052",
+    "illustrator": "5ban Graphics",
+    "localId": "052",
+    "name": "サンダースex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/052/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/052/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "ja",
+    "category": "Pokemon",
+    "id": "SV8a-209",
+    "illustrator": "kantaro",
+    "localId": "209",
+    "name": "サンダースex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "ポケモンカードゲーム スカーレット&バイオレット"
+      },
+      "id": "SV8a",
+      "name": "テラスタルフェスex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-06",
+    "images": {
+      "low": "https://assets.tcgdex.net/ja/SV/SV8a/209/low.png",
+      "high": "https://assets.tcgdex.net/ja/SV/SV8a/209/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-051",
+    "illustrator": "Nisota Niso",
+    "localId": "051",
+    "name": "雷伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/051/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/051/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-052",
+    "illustrator": "5ban Graphics",
+    "localId": "052",
+    "name": "雷伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/052/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/052/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-cn",
+    "category": "Pokemon",
+    "id": "SV8a-209",
+    "illustrator": "kantaro",
+    "localId": "209",
+    "name": "雷伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-cn/SV/SV8a/209/low.png",
+      "high": "https://assets.tcgdex.net/zh-cn/SV/SV8a/209/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-051",
+    "illustrator": "Nisota Niso",
+    "localId": "051",
+    "name": "雷伊布",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/051/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/051/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-052",
+    "illustrator": "5ban Graphics",
+    "localId": "052",
+    "name": "雷伊布ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/052/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/052/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "zh-tw",
+    "category": "Pokemon",
+    "id": "SV8a-209",
+    "illustrator": "kantaro",
+    "localId": "209",
+    "name": "雷伊布ex",
+    "rarity": "None",
+    "set": {
+      "serie": {
+        "id": "SV",
+        "name": "朱&紫系列"
+      },
+      "id": "SV8a",
+      "name": "太晶慶典ex",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "undefined.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": true,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2024-12-20",
+    "images": {
+      "low": "https://assets.tcgdex.net/zh-tw/SV/SV8a/209/low.png",
+      "high": "https://assets.tcgdex.net/zh-tw/SV/SV8a/209/high.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-29",
+    "localId": "29",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/29.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/29_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-30",
+    "localId": "30",
+    "name": "Jolteon ex",
+    "rarity": "Double Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/30.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/30_hires.png"
+    }
+  },
+  {
+    "base": 1,
+    "lang": "en",
+    "category": "Pokémon",
+    "id": "sv8pt5-153",
+    "localId": "153",
+    "name": "Jolteon ex",
+    "rarity": "Special Illustration Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8pt5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": null,
+      "normal": null,
+      "reverse": null,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2025/01/17",
+    "images": {
+      "low": "https://images.pokemontcg.io/sv8pt5/153.png",
+      "high": "https://images.pokemontcg.io/sv8pt5/153_hires.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-029",
+    "illustrator": "sui",
+    "localId": "029",
+    "name": "Voltali",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/029/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/029/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-030",
+    "illustrator": "5ban Graphics",
+    "localId": "030",
+    "name": "Voltali-ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/030/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/030/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "fr",
+    "category": "Pokémon",
+    "id": "sv08.5-153",
+    "illustrator": "kantaro",
+    "localId": "153",
+    "name": "Voltali-ex",
+    "rarity": "Illustration spéciale rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Écarlate et Violet"
+      },
+      "id": "sv08.5",
+      "name": "Évolutions Prismatiques",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/fr/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Électrique"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/fr/sv/sv08.5/153/low.png",
+      "high": "https://assets.tcgdex.net/fr/sv/sv08.5/153/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-029",
+    "illustrator": "sui",
+    "localId": "029",
+    "name": "Jolteon",
+    "rarity": "Rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/029/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/029/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-030",
+    "illustrator": "5ban Graphics",
+    "localId": "030",
+    "name": "Jolteon ex",
+    "rarity": "Double rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/030/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/030/high.png"
+    }
+  },
+  {
+    "base": "Dex",
+    "lang": "en",
+    "category": "Pokemon",
+    "id": "sv08.5-153",
+    "illustrator": "kantaro",
+    "localId": "153",
+    "name": "Jolteon ex",
+    "rarity": "Special illustration rare",
+    "set": {
+      "serie": {
+        "id": "sv",
+        "name": "Scarlet & Violet"
+      },
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "images": {
+        "symbol": "undefined.png",
+        "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo.png"
+      }
+    },
+    "variants": {
+      "firstEdition": null,
+      "holo": true,
+      "normal": null,
+      "reverse": true,
+      "wPromo": null,
+      "V": null,
+      "Vmax": null
+    },
+    "types": [
+      "Lightning"
+    ],
+    "releaseDate": "2025-01-17",
+    "images": {
+      "low": "https://assets.tcgdex.net/en/sv/sv08.5/153/low.png",
+      "high": "https://assets.tcgdex.net/en/sv/sv08.5/153/high.png"
+    }
+  }
+]
